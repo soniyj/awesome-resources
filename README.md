@@ -19,6 +19,10 @@ Blockchain
 
 https://www.hyperledger.org/
 
+http://www.augur.net/
+
+https://gnosis.pm/
+
 Qml
 
 https://github.com/brexis/qml-bootstrap
