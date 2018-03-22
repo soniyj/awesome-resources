@@ -1,9 +1,12 @@
 # awesome-resources
-Repository to store all useful links and resources for my projects
+
+Repository to store all useful links and resources used in my projects.
 
 List
 
 [Angular2](src/Angular2/)
+
+[CSS](./src/Css/)
 
 [Docker](src/Docker/)
 

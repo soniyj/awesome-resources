@@ -1,7 +1,5 @@
 # Unity Resources
 
-List of Resources for Unity
-
 https://docs.unity3d.com/Manual/WheelColliderTutorial.html
 
 https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/scriptable-objects?playlist=17117
