@@ -55,3 +55,15 @@ Game Development
 http://www.gamefromscratch.com/page/Game-Development-Tutorial-Series.aspx
 
 V-Play
+
+https://v-play.net/
+
+YouTube Channels and Videos
+
+https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ/featured
+
+[Blockchain Technology Explained (2 Hour Course)](https://www.youtube.com/watch?v=qOVAbKKSH10)
+
+[Ethereum Explained](https://www.youtube.com/watch?v=-_Qs0XdPpw8)
+
+[Flutter SDK Tutorial - Hello World! (App Development)](https://www.youtube.com/watch?v=CEPCGXQ7IQg)
