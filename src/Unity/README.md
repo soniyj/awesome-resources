@@ -24,6 +24,6 @@ https://www.kartridge.com/developers/ (move to a more generic)
 
 ### Video Tutorials
 
-[Unity Mobile Game - Introduction - 0 - Android & iOS](https://youtu.be/Ot9R4IXDx3s)
-
 [Unity Mobile Game - Introduction - 0 - Android & iOS](https://www.youtube.com/watch?v=Ot9R4IXDx3s&list=PLLH3mUGkfFCU5D0nT9dsN2-RYh1XjnHgH&index=1)
+
+[Unity Mobile Game Tutorial • 1 • Game Menu](https://www.youtube.com/watch?v=BiaNsIKJEj0&list=PLLH3mUGkfFCWCsGUfwLMnDWdkpQuqW3xa)
