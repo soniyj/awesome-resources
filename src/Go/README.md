@@ -2,6 +2,8 @@
 
 https://github.com/libp2p/go-libp2p
 
+[Golang and Docker for development and production](https://medium.com/statuscode/golang-docker-for-development-and-production-ce3ad4e69673)
+
 ### Blockchain
 
 [Part 1: Code your own blockchain in less than 200 lines of Go!](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc)

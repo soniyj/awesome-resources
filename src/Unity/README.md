@@ -2,7 +2,17 @@
 
 https://docs.unity3d.com/Manual/WheelColliderTutorial.html
 
+### Tutorials
+
 https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/scriptable-objects?playlist=17117
+
+[Writing the Game Manager - 2D Rogue](https://unity3d.com/learn/tutorials/projects/2d-roguelike-tutorial/writing-game-manager)
+
+[Game Managers - Tanks](https://unity3d.com/learn/tutorials/projects/tanks-tutorial/game-managers)
+
+[Creating a simple GameManager using Unity3D](https://www.packtpub.com/books/content/creating-simple-gamemanager-using-unity3d)
+
+https://github.com/bttfgames/SimpleGameManager
 
 ### Team Working
 
