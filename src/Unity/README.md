@@ -14,6 +14,18 @@ https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/scrip
 
 https://github.com/bttfgames/SimpleGameManager
 
+[Implementing a Minimap in Unity](http://blog.theknightsofunity.com/implementing-minimap-unity/)
+
+##### AR/VR
+
+[Unity AR Tutorial: Augmented Reality Game Development with Vuforia](http://blog.theknightsofunity.com/unity-vuforia-guide/)
+
+##### Multiplayer and Network
+
+[Building a Turn-Based Multiplayer Game with GameSparks and Unity: Part 1](http://blog.theknightsofunity.com/turn-based-multiplayer-game-gamesparks-unity-1/)
+
+[Steamworks and Unity – P2P Multiplayer](http://blog.theknightsofunity.com/steamworks-and-unity-p2p-multiplayer/)
+
 ### Team Working
 
 https://docs.unity3d.com/Manual/SmartMerge.html
@@ -31,6 +43,10 @@ http://blog.theknightsofunity.com/7-ways-keep-unity-project-organized/
 https://www.plasticscm.com/unity-plugin.html
 
 https://www.kartridge.com/developers/ (move to a more generic)
+
+### Game Production and Distribution
+
+[Game Production Pipeline Infographic](http://blog.theknightsofunity.com/game-production-pipeline/)
 
 ### Video Tutorials
 
