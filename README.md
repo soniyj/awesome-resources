@@ -36,6 +36,7 @@ Repository to store all useful links and resources used in my projects.
 
 [Unity3D](src/Unity/)
 
+**Various**
 
 http://grakn.ai/
 
@@ -44,3 +45,7 @@ https://semantic-ui.com/
 https://atlas.mendix.com/
 
 https://getuikit.com/
+
+https://www.sonarqube.org/
+
+https://coggle.it/

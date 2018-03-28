@@ -1,8 +1,18 @@
 # Docker Resources
 
+https://docs.docker.com/get-started/part2/
+
 https://docs.docker.com/develop/develop-images/dockerfile_best-practices/#the-dockerfile-instructions
 
+[Docker for beginners](https://github.com/docker/labs/tree/master/beginner/)
+
+[Docker Labs Samples](https://docs.docker.com/samples/)
+
 https://jonnylangefeld.github.io/learning/Docker/How%2Bto%2BDocker.html
+
+https://docs.docker.com/compose/overview/
+
+https://docs.docker.com/compose/compose-file/
 
 ### Ethereum
 

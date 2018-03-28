@@ -2,6 +2,8 @@
 
 https://docs.unity3d.com/Manual/WheelColliderTutorial.html
 
+https://connect.unity.com/events
+
 ### Tutorials
 
 https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/scriptable-objects?playlist=17117
@@ -15,6 +17,8 @@ https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/scrip
 https://github.com/bttfgames/SimpleGameManager
 
 [Implementing a Minimap in Unity](http://blog.theknightsofunity.com/implementing-minimap-unity/)
+
+http://www.gamertogamedeveloper.com/home
 
 ##### AR/VR
 
@@ -53,3 +57,17 @@ https://www.kartridge.com/developers/ (move to a more generic)
 [Unity Mobile Game - Introduction - 0 - Android & iOS](https://www.youtube.com/watch?v=Ot9R4IXDx3s&list=PLLH3mUGkfFCU5D0nT9dsN2-RYh1XjnHgH&index=1)
 
 [Unity Mobile Game Tutorial • 1 • Game Menu](https://www.youtube.com/watch?v=BiaNsIKJEj0&list=PLLH3mUGkfFCWCsGUfwLMnDWdkpQuqW3xa)
+
+[Hover Racer Live 1/21 Introduction - Series](https://www.youtube.com/watch?v=ULDhOuU2JPY&list=PLX2vGYjWbI0SvPiKiMOcj_z9zCG7V9lkp)
+
+[Creating a Unity ML-Agent from Scratch Part 1](https://www.youtube.com/watch?v=x2RBxmooh8w)
+
+[[29] Game Manager Master - How To Make A Game](https://www.youtube.com/watch?v=Pd80uJEfdE4)
+
+[How to make Reusable Manager scripts as Singletons for your Unity Games quickly and easily Part 1](https://www.youtube.com/watch?v=nIMLHWkc9bs)
+
+[How to properly plan your Unity game like a mannered person](https://www.youtube.com/watch?v=7V9tp2FnMyQ)
+
+### Assets
+
+[TextMesh Pro - Free Version](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
