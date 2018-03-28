@@ -54,6 +54,10 @@ https://www.kartridge.com/developers/ (move to a more generic)
 
 ### Video Tutorials
 
+[Customising UI With Scriptable Objects - Introduction [1/6] - Playlist](https://www.youtube.com/watch?v=HkUSmI7F304&list=PLX2vGYjWbI0TDfkKmzcXSK7zrFWEPZbQu)
+
+[Customising UI With Scriptable Objects - Introduction [1/6]](https://www.youtube.com/watch?v=HkUSmI7F304)
+
 [Unity Mobile Game - Introduction - 0 - Android & iOS](https://www.youtube.com/watch?v=Ot9R4IXDx3s&list=PLLH3mUGkfFCU5D0nT9dsN2-RYh1XjnHgH&index=1)
 
 [Unity Mobile Game Tutorial • 1 • Game Menu](https://www.youtube.com/watch?v=BiaNsIKJEj0&list=PLLH3mUGkfFCWCsGUfwLMnDWdkpQuqW3xa)
