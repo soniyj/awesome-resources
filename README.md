@@ -49,3 +49,27 @@ https://getuikit.com/
 https://www.sonarqube.org/
 
 https://coggle.it/
+
+https://storj.io/i
+
+https://www.democracy.earth/
+
+https://followmyvote.com/
+
+https://tierion.com/
+
+https://lo3energy.com/
+
+http://myceliaformusic.org/ (blockchain music)
+
+https://ujomusic.com/ (blockchain music)
+
+https://www.openbazaar.org/
+
+https://ob1.io/
+
+https://www.ubitquity.io/web/index.html
+
+https://consensys.net/
+
+https://www.youtube.com/watch?v=G3psxs3gyf8
