@@ -2,6 +2,12 @@
 
 https://docs.unity3d.com/Manual/WheelColliderTutorial.html
 
+https://docs.unity3d.com/Manual/Playables.html
+
+https://docs.unity3d.com/Manual/StateMachineBasics.html
+
+https://docs.unity3d.com/Manual/UNet.html
+
 https://connect.unity.com/events
 
 ### Tutorials
