@@ -1,5 +1,7 @@
 # Unity Resources
 
+### Docs
+
 https://docs.unity3d.com/Manual/WheelColliderTutorial.html
 
 https://docs.unity3d.com/Manual/Playables.html
@@ -10,9 +12,17 @@ https://docs.unity3d.com/Manual/UNet.html
 
 https://connect.unity.com/events
 
+### Api
+
+https://docs.unity3d.com/ScriptReference/Material.SetTextureOffset.html
+
+https://wiki.openstreetmap.org/wiki/Unity
+
 ### Tutorials
 
 https://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/scriptable-objects?playlist=17117
+
+https://unity3d.com/learn/tutorials/topics/user-interface-ui/extending-button?playlist=17111
 
 [Writing the Game Manager - 2D Rogue](https://unity3d.com/learn/tutorials/projects/2d-roguelike-tutorial/writing-game-manager)
 
@@ -25,6 +35,8 @@ https://github.com/bttfgames/SimpleGameManager
 [Implementing a Minimap in Unity](http://blog.theknightsofunity.com/implementing-minimap-unity/)
 
 http://www.gamertogamedeveloper.com/home
+
+https://answers.unity.com/questions/19848/making-textures-scroll-animate-textures.html
 
 ##### AR/VR
 
@@ -81,3 +93,5 @@ https://www.kartridge.com/developers/ (move to a more generic)
 ### Assets
 
 [TextMesh Pro - Free Version](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
+
+https://www.assetstore.unity3d.com/en/#!/list/welcome-to-asset-store

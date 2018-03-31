@@ -73,3 +73,13 @@ https://www.ubitquity.io/web/index.html
 https://consensys.net/
 
 https://www.youtube.com/watch?v=G3psxs3gyf8
+
+[Package, distribute, and update any app for Linux and IoT](https://snapcraft.io/)
+
+https://www.aha.io/
+
+https://www.braintreepayments.com/
+
+https://stripe.com/
+
+https://www.typescriptlang.org/docs/handbook/module-resolution.html

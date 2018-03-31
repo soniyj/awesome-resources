@@ -4,9 +4,13 @@ https://github.com/ethereum/go-ethereum/wiki/Setting-up-private-network-or-local
 
 https://github.com/ethereum/go-ethereum/wiki/Running-in-Docker
 
+https://github.com/ethereum/go-ethereum/wiki/Mining
+
 http://truffleframework.com/tutorials/ethereum-overview
 
 https://ethereumbuilders.gitbooks.io/guide/content/en/solidity_tutorials.html
+
+http://www.ethdocs.org/en/latest/introduction/index.html
 
 [Introduction to Ethereum Smart Contract Development with Solidity (Part 1)](https://www.youtube.com/watch?v=8jI1TuEaTro)
 
@@ -17,6 +21,8 @@ https://dappsforbeginners.wordpress.com/
 https://blockgeeks.com/guides/solidity/
 
 https://ethereum.stackexchange.com/questions/5952/ethereum-tutorial-for-beginners
+
+[How to setup a local test Ethereum Blockchain](https://lightrains.com/blogs/setup-local-ethereum-blockchain-private-testnet)
 
 **Decentralized file service**
 

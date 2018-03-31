@@ -8,6 +8,8 @@ http://www.augur.net/
 
 https://gnosis.pm/
 
+https://arcbit.io/
+
 ### YouTube Channels and Videos
 
 https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ/featured
