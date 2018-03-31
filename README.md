@@ -87,3 +87,11 @@ https://www.typescriptlang.org/docs/handbook/module-resolution.html
 https://microsoft.github.io/TypeSearch/
 
 https://www.webcomponents.org/
+
+https://sentry.io/welcome/
+
+https://www.html5rocks.com/en/tutorials/offline/quota-research/
+
+https://github.com/ripienaar/free-for-dev#web-hosting
+
+https://zzzz.io/faq/

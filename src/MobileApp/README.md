@@ -68,6 +68,8 @@ https://developer.apple.com/library/content/documentation/LanguagesUtilities/Con
 
 https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/StoreKitGuide/Chapters/Subscriptions.html
 
+https://developer.apple.com/support/apple-pay-sandbox/
+
 ### Android
 
 https://developer.android.com/google/play/billing/billing_subscriptions.html
@@ -76,6 +78,15 @@ https://developer.android.com/google/play/developer-api.html#subscriptions_api_o
 
 https://developers.google.com/android-publisher/api-ref/purchases/subscriptions#resource
 
+### Chat
+
+https://dashboard.applozic.com/ (almost free, seems the best) [ios,android,js,phonegap,ionic,xamarin,api]
+
+https://sendbird.com/ (free) [ios,android,js,unity,.net,api]
+
+https://quickblox.com/ (free) [ios,android,js,api]
+
+https://chatsdk.co/ (totally free) [ios, android]
 
 ### Various
 

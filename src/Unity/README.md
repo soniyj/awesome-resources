@@ -38,6 +38,8 @@ http://www.gamertogamedeveloper.com/home
 
 https://answers.unity.com/questions/19848/making-textures-scroll-animate-textures.html
 
+http://catlikecoding.com/unity/tutorials/procedural-grid/
+
 ##### AR/VR
 
 [Unity AR Tutorial: Augmented Reality Game Development with Vuforia](http://blog.theknightsofunity.com/unity-vuforia-guide/)

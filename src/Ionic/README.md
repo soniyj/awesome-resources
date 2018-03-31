@@ -25,3 +25,25 @@ https://webcake.co/exploring-nav-hierarchy-in-the-ionic-2-tabs-page/
 https://forum.ionicframework.com/t/how-to-configure-deeplinks-in-appmodule-forroot/66058/32
 
 https://forum.ionicframework.com/t/solved-updating-the-url-when-pushing-page-on-the-nav-stack/67683/10
+
+https://github.com/mhartington/lazyLoad2-components
+
+https://github.com/marcoturi/ionic-boilerplate
+
+https://www.joshmorony.com/how-to-create-a-sliding-drawer-component-for-ionic-2/
+
+https://forum.ionicframework.com/t/simple-page-inheritance-in-ionic-2/89829
+
+https://www.joshmorony.com/how-to-create-a-directive-in-ionic-2-parallax-header/
+
+https://www.joshmorony.com/automating-mocks-in-ionic-native-3-x/
+
+https://stackoverflow.com/questions/38842832/multiple-http-requests-in-ionic2
+
+### Observable
+
+https://www.joshmorony.com/building-mobile-apps-with-ionic-2/observables-in-ionic2.html
+
+https://www.joshmorony.com/an-introduction-to-observables-for-ionic-2/
+
+https://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-1/

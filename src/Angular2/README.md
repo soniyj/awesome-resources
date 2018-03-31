@@ -18,6 +18,24 @@ https://github.com/miltador/angular-google-signin
 
 https://github.com/rubenCodeforges/ng-gapi
 
+https://stackoverflow.com/questions/39906949/angular2-how-to-clean-up-the-appmodule
+
+https://stackoverflow.com/questions/41693253/angular-2-multiple-modules
+
+[Building a Real-time Chat App with Angular 2 and deepstream](https://www.codementor.io/christiannwamba/building-real-time-chat-angular-deepstream-4miwit44u)
+
+[Angular 2, Http service wrapper to pass authorization token with each request](https://gist.github.com/chandermani/9166abe6e6608a31f471)
+
+https://scotch.io/tutorials/component-inheritance-in-angular-2
+
+https://scotch.io/tutorials/angular-2-http-requests-with-observables
+
+https://stackoverflow.com/questions/34301417/getting-multiple-http-resources-concurrently-in-angular2
+
+https://stackoverflow.com/questions/42626536/angular-2-chaining-http-requests/42626653#42626653
+
+https://stackoverflow.com/questions/34104638/how-to-chain-http-calls-in-angular2
+
 ### Angular1 Resources
 
 https://github.com/oblador/angular-scroll
