@@ -62,6 +62,21 @@ https://objectivec2swift.com/#/converter/
 
 https://github.com/lukagabric/LGAudioPlayerLockScreen
 
+https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/StoreKitGuide/Introduction.html#//apple_ref/doc/uid/TP40008267-CH1-SW1
+
+https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/iTunesConnectInAppPurchase_Guide/Chapters/Introduction.html#//apple_ref/doc/uid/TP40013727-CH1-SW1
+
+https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/StoreKitGuide/Chapters/Subscriptions.html
+
+### Android
+
+https://developer.android.com/google/play/billing/billing_subscriptions.html
+
+https://developer.android.com/google/play/developer-api.html#subscriptions_api_overview
+
+https://developers.google.com/android-publisher/api-ref/purchases/subscriptions#resource
+
+
 ### Various
 
 https://material.io/devices/

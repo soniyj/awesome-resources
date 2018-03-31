@@ -83,3 +83,7 @@ https://www.braintreepayments.com/
 https://stripe.com/
 
 https://www.typescriptlang.org/docs/handbook/module-resolution.html
+
+https://microsoft.github.io/TypeSearch/
+
+https://www.webcomponents.org/
