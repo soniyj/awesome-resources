@@ -47,3 +47,11 @@ https://www.joshmorony.com/building-mobile-apps-with-ionic-2/observables-in-ioni
 https://www.joshmorony.com/an-introduction-to-observables-for-ionic-2/
 
 https://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-1/
+
+### Couchbase
+
+https://github.com/couchbaselabs/TodoLite-Ionic
+
+https://blog.couchbase.com/using-couchbase-in-your-ionic-framework-application-part-1/
+
+https://blog.couchbase.com/using-couchbase-in-your-ionic-framework-application-part-2/

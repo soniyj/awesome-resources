@@ -36,6 +36,10 @@ https://stackoverflow.com/questions/42626536/angular-2-chaining-http-requests/42
 
 https://stackoverflow.com/questions/34104638/how-to-chain-http-calls-in-angular2
 
+[Angular2 and Rxjs : a simple paginated list with search field](https://blog.bouzekri.net/2016-05-15-angular2-rxjs-simple-paginated-list-with-search-field)
+
+https://stackoverflow.com/questions/35254323/rxjs-observable-pagination
+
 ### Angular1 Resources
 
 https://github.com/oblador/angular-scroll

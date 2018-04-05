@@ -91,3 +91,5 @@ https://chatsdk.co/ (totally free) [ios, android]
 ### Various
 
 https://material.io/devices/
+
+https://softwareengineering.stackexchange.com/questions/206310/data-synchronization-in-mobile-apps-multiple-devices-multiple-users
