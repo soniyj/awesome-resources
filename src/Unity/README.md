@@ -12,6 +12,10 @@ https://docs.unity3d.com/Manual/UNet.html
 
 https://connect.unity.com/events
 
+https://docs.unity3d.com/ScriptReference/TouchPhase.html
+
+https://docs.unity3d.com/ScriptReference/Touch-phase.html
+
 ### Api
 
 https://docs.unity3d.com/ScriptReference/Material.SetTextureOffset.html
@@ -39,6 +43,8 @@ http://www.gamertogamedeveloper.com/home
 https://answers.unity.com/questions/19848/making-textures-scroll-animate-textures.html
 
 http://catlikecoding.com/unity/tutorials/procedural-grid/
+
+[Unity 3D: Working with touch input](https://www.binpress.com/tutorial/unity3d-touch-input/133)
 
 ##### AR/VR
 

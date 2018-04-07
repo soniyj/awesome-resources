@@ -1,5 +1,17 @@
 # Software Resources
 
+### Software Architecture and Design
+
+https://msdn.microsoft.com/en-us/library/ee658093.aspx
+
+https://msdn.microsoft.com/en-us/library/ee658098.aspx
+
+http://www.ecs.csun.edu/~rlingard/COMP684/Example2SoftArch.htm
+
+https://www.edrawsoft.com/software-architecture-example.php
+
+https://www.edrawsoft.com/website-system-architecture-example.php
+
 ### DataBase Design
 
 https://dbdesigner.net/
@@ -33,3 +45,17 @@ http://www.projectlibre.com/product/projectlibre-open-source (open source local)
 https://community.openproject.com/topics/614
 
 https://wk29.wordpress.com/2014/10/01/setting-up-openproject-on-openshift/
+
+### UML Diagrams (fanno tutti cagare):
+
+http://www.eclipse.org/papyrus/download.html (open source) [java]
+
+https://www.modelio.org/ (open source)
+
+http://www.umldesigner.org/ (open source)
+
+http://argouml.tigris.org/ (open source)
+
+http://staruml.io/ (free?) [version 2]
+
+http://www.uml-diagrams.org/use-case-include.html
