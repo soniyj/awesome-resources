@@ -50,6 +50,8 @@ http://catlikecoding.com/unity/tutorials/procedural-grid/
 
 [List View Framework](https://blogs.unity3d.com/2016/08/05/list-view-framework/)
 
+[NavMesh Tutorial - Basics](https://unity3d.com/learn/tutorials/topics/navigation/basics?playlist=17105)
+
 ##### AR/VR
 
 [Unity AR Tutorial: Augmented Reality Game Development with Vuforia](http://blog.theknightsofunity.com/unity-vuforia-guide/)
@@ -101,6 +103,10 @@ https://www.kartridge.com/developers/ (move to a more generic)
 [How to make Reusable Manager scripts as Singletons for your Unity Games quickly and easily Part 1](https://www.youtube.com/watch?v=nIMLHWkc9bs)
 
 [How to properly plan your Unity game like a mannered person](https://www.youtube.com/watch?v=7V9tp2FnMyQ)
+
+[NavMesh Tutorial - Basics](https://www.youtube.com/watch?v=CHV1ymlw-P8)
+
+[How to use GitHub with Unity](https://www.youtube.com/watch?v=qpXxcvS-g3g)
 
 ### Assets
 
