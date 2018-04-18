@@ -16,6 +16,8 @@ https://docs.unity3d.com/ScriptReference/TouchPhase.html
 
 https://docs.unity3d.com/ScriptReference/Touch-phase.html
 
+https://docs.unity3d.com/Manual/editor-EditorWindows.html
+
 ### Api
 
 https://docs.unity3d.com/ScriptReference/Material.SetTextureOffset.html
@@ -51,6 +53,8 @@ http://catlikecoding.com/unity/tutorials/procedural-grid/
 [List View Framework](https://blogs.unity3d.com/2016/08/05/list-view-framework/)
 
 [NavMesh Tutorial - Basics](https://unity3d.com/learn/tutorials/topics/navigation/basics?playlist=17105)
+
+[Extend the Unity3d Editor](https://www.raywenderlich.com/130721/extend-unity3d-editor)
 
 ##### AR/VR
 
