@@ -112,6 +112,12 @@ https://www.kartridge.com/developers/ (move to a more generic)
 
 [How to use GitHub with Unity](https://www.youtube.com/watch?v=qpXxcvS-g3g)
 
+[How to make a LEVEL EDITOR in Unity](https://www.youtube.com/watch?v=B_Xp9pt8nRY)
+
+[How to make an EDITOR WINDOW in Unity](https://www.youtube.com/watch?v=491TSNwXTIg)
+
+[How to make a CUSTOM INSPECTOR in Unity](https://www.youtube.com/watch?v=RInUu1_8aGw)
+
 ### Assets
 
 [TextMesh Pro - Free Version](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
