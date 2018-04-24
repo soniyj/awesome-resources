@@ -54,6 +54,8 @@ http://catlikecoding.com/unity/tutorials/procedural-grid/
 
 [NavMesh Tutorial - Basics](https://unity3d.com/learn/tutorials/topics/navigation/basics?playlist=17105)
 
+[Creating Basic Editor Tools](https://unity3d.com/learn/tutorials/topics/scripting/creating-basic-editor-tools?playlist=17117)
+
 [Extend the Unity3d Editor](https://www.raywenderlich.com/130721/extend-unity3d-editor)
 
 ##### AR/VR
@@ -117,6 +119,11 @@ https://www.kartridge.com/developers/ (move to a more generic)
 [How to make an EDITOR WINDOW in Unity](https://www.youtube.com/watch?v=491TSNwXTIg)
 
 [How to make a CUSTOM INSPECTOR in Unity](https://www.youtube.com/watch?v=RInUu1_8aGw)
+
+[Unite Austin 2017 - Game Architecture with Scriptable Objects](https://www.youtube.com/watch?v=raQ3iHhE_Kk)
+[GitRepo](https://github.com/roboryantron/Unite2017)
+
+[Unite Austin 2017 - Google Blocks: 3D Assets for the Rest of Us](https://www.youtube.com/watch?v=6k4KesmwV1Q)
 
 ### Assets
 

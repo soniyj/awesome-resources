@@ -95,3 +95,7 @@ https://www.html5rocks.com/en/tutorials/offline/quota-research/
 https://github.com/ripienaar/free-for-dev#web-hosting
 
 https://zzzz.io/faq/
+
+https://poly.google.com/
+
+https://vr.google.com/blocks/
