@@ -10,6 +10,10 @@ https://flutter.io/
 
 https://v-play.net/
 
+### NativeScript
+
+https://www.nativescript.org/nativescript-sidekick
+
 ### React Native
 
 [React Native with TypeScript](https://medium.com/@rintoj/react-native-with-typescript-40355a90a5d7)
