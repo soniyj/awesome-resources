@@ -4,7 +4,19 @@
 
 https://flutter.io/
 
-[Flutter SDK Tutorial - Hello World! (App Development)](https://www.youtube.com/watch?v=CEPCGXQ7IQg)
+https://flutter.io/get-started/learn-more/
+
+[Building Beautiful UIs with Flutter]( Flutterhttps://codelabs.developers.google.com/codelabs/flutter/#0)
+
+[Free Flutter (iOS & Android) themes](https://startflutter.com/)
+
+https://flutterlearn.com/
+
+[Firebase for Flutter](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0)
+
+[Flutter SDK Tutorial - Hello World! (App Development) - Video](https://www.youtube.com/watch?v=CEPCGXQ7IQg)
+
+[We Rebuilt a React Native App with Flutter](https://blog.geekyants.com/we-rebuilt-a-react-native-app-with-flutter-4160f0499a82)
 
 ### V-Play Engine
 
