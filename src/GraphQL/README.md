@@ -14,6 +14,8 @@ https://medium.com/@raxwunter/moving-existing-api-from-rest-to-graphql-205bab22c
 
 https://github.com/yarax/swagger-to-graphql (converts your existing Swagger schema to GraphQL)
 
+https://docs.aws.amazon.com/appsync/latest/devguide/designing-a-graphql-api.html
+
 ### Serverless
 
 https://serverless.com/blog/make-serverless-graphql-api-using-lambda-dynamodb/
