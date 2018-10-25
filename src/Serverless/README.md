@@ -17,3 +17,9 @@ https://github.com/carbonrobot/hapi-lambda-demo
 https://github.com/horte/hapi-serverless
 
 https://github.com/drager/serverless-hapi [uses TypeScript]
+
+https://jjude.com/hapi-with-tsc/ [example of conversion]
+
+https://github.com/dwyl/hapi-typescript-example
+
+https://github.com/BlackBoxVision/typescript-hapi-starter
