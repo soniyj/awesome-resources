@@ -2,6 +2,8 @@
 
 https://yos.io/2017/09/03/serverless-authentication-with-jwt/
 
+https://www.jamestharpe.com/serverless-typescript-getting-started/
+
 ### aws
 
 https://www.alexedwards.net/blog/serverless-api-with-go-and-aws-lambda
