@@ -25,3 +25,5 @@ https://jjude.com/hapi-with-tsc/ [example of conversion]
 https://github.com/dwyl/hapi-typescript-example
 
 https://github.com/BlackBoxVision/typescript-hapi-starter
+
+https://hapibook.jjude.com/book/plugins
