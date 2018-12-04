@@ -27,3 +27,11 @@ https://github.com/dwyl/hapi-typescript-example
 https://github.com/BlackBoxVision/typescript-hapi-starter
 
 https://hapibook.jjude.com/book/plugins
+
+### NestJS
+
+https://nestjs.com/
+
+https://github.com/rdlabo/serverless-nestjs
+
+https://github.com/Riverline/serverless-aws-typescript-nestjs
