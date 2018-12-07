@@ -4,18 +4,23 @@ Repository to store all useful links and resources used in my projects.
 
 ### Contents
 
-- [Angular2](src/Angular2/)
+- [Awesome](./src/Awesome/)
 - [Blockchain](./src/Blockchain/)
   * [Ethereum](./src/Blockchain/Ethereum/)
 - [Biz](./src/Biz/)
-- [CSS](./src/Css/)
+- [Cloud](./src/Cloud/)
+  * [AWS](./src/Cloud/AWS/)
 - [Docker](./src/Docker/)
+- [Frontend](./src/Frontend/)
+  * [Angular2](src/Frontend/Angular2/)
+  * [CSS](./src/Frontend/Css/)
 - [Game Development](./src/GameDev/)
   * [Unity3D](./src/GameDev/Unity/)
 - [Graphics](./src/Graphics/)
-- [Ionic](./src/Ionic/)
 - [Linux](./src/Linux/)
+- [Markdown](./src/Markdown/)
 - [Mobile App](./src/MobileApp/)
+  * [Ionic](./src/MobileApp/Ionic/)
 - [Network](./src/Network/)
 - [Programming](./src/Programming/)
   * [Go](./src/Programming/Go/)
@@ -25,20 +30,6 @@ Repository to store all useful links and resources used in my projects.
 - [Repository](./src/Repository/)
   * [Bitbucket](./src/Bitbucket/)
   * [Git](./src/Git/)
-
-**Awesome**
-
-https://github.com/GetStream/awesome-saas-services
-
-**Markdown**
-
-https://www.markdownguide.org/getting-started/
-
-[A magical documentation site generator](https://docsify.js.org/)
-
-[How to Create Markdown-based Website with Jekyll](https://medium.com/pacroy/how-to-create-markdown-based-website-with-jekyll-e61454c23f68)
-
-https://dillinger.io/ (Online editor)
 
 **Various**
 
