@@ -5,42 +5,25 @@ Repository to store all useful links and resources used in my projects.
 ### Contents
 
 * [Angular2](src/Angular2/)
-
 * [Bitbucket](./src/Bitbucket/)
-
 * [Blockchain](./src/Blockchain/)
-
 * [Biz](./src/Biz/)
-
 * [CSS](./src/Css/)
-
 * [Docker](src/Docker/)
-
 * [Ethereum](./Ethereum/)
-
 * [Game Development](./src/GameDev/)
-
 * [Git](./src/Git/)
-
 * [Go](./src/Go/)
-
 * [Graphics](./src/Graphics/)
-
 * [Ionic](src/Ionic/)
-
 * [Linux](./src/Linux/)
-
 * [Mobile App](./src/MobileApp/)
-
 * [Network](./src/Network/)
-
 * [Programming](./src/Programming/)
 - [Go](./src/Programming/Go/)
 - [Java](./src/Programming/Java/)
 - [Java](./src/Programming/Java/)
-
 * [Qt](./src/Qt/)
-
 * [Unity3D](src/Unity/)
 
 **Awesome**
