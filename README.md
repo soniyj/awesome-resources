@@ -30,6 +30,7 @@ Repository to store all useful links and resources used in my projects.
 - [Repository](./src/Repository/)
   * [Bitbucket](./src/Bitbucket/)
   * [Git](./src/Git/)
+- [Serverless](./src/Serverless)
 
 **Various**
 

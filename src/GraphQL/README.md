@@ -53,3 +53,7 @@ https://github.com/apollographql/graphql-subscriptions
 https://www.graph.cool/
 
 https://www.prisma.io/
+
+### AWS
+
+https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7
