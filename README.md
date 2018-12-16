@@ -1,22 +1,25 @@
 # awesome-resources
 
-Repository to store all useful links and resources used in my projects.
+Collections of Awesome Resources
 
 ### Contents
 
 - [Awesome](./src/Awesome/)
+- [Biz](./src/Biz/)
 - [Blockchain](./src/Blockchain/)
   * [Ethereum](./src/Blockchain/Ethereum/)
-- [Biz](./src/Biz/)
 - [Cloud](./src/Cloud/)
   * [AWS](./src/Cloud/Aws/)
+- [Database](./src/Database)
 - [Docker](./src/Docker/)
+- [E-Commerce](./src/E_Commerce)
 - [Frontend](./src/Frontend/)
   * [Angular2](src/Frontend/Angular2/)
   * [CSS](./src/Frontend/Css/)
 - [Game Development](./src/GameDev/)
   * [Unity3D](./src/GameDev/Unity/)
 - [Graphics](./src/Graphics/)
+- [GraphQL](./src/GraphQL)
 - [Linux](./src/Linux/)
 - [Markdown](./src/Markdown/)
 - [Mobile App](./src/MobileApp/)
@@ -31,6 +34,8 @@ Repository to store all useful links and resources used in my projects.
   * [Bitbucket](./src/Bitbucket/)
   * [Git](./src/Git/)
 - [Serverless](./src/Serverless)
+- [Software](./src/Software)
+- [Testing](./src/Testing)
 
 **Various**
 

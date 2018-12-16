@@ -4,6 +4,8 @@
 
 https://docs.aws.amazon.com/general/latest/gr/rande.html
 
+https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-options.html
+
 ### DynamoDB
 
 https://docs.aws.amazon.com/appsync/latest/devguide/import-dynamodb.html
@@ -25,6 +27,22 @@ https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7
 https://github.com/aws-samples/aws-serverless-appsync-app
 
 https://github.com/aws-samples/aws-mobile-appsync-chat-starter-angular
+
+https://aws-amplify.github.io/docs/js/api
+
+https://gonehybrid.com/tag/appsync/
+
+https://gonehybrid.com/ionic-4-appsync-set-up-authentication-with-amazon-cognito-part-5/
+
+https://hackernoon.com/tackling-user-authorization-in-graphql-with-aws-appsync-7886aef60b4a
+
+https://hackernoon.com/graphql-authorization-with-multiple-data-sources-using-aws-appsync-dfae2e350bf2
+
+https://medium.com/open-graphql/authenticating-an-aws-appsync-graphql-api-with-auth0-48835691810a
+
+https://medium.com/open-graphql/top-9-aws-appsync-features-you-didnt-know-about-57224075ffb1
+
+https://docs.aws.amazon.com/appsync/latest/devguide/security-authorization-use-cases.html
 
 ### ElasticBeanStalk
 
