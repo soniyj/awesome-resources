@@ -26,6 +26,12 @@ https://v-play.net/
 
 https://www.nativescript.org/nativescript-sidekick
 
+https://market.nativescript.org/plugins/nativescript-aws-sdk
+
+https://github.com/triniwiz/nativescript-aws-sdk
+
+https://github.com/EddyVerbruggen/nativescript-nodeify
+
 ### React Native
 
 [React Native with TypeScript](https://medium.com/@rintoj/react-native-with-typescript-40355a90a5d7)

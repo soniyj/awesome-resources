@@ -44,6 +44,8 @@ https://medium.com/open-graphql/top-9-aws-appsync-features-you-didnt-know-about-
 
 https://docs.aws.amazon.com/appsync/latest/devguide/security-authorization-use-cases.html
 
+https://docs.aws.amazon.com/appsync/latest/devguide/tutorial-http-resolvers.html
+
 ### ElasticBeanStalk
 
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/GettingStarted.html#GettingStarted.Walkthrough.DeployApp
