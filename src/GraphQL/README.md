@@ -48,11 +48,15 @@ https://blog.apollographql.com/tutorial-building-a-graphql-server-cddaa023c035
 
 https://github.com/apollographql/graphql-subscriptions
 
+https://medium.com/vessels/apollo-server-serverless-graphql-bliss-68e8e15195ac
+
 ### Tools
 
 https://www.graph.cool/
 
 https://www.prisma.io/
+
+https://github.com/graphql/swapi-graphql
 
 ### AWS
 
