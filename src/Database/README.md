@@ -9,3 +9,9 @@ https://github.com/lukehalley/NoSQL-Spotify
 ### Couchbase
 
 https://github.com/couchbase/sync_gateway
+
+### Firebase
+
+**Firestore**
+
+https://github.com/codediodeio/firestore-migrator

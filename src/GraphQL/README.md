@@ -50,14 +50,28 @@ https://github.com/apollographql/graphql-subscriptions
 
 https://medium.com/vessels/apollo-server-serverless-graphql-bliss-68e8e15195ac
 
-### Tools
-
-https://www.graph.cool/
-
-https://www.prisma.io/
-
-https://github.com/graphql/swapi-graphql
+https://blog.morizyun.com/javascript/typescript-tutorial-firebase-auth-graphql-react.html
 
 ### AWS
 
 https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7
+
+### Graphcool
+
+https://www.graph.cool/
+
+https://alligator.io/graphql/graphcool-intro/
+
+### Prisma
+
+https://www.prisma.io/
+
+https://github.com/prisma/graphql-yoga
+
+https://www.prisma.io/tutorials/build-a-realtime-graphql-server-with-subscriptions-ct11
+
+https://www.prisma.io/blog/graphql-vs-firebase-496498546142
+
+### Tools
+
+https://github.com/graphql/swapi-graphql
