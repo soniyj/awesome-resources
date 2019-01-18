@@ -55,3 +55,9 @@ http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html
 http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_PHP.rds.html
 
 http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.CreatingConnecting.PostgreSQL.html
+
+### S3 Static Web Site and SSL
+
+https://medium.com/@lockdown2k17/aws-s3-static-website-hosting-using-ssl-acm-112e6d6b6d97
+
+https://medium.com/@sbuckpesch/setup-aws-s3-static-website-hosting-using-ssl-acm-34d41d32e394

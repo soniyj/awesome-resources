@@ -40,6 +40,10 @@ https://www.joshmorony.com/automating-mocks-in-ionic-native-3-x/
 
 https://stackoverflow.com/questions/38842832/multiple-http-requests-in-ionic2
 
+### PWA
+
+https://ionicthemes.com/tutorials/about/the-complete-guide-to-progressive-web-apps-with-ionic4
+
 ### Observable
 
 https://www.joshmorony.com/building-mobile-apps-with-ionic-2/observables-in-ionic2.html
