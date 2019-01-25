@@ -14,6 +14,10 @@ https://itnext.io/build-a-restful-api-using-aws-lambda-api-gateway-dynamodb-and-
 
 https://github.com/serverless/examples/tree/master/aws-node-typescript-rest-api-with-dynamodb
 
+https://medium.com/think-serverless/image-upload-and-retrieval-from-s3-using-aws-api-gateway-and-lambda-b4c2961e8d1
+
+https://dev.to/adnanrahic/a-crash-course-on-serverless-with-aws---image-resize-on-the-fly-with-lambda-and-s3-4foo
+
 ### Hapi.js
 
 https://github.com/carbonrobot/hapi-lambda-demo

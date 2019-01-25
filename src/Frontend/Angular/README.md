@@ -1,4 +1,4 @@
-# Angular2 Resources
+# Angular Resources
 
 https://angular.io/guide/dynamic-component-loader
 
@@ -39,6 +39,10 @@ https://stackoverflow.com/questions/34104638/how-to-chain-http-calls-in-angular2
 [Angular2 and Rxjs : a simple paginated list with search field](https://blog.bouzekri.net/2016-05-15-angular2-rxjs-simple-paginated-list-with-search-field)
 
 https://stackoverflow.com/questions/35254323/rxjs-observable-pagination
+
+### AWS
+
+https://medium.com/@mikemccall10/walkthrough-upload-images-to-s3-using-angular-and-lambda-724c2d9f8263
 
 ### Angular1 Resources
 
