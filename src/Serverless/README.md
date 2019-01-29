@@ -24,7 +24,13 @@ https://github.com/adnanrahic/serverless-docker-image-resize
 
 https://aws.amazon.com/blogs/compute/resize-images-on-the-fly-with-amazon-s3-aws-lambda-and-amazon-api-gateway/
 
+https://aws.amazon.com/answers/web-applications/serverless-image-handler/
+
 https://github.com/awslabs/serverless-image-handler
+
+https://github.com/nicholasgubbins/Serverless-Image-Resizer
+
+https://medium.com/@mikemccall10/walkthrough-upload-images-to-s3-using-angular-and-lambda-724c2d9f8263
 
 ### Hapi.js
 

@@ -104,3 +104,7 @@ https://poly.google.com/
 https://vr.google.com/blocks/
 
 https://codelabs.developers.google.com/
+
+https://cloudinary.com/
+
+https://www.imgix.com/

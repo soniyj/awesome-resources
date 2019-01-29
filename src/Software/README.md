@@ -46,6 +46,8 @@ https://community.openproject.com/topics/614
 
 https://wk29.wordpress.com/2014/10/01/setting-up-openproject-on-openshift/
 
+https://www.bitrix24.com/ (almost free)
+
 ### UML Diagrams (fanno tutti cagare):
 
 http://www.eclipse.org/papyrus/download.html (open source) [java]
