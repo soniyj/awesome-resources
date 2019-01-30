@@ -32,6 +32,12 @@ https://github.com/nicholasgubbins/Serverless-Image-Resizer
 
 https://medium.com/@mikemccall10/walkthrough-upload-images-to-s3-using-angular-and-lambda-724c2d9f8263
 
+https://deployeveryday.com/2017/07/25/building-image-resizer-serverless.html
+
+https://www.zappa.io/
+
+https://github.com/Miserlou/Zappa
+
 ### Hapi.js
 
 https://github.com/carbonrobot/hapi-lambda-demo

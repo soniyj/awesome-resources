@@ -6,6 +6,12 @@ https://docs.aws.amazon.com/general/latest/gr/rande.html
 
 https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-options.html
 
+### SDK
+
+https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/sdk-code-samples.html
+
+https://github.com/awsdocs/aws-doc-sdk-examples
+
 ### DynamoDB
 
 https://docs.aws.amazon.com/appsync/latest/devguide/import-dynamodb.html
