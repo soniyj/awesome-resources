@@ -1,11 +1,13 @@
 Biz Resources
 =================
-
-1. [Italian](#Italian Law)
-2. [Swiss](#Swiss Law)
-3. [Dutch](#Dutch Law)
+1. [Italian](#italianlaw)
+2. [Swiss](#swisslaw)
+3. [Dutch](#dutchlaw)
 4. [UK](#uklaw)
 
+
+
+<a name="italianlaw"/></a>
 ### Italian Law
 
 **Company Branch**
@@ -44,6 +46,7 @@ https://www.borsaitaliana.it/borsa/glossario/obbligazione-convertibile.html
 
 http://www.smartstart.invitalia.it/site/smart/home.html
 
+<a name="swisslaw"/></a>
 ### Swiss Law
 
 https://startups.ch/en/inform/details/forms/
@@ -54,6 +57,7 @@ https://www.justlanded.com/english/Switzerland/Articles/Business/Company-types-i
 
 https://www.lawyersswitzerland.com/types-of-structures-in-switzerland
 
+<a name="dutchlaw"/></a>
 ### Dutch Law
 
 https://www.angloinfo.com/how-to/netherlands/working/starting-a-business/business-structures
