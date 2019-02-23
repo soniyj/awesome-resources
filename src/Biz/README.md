@@ -1,10 +1,10 @@
-# Biz Resources
-
-Table of Contents
+Biz Resources
 =================
 
-1. [Italian](#Italian)
-
+1. [Italian](#Italian Law)
+2. [Swiss](#Swiss Law)
+3. [Dutch](#Dutch Law)
+4. [UK](#UK Law)
 
 ### Italian Law
 
