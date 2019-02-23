@@ -4,7 +4,7 @@ Biz Resources
 1. [Italian](#Italian Law)
 2. [Swiss](#Swiss Law)
 3. [Dutch](#Dutch Law)
-4. [UK](#UK Law)
+4. [UK](#uklaw)
 
 ### Italian Law
 
@@ -60,6 +60,7 @@ https://www.angloinfo.com/how-to/netherlands/working/starting-a-business/busines
 
 https://business.gov.nl
 
+<a name="uklaw"/>
 ### UK Law
 
 https://www.netlawman.co.uk/ia/types-uk-company
