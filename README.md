@@ -29,7 +29,7 @@ Collections of Awesome Resources
   * [Go](./src/Programming/Go/)
   * [Java](./src/Programming/Java/)
   * [Javascript](./src/Programming/Javascript/)
-  * [Python](./Programming/Python/)
+  * [Python](./src/Programming/Python/)
   * [Qt](./src/Programming/Qt/)
   * [Typescript](./src/Programming/Typescript/)
 - [Repository](./src/Repository/)
