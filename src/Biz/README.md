@@ -1,11 +1,17 @@
 Biz Resources
 =================
-1. [Italian](#italianlaw)
-2. [Swiss](#swisslaw)
-3. [Dutch](#dutchlaw)
-4. [UK](#uklaw)
+* [General](#generallaw)
+* [Italian](#italianlaw)
+* [Swiss](#swisslaw)
+* [Dutch](#dutchlaw)
+* [UK](#uklaw)
 
+<a name="generallaw"/></a>
+### General
 
+https://www.lowtax.net/
+
+https://www.entrepreneur.com/formnet
 
 <a name="italianlaw"/></a>
 ### Italian Law
