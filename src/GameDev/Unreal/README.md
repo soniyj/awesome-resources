@@ -14,6 +14,8 @@ https://www.raywenderlich.com/504-unreal-engine-4-materials-tutorial
 
 https://www.gamedesigning.org/learn/unreal/
 
+https://80.lv/articles/game-dev-under-limits-tools-solutions-sacrifices/
+
 ### Video Tutorials
 
 [Blueprint Game Framework Basics | Live Training | Unreal Engine](https://www.youtube.com/watch?v=0LG4hiisflg)
@@ -23,3 +25,15 @@ https://www.gamedesigning.org/learn/unreal/
 https://www.youtube.com/user/VirtusEdu/videos
 
 https://www.youtube.com/user/TeslaUE4
+
+[Countdown Timer With Game Over - #13 Unreal Engine 4 Blueprint Creations Tutorial](https://www.youtube.com/watch?v=x98nZ64NAUQ)
+
+[Creating A Game Match Timer - #12 Unreal Engine 4 Blueprint Creations Tutorial](https://www.youtube.com/watch?v=er0kF608iFI)
+
+[Unreal 4 Power-line spline system (tutorial)](https://www.youtube.com/watch?v=ysiessDkbCw)
+
+[(UE4) Subway Tunnel - Spline Setup and Usage](https://www.youtube.com/watch?v=mKRrLJ4kmFE&t=2s)
+
+[Blueprint Quickshot: Making Procedural Content | 06 | v4.7 Tutorial Series | Unreal Engine](https://www.youtube.com/watch?v=x98lmpJv1sA)
+
+[Creating Heads Up Display Bindings (HUD) Part 2 - #47 Unreal Engine 4 Beginner Tutorial Series](https://www.youtube.com/watch?v=p0LF5NgE000) (text and health bar change based on the player health variable)
