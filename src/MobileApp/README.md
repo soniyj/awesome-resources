@@ -26,6 +26,8 @@ https://medium.com/@agungsurya/create-custom-router-transition-in-flutter-using-
 
 https://github.com/flutterchina/dio
 
+https://medium.com/flutter-io/google-maps-and-flutter-cfb330f9a245
+
 ### V-Play Engine
 
 https://v-play.net/
