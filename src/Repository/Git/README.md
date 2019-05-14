@@ -13,3 +13,7 @@ https://github.com/joeyespo/grip
 ### App
 
 https://probot.github.io/
+
+### Tutorials
+
+http://www.codeblocq.com/2016/01/Untrack-files-already-added-to-git-repository-based-on-gitignore/

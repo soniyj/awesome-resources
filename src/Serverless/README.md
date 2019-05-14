@@ -1,8 +1,14 @@
 # Serverless Resources
 
+http://serverlesscalc.com/
+
 https://yos.io/2017/09/03/serverless-authentication-with-jwt/
 
 https://www.jamestharpe.com/serverless-typescript-getting-started/
+
+https://openwhisk.apache.org/
+
+https://www.openfaas.com/
 
 ### Aws
 

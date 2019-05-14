@@ -28,6 +28,12 @@ https://github.com/flutterchina/dio
 
 https://medium.com/flutter-io/google-maps-and-flutter-cfb330f9a245
 
+https://www.youtube.com/watch?v=PkY6Y-dmimE
+
+https://github.com/hasnentai/quick_bee_youtube/blob/master/lib/main.dart
+
+https://www.youtube.com/playlist?list=PLpaPR7OMlko62b1RX9Va-QEDRQwmCIkS3
+
 ### V-Play Engine
 
 https://v-play.net/
