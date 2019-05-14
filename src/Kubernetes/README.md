@@ -1,15 +1,37 @@
 # Kubernetes Resources
 
+https://kubernetes.io/docs/user-journeys/users/application-developer/foundational/
+
+https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/
+
 https://medium.com/@maumribeiro/a-fullstack-epic-part-iii-using-docker-and-kubernetes-to-ship-and-scale-everything-6f809cdb1102
 
 https://shinesolutions.com/2018/10/25/deploying-a-full-stack-application-to-google-kubernetes-engine/
 
 https://www.fullstackpython.com/kubernetes.html
 
-https://helm.sh/
-
 http://kubernetesbyexample.com/
 
 http://okigiveup.net/a-tutorial-introduction-to-kubernetes/
 
 https://www.agiliq.com/blog/2018/07/django-on-kubernetes/
+
+https://docs.bitnami.com/kubernetes/how-to/deploy-mean-application-kubernetes-helm/#introduction
+
+### Ingress
+
+https://kubernetes.github.io/ingress-nginx/troubleshooting/
+
+### Helm
+
+https://helm.sh/
+
+https://helm.sh/docs/using_helm/#installing-helm
+
+https://helm.sh/docs/helm/#helm
+
+### Ambassador
+
+https://www.getambassador.io/about/why-ambassador
+
+https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d
