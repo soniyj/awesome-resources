@@ -5,6 +5,7 @@ Collections of Awesome Resources
 ### Contents
 
 - [Awesome](./src/Awesome/)
+- [Backend](./src/Backend/)
 - [Biz](./src/Biz/)
 - [Blockchain](./src/Blockchain/)
   * [Ethereum](./src/Blockchain/Ethereum/)
@@ -13,6 +14,7 @@ Collections of Awesome Resources
 - [Database](./src/Database/)
 - [Docker](./src/Docker/)
 - [E-Commerce](./src/E_Commerce/)
+- [Ebook](./src/Ebook/)
 - [Frontend](./src/Frontend/)
   * [Angular2](src/Frontend/Angular2/)
   * [CSS](./src/Frontend/Css/)
@@ -34,6 +36,7 @@ Collections of Awesome Resources
   * [Python](./src/Programming/Python/)
   * [Qt](./src/Programming/Qt/)
   * [Typescript](./src/Programming/Typescript/)
+  * [Dart](./src/Programming/DART.md)
 - [Repository](./src/Repository/)
   * [Bitbucket](./src/Bitbucket/)
   * [Git](./src/Git/)
@@ -86,10 +89,6 @@ https://www.aha.io/
 https://www.braintreepayments.com/
 
 https://stripe.com/
-
-https://www.typescriptlang.org/docs/handbook/module-resolution.html
-
-https://microsoft.github.io/TypeSearch/
 
 https://www.webcomponents.org/
 
