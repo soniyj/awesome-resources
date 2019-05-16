@@ -6,6 +6,8 @@ https://github.com/libp2p/go-libp2p
 
 [Golang and Docker for development and production](https://medium.com/statuscode/golang-docker-for-development-and-production-ce3ad4e69673)
 
+https://mholt.github.io/json-to-go/
+
 ### Blockchain
 
 **Tutorial 1**

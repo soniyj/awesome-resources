@@ -40,6 +40,8 @@ https://www.joshmorony.com/automating-mocks-in-ionic-native-3-x/
 
 https://stackoverflow.com/questions/38842832/multiple-http-requests-in-ionic2
 
+http://masteringionic.com/blog/2018-01-23-using-the-html5-filereader-api-and-php-to-upload-images-from-ionic-framework-apps/
+
 ### PWA
 
 https://ionicthemes.com/tutorials/about/the-complete-guide-to-progressive-web-apps-with-ionic4

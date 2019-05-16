@@ -58,6 +58,14 @@ http://catlikecoding.com/unity/tutorials/procedural-grid/
 
 [Extend the Unity3d Editor](https://www.raywenderlich.com/130721/extend-unity3d-editor)
 
+https://blogs.unity3d.com/2018/09/05/extending-timeline-a-practical-guide/
+
+https://www.raywenderlich.com/1494-introduction-to-unity-animation
+
+https://blogs.unity3d.com/2017/11/20/making-cool-stuff-with-scriptableobjects/
+
+https://catlikecoding.com/
+
 ##### AR/VR
 
 [Unity AR Tutorial: Augmented Reality Game Development with Vuforia](http://blog.theknightsofunity.com/unity-vuforia-guide/)
@@ -124,6 +132,12 @@ https://www.kartridge.com/developers/ (move to a more generic)
 [GitRepo](https://github.com/roboryantron/Unite2017)
 
 [Unite Austin 2017 - Google Blocks: 3D Assets for the Rest of Us](https://www.youtube.com/watch?v=6k4KesmwV1Q)
+
+[Car AI Tutorial #1 (Unity 5 ) - Make the Path](https://www.youtube.com/watch?v=o1XOUkYUDZU) {used for the game}
+
+[Setting up the car AI from Unity's Standard Assets: Part 1](https://www.youtube.com/watch?v=mrrJyxA6NXw)
+
+[Setting up the car AI from Unity's Standard Assets: Part 2](https://www.youtube.com/watch?v=qjeaoy3cdt0)
 
 ### Assets
 

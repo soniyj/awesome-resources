@@ -13,3 +13,5 @@ https://github.com/chentsulin/awesome-graphql
 https://github.com/anaibol/awesome-serverlesss
 
 https://awesome-docker.netlify.com/
+
+https://github.com/Solido/awesome-flutter

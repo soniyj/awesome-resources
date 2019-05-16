@@ -6,6 +6,8 @@ https://www.rethinkdb.com/
 
 https://github.com/lukehalley/NoSQL-Spotify
 
+http://grakn.ai/
+
 ### Couchbase
 
 https://github.com/couchbase/sync_gateway

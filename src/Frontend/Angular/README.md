@@ -40,6 +40,8 @@ https://stackoverflow.com/questions/34104638/how-to-chain-http-calls-in-angular2
 
 https://stackoverflow.com/questions/35254323/rxjs-observable-pagination
 
+https://github.com/compodoc/compodoc
+
 ### AWS
 
 https://medium.com/@mikemccall10/walkthrough-upload-images-to-s3-using-angular-and-lambda-724c2d9f8263

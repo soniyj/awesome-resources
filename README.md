@@ -11,6 +11,7 @@ Collections of Awesome Resources
   * [Ethereum](./src/Blockchain/Ethereum/)
 - [Cloud](./src/Cloud/)
   * [AWS](./src/Cloud/Aws/)
+  * [Google](./src/Cloud/google.md)
 - [Database](./src/Database/)
 - [Docker](./src/Docker/)
 - [E-Commerce](./src/E_Commerce/)
@@ -23,6 +24,7 @@ Collections of Awesome Resources
   * [Unreal Engine](./src/GameDev/Unreal)
 - [Graphics](./src/Graphics/)
 - [GraphQL](./src/GraphQL/)
+- [Jobs](./src/Jobs/)
 - [Kubernetes](./src/Kubernetes)
 - [Linux](./src/Linux/)
 - [Markdown](./src/Markdown/)
@@ -45,14 +47,6 @@ Collections of Awesome Resources
 - [Testing](./src/Testing/)
 
 **Various**
-
-http://grakn.ai/
-
-https://semantic-ui.com/
-
-https://atlas.mendix.com/
-
-https://getuikit.com/
 
 https://www.sonarqube.org/
 
@@ -90,8 +84,6 @@ https://www.braintreepayments.com/
 
 https://stripe.com/
 
-https://www.webcomponents.org/
-
 https://sentry.io/welcome/
 
 https://www.html5rocks.com/en/tutorials/offline/quota-research/
@@ -99,12 +91,6 @@ https://www.html5rocks.com/en/tutorials/offline/quota-research/
 https://github.com/ripienaar/free-for-dev#web-hosting
 
 https://zzzz.io/faq/
-
-https://poly.google.com/
-
-https://vr.google.com/blocks/
-
-https://codelabs.developers.google.com/
 
 https://cloudinary.com/
 
