@@ -18,6 +18,8 @@ https://www.agiliq.com/blog/2018/07/django-on-kubernetes/
 
 https://docs.bitnami.com/kubernetes/how-to/deploy-mean-application-kubernetes-helm/#introduction
 
+https://blog.codeship.com/getting-started-with-kubernetes/
+
 ### Ingress
 
 https://kubernetes.github.io/ingress-nginx/troubleshooting/
@@ -29,6 +31,8 @@ https://helm.sh/
 https://helm.sh/docs/using_helm/#installing-helm
 
 https://helm.sh/docs/helm/#helm
+
+https://www.baeldung.com/kubernetes-helm
 
 ### Ambassador
 
