@@ -20,6 +20,12 @@ https://docs.bitnami.com/kubernetes/how-to/deploy-mean-application-kubernetes-he
 
 https://blog.codeship.com/getting-started-with-kubernetes/
 
+https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app
+
+https://cloud.google.com/kubernetes-engine/docs/tutorials/persistent-disk
+
+https://kubernetes.io/docs/tasks/manage-kubernetes-objects/declarative-config/
+
 ### Ingress
 
 https://kubernetes.github.io/ingress-nginx/troubleshooting/
