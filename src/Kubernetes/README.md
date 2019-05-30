@@ -26,6 +26,12 @@ https://cloud.google.com/kubernetes-engine/docs/tutorials/persistent-disk
 
 https://kubernetes.io/docs/tasks/manage-kubernetes-objects/declarative-config/
 
+https://sandeepdinesh.com/#Projects
+
+https://github.com/thesandlord/Istio101
+
+https://www.youtube.com/watch?v=gauOI0O9fRM
+
 ### Ingress
 
 https://kubernetes.github.io/ingress-nginx/troubleshooting/
