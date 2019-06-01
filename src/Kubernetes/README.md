@@ -32,6 +32,18 @@ https://github.com/thesandlord/Istio101
 
 https://www.youtube.com/watch?v=gauOI0O9fRM
 
+https://etcd.io/
+
+https://kodekloud.com/
+
+##### Video Tutorials
+
+[Google Cloud Platform](https://www.youtube.com/user/googlecloudplatform)
+
+[Kubernetes The Easy Way! For Developers In 2018](https://www.youtube.com/watch?v=N5ODnik00Cs)
+
+[Kubernetes Ingress Explained For Beginners](https://www.youtube.com/watch?v=VicH6KojwCI)
+
 ### Ingress
 
 https://kubernetes.github.io/ingress-nginx/troubleshooting/

@@ -37,3 +37,9 @@ https://www.youtube.com/user/TeslaUE4
 [Blueprint Quickshot: Making Procedural Content | 06 | v4.7 Tutorial Series | Unreal Engine](https://www.youtube.com/watch?v=x98lmpJv1sA)
 
 [Creating Heads Up Display Bindings (HUD) Part 2 - #47 Unreal Engine 4 Beginner Tutorial Series](https://www.youtube.com/watch?v=p0LF5NgE000) (text and health bar change based on the player health variable)
+
+[Unreal Engine 4 Tutorial - Creating a Start Game Countdown](https://www.youtube.com/watch?v=_Pa4PwNVwGU)
+
+[UE4 - Creating a Timer - Unreal Engine 4 Blueprints Tutorial](https://www.youtube.com/watch?v=UR4l_tsYcqs)
+
+[Basic UMG UI Animation - #48 Unreal Engine 4 Beginner Tutorial Series](https://www.youtube.com/watch?v=F4QvCXO9XaQ)
