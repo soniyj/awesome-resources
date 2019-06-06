@@ -36,6 +36,24 @@ https://etcd.io/
 
 https://kodekloud.com/
 
+https://kubernetic.com/ (Desktop Client, free in beta)
+
+https://kubeapps.com/ (Application Dashboard)
+
+https://keel.sh/ (Continuous Delivery For Kubernetes)
+
+[Kubeapps and Bitnami Kubernetes Production Runtime](https://bitnami.com/projects/kubeapps-and-bkpr)
+
+[4 Tools to Automate Kubernetes Cluster Deployments](https://spr.com/4-tools-to-automate-kubernetes-cluster-deployments/)
+
+https://ramitsurana.github.io/awesome-kubernetes/
+
+[Alternative Kubernetes UI](https://github.com/smpio/kubernator)
+
+[Kubernetes Best Practices](https://medium.com/google-cloud/kubernetes-best-practices-8d5cd03446e2)
+
+https://coderjourney.com/define-kubernetes-objects-using-yaml/
+
 ##### Video Tutorials
 
 [Google Cloud Platform](https://www.youtube.com/user/googlecloudplatform)
