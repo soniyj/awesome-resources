@@ -54,6 +54,8 @@ https://ramitsurana.github.io/awesome-kubernetes/
 
 https://coderjourney.com/define-kubernetes-objects-using-yaml/
 
+https://medium.com/google-cloud/kubernetes-day-one-30a80b5dcb29
+
 ##### Video Tutorials
 
 [Google Cloud Platform](https://www.youtube.com/user/googlecloudplatform)
@@ -81,3 +83,9 @@ https://www.baeldung.com/kubernetes-helm
 https://www.getambassador.io/about/why-ambassador
 
 https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d
+
+### Bitnami
+
+https://docs.bitnami.com/kubernetes/how-to/create-your-first-helm-chart/
+
+https://docs.bitnami.com/kubernetes/get-started-kubernetes/
