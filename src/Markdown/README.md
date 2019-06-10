@@ -7,3 +7,5 @@ https://www.markdownguide.org/getting-started/
 [How to Create Markdown-based Website with Jekyll](https://medium.com/pacroy/how-to-create-markdown-based-website-with-jekyll-e61454c23f68)
 
 https://dillinger.io/ (Online editor)
+
+[Writing Web Content with Markdown](https://www.hongkiat.com/blog/web-content-with-markdown/)
