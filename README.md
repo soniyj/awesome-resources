@@ -13,6 +13,7 @@ Collections of Awesome Resources
   * [AWS](./src/Cloud/Aws/)
   * [Google](./src/Cloud/google.md)
 - [Database](./src/Database/)
+- [DevOps](./src/DevOps/)
 - [Docker](./src/Docker/)
 - [E-Commerce](./src/E_Commerce/)
 - [Ebook](./src/Ebook/)

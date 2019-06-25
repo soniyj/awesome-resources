@@ -19,3 +19,5 @@ https://github.com/Solido/awesome-flutter
 https://github.com/ramitsurana/awesome-kubernetes
 
 https://awesome-kubernetes.readthedocs.io/
+
+https://github.com/quozd/awesome-dotnet
