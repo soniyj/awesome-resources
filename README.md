@@ -16,6 +16,7 @@ Collections of Awesome Resources
 - [DevOps](./src/DevOps/)
 - [Docker](./src/Docker/)
 - [E-Commerce](./src/E_Commerce/)
+- [E-Learning](./src/E_Learning/)
 - [Ebook](./src/Ebook/)
 - [Frontend](./src/Frontend/)
   * [Angular2](src/Frontend/Angular2/)
