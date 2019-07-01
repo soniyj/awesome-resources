@@ -61,3 +61,7 @@ http://argouml.tigris.org/ (open source)
 http://staruml.io/ (free?) [version 2]
 
 http://www.uml-diagrams.org/use-case-include.html
+
+### CAD
+
+http://kicad-pcb.org/
