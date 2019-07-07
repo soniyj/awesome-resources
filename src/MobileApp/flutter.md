@@ -34,6 +34,14 @@ https://github.com/hasnentai/quick_bee_youtube/blob/master/lib/main.dart
 
 https://www.youtube.com/playlist?list=PLpaPR7OMlko62b1RX9Va-QEDRQwmCIkS3
 
+https://medium.com/flutter-community
+
+https://www.filledstacks.com/tutorials/
+
+https://www.2dimensions.com/about-flare (Animations)
+
+https://codemagic.io/start/ (CI/CD for Flutter)
+
 ### Localization
 
 [Flutter — Localization: step by step](https://proandroiddev.com/flutter-localization-step-by-step-30f95d06018d)
