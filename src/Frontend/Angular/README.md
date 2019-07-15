@@ -44,6 +44,12 @@ https://github.com/compodoc/compodoc
 
 https://www.freecodecamp.org/news/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f/
 
+### Authentication
+
+https://medium.com/@monkov/angular-using-httpinterceptor-for-token-refreshing-3f04ea2ccb81
+
+https://angular-academy.com/angular-jwt/
+
 ### AWS
 
 https://medium.com/@mikemccall10/walkthrough-upload-images-to-s3-using-angular-and-lambda-724c2d9f8263

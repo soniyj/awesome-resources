@@ -42,6 +42,8 @@ https://www.2dimensions.com/about-flare (Animations)
 
 https://codemagic.io/start/ (CI/CD for Flutter)
 
+https://flutterbyexample.com/
+
 ### Localization
 
 [Flutter — Localization: step by step](https://proandroiddev.com/flutter-localization-step-by-step-30f95d06018d)
