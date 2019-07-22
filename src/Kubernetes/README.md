@@ -56,6 +56,14 @@ https://coderjourney.com/define-kubernetes-objects-using-yaml/
 
 https://medium.com/google-cloud/kubernetes-day-one-30a80b5dcb29
 
+https://www.linode.com/docs/applications/containers/manage-a-docker-cluster-with-kubernetes/
+
+https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16
+
+https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82
+
+https://github.com/ahmetb/kubernetes-network-policy-recipes (ready to use)
+
 ##### Video Tutorials
 
 [Google Cloud Platform](https://www.youtube.com/user/googlecloudplatform)
@@ -63,10 +71,6 @@ https://medium.com/google-cloud/kubernetes-day-one-30a80b5dcb29
 [Kubernetes The Easy Way! For Developers In 2018](https://www.youtube.com/watch?v=N5ODnik00Cs)
 
 [Kubernetes Ingress Explained For Beginners](https://www.youtube.com/watch?v=VicH6KojwCI)
-
-### Ingress
-
-https://kubernetes.github.io/ingress-nginx/troubleshooting/
 
 ### Helm
 
@@ -78,18 +82,42 @@ https://helm.sh/docs/helm/#helm
 
 https://www.baeldung.com/kubernetes-helm
 
-### Ambassador
-
-https://www.getambassador.io/about/why-ambassador
-
-https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d
-
 ### Bitnami
 
 https://docs.bitnami.com/kubernetes/how-to/create-your-first-helm-chart/
 
 https://docs.bitnami.com/kubernetes/get-started-kubernetes/
 
-### Traefik
+### Ingress Controllers
+
+##### Nginx
+
+https://kubernetes.github.io/ingress-nginx/troubleshooting/
+
+https://mesosphere.com/blog/ingress-controllers-kubernetes/
+
+##### Ambassador
+
+https://www.getambassador.io/about/why-ambassador
+
+https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d
+
+##### Traefik
 
 https://traefik.io/
+
+https://medium.com/@patrickeasters/using-traefik-with-tls-on-kubernetes-cb67fb43a948
+
+https://github.com/patrickeasters/traefik-k8s-tls-example
+
+##### Contour
+
+https://projectcontour.io/
+
+##### Kong
+
+https://konghq.com/kong/
+
+##### HAProxy
+
+http://www.haproxy.org/
