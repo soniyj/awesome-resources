@@ -1,5 +1,7 @@
 # Kubernetes Resources
 
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+
 https://kubernetes.io/docs/user-journeys/users/application-developer/foundational/
 
 https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/
@@ -64,6 +66,15 @@ https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0c
 
 https://github.com/ahmetb/kubernetes-network-policy-recipes (ready to use)
 
+##### Kubernetes on Mac/PC
+
+https://medium.com/containers-101/local-kubernetes-for-mac-minikube-vs-docker-desktop-f2789b3cad3a
+
+https://blog.arkey.fr/2018/06/18/minikube-with-hyperkit/
+
+https://blog.alexellis.io/docker-for-mac-with-kubernetes/
+
+
 ##### Video Tutorials
 
 [Google Cloud Platform](https://www.youtube.com/user/googlecloudplatform)
@@ -109,6 +120,16 @@ https://traefik.io/
 https://medium.com/@patrickeasters/using-traefik-with-tls-on-kubernetes-cb67fb43a948
 
 https://github.com/patrickeasters/traefik-k8s-tls-example
+
+https://medium.com/@geraldcroes/kubernetes-traefik-101-when-simplicity-matters-957eeede2cf8
+
+https://github.com/geraldcroes/kubernetes-traefik-article
+
+https://supergiant.io/blog/using-traefik-as-ingress-controller-for-your-kubernetes-cluster/
+
+https://medium.com/google-cloud/traefik-on-a-google-kubernetes-engine-cluster-managed-by-terraform-ad871be8ee26
+
+https://github.com/SantoDE/terraform-gcp-kubernetes-traefik
 
 ##### Contour
 

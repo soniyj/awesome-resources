@@ -47,3 +47,5 @@ https://www.youtube.com/user/TeslaUE4
 [Basic UMG UI Animation - #48 Unreal Engine 4 Beginner Tutorial Series](https://www.youtube.com/watch?v=F4QvCXO9XaQ)
 
 [Endless Runner Game](https://www.youtube.com/watch?v=BRR9Yb9R5WI&list=PLL0cLF8gjBpoTwM62rvhgmsk_Xp1_G1Vn&index=10)
+
+[Create Counter-Strike in UE4](https://www.youtube.com/watch?v=hi7A6D0TDfQ)

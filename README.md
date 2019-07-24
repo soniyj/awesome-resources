@@ -103,3 +103,13 @@ https://www.imgix.com/
 https://bazel.build/ (building tool) [look at it]
 
 https://gohugo.io/ (The world’s fastest framework for building websites)
+
+https://gohugo.io/hosting-and-deployment/hosting-on-aws-amplify/
+
+https://stackedit.io/ (In Browser Markdown Editor)
+
+http://knsv.github.io/mermaid/#/ (diagram and flowchart from text)
+
+https://www.youtube.com/watch?v=ATnpEOo3GJA (Mac on any PC)
+
+https://www.hubspot.com/crm

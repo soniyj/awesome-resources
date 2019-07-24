@@ -67,3 +67,7 @@ http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.Creati
 https://medium.com/@lockdown2k17/aws-s3-static-website-hosting-using-ssl-acm-112e6d6b6d97
 
 https://medium.com/@sbuckpesch/setup-aws-s3-static-website-hosting-using-ssl-acm-34d41d32e394
+
+### API Gateway
+
+https://medium.com/@maciejtreder/custom-domain-in-aws-api-gateway-a2b7feaf9c74
