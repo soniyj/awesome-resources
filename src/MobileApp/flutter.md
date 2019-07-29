@@ -1,12 +1,14 @@
 # Flutter Resources
 
-### Flutter
+### Official Doc
 
-https://flutter.io/
+https://flutter.dev/
 
-https://flutter.io/get-started/learn-more/
+https://flutter.dev/docs/get-started/learn-more
 
 https://flutter.dev/docs/deployment/cd
+
+### Tutorials
 
 [Building Beautiful UIs with Flutter]( Flutterhttps://codelabs.developers.google.com/codelabs/flutter/#0)
 
@@ -30,11 +32,7 @@ https://github.com/flutterchina/dio
 
 https://medium.com/flutter-io/google-maps-and-flutter-cfb330f9a245
 
-https://www.youtube.com/watch?v=PkY6Y-dmimE
-
 https://github.com/hasnentai/quick_bee_youtube/blob/master/lib/main.dart
-
-https://www.youtube.com/playlist?list=PLpaPR7OMlko62b1RX9Va-QEDRQwmCIkS3
 
 https://medium.com/flutter-community
 
@@ -46,9 +44,15 @@ https://codemagic.io/start/ (CI/CD for Flutter)
 
 https://flutterbyexample.com/
 
-https://www.appcoda.com/flutter-basics/
+https://www.appcoda.com/flutter-basics/ (To follow)
 
 https://github.com/lawreyios/introducing-flutter
+
+https://github.com/flutter/samples/blob/master/INDEX.md (A curated list of samples)
+
+https://flutterx.com/ (A Searchable List of Flutter Resources)
+
+https://itsallwidgets.com/?open_source=true (An open list of apps built with Flutter)
 
 ### Localization
 
@@ -59,3 +63,9 @@ https://github.com/lawreyios/introducing-flutter
 [Flutter: internationalization tutorials: Part 2 — intl and arb approaches](https://medium.com/@datvt9312/flutter-internationalization-tutorials-part-2-intl-package-approach-and-as-plugin-approach-b0aabdb254d8)
 
 [Flutter: internationalization tutorials: Part 3— Android Studio plugin](https://medium.com/@datvt9312/flutter-internationalization-tutorials-part-3-android-studio-plugin-8604e2dc90f0)
+
+### Video Tutorials
+
+https://www.youtube.com/watch?v=PkY6Y-dmimE (Flutter UI)
+
+https://www.youtube.com/playlist?list=PLpaPR7OMlko62b1RX9Va-QEDRQwmCIkS3 (Flutter UI)

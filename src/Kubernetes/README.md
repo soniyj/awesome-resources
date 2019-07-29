@@ -66,6 +66,8 @@ https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0c
 
 https://github.com/ahmetb/kubernetes-network-policy-recipes (ready to use)
 
+https://kubernetes.io/docs/concepts/services-networking/ingress/#simple-fanout
+
 ##### Kubernetes on Mac/PC
 
 https://medium.com/containers-101/local-kubernetes-for-mac-minikube-vs-docker-desktop-f2789b3cad3a
@@ -117,6 +119,11 @@ https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ing
 
 https://traefik.io/
 
+https://docs.traefik.io/user-guide/kubernetes/
+
+https://docs.traefik.io/user-guide/docker-and-lets-encrypt/
+
+<!--  Follow this tutorial -->
 https://medium.com/@patrickeasters/using-traefik-with-tls-on-kubernetes-cb67fb43a948
 
 https://github.com/patrickeasters/traefik-k8s-tls-example
