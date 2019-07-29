@@ -6,6 +6,8 @@ https://flutter.io/
 
 https://flutter.io/get-started/learn-more/
 
+https://flutter.dev/docs/deployment/cd
+
 [Building Beautiful UIs with Flutter]( Flutterhttps://codelabs.developers.google.com/codelabs/flutter/#0)
 
 [Free Flutter (iOS & Android) themes](https://startflutter.com/)
@@ -43,6 +45,10 @@ https://www.2dimensions.com/about-flare (Animations)
 https://codemagic.io/start/ (CI/CD for Flutter)
 
 https://flutterbyexample.com/
+
+https://www.appcoda.com/flutter-basics/
+
+https://github.com/lawreyios/introducing-flutter
 
 ### Localization
 

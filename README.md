@@ -113,3 +113,5 @@ http://knsv.github.io/mermaid/#/ (diagram and flowchart from text)
 https://www.youtube.com/watch?v=ATnpEOo3GJA (Mac on any PC)
 
 https://www.hubspot.com/crm
+
+https://www.mkdocs.org/ (Site generator from markdown)
