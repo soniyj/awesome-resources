@@ -123,6 +123,8 @@ https://docs.traefik.io/user-guide/kubernetes/
 
 https://docs.traefik.io/user-guide/docker-and-lets-encrypt/
 
+https://docs.traefik.io/configuration/acme/
+
 <!--  Follow this tutorial -->
 https://medium.com/@patrickeasters/using-traefik-with-tls-on-kubernetes-cb67fb43a948
 
@@ -137,6 +139,10 @@ https://supergiant.io/blog/using-traefik-as-ingress-controller-for-your-kubernet
 https://medium.com/google-cloud/traefik-on-a-google-kubernetes-engine-cluster-managed-by-terraform-ad871be8ee26
 
 https://github.com/SantoDE/terraform-gcp-kubernetes-traefik
+
+https://medium.com/@carlosedp/multiple-traefik-ingresses-with-letsencrypt-https-certificates-on-kubernetes-b590550280cf
+
+https://blog.deimos.fr/2017/08/20/kubernetes-with-traefik-and-lets-encrypt/
 
 ##### Contour
 
