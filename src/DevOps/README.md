@@ -1,5 +1,15 @@
 # DevOps Resources
 
+### Let's Encrypt - SSL Certificates
+
+[Official Website](https://letsencrypt.org/)
+
+[Certbot Website](https://certbot.eff.org/)
+
+[Let's Encrypt: Wildcard Certificate With Certbot](https://dev.to/nabbisen/let-s-encrypt-wildcard-certificate-with-certbot-plo)
+
+[Generate Wildcard SSL certificate using Let’s Encrypt/Certbot](https://medium.com/@saurabh6790/generate-wildcard-ssl-certificate-using-lets-encrypt-certbot-273e432794d7)
+
 ### CI/CD
 
 https://www.gocd.org/
