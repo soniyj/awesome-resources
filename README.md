@@ -47,6 +47,7 @@ Collections of Awesome Resources
   * [Git](./src/Git/)
 - [Serverless](./src/Serverless/)
 - [Software](./src/Software/)
+  * [Management](./src/Software/management.md)
   * [Prototyping](./src/Software/prototyping.md)
 - [Testing](./src/Testing/)
 - [Website](./src/Website/)
