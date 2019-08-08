@@ -144,6 +144,10 @@ https://medium.com/@carlosedp/multiple-traefik-ingresses-with-letsencrypt-https-
 
 https://blog.deimos.fr/2017/08/20/kubernetes-with-traefik-and-lets-encrypt/
 
+https://medium.com/@dusansusic/traefik-ingress-controller-for-k8s-c1137c9c05c4
+
+https://github.com/dusansusic/kubernetes-traefik
+
 ##### Contour
 
 https://projectcontour.io/
