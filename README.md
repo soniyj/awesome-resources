@@ -111,3 +111,11 @@ http://knsv.github.io/mermaid/#/ (diagram and flowchart from text)
 https://www.youtube.com/watch?v=ATnpEOo3GJA (Mac on any PC)
 
 https://www.hubspot.com/crm
+
+*chat (to check)*
+
+https://mattermost.com/ (free?)
+
+https://zulipchat.com/ (almost free)
+
+https://about.riot.im/ (free)

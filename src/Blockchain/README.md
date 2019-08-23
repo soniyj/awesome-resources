@@ -10,6 +10,14 @@ https://gnosis.pm/
 
 https://arcbit.io/
 
+https://developer.algorand.org/docs/getting-started (https://www.algorand.com/)
+
+https://developers.eos.io/ (https://eos.io/)
+
+https://developers.iost.io/docs/en/1-getting-started/Overview.html (https://iost.io/)
+
+https://tron.network/
+
 ### YouTube Channels and Videos
 
 https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ/featured

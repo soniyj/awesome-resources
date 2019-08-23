@@ -32,6 +32,8 @@ http://swarm-gateways.net/bzz:/theswarm.eth/
 
 https://github.com/ethersphere/go-ethereum/wiki/IPFS-&-SWARM
 
+https://infura.io/
+
 ### Docker
 
 https://gist.github.com/fishbullet/04fcc4f7af90ee9fa6f9de0b0aa325ab

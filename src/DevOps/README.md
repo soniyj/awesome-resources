@@ -16,6 +16,8 @@ https://www.gocd.org/
 
 http://codeship.com/ (cloud, paid, free)
 
+https://drone.io/ (free?)
+
 ### Circle CI
 
 https://circleci.com/ (cloud, paid, free tier)
