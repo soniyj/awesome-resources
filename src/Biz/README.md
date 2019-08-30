@@ -13,6 +13,8 @@ https://www.lowtax.net/
 
 https://www.entrepreneur.com/formnet
 
+https://www.thebusinessplanshop.com/blog/en/entry/tam_sam_som
+
 <a name="italianlaw"/></a>
 ### Italian Law
 
