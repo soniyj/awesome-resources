@@ -112,6 +112,10 @@ https://www.youtube.com/watch?v=ATnpEOo3GJA (Mac on any PC)
 
 https://www.hubspot.com/crm
 
+https://github.com/AlDanial/cloc (Code Line Counter)
+
+https://developer.okta.com/ (Auth Services)
+
 *chat (to check)*
 
 https://mattermost.com/ (free?)

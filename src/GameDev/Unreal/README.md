@@ -18,6 +18,16 @@ https://80.lv/articles/game-dev-under-limits-tools-solutions-sacrifices/
 
 https://www.virtushub.com/
 
+##### HTTP
+
+https://wiki.unrealengine.com/UE4.10_How_To_Make_HTTP_GET_Request_in_C%2B%2B
+
+https://github.com/ncsoft/Unreal.js/blob/master/README.md
+
+https://medium.com/@imseansullivan/getting-started-with-typescript-in-unreal-engine-f1a70adb624
+
+https://medium.com/@slonorib/how-to-connect-unreal-engine-4-to-local-server-via-sockets-9d73fd180f0b
+
 ### Video Tutorials
 
 [Blueprint Game Framework Basics | Live Training | Unreal Engine](https://www.youtube.com/watch?v=0LG4hiisflg)
