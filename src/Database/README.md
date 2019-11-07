@@ -1,5 +1,7 @@
 # Database Resources
 
+* [SQL](./SQL.md)
+
 http://www.databaseanswers.org/
 
 https://www.rethinkdb.com/

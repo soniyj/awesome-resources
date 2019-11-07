@@ -4,6 +4,8 @@
 
 https://docs.unrealengine.com/en-us/
 
+https://docs.unrealengine.com/en-US/Resources/SampleGames/index.html
+
 https://www.youtube.com/user/UnrealDevelopmentKit/
 
 ### Tutorials
@@ -17,6 +19,12 @@ https://www.gamedesigning.org/learn/unreal/
 https://80.lv/articles/game-dev-under-limits-tools-solutions-sacrifices/
 
 https://www.virtushub.com/
+
+https://www.tomlooman.com/
+
+http://romeroblueprints.blogspot.com/
+
+https://answers.unrealengine.com/questions/480814/in-need-of-good-tutorials-for-racing-game.html
 
 ##### HTTP
 
