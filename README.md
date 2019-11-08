@@ -116,6 +116,8 @@ https://github.com/AlDanial/cloc (Code Line Counter)
 
 https://developer.okta.com/ (Auth Services)
 
+https://www.imagemagick.org/
+
 *chat (to check)*
 
 https://mattermost.com/ (free?)
