@@ -8,11 +8,19 @@ https://docs.unrealengine.com/en-US/Resources/SampleGames/index.html
 
 https://www.youtube.com/user/UnrealDevelopmentKit/
 
+https://docs.unrealengine.com/en-US/Engine/Blueprints/index.html
+
+https://docs.unrealengine.com/en-US/Engine/Blueprints/UserGuide/EventDispatcher/index.html
+
+https://docs.unrealengine.com/en-US/Engine/Blueprints/QuickStart/index.html
+
 ### Tutorials
 
 https://www.raywenderlich.com/771-unreal-engine-4-tutorial-for-beginners-getting-started
 
 https://www.raywenderlich.com/504-unreal-engine-4-materials-tutorial
+
+https://www.raywenderlich.com/663-unreal-engine-4-blueprints-tutorial
 
 https://www.gamedesigning.org/learn/unreal/
 
@@ -25,6 +33,8 @@ https://www.tomlooman.com/
 http://romeroblueprints.blogspot.com/
 
 https://answers.unrealengine.com/questions/480814/in-need-of-good-tutorials-for-racing-game.html
+
+http://shootertutorial.com/tutorials/
 
 ##### HTTP
 
@@ -67,3 +77,7 @@ https://www.youtube.com/user/TeslaUE4
 [Endless Runner Game](https://www.youtube.com/watch?v=BRR9Yb9R5WI&list=PLL0cLF8gjBpoTwM62rvhgmsk_Xp1_G1Vn&index=10)
 
 [Create Counter-Strike in UE4](https://www.youtube.com/watch?v=hi7A6D0TDfQ)
+
+[Blueprint Communication Project](https://docs.unrealengine.com/en-US/Engine/Blueprints/HowTo/index.html)
+
+https://www.youtube.com/user/VirtusEdu/videos
