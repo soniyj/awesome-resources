@@ -163,7 +163,23 @@ http://www.haproxy.org/
 
 ### TLS/SSL
 
-https://docs.cert-manager.io/en/latest/index.html
+https://cert-manager.io/docs/
+
+https://cert-manager.io/docs/installation/kubernetes/
+
+https://cert-manager.io/docs/configuration/acme/#creating-a-basic-acme-issuer
+
+https://cert-manager.io/docs/usage/ingress/
+
+https://cert-manager.io/docs/tutorials/acme/ingress/
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-an-nginx-ingress-with-cert-manager-on-digitalocean-kubernetes
+
+https://itsmetommy.com/2019/06/23/kubernetes-cert-manager-on-gke-using-lets-encrypt/
+
+https://medium.com/google-cloud/https-with-cert-manager-on-gke-49a70985d99b
+
+https://www.qwiklabs.com/focuses/2771?parent=catalog [video]
 
 ### To Look at later ###
 
