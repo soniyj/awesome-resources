@@ -46,6 +46,10 @@ https://medium.com/@imseansullivan/getting-started-with-typescript-in-unreal-eng
 
 https://medium.com/@slonorib/how-to-connect-unreal-engine-4-to-local-server-via-sockets-9d73fd180f0b
 
+#### Unity to Unreal
+
+[Project Exodus - Unity to Unreal scene/project transfer tool](https://github.com/NegInfinity/ProjectExodus)
+
 ### Cloud
 
 https://www.paperspace.com/
@@ -89,3 +93,11 @@ https://www.youtube.com/user/TeslaUE4
 [Blueprint Communication Project](https://docs.unrealengine.com/en-US/Engine/Blueprints/HowTo/index.html)
 
 https://www.youtube.com/user/VirtusEdu/videos
+
+[Live Training - YouTube](https://www.youtube.com/playlist?list=PLZlv_N0_O1ga0aV9jVqJgog0VWz1cLL5f)
+
+[Introduction to Vehicles](https://www.youtube.com/playlist?list=PLZlv_N0_O1gaz6eETtIxcmUDnqu5A-8At)
+
+### Projects & Plugins
+
+https://forums.unrealengine.com/community/community-content-tools-and-tutorials/1492096-free-modular-road-tool

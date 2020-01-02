@@ -122,6 +122,8 @@ https://docs.traefik.io/user-guide/kubernetes/
 
 https://docs.traefik.io/user-guide/docker-and-lets-encrypt/
 
+https://docs.traefik.io/user-guides/crd-acme/
+
 https://docs.traefik.io/configuration/acme/
 
 https://docs.traefik.io/user-guide/examples/
