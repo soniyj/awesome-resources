@@ -98,6 +98,14 @@ https://www.youtube.com/user/VirtusEdu/videos
 
 [Introduction to Vehicles](https://www.youtube.com/playlist?list=PLZlv_N0_O1gaz6eETtIxcmUDnqu5A-8At)
 
+[UE4 How to make Car Vehicle Wheel with Suspension using Physics in Unreal Engine 4 Tutorial](https://www.youtube.com/watch?v=PWTCM6sZ6OE)
+
+[Lusiogenic](https://www.youtube.com/channel/UCashj2epd9Urq1_5_RRuDrw)
+
+[Custom Vehicles in Unreal Engine - 2 - Simple Car Using Physics Constraints](https://www.youtube.com/watch?v=qOe3lYCA1YA)
+
+[01 - Vehicle Setup Part 1.](https://www.youtube.com/watch?v=A79_RN329xA)
+
 ### Projects & Plugins
 
 https://forums.unrealengine.com/community/community-content-tools-and-tutorials/1492096-free-modular-road-tool
