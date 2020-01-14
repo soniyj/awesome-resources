@@ -28,6 +28,12 @@ https://circleci.com/blog/continuous-integration-for-django-projects/
 
 https://serverless.com/blog/ci-cd-workflow-serverless-apps-with-circleci/
 
+https://github.com/CircleCI-Public/circleci-demo-aws-ecs-ecr/tree/without_orbs
+
+https://github.com/CircleCI-Public/circleci-demo-aws-ecs-ecr
+
+https://circleci.com/blog/using-circleci-workflows-to-replicate-docker-hub-automated-builds/
+
 ### Fastlane
 
 https://docs.fastlane.tools/
