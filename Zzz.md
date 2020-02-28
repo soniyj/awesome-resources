@@ -6,6 +6,8 @@ https://medium.com/@mykola.veriga/how-to-run-stand-alone-traefik-with-multiple-d
 
 https://hollo.me/devops/routing-to-multiple-docker-compose-development-setups-with-traefik.html
 
+https://medium.com/@luiscoutinh/reverse-proxy-with-docker-traefik-nginx-php-mysql-mosquitto-phpmyadmin-basic-c9b588bda63a
+
 https://grafana.com/
 
 https://www.elastic.co/what-is/elk-stack
