@@ -19,3 +19,14 @@ https://knative.dev/docs/serving/getting-started-knative-app/
 https://cloud.google.com/knative
 
 https://aws.amazon.com/fargate/?nc=sn&loc=1
+
+### Traefik ###
+
+https://www.humankode.com/ssl/how-to-set-up-free-ssl-certificates-from-lets-encrypt-using-docker-and-nginx (look for ssl)
+
+https://github.com/wmnnd/nginx-certbot
+
+https://medium.com/@joshuaavalon/setup-traefik-step-by-step-406792afe9b2
+
+https://medium.com/@joshuaavalon/setup-traefik-v2-step-by-step-fae44ed8f76d
+
