@@ -30,3 +30,22 @@ https://medium.com/@joshuaavalon/setup-traefik-step-by-step-406792afe9b2
 
 https://medium.com/@joshuaavalon/setup-traefik-v2-step-by-step-fae44ed8f76d
 
+https://joshuaavalon.io/setup-traefik-v2-step-by-step
+
+
+https://www.digitalocean.com/community/tutorials/how-to-use-traefik-as-a-reverse-proxy-for-docker-containers-on-ubuntu-18-04
+
+https://www.digitalocean.com/community/tutorials/how-to-use-traefik-as-a-reverse-proxy-for-docker-containers-on-debian-9
+
+https://www.howtoforge.com/tutorial/ubuntu-docker-traefik-proxy/
+
+https://medium.com/@containeroo/traefik-2-0-docker-a-simple-step-by-step-guide-e0be0c17cfa5
+
+https://stackoverflow.com/questions/47033840/multiple-container-with-traefik-reverse-proxy-solution
+
+
+https://www.supertechcrew.com/traefik-cloud-native-router-docker-compose/
+
+https://stackoverflow.com/questions/50899827/configure-traefik-in-front-of-two-docker-containers-all-on-port-80
+
+https://alexwinter.me/docker/run-multiple-containers-listening-to-same-port (virtual host)
