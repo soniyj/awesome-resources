@@ -51,3 +51,9 @@ https://www.supertechcrew.com/traefik-cloud-native-router-docker-compose/
 https://stackoverflow.com/questions/50899827/configure-traefik-in-front-of-two-docker-containers-all-on-port-80
 
 https://alexwinter.me/docker/run-multiple-containers-listening-to-same-port (virtual host)
+
+### Traefik v2.1
+
+https://www.innoq.com/en/blog/traefik-v2-and-mastodon/
+
+https://gist.github.com/smashnet/38cf7c30cb06427bab78ae5ab0fd2ae3
