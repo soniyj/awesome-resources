@@ -63,3 +63,5 @@ https://alexwinter.me/docker/run-multiple-containers-listening-to-same-port (vir
 https://www.innoq.com/en/blog/traefik-v2-and-mastodon/
 
 https://gist.github.com/smashnet/38cf7c30cb06427bab78ae5ab0fd2ae3
+
+http://nicolas.inden.one/article/2020/01/24/traefik-v2-and-mastodon.html
