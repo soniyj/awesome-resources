@@ -30,6 +30,8 @@ http://nicolas.inden.one/article/2020/01/24/traefik-v2-and-mastodon.html
 
 http://nicolas.inden.one/article/2020/01/24/traefik-v2-and-mastodon.html
 
+http://nicolas.inden.one/article/2020/01/24/traefik-v2-and-mastodon.html
+
 https://medium.com/@joshuaavalon/setup-traefik-step-by-step-406792afe9b2
 
 https://medium.com/@joshuaavalon/setup-traefik-v2-step-by-step-fae44ed8f76d
