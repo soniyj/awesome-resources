@@ -109,3 +109,16 @@ https://www.youtube.com/user/VirtusEdu/videos
 ### Projects & Plugins
 
 https://forums.unrealengine.com/community/community-content-tools-and-tutorials/1492096-free-modular-road-tool
+
+### To org
+
+https://docs.unrealengine.com/en-US/Engine/Blueprints/UserGuide/Events/Custom/index.html
+
+https://forums.unrealengine.com/development-discussion/blueprint-visual-scripting/72814-event-dispatchers-explained-finally
+
+https://forums.unrealengine.com/community/community-content-tools-and-tutorials/67244-seamless-proper-loading-screens-play-movies-audio-animated-widgets
+
+https://wiki.unrealengine.com/Loading_Screen
+
+https://github.com/ue4plugins/LoadingScreen
+
