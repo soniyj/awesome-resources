@@ -36,6 +36,10 @@ https://answers.unrealengine.com/questions/480814/in-need-of-good-tutorials-for-
 
 http://shootertutorial.com/tutorials/
 
+https://forums.unrealengine.com/development-discussion/content-creation/119401-move-actor-from-point-a-to-point-b-in-x-secconds
+
+https://www.tesla-dev.com/ (interesting)
+
 ##### HTTP
 
 https://wiki.unrealengine.com/UE4.10_How_To_Make_HTTP_GET_Request_in_C%2B%2B
@@ -106,6 +110,8 @@ https://www.youtube.com/user/VirtusEdu/videos
 
 [01 - Vehicle Setup Part 1.](https://www.youtube.com/watch?v=A79_RN329xA)
 
+https://www.youtube.com/channel/UC3QBWg9pMnaFF-q0qjXPDEg (interesting tutorials)
+
 ### Projects & Plugins
 
 https://forums.unrealengine.com/community/community-content-tools-and-tutorials/1492096-free-modular-road-tool
@@ -121,4 +127,3 @@ https://forums.unrealengine.com/community/community-content-tools-and-tutorials/
 https://wiki.unrealengine.com/Loading_Screen
 
 https://github.com/ue4plugins/LoadingScreen
-
