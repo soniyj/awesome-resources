@@ -83,3 +83,16 @@ https://www.inps.it/nuovoportaleinps/default.aspx?sPathID=%3b0%3b49459%3b&lastMe
 https://www.inps.it/nuovoportaleinps/default.aspx?itemDir=51105
 
 https://luce-gas.it/guida/consumatori/bonus-energia#modulo
+
+### to fix
+
+https://towardsdatascience.com/how-to-create-a-cli-in-golang-with-cobra-d729641c7177?gi=50e966521d45
+
+https://github.com/schadokar/my-calc/blob/master/cmd/add.go
+
+https://subscription.packtpub.com/book/game_development/9781785286018/1/ch01lvl1sec12/adding-movement
+
+https://m.youtube.com/watch?v=8CguSL8cX6Y
+
+https://m.youtube.com/channel/UCz3rTBqy2llAJd3OZkeA5yg/videos
+
