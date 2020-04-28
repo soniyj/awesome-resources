@@ -96,3 +96,8 @@ https://m.youtube.com/watch?v=8CguSL8cX6Y
 
 https://m.youtube.com/channel/UCz3rTBqy2llAJd3OZkeA5yg/videos
 
+https://www.storyblok.com/ (headless CMS)
+
+https://cloudinary.com/ (media services)
+
+https://formspree.io/ (form creation)
