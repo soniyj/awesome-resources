@@ -101,3 +101,7 @@ https://www.storyblok.com/ (headless CMS)
 https://cloudinary.com/ (media services)
 
 https://formspree.io/ (form creation)
+
+https://jamstack.org/
+
+https://www.netlify.com/
