@@ -105,3 +105,21 @@ https://formspree.io/ (form creation)
 https://jamstack.org/
 
 https://www.netlify.com/
+
+### Docker ELK(B)
+
+https://github.com/deviantony/docker-elk#how-to-configure-elasticsearch
+
+https://logz.io/learn/docker-monitoring-elk-stack/
+
+https://medium.com/@sece.cosmin/docker-logs-with-elastic-stack-elk-filebeat-50e2b20a27c6
+
+https://github.com/cosminseceleanu/tutorials
+
+https://www.freecodecamp.org/news/docker-container-log-analysis-with-elastic-stack-53d5ec9e5953/
+
+http://dockerlabs.collabnix.com/
+
+http://dockerlabs.collabnix.com/play-with-docker/ELK/
+
+https://github.com/collabnix/dockerlabs
