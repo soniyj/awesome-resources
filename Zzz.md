@@ -123,3 +123,5 @@ http://dockerlabs.collabnix.com/
 http://dockerlabs.collabnix.com/play-with-docker/ELK/
 
 https://github.com/collabnix/dockerlabs
+
+https://github.com/namvu80ap/docker-elk-filebeat
