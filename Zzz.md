@@ -125,3 +125,9 @@ http://dockerlabs.collabnix.com/play-with-docker/ELK/
 https://github.com/collabnix/dockerlabs
 
 https://github.com/namvu80ap/docker-elk-filebeat
+
+https://elk-docker.readthedocs.io/ (to test)
+
+https://github.com/spujadas/elk-docker (to test followed up)
+
+https://github.com/bargenson/docker-filebeat (to test)
