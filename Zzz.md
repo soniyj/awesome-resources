@@ -131,3 +131,7 @@ https://elk-docker.readthedocs.io/ (to test)
 https://github.com/spujadas/elk-docker (to test followed up)
 
 https://github.com/bargenson/docker-filebeat (to test)
+
+https://logz.io/blog/filebeat-tutorial/ (to check)
+
+https://logz.io/blog/filebeat-vs-logstash/ (to check)
