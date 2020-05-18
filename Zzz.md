@@ -108,15 +108,15 @@ https://www.netlify.com/
 
 ### Docker ELK(B)
 
-https://github.com/deviantony/docker-elk#how-to-configure-elasticsearch
+https://www.freecodecamp.org/news/docker-container-log-analysis-with-elastic-stack-53d5ec9e5953/ [x]
+
+https://github.com/deviantony/docker-elk [x]
 
 https://logz.io/learn/docker-monitoring-elk-stack/
 
-https://medium.com/@sece.cosmin/docker-logs-with-elastic-stack-elk-filebeat-50e2b20a27c6
+https://medium.com/@sece.cosmin/docker-logs-with-elastic-stack-elk-filebeat-50e2b20a27c6 [x]
 
-https://github.com/cosminseceleanu/tutorials
-
-https://www.freecodecamp.org/news/docker-container-log-analysis-with-elastic-stack-53d5ec9e5953/
+https://github.com/cosminseceleanu/tutorials [x]
 
 http://dockerlabs.collabnix.com/
 
