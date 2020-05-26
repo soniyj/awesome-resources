@@ -106,6 +106,8 @@ https://jamstack.org/
 
 https://www.netlify.com/
 
+https://scene-si.org/2018/03/12/handling-http-requests-with-go-chi/
+
 ### Docker ELK(B)
 
 https://www.freecodecamp.org/news/docker-container-log-analysis-with-elastic-stack-53d5ec9e5953/ [x]
