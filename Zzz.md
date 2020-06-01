@@ -137,3 +137,13 @@ https://github.com/bargenson/docker-filebeat (to test)
 https://logz.io/blog/filebeat-tutorial/ (to check)
 
 https://logz.io/blog/filebeat-vs-logstash/ (to check)
+
+https://appfleet.com/blog/docker-centralized-logging-with-elk-stack/ (to check 1)
+
+https://logz.io/blog/elk-stack-on-docker/ (to check 2 within filebeat tutorial)
+
+https://elk-docker.readthedocs.io/#installation (to check 3 with an eye on deviantory)
+
+https://hub.docker.com/r/sebp/elk (to check 4)
+
+https://github.com/spujadas/elk-docker/tree/master/nginx-filebeat (to check 5)
