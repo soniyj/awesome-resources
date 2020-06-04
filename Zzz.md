@@ -96,17 +96,23 @@ https://m.youtube.com/watch?v=8CguSL8cX6Y
 
 https://m.youtube.com/channel/UCz3rTBqy2llAJd3OZkeA5yg/videos
 
-https://www.storyblok.com/ (headless CMS)
-
 https://cloudinary.com/ (media services)
 
 https://formspree.io/ (form creation)
 
+https://scene-si.org/2018/03/12/handling-http-requests-with-go-chi/
+
+### Headless (CMS)
+
 https://jamstack.org/
 
-https://www.netlify.com/
+https://www.storyblok.com/ (Forever free with 1 user)
 
-https://scene-si.org/2018/03/12/handling-http-requests-with-go-chi/
+https://www.netlify.com/ ($0 Great for hosting personal projects, hobby sites, or experiments)
+
+https://strapi.io/ (leading open-source headless CMS. It’s 100% Javascript, fully customizable and developer-first)
+
+https://www.sanity.io/ ($0 Includes 3 users)
 
 ### Docker ELK(B)
 
