@@ -19,3 +19,7 @@ https://github.com/couchbase/sync_gateway
 **Firestore**
 
 https://github.com/codediodeio/firestore-migrator
+
+### Etcd
+
+https://etcd.io/ (A distributed, reliable key-value store for the most critical data of a distributed system)
