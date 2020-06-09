@@ -153,3 +153,9 @@ https://elk-docker.readthedocs.io/#installation (to check 3 with an eye on devia
 https://hub.docker.com/r/sebp/elk (to check 4)
 
 https://github.com/spujadas/elk-docker/tree/master/nginx-filebeat (to check 5)
+
+### Headless
+
+https://strapi.io/ (Design APIs fast, manage content easily)
+
+https://directus.io/ (Data-First Headless CMS & API)
