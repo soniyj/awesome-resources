@@ -13,3 +13,5 @@
 https://www.sonarqube.org/ (automatic code review tool to detect bugs, vulnerabilities and code smells in your code)
 
 https://software.intel.com/en-us/
+
+https://deno.land/ (A secure runtime for JavaScript and TypeScript)
