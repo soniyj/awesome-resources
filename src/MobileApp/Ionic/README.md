@@ -63,3 +63,9 @@ https://github.com/couchbaselabs/TodoLite-Ionic
 https://blog.couchbase.com/using-couchbase-in-your-ionic-framework-application-part-1/
 
 https://blog.couchbase.com/using-couchbase-in-your-ionic-framework-application-part-2/
+
+### MonoRepo
+
+https://blog.devget.net/development/angular-8-ionic-4-monorepo-part-1-the-setup/
+
+https://nstudio.io/xplat
