@@ -23,3 +23,7 @@ https://github.com/codediodeio/firestore-migrator
 ### Etcd
 
 https://etcd.io/ (A distributed, reliable key-value store for the most critical data of a distributed system)
+
+### ObjectBox
+
+https://objectbox.io/dev-get-started/
