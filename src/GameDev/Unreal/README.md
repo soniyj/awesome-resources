@@ -54,6 +54,8 @@ https://medium.com/@slonorib/how-to-connect-unreal-engine-4-to-local-server-via-
 
 [Project Exodus - Unity to Unreal scene/project transfer tool](https://github.com/NegInfinity/ProjectExodus)
 
+https://forum.unity.com/threads/unity-ue4-scene-export.392513/
+
 ### Cloud
 
 https://www.paperspace.com/
@@ -63,6 +65,8 @@ https://gofreak.tumblr.com/post/87018936015/unreal-engine-4-developing-in-the-cl
 https://unrealcontainers.com/
 
 ### Video Tutorials
+
+https://www.youtube.com/user/UnrealDevelopmentKit/featured
 
 [Blueprint Game Framework Basics | Live Training | Unreal Engine](https://www.youtube.com/watch?v=0LG4hiisflg)
 
@@ -111,6 +115,12 @@ https://www.youtube.com/user/VirtusEdu/videos
 [01 - Vehicle Setup Part 1.](https://www.youtube.com/watch?v=A79_RN329xA)
 
 https://www.youtube.com/channel/UC3QBWg9pMnaFF-q0qjXPDEg (interesting tutorials)
+
+[True First Person Camera - #2 Creating A First Person Shooter (FPS) With Unreal Engine 4](https://www.youtube.com/watch?v=0mgm16ki8zM)
+
+[BP Time Attack Racer PLaylist](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYdhCvvMKGpCF6LCgBz9XeS)
+
+[UE4 / Unreal Engine 4 UMG / Widgets - #02 Keyboard/Gamepad Menu](https://www.youtube.com/watch?v=gDKIenYaoxw)
 
 ### Projects & Plugins
 
