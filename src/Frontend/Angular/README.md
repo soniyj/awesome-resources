@@ -57,3 +57,11 @@ https://medium.com/@mikemccall10/walkthrough-upload-images-to-s3-using-angular-a
 ### Angular1 Resources
 
 https://github.com/oblador/angular-scroll
+
+### Authorization and Permission
+
+https://casl.js.org/v4/en/
+
+https://github.com/stalniy/casl
+
+https://medium.com/dailyjs/managing-user-permissions-in-angular-application-504c83752f83
