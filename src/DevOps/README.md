@@ -37,3 +37,17 @@ https://circleci.com/blog/using-circleci-workflows-to-replicate-docker-hub-autom
 ### Fastlane
 
 https://docs.fastlane.tools/
+
+### Ansible
+
+https://www.ansible.com/
+
+**Docker**
+
+https://www.rechberger.io/tutorial-install-docker-using-ansible-on-a-remote-server/
+
+https://medium.com/@tech_phil/running-ansible-inside-docker-550d3bb2bdff
+
+https://medium.com/@iced_burn/run-ansible-with-docker-9eb27d75285b
+
+https://medium.com/@Joachim8675309/docker-using-shell-or-ansible-7cdceb646d3
