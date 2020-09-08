@@ -62,6 +62,20 @@ https://github.com/stalniy/casl
 
 https://medium.com/dailyjs/managing-user-permissions-in-angular-application-504c83752f83
 
+### RxJS
+
+https://rxjs-dev.firebaseapp.com/guide/overview
+
+https://www.learnrxjs.io/
+
+### NgRx
+
+https://ngrx.io/
+
+https://medium.com/angular-in-depth/how-to-start-flying-with-angular-and-ngrx-b18e84d444aa
+
+https://medium.com/better-programming/angular-getting-started-with-ngrx-75b9139c23eb
+
 ### Angular1 Resources
 
 https://github.com/oblador/angular-scroll
