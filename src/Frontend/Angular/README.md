@@ -72,9 +72,13 @@ https://www.learnrxjs.io/
 
 https://ngrx.io/
 
-https://medium.com/angular-in-depth/how-to-start-flying-with-angular-and-ngrx-b18e84d444aa
+https://medium.com/angular-in-depth/how-to-start-flying-with-angular-and-ngrx-b18e84d444aa {1}
 
 https://medium.com/better-programming/angular-getting-started-with-ngrx-75b9139c23eb
+
+https://levelup.gitconnected.com/angular-ngrx-a-clean-and-clear-introduction-4ed61c89c1fc
+
+[Ngrx Store Tutorial for Angular - Learn State Management for Angular](https://www.youtube.com/watch?v=9P5DTlg9oLc) {watching}
 
 ### Angular1 Resources
 
