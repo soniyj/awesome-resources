@@ -68,6 +68,8 @@ https://rxjs-dev.firebaseapp.com/guide/overview
 
 https://www.learnrxjs.io/
 
+[Top 7 RxJS Concepts for Angular Developers](https://www.youtube.com/watch?v=65Us8NwmYf4) {lesson}
+
 ### NgRx
 
 https://ngrx.io/
@@ -76,9 +78,9 @@ https://medium.com/angular-in-depth/how-to-start-flying-with-angular-and-ngrx-b1
 
 https://medium.com/better-programming/angular-getting-started-with-ngrx-75b9139c23eb
 
-https://levelup.gitconnected.com/angular-ngrx-a-clean-and-clear-introduction-4ed61c89c1fc
+https://levelup.gitconnected.com/angular-ngrx-a-clean-and-clear-introduction-4ed61c89c1fc {2}
 
-[Ngrx Store Tutorial for Angular - Learn State Management for Angular](https://www.youtube.com/watch?v=9P5DTlg9oLc) {watching}
+[Ngrx Store Tutorial for Angular - Learn State Management for Angular](https://www.youtube.com/watch?v=9P5DTlg9oLc) {lesson}
 
 ### Angular1 Resources
 
