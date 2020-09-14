@@ -70,6 +70,8 @@ https://www.learnrxjs.io/
 
 [Top 7 RxJS Concepts for Angular Developers](https://www.youtube.com/watch?v=65Us8NwmYf4) {lesson}
 
+[Top 10 RxJs Operators in Angular [Angular Series]](https://www.youtube.com/watch?v=5TnWFaI49aw)
+
 ### NgRx
 
 https://ngrx.io/
@@ -81,6 +83,10 @@ https://medium.com/better-programming/angular-getting-started-with-ngrx-75b9139c
 https://levelup.gitconnected.com/angular-ngrx-a-clean-and-clear-introduction-4ed61c89c1fc {2}
 
 [Ngrx Store Tutorial for Angular - Learn State Management for Angular](https://www.youtube.com/watch?v=9P5DTlg9oLc) {lesson}
+
+### UI
+
+https://tailwindcss.com/
 
 ### Angular1 Resources
 

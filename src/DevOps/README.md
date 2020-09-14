@@ -46,7 +46,7 @@ https://www.ansible.com/
 
 https://www.rechberger.io/tutorial-install-docker-using-ansible-on-a-remote-server/
 
-https://medium.com/@tech_phil/running-ansible-inside-docker-550d3bb2bdff
+https://medium.com/@tech_phil/running-ansible-inside-docker-550d3bb2bdff {1}
 
 https://medium.com/@iced_burn/run-ansible-with-docker-9eb27d75285b
 
