@@ -72,6 +72,8 @@ https://www.learnrxjs.io/
 
 [Top 10 RxJs Operators in Angular [Angular Series]](https://www.youtube.com/watch?v=5TnWFaI49aw)
 
+https://reactive.how
+
 ### NgRx
 
 https://ngrx.io/
