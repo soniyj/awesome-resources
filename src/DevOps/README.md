@@ -51,3 +51,5 @@ https://medium.com/@tech_phil/running-ansible-inside-docker-550d3bb2bdff {1}
 https://medium.com/@iced_burn/run-ansible-with-docker-9eb27d75285b
 
 https://medium.com/@Joachim8675309/docker-using-shell-or-ansible-7cdceb646d3
+
+https://github.com/turkenh/ansible-interactive-tutorial
