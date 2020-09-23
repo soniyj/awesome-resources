@@ -43,3 +43,9 @@ https://medium.com/@sandhya.sandy/spring-boot-microservices-building-a-microserv
 https://www.edureka.co/blog/microservices-with-spring-boot (Eclipse Setup)
 
 https://medium.com/@marceloh.web/spring-boot-microservices-architecture-using-shared-database-69312a968530 (docker example)
+
+https://spring.io/blog/2015/07/14/microservices-with-spring
+
+https://github.com/paulc4/microservices-demo
+
+https://blog.scottlogic.com/2019/10/31/building-microservices-with-spring-boot.html
