@@ -86,6 +86,18 @@ https://levelup.gitconnected.com/angular-ngrx-a-clean-and-clear-introduction-4ed
 
 [Ngrx Store Tutorial for Angular - Learn State Management for Angular](https://www.youtube.com/watch?v=9P5DTlg9oLc) {lesson}
 
+https://wesleygrimes.com/angular/2018/05/30/ngrx-best-practices-for-enterprise-angular-applications
+
+https://github.com/wesleygrimes/angular-ngrx-chuck-norris
+
+https://github.com/avatsaev/angular-contacts-app-example
+
+https://speakerdeck.com/fabiangosebrink/state-management-in-angular-with-ngrx-stores-and-effects
+
+https://github.com/mdbootstrap/Angular-Bootstrap-Boilerplate
+
+https://www.joshmorony.com/using-ngrx-effects-for-data-loading-in-an-ionic-angular-application/ {lesson 2}
+
 ### UI
 
 https://tailwindcss.com/
