@@ -84,7 +84,9 @@ https://medium.com/better-programming/angular-getting-started-with-ngrx-75b9139c
 
 https://levelup.gitconnected.com/angular-ngrx-a-clean-and-clear-introduction-4ed61c89c1fc {2}
 
-[Ngrx Store Tutorial for Angular - Learn State Management for Angular](https://www.youtube.com/watch?v=9P5DTlg9oLc) {lesson}
+[Ngrx Store Tutorial for Angular - Learn State Management for Angular](https://www.youtube.com/watch?v=9P5DTlg9oLc) {lesson-video}
+
+https://coursetro.com/posts/code/151/Angular-Ngrx-Store-Tutorial---Learn-Angular-State-Management {lesson-text}
 
 https://wesleygrimes.com/angular/2018/05/30/ngrx-best-practices-for-enterprise-angular-applications
 
