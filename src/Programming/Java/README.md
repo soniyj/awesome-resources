@@ -50,6 +50,8 @@ https://github.com/paulc4/microservices-demo
 
 https://blog.scottlogic.com/2019/10/31/building-microservices-with-spring-boot.html
 
+https://www.baeldung.com/spring-cloud-netflix-eureka
+
 **Messaging and Queue**
 
 https://spring.io/guides/gs/messaging-rabbitmq/
