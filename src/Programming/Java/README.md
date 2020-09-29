@@ -49,3 +49,11 @@ https://spring.io/blog/2015/07/14/microservices-with-spring
 https://github.com/paulc4/microservices-demo
 
 https://blog.scottlogic.com/2019/10/31/building-microservices-with-spring-boot.html
+
+**Messaging and Queue**
+
+https://spring.io/guides/gs/messaging-rabbitmq/
+
+https://dzone.com/articles/event-driven-microservices-with-spring-boot-and-ac
+
+https://spring.io/blog/2019/10/15/simple-event-driven-microservices-with-spring-cloud-stream
