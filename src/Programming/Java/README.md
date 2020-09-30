@@ -18,9 +18,13 @@ https://www.geeksforgeeks.org/java/
 
 ### Spring Boot
 
-https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-intro-to-microservices-part-1-c0d24cd422c3
+https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-intro-to-microservices-part-1-c0d24cd422c3 {lesson 1}
 
-https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-creating-our-microserivces-gateway-part-2-31f8aa6b215b {2}
+https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-creating-our-microserivces-gateway-part-2-31f8aa6b215b {lesson 2-a}
+
+https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-authentication-with-jwt-part-3-fafc9d7187e8 {lesson 3-a}
+
+https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-circuit-breaker-log-tracing-part-4-9cdf5e898988 {lesson 4-a}
 
 https://github.com/OmarElGabry/microservices-spring-boot
 
@@ -28,9 +32,9 @@ https://dzone.com/articles/spring-boot-microservices-building-microservices-a
 
 https://dzone.com/articles/bootiful-development-with-spring-boot-and-angular (JPA and Angular)
 
-https://developer.okta.com/blog/2017/04/26/bootiful-development-with-spring-boot-and-angular (JPA and Angular) {3}
+https://developer.okta.com/blog/2017/04/26/bootiful-development-with-spring-boot-and-angular (JPA and Angular) {lesson 5-a}
 
-https://developer.okta.com/blog/2019/05/22/java-microservices-spring-boot-spring-cloud {x}
+https://developer.okta.com/blog/2019/05/22/java-microservices-spring-boot-spring-cloud {lesson 5-b}
 
 https://www.springboottutorial.com/creating-microservices-with-spring-boot-part-1-getting-started (step by step)
 
@@ -38,7 +42,7 @@ https://www.springboottutorial.com/creating-microservices-with-spring-boot-part-
 
 https://medium.com/spring-boot/building-microservices-with-spring-boot-part-01-bca4d6112236 (IntelliJ Idea) {x}
 
-https://medium.com/@sandhya.sandy/spring-boot-microservices-building-a-microservices-application-using-spring-boot-d9cbb96b9ed4 (Eclipse Setup)
+https://medium.com/@sandhya.sandy/spring-boot-microservices-building-a-microservices-application-using-spring-boot-d9cbb96b9ed4 (Eclipse Setup) {lesson 2-b}
 
 https://www.edureka.co/blog/microservices-with-spring-boot (Eclipse Setup)
 
