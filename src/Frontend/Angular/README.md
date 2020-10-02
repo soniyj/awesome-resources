@@ -98,7 +98,9 @@ https://speakerdeck.com/fabiangosebrink/state-management-in-angular-with-ngrx-st
 
 https://github.com/mdbootstrap/Angular-Bootstrap-Boilerplate
 
-https://www.joshmorony.com/using-ngrx-effects-for-data-loading-in-an-ionic-angular-application/ {lesson 2}
+https://www.joshmorony.com/using-ngrx-effects-for-data-loading-in-an-ionic-angular-application/ {lesson 2-a}
+
+https://developer.school/introduction-to-ngrx-effects/ {lesson 2-b}
 
 ### UI
 
