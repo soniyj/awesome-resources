@@ -46,7 +46,16 @@ https://capgemini.github.io/blockchain/ethereum-docker-compose/
 
 https://github.com/purelabio/docker-ethereum
 
-
 ### Docker Builder
 
 https://www.packer.io/docs/builders/docker
+
+### Apache Kafka
+
+https://github.com/wurstmeister/kafka-docker
+
+https://itnext.io/how-to-install-kafka-using-docker-a2b7c746cbdc
+
+https://medium.com/big-data-engineering/hello-kafka-world-the-complete-guide-to-kafka-with-docker-and-python-f788e2588cfc
+
+https://www.cloudamqp.com/blog/2019-12-12-when-to-use-rabbitmq-or-apache-kafka.html

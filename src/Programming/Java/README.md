@@ -63,3 +63,7 @@ https://spring.io/guides/gs/messaging-rabbitmq/
 https://dzone.com/articles/event-driven-microservices-with-spring-boot-and-ac
 
 https://spring.io/blog/2019/10/15/simple-event-driven-microservices-with-spring-cloud-stream
+
+https://reflectoring.io/event-messaging-with-spring-boot-and-rabbitmq/
+
+https://itnext.io/event-driven-microservices-with-spring-boot-and-activemq-5ef709928482
