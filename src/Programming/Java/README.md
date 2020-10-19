@@ -67,3 +67,7 @@ https://spring.io/blog/2019/10/15/simple-event-driven-microservices-with-spring-
 https://reflectoring.io/event-messaging-with-spring-boot-and-rabbitmq/
 
 https://itnext.io/event-driven-microservices-with-spring-boot-and-activemq-5ef709928482
+
+**Examples**
+
+https://github.com/thombergs/code-examples/tree/master/spring-boot
