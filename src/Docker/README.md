@@ -28,6 +28,12 @@ https://nodejs.org/de/docs/guides/nodejs-docker-webapp/
 
 https://stackify.com/docker-build-a-beginners-guide-to-building-docker-images/#wpautbox_about
 
+https://docker-curriculum.com/ {lesson}
+
+https://www.tutorialspoint.com/docker/docker_images.htm {lesson}
+
+https://docs.microsoft.com/en-us/visualstudio/docker/tutorials/docker-tutorial {lesson}
+
 ### Container Runtime
 
 https://mobyproject.org/
