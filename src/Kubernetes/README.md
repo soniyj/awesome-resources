@@ -200,3 +200,7 @@ https://medium.com/@mayankkapoor/ssl-is-easy-enabling-https-for-your-application
 https://blog.alterway.fr/en/kubernetes-ingress-controller-with-traefik-and-lets-encrypt.html
 
 https://github.com/kubicorn/kubicorn
+
+https://www.tutorialspoint.com/kubernetes/index.htm
+
+https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-interactive/
