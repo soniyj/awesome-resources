@@ -42,6 +42,12 @@ https://docs.fastlane.tools/
 
 https://www.ansible.com/
 
+https://serversforhackers.com/c/an-ansible-tutorial
+
+https://www.guru99.com/ansible-tutorial.html
+
+https://www.tutorialspoint.com/ansible/index.htm
+
 **Docker**
 
 https://www.rechberger.io/tutorial-install-docker-using-ansible-on-a-remote-server/
