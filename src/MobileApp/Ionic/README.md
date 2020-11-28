@@ -66,6 +66,12 @@ https://blog.couchbase.com/using-couchbase-in-your-ionic-framework-application-p
 
 ### MonoRepo
 
+You need a mixture of the following 3 links to make it working (I will write something)
+
 https://blog.devget.net/development/angular-8-ionic-4-monorepo-part-1-the-setup/
+
+https://medium.com/@eric.jeker/how-to-integrate-ionic-in-nrwl-nx-3493fcb7e85e
+
+https://medium.com/@haleminh27/ionic-4-nestjs-nx-monorepo-dream-come-true-a7eb4c01a646
 
 https://nstudio.io/xplat
