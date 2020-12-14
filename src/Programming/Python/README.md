@@ -17,6 +17,7 @@ https://blog.miguelgrinberg.com/post/restful-authentication-with-flask
 https://blog.miguelgrinberg.com/post/designing-a-restful-api-using-flask-restful
 
 https://www.freecodecamp.org/news/structuring-a-flask-restplus-web-service-for-production-builds-c2ec676de563/
+
 https://github.com/cosmic-byte/flask-restplus-boilerplate/tree/master/app/main
 
 ### FastAPI
@@ -38,3 +39,9 @@ https://www.toptal.com/python/introduction-python-microservices-nameko
 https://github.com/nameko/nameko
 
 https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc [x]
+
+### PyPi Server
+
+https://github.com/pypiserver/pypiserver
+
+https://github.com/pypiserver/pypiserver/blob/master/docker-compose.yml

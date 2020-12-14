@@ -4,16 +4,28 @@
 
 http://www.databaseanswers.org/
 
-https://www.rethinkdb.com/
-
 https://github.com/lukehalley/NoSQL-Spotify
 
 http://grakn.ai/
+
+### DGraph
+
+https://dgraph.io/
+### RethinkDB
+
+https://www.rethinkdb.com/
 
 ### Couchbase
 
 https://github.com/couchbase/sync_gateway
 
+### Cassandra
+
+https://cassandra.apache.org/
+
+https://thelastpickle.com/blog/2018/01/23/docker-meet-cassandra.html
+
+https://github.com/thelastpickle/docker-cassandra-bootstrap
 ### Firebase
 
 **Firestore**
