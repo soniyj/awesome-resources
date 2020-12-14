@@ -12,6 +12,8 @@ https://www.callicoder.com/docker-golang-image-container-example/
 
 https://go.dev/
 
+https://github.com/golang-standards/project-layout
+
 ### API
 
 https://echo.labstack.com/
