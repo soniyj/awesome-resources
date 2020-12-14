@@ -12,6 +12,14 @@ https://www.callicoder.com/docker-golang-image-container-example/
 
 https://go.dev/
 
+### API
+
+https://echo.labstack.com/
+
+https://github.com/gofiber/fiber (supports GraphQL)
+
+https://github.com/arsmn/gqlgen (GraphQL support for Fasthttp and Fiber)
+
 ### Blockchain
 
 **Tutorial 1**
