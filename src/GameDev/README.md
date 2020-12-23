@@ -16,5 +16,13 @@ https://www.eclipse.org/sumo/
 
 https://www.codecks.io/ ()
 
+http://gameschoolonline.com/
+
+https://partner.steamgames.com/ (stemworks)
+
+https://probabletrain.itch.io/city-generator
+
+https://github.com/carla-simulator/carla
+
 * [Unity3D](./Unity/)
 * [Unreal](./Unreal/)
