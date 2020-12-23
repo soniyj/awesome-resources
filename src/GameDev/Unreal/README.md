@@ -14,6 +14,8 @@ https://docs.unrealengine.com/en-US/Engine/Blueprints/UserGuide/EventDispatcher/
 
 https://docs.unrealengine.com/en-US/Engine/Blueprints/QuickStart/index.html
 
+https://www.unrealengine.com/en-US/blog/learn-how-to-code-with-unreal-engine?lang=en-US
+
 ### Tutorials
 
 https://www.raywenderlich.com/771-unreal-engine-4-tutorial-for-beginners-getting-started
@@ -39,6 +41,12 @@ http://shootertutorial.com/tutorials/
 https://forums.unrealengine.com/development-discussion/content-creation/119401-move-actor-from-point-a-to-point-b-in-x-secconds
 
 https://www.tesla-dev.com/ (interesting)
+
+https://gamedevacademy.org/arcade-game-unreal-engine-tutorial/ (game creation, to do)
+
+https://www.unrealengine.com/en-US/lesson-plans/build-your-first-3d-game-learn-collision-detection-in-unreal-engine?lang=en-US
+
+https://continuebreak.com/articles/how-rig-vehicle-blender-28-ue4/
 
 ##### HTTP
 
