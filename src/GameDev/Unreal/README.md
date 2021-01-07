@@ -1,4 +1,4 @@
-# Unreal Resources
+# Unreal Engine Resources
 
 ### Docs
 
@@ -126,9 +126,12 @@ https://www.youtube.com/channel/UC3QBWg9pMnaFF-q0qjXPDEg (interesting tutorials)
 
 [True First Person Camera - #2 Creating A First Person Shooter (FPS) With Unreal Engine 4](https://www.youtube.com/watch?v=0mgm16ki8zM)
 
-[BP Time Attack Racer PLaylist](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYdhCvvMKGpCF6LCgBz9XeS)
+[BP Time Attack Racer Playlist](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYdhCvvMKGpCF6LCgBz9XeS)
 
 [UE4 / Unreal Engine 4 UMG / Widgets - #02 Keyboard/Gamepad Menu](https://www.youtube.com/watch?v=gDKIenYaoxw)
+
+[With this SIMPLE component in UE4 you can make vehicles with 1, 2, 3 or even 20 wheels.](https://www.youtube.com/watch?v=ZKP0heuQdVY)
+[Written Version](https://continuebreak.com/articles/how-use-simple-wheeled-vehicle-movement-component-ue4/)
 
 ### Projects & Plugins
 
