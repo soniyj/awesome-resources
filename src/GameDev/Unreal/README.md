@@ -48,6 +48,12 @@ https://www.unrealengine.com/en-US/lesson-plans/build-your-first-3d-game-learn-c
 
 https://continuebreak.com/articles/how-rig-vehicle-blender-28-ue4/
 
+https://continuebreak.com/articles/how-use-simple-wheeled-vehicle-movement-component-ue4/
+
+https://www.worldofleveldesign.com/categories/cat-ue4.php
+
+https://80.lv/articles/tips-on-modular-level-design-in-ue4/
+
 ##### HTTP
 
 https://wiki.unrealengine.com/UE4.10_How_To_Make_HTTP_GET_Request_in_C%2B%2B
@@ -131,9 +137,24 @@ https://www.youtube.com/channel/UC3QBWg9pMnaFF-q0qjXPDEg (interesting tutorials)
 [UE4 / Unreal Engine 4 UMG / Widgets - #02 Keyboard/Gamepad Menu](https://www.youtube.com/watch?v=gDKIenYaoxw)
 
 [With this SIMPLE component in UE4 you can make vehicles with 1, 2, 3 or even 20 wheels.](https://www.youtube.com/watch?v=ZKP0heuQdVY)
-[Written Version](https://continuebreak.com/articles/how-use-simple-wheeled-vehicle-movement-component-ue4/)
 
-### Projects & Plugins
+[Creating An Animated Title Screen & Main Menu - Unreal Engine Action RPG Tutorial #48](https://www.youtube.com/watch?v=llWxyjPiPqc)
+
+[With this SIMPLE component in UE4 you can make vehicles with 1, 2, 3 or even 20 wheels](https://www.youtube.com/watch?v=ZKP0heuQdVY)
+
+[Unreal Engine 4 vehicle tutorial](https://www.youtube.com/watch?v=-GTimOdwIqU)
+
+[Learn How to Work With Geospatial Data in Unreal Engine | Webinar](https://www.youtube.com/watch?v=RKyyuAhnqP4)
+
+[Learn How to Use Quixel Megascans in Unreal Engine | Webinar](https://www.youtube.com/watch?v=KhTPayu_YUs)
+
+[UE4 Unreal + Megascans Quixel Bridge Setup Beginner Tutorial - How to use Epic Content for FREE](https://www.youtube.com/watch?v=8uwI17qLc7w)
+
+### Plugins
+
+https://continuebreak.com/creations/ue4-vehicle-rigging-addon-blender/ (blender+ue4)
+
+### Projects
 
 https://forums.unrealengine.com/community/community-content-tools-and-tutorials/1492096-free-modular-road-tool
 
