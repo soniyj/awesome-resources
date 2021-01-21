@@ -50,6 +50,8 @@ https://continuebreak.com/articles/how-rig-vehicle-blender-28-ue4/
 
 https://continuebreak.com/articles/how-use-simple-wheeled-vehicle-movement-component-ue4/
 
+https://continuebreak.com/creations/low-poly-ue4-vehicle-project-files/
+
 https://www.worldofleveldesign.com/categories/cat-ue4.php
 
 https://80.lv/articles/tips-on-modular-level-design-in-ue4/
