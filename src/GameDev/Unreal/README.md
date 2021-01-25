@@ -152,6 +152,12 @@ https://www.youtube.com/channel/UC3QBWg9pMnaFF-q0qjXPDEg (interesting tutorials)
 
 [UE4 Unreal + Megascans Quixel Bridge Setup Beginner Tutorial - How to use Epic Content for FREE](https://www.youtube.com/watch?v=8uwI17qLc7w)
 
+[Race Ghost - How to Record and Replay an Ghost Car in UE4](https://www.youtube.com/watch?v=VYuBIFSv7KM&feature=emb_logo)
+
+[Unreal Engine 4 - Switch Between Two Characters Tutorial](https://www.youtube.com/watch?v=cOTth0djnV8)
+
+[Exposing C++ to Blueprints | Live Training | Unreal Engine Livestream](https://www.youtube.com/watch?v=STZxs-NYl7w)
+
 ### Plugins
 
 https://continuebreak.com/creations/ue4-vehicle-rigging-addon-blender/ (blender+ue4)
