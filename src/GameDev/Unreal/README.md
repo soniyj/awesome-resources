@@ -56,6 +56,8 @@ https://www.worldofleveldesign.com/categories/cat-ue4.php
 
 https://80.lv/articles/tips-on-modular-level-design-in-ue4/
 
+http://zombpir8ninja.blogspot.com/2015/09/basic-moveto-behavior-for-vehicles-in.html
+
 ##### HTTP
 
 https://wiki.unrealengine.com/UE4.10_How_To_Make_HTTP_GET_Request_in_C%2B%2B
@@ -165,6 +167,8 @@ https://continuebreak.com/creations/ue4-vehicle-rigging-addon-blender/ (blender+
 ### Projects
 
 https://forums.unrealengine.com/community/community-content-tools-and-tutorials/1492096-free-modular-road-tool
+
+https://github.com/AugmentedDesignLab/CarBehaviorTree
 
 ### To org
 
