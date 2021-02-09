@@ -160,6 +160,16 @@ https://www.youtube.com/channel/UC3QBWg9pMnaFF-q0qjXPDEg (interesting tutorials)
 
 [Exposing C++ to Blueprints | Live Training | Unreal Engine Livestream](https://www.youtube.com/watch?v=STZxs-NYl7w)
 
+**AI**
+
+[HTF do I? Basic AI From Scratch #1 in Unreal Engine 4](https://www.youtube.com/watch?v=WFvG9wNOwoY)
+
+[HTF do I? Basic AI #2 in Unreal Engine 4](https://www.youtube.com/watch?v=z1mSSi6PcfM)
+
+[4.27 Vehicle AI Part 1 [UE4 - RTS Tutorial]](https://www.youtube.com/watch?v=ewD0vzhrr60)
+
+[4.27 Vehicle AI Part 2 [UE4 - RTS Tutorial]](https://www.youtube.com/watch?v=kYBaY5cjmsI)
+
 ### Plugins
 
 https://continuebreak.com/creations/ue4-vehicle-rigging-addon-blender/ (blender+ue4)
