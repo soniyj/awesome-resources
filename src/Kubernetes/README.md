@@ -128,6 +128,10 @@ https://docs.traefik.io/configuration/acme/
 
 https://docs.traefik.io/user-guide/examples/
 
+https://doc.traefik.io/traefik/middlewares/basicauth/#general
+
+https://doc.traefik.io/traefik/providers/consul/
+
 <!--  Follow this tutorial -->
 https://medium.com/@patrickeasters/using-traefik-with-tls-on-kubernetes-cb67fb43a948
 
@@ -150,6 +154,19 @@ https://blog.deimos.fr/2017/08/20/kubernetes-with-traefik-and-lets-encrypt/
 https://medium.com/@dusansusic/traefik-ingress-controller-for-k8s-c1137c9c05c4
 
 https://github.com/dusansusic/kubernetes-traefik
+
+<!-- Have a look -->
+https://rogerwelin.github.io/traefik/api/go/auth/2019/08/19/build-external-api-with-trafik-go.html
+<!-- Part 1 -->
+https://rogerwelin.github.io/traefik/reverse/proxy/micro/services/2018/09/17/traefik-tutorial.html
+
+**Drone**
+
+https://dev.to/limal/self-hosted-continuous-delivery-that-doesn-t-cost-a-fortune-part-2-3m1m
+
+https://discourse.drone.io/t/running-drone-via-traefik/3715/4
+
+https://github.com/jmerle/traefik-drone
 
 ##### Contour
 

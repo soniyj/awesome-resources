@@ -18,6 +18,8 @@ http://codeship.com/ (cloud, paid, free)
 
 https://drone.io/ (free?)
 
+https://www.waypointproject.io/ (to check)
+
 ### Circle CI
 
 https://circleci.com/ (cloud, paid, free tier)
