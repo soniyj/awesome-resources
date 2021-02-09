@@ -104,6 +104,8 @@ https://scene-si.org/2018/03/12/handling-http-requests-with-go-chi/
 
 https://druid.apache.org/ (Apache Druid is a high performance real-time analytics database)
 
+https://guacamole.apache.org/
+
 ### Headless (CMS)
 
 https://jamstack.org/
