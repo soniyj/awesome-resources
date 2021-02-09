@@ -180,6 +180,8 @@ https://forums.unrealengine.com/community/community-content-tools-and-tutorials/
 
 https://github.com/AugmentedDesignLab/CarBehaviorTree
 
+https://github.com/Luke-DJ/Unreal-AI-Vehicles-Project
+
 ### To org
 
 https://docs.unrealengine.com/en-US/Engine/Blueprints/UserGuide/Events/Custom/index.html
