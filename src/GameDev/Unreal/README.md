@@ -160,6 +160,10 @@ https://www.youtube.com/channel/UC3QBWg9pMnaFF-q0qjXPDEg (interesting tutorials)
 
 [Exposing C++ to Blueprints | Live Training | Unreal Engine Livestream](https://www.youtube.com/watch?v=STZxs-NYl7w)
 
+[Modular Road Tool - Tutorial](https://www.youtube.com/watch?v=ctCElGRVig0&feature=emb_logo)
+
+[Unreal Engine AI Car Tutorial](https://www.youtube.com/watch?v=ICXrV9IXDVg)
+
 **AI**
 
 [HTF do I? Basic AI From Scratch #1 in Unreal Engine 4](https://www.youtube.com/watch?v=WFvG9wNOwoY)
