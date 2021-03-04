@@ -164,6 +164,8 @@ https://www.youtube.com/channel/UC3QBWg9pMnaFF-q0qjXPDEg (interesting tutorials)
 
 [Unreal Engine AI Car Tutorial](https://www.youtube.com/watch?v=ICXrV9IXDVg)
 
+[Unreal Engine 4 Vehicle Spline Path FollowTutorial](https://www.youtube.com/watch?v=FVyUVJra3KI)
+
 **AI**
 
 [HTF do I? Basic AI From Scratch #1 in Unreal Engine 4](https://www.youtube.com/watch?v=WFvG9wNOwoY)
@@ -185,6 +187,8 @@ https://forums.unrealengine.com/community/community-content-tools-and-tutorials/
 https://github.com/AugmentedDesignLab/CarBehaviorTree
 
 https://github.com/Luke-DJ/Unreal-AI-Vehicles-Project
+
+https://superyateam.com/2020/04/18/how-to-implement-vehicle-ai-in-ue4/
 
 ### To org
 

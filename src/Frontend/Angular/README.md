@@ -106,6 +106,10 @@ https://developer.school/introduction-to-ngrx-effects/ {lesson 2-b}
 
 https://tailwindcss.com/
 
+### Proxy
+
+https://github.com/leonpahole/simple-frontend-angular/tree/master/nginx
+
 ### Angular1 Resources
 
 https://github.com/oblador/angular-scroll

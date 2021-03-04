@@ -20,6 +20,7 @@ https://cloud.google.com/knative
 
 https://aws.amazon.com/fargate/?nc=sn&loc=1
 
+https://volta.sh/
 ### Traefik ###
 
 https://www.humankode.com/ssl/how-to-set-up-free-ssl-certificates-from-lets-encrypt-using-docker-and-nginx (look for ssl)
@@ -65,6 +66,9 @@ https://www.innoq.com/en/blog/traefik-v2-and-mastodon/
 https://gist.github.com/smashnet/38cf7c30cb06427bab78ae5ab0fd2ae3
 
 http://nicolas.inden.one/article/2020/01/24/traefik-v2-and-mastodon.html
+
+https://www.leonpahole.com/2020/05/traefik-nodejs-api-and-db.html
+
 
 ### Video to check
 
@@ -163,3 +167,11 @@ https://github.com/spujadas/elk-docker/tree/master/nginx-filebeat (to check 5)
 https://strapi.io/ (Design APIs fast, manage content easily)
 
 https://directus.io/ (Data-First Headless CMS & API)
+
+### Lora
+
+https://base64.guru/converter/decode/hex
+
+https://www.scadacore.com/tools/programming-calculators/online-hex-converter/
+
+https://development.libelium.com/data-frame-programming-guide/frame-structure
