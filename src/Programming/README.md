@@ -15,3 +15,5 @@ https://www.sonarqube.org/ (automatic code review tool to detect bugs, vulnerabi
 https://software.intel.com/en-us/
 
 https://deno.land/ (A secure runtime for JavaScript and TypeScript)
+
+https://coala.io/#/home?lang=Python (unified interface for linting and fixing code with a single configuration file)

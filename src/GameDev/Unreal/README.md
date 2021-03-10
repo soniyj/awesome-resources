@@ -201,3 +201,11 @@ https://forums.unrealengine.com/community/community-content-tools-and-tutorials/
 https://wiki.unrealengine.com/Loading_Screen
 
 https://github.com/ue4plugins/LoadingScreen
+
+### Courses
+
+https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers (1 hour 40 minutes)
+
+https://www.unrealengine.com/en-US/onlinelearning-courses/working-with-data-in-blueprints (55 minutes)
+
+https://www.unrealengine.com/en-US/onlinelearning-courses/build-a-detectives-office-game-environment (2 hours 6 minutes)
