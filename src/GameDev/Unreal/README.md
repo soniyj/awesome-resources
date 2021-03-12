@@ -190,6 +190,8 @@ https://github.com/Luke-DJ/Unreal-AI-Vehicles-Project
 
 https://superyateam.com/2020/04/18/how-to-implement-vehicle-ai-in-ue4/
 
+https://ue4resources.com/ai-examples (has AI Vehicle example to test)
+
 ### To org
 
 https://docs.unrealengine.com/en-US/Engine/Blueprints/UserGuide/Events/Custom/index.html
