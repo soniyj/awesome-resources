@@ -22,7 +22,7 @@ https://github.com/cosmic-byte/flask-restplus-boilerplate/tree/master/app/main
 
 ### FastAPI
 
-https://fastapi.tiangolo.com/ [x]
+https://fastapi.tiangolo.com/
 
 https://fastapi.tiangolo.com/tutorial/bigger-applications/
 
@@ -45,3 +45,31 @@ https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc [x]
 https://github.com/pypiserver/pypiserver
 
 https://github.com/pypiserver/pypiserver/blob/master/docker-compose.yml
+
+### Library
+
+**pandas**
+
+https://pandas.pydata.org/
+
+https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html
+
+https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/09_timeseries.html
+
+https://stackoverflow.com/questions/45858533/calculating-averages-of-time-series-data-using-pandas-dataframe
+
+https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html
+
+**numpy**
+
+https://numpy.org/
+
+https://numpy.org/doc/stable/reference/arrays.datetime.html
+
+https://numpy.org/doc/stable/reference/generated/numpy.average.html
+
+https://numpy.org/doc/stable/reference/generated/numpy.mean.html
+
+https://www.geeksforgeeks.org/find-average-list-python/
+
+https://stackoverflow.com/questions/20054243/np-mean-vs-np-average-in-python-numpy

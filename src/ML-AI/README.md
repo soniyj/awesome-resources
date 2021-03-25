@@ -15,3 +15,5 @@ https://cloud.google.com/ml-engine/docs/tensorflow/getting-started-keras
 https://developer.ibm.com/articles/introduction-watson-visual-recognition/
 
 https://hackernoon.com/build-your-first-tensorflow-model-in-5-minutes-77237e3cf76d
+
+https://www.opennn.net/
