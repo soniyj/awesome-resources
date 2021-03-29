@@ -54,8 +54,6 @@ Collections of Awesome Resources
 
 **Various**
 
-https://www.sonarqube.org/
-
 https://coggle.it/
 
 https://storj.io/i
@@ -101,8 +99,6 @@ https://zzzz.io/faq/
 https://cloudinary.com/
 
 https://www.imgix.com/
-
-https://bazel.build/ (building tool) [look at it]
 
 https://stackedit.io/ (In Browser Markdown Editor)
 
