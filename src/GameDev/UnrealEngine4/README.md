@@ -176,6 +176,16 @@ https://www.youtube.com/channel/UC3QBWg9pMnaFF-q0qjXPDEg (interesting tutorials)
 
 [4.27 Vehicle AI Part 2 [UE4 - RTS Tutorial]](https://www.youtube.com/watch?v=kYBaY5cjmsI)
 
+**Dialog Systems**
+
+[Unreal Engine - Easy Typewriter Text Tutorial](https://www.youtube.com/watch?v=x_wDtEixbuo) [w, x]
+
+[Unreal Engine 4 Tutorial - Dialogue System - Part 1](https://www.youtube.com/watch?v=vho7w6rUU7A) [w, x]
+
+[Unreal Engine 4 Tutorial - Dialogue System - Part 2](https://www.youtube.com/watch?v=2kHbhYn4I6E) [uses data table and csv]
+
+[Unreal Engine 4 - Dialog System Tutorial (1/3)](https://www.youtube.com/watch?v=xI7WHD5C-ps)
+
 ### Plugins
 
 https://continuebreak.com/creations/ue4-vehicle-rigging-addon-blender/ (blender+ue4)
