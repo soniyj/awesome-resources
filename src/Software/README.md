@@ -65,3 +65,7 @@ http://www.uml-diagrams.org/use-case-include.html
 ### CAD
 
 http://kicad-pcb.org/
+
+### GIS
+
+https://qgis.org/en/site/

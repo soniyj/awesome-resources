@@ -73,3 +73,21 @@ https://numpy.org/doc/stable/reference/generated/numpy.mean.html
 https://www.geeksforgeeks.org/find-average-list-python/
 
 https://stackoverflow.com/questions/20054243/np-mean-vs-np-average-in-python-numpy
+
+**luminaire ML**
+
+https://zillow.github.io/luminaire/
+
+### Visual Scripting
+
+https://ryven.org/
+
+### Monorepository
+
+https://medium.com/opendoor-labs/our-python-monorepo-d34028f2b6fa
+
+https://github.com/ya-mori/python-monorepo
+
+### Podcast
+
+https://www.pythonpodcast.com/

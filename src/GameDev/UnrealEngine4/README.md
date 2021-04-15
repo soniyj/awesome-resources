@@ -58,6 +58,8 @@ https://80.lv/articles/tips-on-modular-level-design-in-ue4/
 
 http://zombpir8ninja.blogspot.com/2015/09/basic-moveto-behavior-for-vehicles-in.html
 
+https://medium.com/super-jump/how-to-create-your-own-open-world-game-terrain-in-unreal-engine-2e34a9c4c428
+
 ##### HTTP
 
 https://wiki.unrealengine.com/UE4.10_How_To_Make_HTTP_GET_Request_in_C%2B%2B
@@ -166,6 +168,8 @@ https://www.youtube.com/channel/UC3QBWg9pMnaFF-q0qjXPDEg (interesting tutorials)
 
 [Unreal Engine 4 Vehicle Spline Path FollowTutorial](https://www.youtube.com/watch?v=FVyUVJra3KI)
 
+[Unreal Engine - Open StreetMap Plugin - UE4.26](https://www.youtube.com/watch?v=1DPJZNNWMDk)
+
 **AI**
 
 [HTF do I? Basic AI From Scratch #1 in Unreal Engine 4](https://www.youtube.com/watch?v=WFvG9wNOwoY)
@@ -202,6 +206,10 @@ https://superyateam.com/2020/04/18/how-to-implement-vehicle-ai-in-ue4/
 
 https://ue4resources.com/ai-examples (has AI Vehicle example to test)
 
+https://alicevision.org/#meshroom (Meshroom is a free, open-source 3D Reconstruction Software based on the AliceVision framework)
+
+https://cesium.com/docs/tutorials/cesium-unreal-quickstart/ (The Platform for 3D Geospatial)
+
 ### To org
 
 https://docs.unrealengine.com/en-US/Engine/Blueprints/UserGuide/Events/Custom/index.html
@@ -213,6 +221,8 @@ https://forums.unrealengine.com/community/community-content-tools-and-tutorials/
 https://wiki.unrealengine.com/Loading_Screen
 
 https://github.com/ue4plugins/LoadingScreen
+
+https://forums.unrealengine.com/t/tutorial-using-maps-gis-data-to-create-real-world-landscapes-in-ue4-in-less-than-a-day/107586
 
 ### Courses
 
