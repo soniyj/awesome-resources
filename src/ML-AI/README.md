@@ -17,3 +17,5 @@ https://developer.ibm.com/articles/introduction-watson-visual-recognition/
 https://hackernoon.com/build-your-first-tensorflow-model-in-5-minutes-77237e3cf76d
 
 https://www.opennn.net/
+
+https://www.anaconda.com/
