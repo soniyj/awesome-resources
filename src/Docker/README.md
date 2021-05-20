@@ -60,6 +60,8 @@ https://www.packer.io/docs/builders/docker
 
 ### Apache Kafka
 
+https://kafka.apache.org/documentation/
+
 https://github.com/wurstmeister/kafka-docker
 
 https://itnext.io/how-to-install-kafka-using-docker-a2b7c746cbdc
@@ -67,3 +69,9 @@ https://itnext.io/how-to-install-kafka-using-docker-a2b7c746cbdc
 https://medium.com/big-data-engineering/hello-kafka-world-the-complete-guide-to-kafka-with-docker-and-python-f788e2588cfc
 
 https://www.cloudamqp.com/blog/2019-12-12-when-to-use-rabbitmq-or-apache-kafka.html
+
+https://medium.com/@patelharshali136/apache-kafka-tutorial-kafka-for-beginners-a58140cef84f
+
+https://cwiki.apache.org/confluence/display/KAFKA/Clients
+
+https://docs.confluent.io/platform/current/clients/index.html

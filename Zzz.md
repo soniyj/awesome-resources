@@ -10,6 +10,8 @@ https://medium.com/@luiscoutinh/reverse-proxy-with-docker-traefik-nginx-php-mysq
 
 https://grafana.com/
 
+https://grafana.com/oss/loki/ (multi-tenant log aggregation system)
+
 https://www.elastic.co/what-is/elk-stack
 
 https://docs.fluentd.org/
@@ -113,6 +115,8 @@ https://guacamole.apache.org/
 ### Headless (CMS)
 
 https://jamstack.org/
+
+https://storybook.js.org/ (open source tool for building UI components and pages in isolation)
 
 https://www.storyblok.com/ (Forever free with 1 user)
 

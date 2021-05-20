@@ -75,3 +75,5 @@ https://www.prisma.io/blog/graphql-vs-firebase-496498546142
 ### Tools
 
 https://github.com/graphql/swapi-graphql
+
+https://hasura.io/ [Instant GraphQL for all your data] (self-hosted open source) {Postgres}
