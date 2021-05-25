@@ -34,3 +34,8 @@ https://www.tomorrow.io/weather-api/
 
 https://www.tomorrow.io/historical-weather-data/
 
+### Analytics & Logging
+
+https://opentelemetry.io/
+
+https://www.jaegertracing.io/
