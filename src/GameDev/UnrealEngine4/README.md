@@ -231,3 +231,9 @@ https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gamepla
 https://www.unrealengine.com/en-US/onlinelearning-courses/working-with-data-in-blueprints (55 minutes)
 
 https://www.unrealengine.com/en-US/onlinelearning-courses/build-a-detectives-office-game-environment (2 hours 6 minutes)
+
+
+
+https://www.youtube.com/watch?v=ZkDBtgpwam0
+
+https://www.youtube.com/watch?v=b5dYlaeriyo
