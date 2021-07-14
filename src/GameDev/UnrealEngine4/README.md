@@ -232,8 +232,10 @@ https://www.unrealengine.com/en-US/onlinelearning-courses/working-with-data-in-b
 
 https://www.unrealengine.com/en-US/onlinelearning-courses/build-a-detectives-office-game-environment (2 hours 6 minutes)
 
-
+### City Building Tutorials
 
 https://www.youtube.com/watch?v=ZkDBtgpwam0
 
-https://www.youtube.com/watch?v=b5dYlaeriyo
+https://www.youtube.com/watch?v=b5dYlaeriyo (x)
+
+https://www.youtube.com/watch?v=b5dYlaeriyo&list=PLFYGCCDpMHmHJwhIRY6qNumAts--W8bTy
