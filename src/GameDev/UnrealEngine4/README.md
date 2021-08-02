@@ -224,6 +224,8 @@ https://github.com/ue4plugins/LoadingScreen
 
 https://forums.unrealengine.com/t/tutorial-using-maps-gis-data-to-create-real-world-landscapes-in-ue4-in-less-than-a-day/107586
 
+https://getcitysketch.com/ (City Generator Add-on for Blender)
+
 ### Courses
 
 https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gameplay-for-game-designers (1 hour 40 minutes)
@@ -231,6 +233,10 @@ https://www.unrealengine.com/en-US/onlinelearning-courses/blueprints-and-gamepla
 https://www.unrealengine.com/en-US/onlinelearning-courses/working-with-data-in-blueprints (55 minutes)
 
 https://www.unrealengine.com/en-US/onlinelearning-courses/build-a-detectives-office-game-environment (2 hours 6 minutes)
+
+https://www.unrealengine.com/en-US/onlinelearning-courses/breaking-down-the-components-of-gameplay (1 hour 47 minutes)
+
+https://www.unrealengine.com/en-US/onlinelearning-courses/blueprint-runtime-saving-and-loading (1 hour 4 minutes)
 
 ### City Building Tutorials
 
