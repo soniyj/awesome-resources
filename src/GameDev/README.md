@@ -40,3 +40,5 @@ https://github.com/Miziziziz/Retro3DGraphicsCollection
 https://store.steampowered.com/app/936500/Transport_INC/
 
 https://store.steampowered.com/app/1127500/Mini_Motorways/
+
+https://lesterbanks.com/2016/06/realistic-city-openstreetmap-blender/
