@@ -52,6 +52,8 @@ https://medium.com/vessels/apollo-server-serverless-graphql-bliss-68e8e15195ac
 
 https://blog.morizyun.com/javascript/typescript-tutorial-firebase-auth-graphql-react.html
 
+https://apollo-angular.com/docs/local-state/managing-state-with-field-policies/#storing-local-state-in-reactive-variables
+
 ### AWS
 
 https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7

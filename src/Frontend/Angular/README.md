@@ -102,6 +102,16 @@ https://www.joshmorony.com/using-ngrx-effects-for-data-loading-in-an-ionic-angul
 
 https://developer.school/introduction-to-ngrx-effects/ {lesson 2-b}
 
+https://wesleygrimes.com/angular/2018/05/30/ngrx-best-practices-for-enterprise-angular-applications.html
+
+https://github.com/wesleygrimes/angular-ngrx-chuck-norris
+
+**Graph QL**
+
+https://www.samjulien.com/write-a-basic-graphql-client-for-ngrx
+
+https://github.com/MikeRyanDev/habits-graphql-angular
+
 ### UI
 
 https://tailwindcss.com/

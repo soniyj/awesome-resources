@@ -91,3 +91,9 @@ https://github.com/ya-mori/python-monorepo
 ### Podcast
 
 https://www.pythonpodcast.com/
+
+### AI/ML
+
+https://towardsdatascience.com/how-to-create-a-fully-automated-ai-based-trading-system-with-python-708503c1a907
+
+https://github.com/ruromgar/python-ai-trading-system
