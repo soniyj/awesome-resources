@@ -6,6 +6,14 @@ https://www.tutorialspoint.com/java/index.htm
 
 https://www.geeksforgeeks.org/java/
 
+https://www.tutorialspoint.com/jpa/jpa_entity_managers.htm
+
+https://www.tutorialspoint.com/jsp/jsp_syntax.htm
+
+https://www.javatpoint.com/crud-in-jsp
+
+https://www.tutorialspoint.com/servlets/servlets-first-example.htm
+
 ### Blockchain
 
 [Creating Your First Blockchain with Java. Part 1](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
