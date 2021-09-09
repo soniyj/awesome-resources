@@ -60,6 +60,8 @@ http://zombpir8ninja.blogspot.com/2015/09/basic-moveto-behavior-for-vehicles-in.
 
 https://medium.com/super-jump/how-to-create-your-own-open-world-game-terrain-in-unreal-engine-2e34a9c4c428
 
+https://gamedevacademy.org/unreal-engine-tutorial/
+
 ##### HTTP
 
 https://wiki.unrealengine.com/UE4.10_How_To_Make_HTTP_GET_Request_in_C%2B%2B
@@ -245,6 +247,8 @@ https://www.youtube.com/watch?v=ZkDBtgpwam0
 https://www.youtube.com/watch?v=b5dYlaeriyo (x)
 
 https://www.youtube.com/watch?v=b5dYlaeriyo&list=PLFYGCCDpMHmHJwhIRY6qNumAts--W8bTy
+
+https://www.sidefx.com/tutorials/city-building-with-osm-data/
 
 ### UE5
 
