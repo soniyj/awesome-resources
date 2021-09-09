@@ -42,3 +42,7 @@ https://store.steampowered.com/app/936500/Transport_INC/
 https://store.steampowered.com/app/1127500/Mini_Motorways/
 
 https://lesterbanks.com/2016/06/realistic-city-openstreetmap-blender/
+
+https://www.youtube.com/watch?app=desktop&v=NW_djQS_N8U (Create any City in Blender in 20 Minutes)
+
+https://www.youtube.com/watch?app=desktop&v=gRp-gvsStkw (How to build sci-fi cities with Unreal Engine) [~3 hrs!]
