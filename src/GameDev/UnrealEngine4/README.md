@@ -172,6 +172,12 @@ https://www.youtube.com/channel/UC3QBWg9pMnaFF-q0qjXPDEg (interesting tutorials)
 
 [Unreal Engine - Open StreetMap Plugin - UE4.26](https://www.youtube.com/watch?v=1DPJZNNWMDk)
 
+[Unreal Engine 4 Tutorial | Drivable Cars And Vehicle Physics](https://www.youtube.com/watch?v=_ZBQg7293v0)
+
+[I Made a GTA V Clone in 24 hours](https://www.youtube.com/watch?v=3DjY1T42b_M)
+
+[Drivable Cars/Vehicles in Unreal Engine 4! [Free Download]](https://www.youtube.com/watch?v=oecnOZwy3-o)
+
 **AI**
 
 [HTF do I? Basic AI From Scratch #1 in Unreal Engine 4](https://www.youtube.com/watch?v=WFvG9wNOwoY)
