@@ -178,6 +178,10 @@ https://www.youtube.com/channel/UC3QBWg9pMnaFF-q0qjXPDEg (interesting tutorials)
 
 [Drivable Cars/Vehicles in Unreal Engine 4! [Free Download]](https://www.youtube.com/watch?v=oecnOZwy3-o)
 
+https://www.youtube.com/c/Strigifo/playlists
+
+[Shoot Em Up Playlist]https://www.youtube.com/watch?v=xCljqIjSZVM&list=PLwmGmCVti_dBFcOnCXmpFpg58SmiZZVEt
+
 **AI**
 
 [HTF do I? Basic AI From Scratch #1 in Unreal Engine 4](https://www.youtube.com/watch?v=WFvG9wNOwoY)
