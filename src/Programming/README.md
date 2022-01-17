@@ -31,3 +31,7 @@ https://deno.land/ (A secure runtime for JavaScript and TypeScript)
 https://conan.io/ (C/C++ Package Manager)
 
 https://docs.conda.io/en/latest/ (Package, dependency and environment management for any language)
+
+https://monkeytype.com
+
+https://cheatography.com

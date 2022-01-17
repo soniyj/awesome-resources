@@ -14,6 +14,8 @@ https://go.dev/
 
 https://github.com/golang-standards/project-layout
 
+https://go.dev/play/p/wpZf3PLVR5 (ftp)
+
 ### API
 
 https://echo.labstack.com/
@@ -21,6 +23,8 @@ https://echo.labstack.com/
 https://github.com/gofiber/fiber (supports GraphQL)
 
 https://github.com/arsmn/gqlgen (GraphQL support for Fasthttp and Fiber)
+
+https://github.com/martinr92/goftp (Ftp)
 
 ### Blockchain
 
