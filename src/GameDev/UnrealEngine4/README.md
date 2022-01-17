@@ -68,6 +68,10 @@ https://medium.com/super-jump/how-to-create-your-own-open-world-game-terrain-in-
 
 https://gamedevacademy.org/unreal-engine-tutorial/
 
+https://discover.therookies.co/2019/05/25/creating-a-chinese-cyberneon-game-environment-in-ue4/
+
+https://answers.unrealengine.com/questions/882800/pathfinding-with-curve.html
+
 ##### HTTP
 
 https://wiki.unrealengine.com/UE4.10_How_To_Make_HTTP_GET_Request_in_C%2B%2B
@@ -188,6 +192,12 @@ https://www.youtube.com/c/Strigifo/playlists
 
 [Shoot Em Up Playlist]https://www.youtube.com/watch?v=xCljqIjSZVM&list=PLwmGmCVti_dBFcOnCXmpFpg58SmiZZVEt
 
+[How to Level Design In Unreal Engine](https://www.youtube.com/watch?app=desktop&v=ibKDAdlySjQ)
+
+[Vehicles: Handling & Friction | 03 | v4.2 Tutorial Series | Unreal Engine](https://m.youtube.com/watch?v=6vFZ9alQKqI)
+
+[Landscape Road Spline Tutorial - Unreal Engine 4](https://m.youtube.com/watch?v=8WIWuybAKj4)
+
 **AI**
 
 [HTF do I? Basic AI From Scratch #1 in Unreal Engine 4](https://www.youtube.com/watch?v=WFvG9wNOwoY)
@@ -265,6 +275,10 @@ https://www.youtube.com/watch?v=b5dYlaeriyo (x)
 https://www.youtube.com/watch?v=b5dYlaeriyo&list=PLFYGCCDpMHmHJwhIRY6qNumAts--W8bTy
 
 https://www.sidefx.com/tutorials/city-building-with-osm-data/
+
+### FPS Tutorials
+
+https://m.youtube.com/playlist?list=PLAWAqMERLKYupjlM7TaUZ-Vj_tXdTiXWh
 
 ### UE5
 

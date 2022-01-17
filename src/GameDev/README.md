@@ -36,6 +36,12 @@ https://github.com/Miziziziz/Retro3DGraphicsCollection
 
 https://kidscancode.org/
 
+https://www.renpy.org (Visual novel Engine)
+
+https://www.buildbox.com/top-10-sites-free-3d-game-art/
+
+https://www.freecodecamp.org/news/from-zero-to-game-designer-how-to-start-building-video-games-even-if-you-dont-have-any-experience-5e2f9f45f4bb/
+
 * [Unity](./Unity/)
 * [Unreal Engine 4](./UnrealEngine4/)
 * [Godot](./Godot/)
@@ -49,3 +55,7 @@ https://lesterbanks.com/2016/06/realistic-city-openstreetmap-blender/
 https://www.youtube.com/watch?app=desktop&v=NW_djQS_N8U (Create any City in Blender in 20 Minutes)
 
 https://www.youtube.com/watch?app=desktop&v=gRp-gvsStkw (How to build sci-fi cities with Unreal Engine) [~3 hrs!]
+
+https://fullinstallgames.com
+
+https://www.newstargames.com

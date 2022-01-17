@@ -10,6 +10,12 @@ Biz Resources - Fundings
 
 http://www.egdf.eu/creative-europe/
 
+https://ninichimusic.com/blog/10-awesome-sources-of-funding-grants-for-your-indie-game
+
+https://tiga.org/policy-and-public-affairs/video-games-investment-fund
+
+https://www.myriadassociates.com/news/2020/government-support-for-the-uk-gaming-sector/
+
 <a name="gaming"/></a>
 ### Gaming
 
