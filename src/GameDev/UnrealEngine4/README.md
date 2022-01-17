@@ -198,6 +198,8 @@ https://www.youtube.com/c/Strigifo/playlists
 
 [Landscape Road Spline Tutorial - Unreal Engine 4](https://m.youtube.com/watch?v=8WIWuybAKj4)
 
+[Unreal Engine 4 Tutorial - Saving & Loading Pt.1 Basics](https://www.youtube.com/watch?v=hf98GRZA2d8)
+
 **AI**
 
 [HTF do I? Basic AI From Scratch #1 in Unreal Engine 4](https://www.youtube.com/watch?v=WFvG9wNOwoY)

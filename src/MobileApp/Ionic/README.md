@@ -75,3 +75,7 @@ https://medium.com/@eric.jeker/how-to-integrate-ionic-in-nrwl-nx-3493fcb7e85e
 https://medium.com/@haleminh27/ionic-4-nestjs-nx-monorepo-dream-come-true-a7eb4c01a646
 
 https://nstudio.io/xplat
+
+### Jamstack
+
+https://ionicframework.com/blog/dynamic-jamstack-with-stencil-and-supabase/?utm_campaign=eb_content_dev_newsletter&utm_medium=email&_hsmi=176556276&_hsenc=p2ANqtz-8ymBcugn4OLcK8RJWQZvzgrqyt7c2aRnAEV3nuoh2kseGUY3Bhj3RjUhr4-LARmo6CzYK3CQ2LTxV9XuCA7IlSKkVwLQ&utm_content=58641858892&utm_source=husbpot

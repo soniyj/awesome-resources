@@ -50,6 +50,10 @@ https://www.guru99.com/ansible-tutorial.html
 
 https://www.tutorialspoint.com/ansible/index.htm
 
+https://ansible-semaphore.com/
+
+https://github.com/ansible-semaphore/semaphore/tree/2287be34ce1c0b8bd8fb4674d0c2ca2a41d863db
+
 **Docker**
 
 https://www.rechberger.io/tutorial-install-docker-using-ansible-on-a-remote-server/

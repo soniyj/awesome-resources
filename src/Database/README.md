@@ -8,6 +8,8 @@ https://github.com/lukehalley/NoSQL-Spotify
 
 http://grakn.ai/
 
+https://supabase.io/
+
 ### DGraph
 
 https://dgraph.io/
