@@ -16,6 +16,12 @@ https://docs.unrealengine.com/en-US/Engine/Blueprints/QuickStart/index.html
 
 https://www.unrealengine.com/en-US/blog/learn-how-to-code-with-unreal-engine?lang=en-US
 
+https://www.unrealengine.com/en-US/blog/the-15-best-online-courses-to-learn-unreal-engine
+
+https://www.unrealengine.com/en-US/blog/c-for-blueprinters
+
+https://www.unrealengine.com/marketplace/en-US/product/level-design-assistant
+
 ### Tutorials
 
 https://www.raywenderlich.com/771-unreal-engine-4-tutorial-for-beginners-getting-started
