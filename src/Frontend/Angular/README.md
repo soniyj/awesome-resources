@@ -106,6 +106,8 @@ https://wesleygrimes.com/angular/2018/05/30/ngrx-best-practices-for-enterprise-a
 
 https://github.com/wesleygrimes/angular-ngrx-chuck-norris
 
+https://nx.dev/latest/angular/guides/misc-ngrx
+
 **Graph QL**
 
 https://www.samjulien.com/write-a-basic-graphql-client-for-ngrx
@@ -119,6 +121,20 @@ https://tailwindcss.com/
 ### Proxy
 
 https://github.com/leonpahole/simple-frontend-angular/tree/master/nginx
+
+### VS Code
+
+https://angularadvisors.com/blog/2019-10-10_Angular_VSCode_Remote_Development
+
+https://github.com/wpbest/vscode-remote-try-angular
+
+### Micro-Frontend
+
+https://www.angulararchitects.io/aktuelles/dynamic-module-federation-with-angular/
+
+https://www.angulararchitects.io/konferenzen/micro-frontends-and-monorepos-smart-idea-or-contradiction/
+
+https://www.angulararchitects.io/book/
 
 ### Angular1 Resources
 

@@ -26,6 +26,12 @@ https://github.com/arsmn/gqlgen (GraphQL support for Fasthttp and Fiber)
 
 https://github.com/martinr92/goftp (Ftp)
 
+https://www.sohamkamani.com/golang/json/
+
+https://blog.logrocket.com/making-http-requests-in-go/
+
+https://github.com/dipeshdulal/event-scheduling
+
 ### Blockchain
 
 **Tutorial 1**

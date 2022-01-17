@@ -62,6 +62,14 @@ https://www.influxdata.com/products/influxdb/ (contains everything you need in a
 
 https://www.influxdata.com/time-series-platform/telegraf/ (open source server agent to help you collect metrics from your stacks, sensors and systems)
 
+https://www.influxdata.com/blog/running-influxdb-2-0-and-telegraf-using-docker/
+
+https://docs.influxdata.com/influxdb/v2.0/write-data/no-code/use-telegraf/auto-config/
+
+https://docs.influxdata.com/influxdb/v2.0/write-data/best-practices/schema-design/
+
+https://hub.docker.com/_/telegraf
+
 ### RocksDB
 
 https://rocksdb.org/ (embeddable persistent key-value store for fast storage)

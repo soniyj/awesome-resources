@@ -20,6 +20,8 @@ https://drone.io/ (free?)
 
 https://www.waypointproject.io/ (to check)
 
+https://concourse-ci.org/
+
 ### Circle CI
 
 https://circleci.com/ (cloud, paid, free tier)
@@ -69,3 +71,13 @@ https://github.com/turkenh/ansible-interactive-tutorial
 ### Testing
 
 https://github.com/litmuschaos/litmus (open source Chaos Engineering platform)
+
+### Grafana & Loki
+
+https://grafana.com/
+
+https://grafana.com/oss/loki/ (multi-tenant log aggregation system)
+
+https://thesmarthomejourney.com/2021/08/23/loki-grafana-log-aggregation/
+
+https://grafana.com/docs/loki/latest/configuration/examples/

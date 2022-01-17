@@ -8,11 +8,9 @@ https://hollo.me/devops/routing-to-multiple-docker-compose-development-setups-wi
 
 https://medium.com/@luiscoutinh/reverse-proxy-with-docker-traefik-nginx-php-mysql-mosquitto-phpmyadmin-basic-c9b588bda63a
 
-https://grafana.com/
-
-https://grafana.com/oss/loki/ (multi-tenant log aggregation system)
-
 https://www.elastic.co/what-is/elk-stack
+
+https://opensearch.org/
 
 https://docs.fluentd.org/
 
@@ -23,6 +21,9 @@ https://cloud.google.com/knative
 https://aws.amazon.com/fargate/?nc=sn&loc=1
 
 https://volta.sh/
+
+https://www.plexx.digital/keycloak-realm-export-import/
+
 ### Traefik ###
 
 https://www.humankode.com/ssl/how-to-set-up-free-ssl-certificates-from-lets-encrypt-using-docker-and-nginx (look for ssl)
@@ -111,6 +112,36 @@ https://scene-si.org/2018/03/12/handling-http-requests-with-go-chi/
 https://druid.apache.org/ (Apache Druid is a high performance real-time analytics database)
 
 https://guacamole.apache.org/
+
+https://stackoverflow.com/questions/8512200/simple-nix-tool-for-listening-to-http-requests-and-logging-the-request-data
+
+https://sites.google.com/site/jimmyxu101/testing/use-tcpdump-to-monitor-http-traffic
+
+https://cloud.google.com/sdk/docs/downloads-docker
+
+https://community.traefik.io/t/502-bad-gateway-solved/2947
+
+https://stackoverflow.com/questions/65870613/dart-convert-from-base64-to-hex
+
+https://www.libelium.com/forum/libelium_files/conf_ftp_server.txt
+
+https://www.scadacore.com/tools/programming-calculators/online-hex-converter/
+
+https://www.base64decode.org/
+
+https://www.uvdesk.com/en/opensource/
+
+https://www.opensupports.com/download/
+
+https://www.hubspot.com/products/service/help-desk
+
+https://osticket.com/
+
+https://www.spiceworks.com/
+
+https://www.composerize.com/
+
+https://stackoverflow.com/questions/59967421/implementaion-of-dood-docker-outside-of-docker-in-gocd-agent
 
 ### Headless (CMS)
 

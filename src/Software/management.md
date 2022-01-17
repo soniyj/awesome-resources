@@ -11,3 +11,5 @@ https://www.nuxeo.com/ (Apache License)
 https://www.openkm.com/ (Community and Enterprise Licenses)
 
 https://www.logicaldoc.com/ (Community and Enterprise Licenses)
+
+https://rock.so/

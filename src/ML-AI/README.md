@@ -19,3 +19,5 @@ https://hackernoon.com/build-your-first-tensorflow-model-in-5-minutes-77237e3cf7
 https://www.opennn.net/
 
 https://www.anaconda.com/
+
+https://krisp.ai/

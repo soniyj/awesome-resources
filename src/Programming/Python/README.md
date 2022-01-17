@@ -32,6 +32,8 @@ https://alexvanzyl.com/posts/2020-05-24-fastapi-simple-application-structure-fro
 
 https://alexvanzyl.com/posts/2020-05-30-fastapi-simple-application-structure-from-scratch-part-3/
 
+https://medium.com/data-rebels/fastapi-authentication-revisited-enabling-api-key-authentication-122dc5975680
+
 ### Microservices
 
 https://www.toptal.com/python/introduction-python-microservices-nameko

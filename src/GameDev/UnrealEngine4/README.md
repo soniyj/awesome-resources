@@ -200,6 +200,12 @@ https://www.youtube.com/c/Strigifo/playlists
 
 [Unreal Engine 4 Tutorial - Saving & Loading Pt.1 Basics](https://www.youtube.com/watch?v=hf98GRZA2d8)
 
+https://www.youtube.com/c/Strigifo/playlists
+
+[UE4 Multiplayer](https://www.youtube.com/playlist?list=PL9z3tc0RL6Z7rISWe-r5DyPopRPJWaITF)
+
+[Unreal Engine 4 SHMUP / Space Shooter](https://www.youtube.com/watch?v=xCljqIjSZVM&list=PLwmGmCVti_dBFcOnCXmpFpg58SmiZZVEt)
+
 **AI**
 
 [HTF do I? Basic AI From Scratch #1 in Unreal Engine 4](https://www.youtube.com/watch?v=WFvG9wNOwoY)
@@ -276,6 +282,8 @@ https://www.youtube.com/watch?v=b5dYlaeriyo (x)
 
 https://www.youtube.com/watch?v=b5dYlaeriyo&list=PLFYGCCDpMHmHJwhIRY6qNumAts--W8bTy
 
+https://www.youtube.com/watch?v=x30Yqsn6oBo&list=PLFYGCCDpMHmHJwhIRY6qNumAts--W8bTy&index=8
+
 https://www.sidefx.com/tutorials/city-building-with-osm-data/
 
 ### FPS Tutorials
@@ -287,3 +295,9 @@ https://m.youtube.com/playlist?list=PLAWAqMERLKYupjlM7TaUZ-Vj_tXdTiXWh
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
 
 [Unreal Engine 5 Beginner Tutorial: Make a Top Down Shooter!](https://www.youtube.com/watch?v=ROMWCMmNBHE)
+
+### Git
+
+[Complete Guide to Git and Unreal for Beginners - UE4 / UE5](https://www.youtube.com/watch?v=5J0CczTshKY)
+
+https://www.anchorpoint.app/blog/git-with-unreal-engine-5
