@@ -17,3 +17,7 @@ https://www.invisionapp.com/ (free 1 prototype)
 https://clarity.design/
 
 https://material.io/develop/
+
+https://tally.so
+
+https://www.figma.com

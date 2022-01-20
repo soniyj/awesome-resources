@@ -39,3 +39,7 @@ https://cheatography.com
 https://flows.nodered.org/flow/830ef3f9b7fca37207b09a7d017b5f11 (nodered HTTP to MQTT)
 
 https://goauthentik.io/integrations/services/wiki-js/ (authentication for wikijs)
+
+https://scons.org
+
+http://swig.org
