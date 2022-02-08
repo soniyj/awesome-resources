@@ -71,3 +71,11 @@ https://medium.com/@sbuckpesch/setup-aws-s3-static-website-hosting-using-ssl-acm
 ### API Gateway
 
 https://medium.com/@maciejtreder/custom-domain-in-aws-api-gateway-a2b7feaf9c74
+
+### EC2
+
+https://www.densify.com/resources/ec2-instance-types
+
+https://aws.amazon.com/ec2/instance-types/
+
+https://aws.amazon.com/ec2/instance-types/i4g/?sc_icampaign=launch_im4gn-and-i4gen_reinvent21&sc_ichannel=ha&sc_icontent=awssm-9495_launch_reinvent2&sc_iplace=ribbon&trk=ha_awssm-9495_launch_reinvent2
