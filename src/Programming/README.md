@@ -43,3 +43,21 @@ https://goauthentik.io/integrations/services/wiki-js/ (authentication for wikijs
 https://scons.org
 
 http://swig.org
+
+https://build2.org (C/C++ Package Manager)
+
+https://vcpkg.io/en/index.html (C/C++ Package Manager)
+
+https://github.com/bredej/vscode-conan-remote
+
+https://zeromq.org
+
+https://github.com/zeromq/libzmq
+
+### Changelog & Versioning
+
+https://kikobeats.github.io/automate-release/#/
+
+https://github.com/conventional-changelog/standard-version
+
+https://www.conventionalcommits.org/en/v1.0.0/

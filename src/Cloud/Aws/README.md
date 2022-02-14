@@ -71,3 +71,7 @@ https://medium.com/@sbuckpesch/setup-aws-s3-static-website-hosting-using-ssl-acm
 ### API Gateway
 
 https://medium.com/@maciejtreder/custom-domain-in-aws-api-gateway-a2b7feaf9c74
+
+### AI/ML
+
+https://aws.amazon.com/sagemaker/

@@ -10,6 +10,10 @@ http://grakn.ai/
 
 https://supabase.io/
 
+http://rocksdb.org (embedded db)
+
+https://www.scylladb.com/
+
 ### DGraph
 
 https://dgraph.io/

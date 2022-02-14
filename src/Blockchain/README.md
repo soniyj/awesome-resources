@@ -18,6 +18,8 @@ https://developers.iost.io/docs/en/1-getting-started/Overview.html (https://iost
 
 https://tron.network/
 
+https://web3.storage
+
 ### YouTube Channels and Videos
 
 https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ/featured
@@ -39,3 +41,8 @@ https://github.com/CryptoKass/NoobChain-Tutorial-Part-2
 **Go**
 
 [Tutorial Hyperledger Fabric SDK Go: How to build your first app?](https://chainhero.io/2017/07/tutorial-build-blockchain-app/)
+
+### NFT
+
+https://nft.storage
+

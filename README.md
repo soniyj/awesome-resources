@@ -135,3 +135,7 @@ https://treeline.io/ (backend in your web browser)
 http://paperjs.org
 
 https://matrix.org/
+
+https://kuzzle.io
+
+https://github.com/cookiecutter/cookiecutter

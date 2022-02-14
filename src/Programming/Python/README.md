@@ -10,6 +10,10 @@ https://realpython.com/api-integration-in-python/
 
 https://python-poetry.org/ (package manager and lib builder)
 
+https://scrapy.org (crawler)
+
+https://www.octoparse.com/blog/top-20-web-crawling-tools-for-extracting-web-data#
+
 ### Flask
 
 https://blog.miguelgrinberg.com/post/restful-authentication-with-flask

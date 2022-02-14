@@ -21,3 +21,9 @@ https://www.opennn.net/
 https://www.anaconda.com/
 
 https://krisp.ai/
+
+https://github.com/plaidml/plaidml
+
+https://github.com/keras-team/keras
+
+https://github.com/Theano/Theano

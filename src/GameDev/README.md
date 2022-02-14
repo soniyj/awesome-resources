@@ -61,3 +61,9 @@ https://www.youtube.com/watch?app=desktop&v=gRp-gvsStkw (How to build sci-fi cit
 https://fullinstallgames.com
 
 https://www.newstargames.com
+
+https://github.com/Render96/Render96Wiki/wiki
+
+https://howlongtobeat.com
+
+https://store.steampowered.com/app/1103770/Super_Arcade_Racing/
