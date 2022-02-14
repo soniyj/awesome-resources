@@ -139,3 +139,5 @@ https://matrix.org/
 https://kuzzle.io
 
 https://github.com/cookiecutter/cookiecutter
+
+https://github.com/bopen/xarray-sentinel

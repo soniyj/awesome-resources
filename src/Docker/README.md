@@ -75,3 +75,13 @@ https://medium.com/@patelharshali136/apache-kafka-tutorial-kafka-for-beginners-a
 https://cwiki.apache.org/confluence/display/KAFKA/Clients
 
 https://docs.confluent.io/platform/current/clients/index.html
+
+### Rancher
+
+https://github.com/rancher/rancher
+
+https://www.atlantic.net/dedicated-server-hosting/manage-docker-containers-with-rancher/
+
+### Tools
+
+https://www.cloudsavvyit.com/15158/10-tools-that-complement-docker/

@@ -4,6 +4,7 @@
 
 https://docs.godotengine.org/en/stable/
 
+https://docs.godotengine.org/en/latest/getting_started/first_3d_game/08.score_and_replay.html
 ### Tutorials
 
 http://kidscancode.org/godot_recipes/
