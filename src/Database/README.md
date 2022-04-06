@@ -101,3 +101,5 @@ https://www.scylladb.com/download/?platform=docker#open-source
 https://monitoring.docs.scylladb.com/stable/install/docker_compose.html
 
 https://docs.scylladb.com/operating-scylla/procedures/tips/best-practices-scylla-on-docker/#basic-operations
+
+https://www.compose.com/articles/from-sql-to-scylla-user-and-session-management/
