@@ -10,9 +10,7 @@ https://realpython.com/api-integration-in-python/
 
 https://python-poetry.org/ (package manager and lib builder)
 
-https://scrapy.org (crawler)
-
-https://www.octoparse.com/blog/top-20-web-crawling-tools-for-extracting-web-data#
+https://docs.python-guide.org/writing/structure/
 
 ### Flask
 
@@ -103,3 +101,15 @@ https://www.pythonpodcast.com/
 https://towardsdatascience.com/how-to-create-a-fully-automated-ai-based-trading-system-with-python-708503c1a907
 
 https://github.com/ruromgar/python-ai-trading-system
+
+### Crawling
+
+https://www.octoparse.com/blog/top-20-web-crawling-tools-for-extracting-web-data#
+
+https://scrapy.org
+
+https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
+
+https://www.scrapingdog.com/blog/how-scrape-using-scrapy-beat-captcha
+
+https://stackoverflow.com/questions/39137559/how-do-i-set-up-scrapy-to-deal-with-a-captcha

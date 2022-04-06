@@ -287,3 +287,7 @@ https://aws.amazon.com/chime/pricing/
 https://aws.amazon.com/codestar/
 
 https://scene-si.org/2018/03/12/handling-http-requests-with-go-chi/
+
+https://httpd.apache.org/docs/2.4/programs/ab.html
+
+https://meta.wikimedia.org/wiki/Squid_performance_tuning

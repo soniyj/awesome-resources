@@ -12,8 +12,6 @@ https://supabase.io/
 
 http://rocksdb.org (embedded db)
 
-https://www.scylladb.com/
-
 ### DGraph
 
 https://dgraph.io/
@@ -21,6 +19,16 @@ https://dgraph.io/
 ### RethinkDB
 
 https://www.rethinkdb.com/
+
+https://tienbm90.medium.com/deploy-rethinkdb-cluster-with-docker-compose-adfe5bc4abf7
+
+https://metalcoder.dev/setting-up-a-rethinkdb-cluster-in-docker/
+
+https://github.com/osirisguitar/rethinkdb-cluster-docker
+
+https://hub.docker.com/r/kallqvist/rethinkdb-cluster
+
+https://github.com/kallqvist/rethinkdb-docker-cluster
 
 ### Couchbase
 
@@ -74,6 +82,8 @@ https://docs.influxdata.com/influxdb/v2.0/write-data/best-practices/schema-desig
 
 https://hub.docker.com/_/telegraf
 
+https://www.influxdata.com/blog/running-influxdb-2-0-and-telegraf-using-docker/
+
 ### RocksDB
 
 https://rocksdb.org/ (embeddable persistent key-value store for fast storage)
@@ -81,3 +91,13 @@ https://rocksdb.org/ (embeddable persistent key-value store for fast storage)
 ### Apache Druid
 
 https://druid.apache.org/ (high performance real-time analytics database)
+
+### Scylla
+
+https://www.scylladb.com/
+
+https://www.scylladb.com/download/?platform=docker#open-source
+
+https://monitoring.docs.scylladb.com/stable/install/docker_compose.html
+
+https://docs.scylladb.com/operating-scylla/procedures/tips/best-practices-scylla-on-docker/#basic-operations

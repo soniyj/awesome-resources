@@ -141,3 +141,13 @@ https://kuzzle.io
 https://github.com/cookiecutter/cookiecutter
 
 https://github.com/bopen/xarray-sentinel
+
+https://developer.redis.com/develop/python/
+
+https://developer.redis.com/develop/python/fastapi/
+
+https://www.youtube.com/watch?v=QSFIK2Ytbh4 (Using Redis with FastAPI)
+
+https://github.com/localtunnel/localtunnel
+
+https://goteleport.com/ (look at it)

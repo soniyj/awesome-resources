@@ -44,6 +44,8 @@ https://github.com/compodoc/compodoc
 
 https://www.freecodecamp.org/news/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f/
 
+https://github.com/PierreDuc/ng-event-options
+
 ### Authentication
 
 https://medium.com/@monkov/angular-using-httpinterceptor-for-token-refreshing-3f04ea2ccb81
@@ -107,6 +109,8 @@ https://wesleygrimes.com/angular/2018/05/30/ngrx-best-practices-for-enterprise-a
 https://github.com/wesleygrimes/angular-ngrx-chuck-norris
 
 https://nx.dev/latest/angular/guides/misc-ngrx
+
+angular-ngrx-chuck-norris-master
 
 **Graph QL**
 

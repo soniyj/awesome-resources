@@ -16,6 +16,18 @@ https://github.com/golang-standards/project-layout
 
 https://go.dev/play/p/wpZf3PLVR5 (ftp)
 
+https://stackoverflow.com/questions/24455147/how-do-i-send-a-json-string-in-a-post-request-in-go
+
+https://stackoverflow.com/questions/43021058/golang-read-request-body-multiple-times
+
+https://www.alexedwards.net/blog/how-to-properly-parse-a-json-request-body
+
+https://stackoverflow.com/questions/15672556/handling-json-post-request-in-go
+
+https://www.alexedwards.net/blog/an-introduction-to-handlers-and-servemuxes-in-go
+
+https://medium.com/@yudapramad/golang-http-handle-request-concurrently-by-default-55f86241a689
+
 ### API
 
 https://echo.labstack.com/
