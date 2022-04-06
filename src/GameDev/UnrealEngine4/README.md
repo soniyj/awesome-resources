@@ -22,6 +22,14 @@ https://www.unrealengine.com/en-US/blog/c-for-blueprinters
 
 https://www.unrealengine.com/marketplace/en-US/product/level-design-assistant
 
+https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/ProgrammingWithCPP/IntroductionToCPP/
+
+https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/
+
+https://www.unrealengine.com/en-US/onlinelearning-courses/improving-c-workflows-using-data
+
+https://www.unrealengine.com/marketplace/en-US/product/adtlink-for-unreal-engine
+
 ### Tutorials
 
 https://www.raywenderlich.com/771-unreal-engine-4-tutorial-for-beginners-getting-started
@@ -254,6 +262,8 @@ https://cesium.com/why-cesium/3d-tiles/
 
 https://gisuser.com/2021/04/cesium-releases-free-cesium-for-unreal-for-all-creators/
 
+https://www.gildor.org/en/projects/umodel
+
 ### To org
 
 https://docs.unrealengine.com/en-US/Engine/Blueprints/UserGuide/Events/Custom/index.html
@@ -303,6 +313,8 @@ https://m.youtube.com/playlist?list=PLAWAqMERLKYupjlM7TaUZ-Vj_tXdTiXWh
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
 
 [Unreal Engine 5 Beginner Tutorial: Make a Top Down Shooter!](https://www.youtube.com/watch?v=ROMWCMmNBHE)
+
+https://www.freecodecamp.org/news/unreal-engine-5-crash-course-with-blueprint/
 
 ### Git
 

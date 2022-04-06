@@ -28,6 +28,18 @@ https://www.alexedwards.net/blog/an-introduction-to-handlers-and-servemuxes-in-g
 
 https://medium.com/@yudapramad/golang-http-handle-request-concurrently-by-default-55f86241a689
 
+https://hardyantz.medium.com/import-existing-go-application-into-the-bazel-monorepo-e25b6a31ee00
+
+https://hardyantz.medium.com/getting-started-monorepo-golang-application-with-bazel-370ed1069b4f
+
+https://github.com/stretchr/testify
+
+https://dev.to/franciscomendes10866/caching-in-golang-using-memcached-42pc
+
+https://www.mailgun.com/blog/golangs-superior-cache-solution-memcached-redis/
+
+https://www.sohamkamani.com/golang/json/
+
 ### API
 
 https://echo.labstack.com/
@@ -43,6 +55,10 @@ https://www.sohamkamani.com/golang/json/
 https://blog.logrocket.com/making-http-requests-in-go/
 
 https://github.com/dipeshdulal/event-scheduling
+
+### GraphQL
+
+https://github.com/Khan/genqlient
 
 ### Blockchain
 

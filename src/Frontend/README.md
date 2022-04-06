@@ -2,6 +2,8 @@
 
 https://www.webcomponents.org/
 
+https://www.phoenixframework.org (interesting project)
+
 ### UI
 
 https://semantic-ui.com/

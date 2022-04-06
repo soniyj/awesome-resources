@@ -68,6 +68,15 @@ https://github.com/ahmetb/kubernetes-network-policy-recipes (ready to use)
 
 https://kubernetes.io/docs/concepts/services-networking/ingress/#simple-fanout
 
+https://www.aquasec.com/cloud-native-academy/kubernetes-101/kubernetes-tutorials/
+
+https://auth0.com/blog/kubernetes-tutorial-step-by-step-introduction-to-basic-concepts/#How-to-Deploy-Your-First-Kubernetes-Application
+
+https://www.tutorialspoint.com/kubernetes/index.htm
+
+https://kubebyexample.com/
+
+https://microk8s.io/
 ##### Kubernetes on Mac/PC
 
 https://medium.com/containers-101/local-kubernetes-for-mac-minikube-vs-docker-desktop-f2789b3cad3a

@@ -1,8 +1,14 @@
 # Backend Resources
 
+### Generic
+
+https://caddyserver.com (reverse proxy)
+
 ### API
 
 https://openapi-generator.tech/
+
+https://microservices.io/patterns/apigateway.html
 
 ### CDN
 

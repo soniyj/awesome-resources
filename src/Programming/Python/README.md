@@ -12,6 +12,10 @@ https://python-poetry.org/ (package manager and lib builder)
 
 https://docs.python-guide.org/writing/structure/
 
+https://docs.python.org/3/howto/logging-cookbook.html#logging-from-multiple-threads
+
+https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/
+
 ### Flask
 
 https://blog.miguelgrinberg.com/post/restful-authentication-with-flask
@@ -28,6 +32,8 @@ https://fastapi.tiangolo.com/
 
 https://fastapi.tiangolo.com/tutorial/bigger-applications/
 
+https://fastapi.tiangolo.com/tutorial/background-tasks/
+
 https://alexvanzyl.com/posts/2020-05-19-fastapi-simple-application-structure-from-scratch/
 
 https://alexvanzyl.com/posts/2020-05-24-fastapi-simple-application-structure-from-scratch-part-2/
@@ -35,6 +41,24 @@ https://alexvanzyl.com/posts/2020-05-24-fastapi-simple-application-structure-fro
 https://alexvanzyl.com/posts/2020-05-30-fastapi-simple-application-structure-from-scratch-part-3/
 
 https://medium.com/data-rebels/fastapi-authentication-revisited-enabling-api-key-authentication-122dc5975680
+
+https://www.obytes.com/blog/getting-started-with-graphql-in-python-with-fastapi-and-ariadne/
+
+https://florian-kromer.medium.com/fastapi-microservice-patterns-asynchronous-communication-45a3b68f8bb8
+
+https://python.plainenglish.io/fastapi-microservice-patterns-graphql-api-b09ccb1de37f?gi=7228eea71e93
+
+https://philstories.medium.com/fastapi-logging-f6237b84ea64
+
+https://dev.to/tomas223/logging-tracing-in-python-fastapi-with-opencensus-a-azure-2jcm
+
+https://nuculabs.dev/2021/05/18/fastapi-uvicorn-logging-in-production/
+
+https://stackoverflow.com/questions/67599119/fastapi-asynchronous-background-tasks-blocks-other-requests
+
+https://medium.com/cuddle-ai/concurrency-with-fastapi-1bd809916130
+
+https://www.uvicorn.org/deployment/#using-a-process-manager
 
 ### Microservices
 
@@ -82,6 +106,12 @@ https://stackoverflow.com/questions/20054243/np-mean-vs-np-average-in-python-num
 
 https://zillow.github.io/luminaire/
 
+**asyncio**
+
+https://docs.python.org/3/library/asyncio-dev.html
+
+https://www.aeracode.org/2018/02/19/python-async-simplified/
+
 ### Visual Scripting
 
 https://ryven.org/
@@ -113,3 +143,7 @@ https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 https://www.scrapingdog.com/blog/how-scrape-using-scrapy-beat-captcha
 
 https://stackoverflow.com/questions/39137559/how-do-i-set-up-scrapy-to-deal-with-a-captcha
+
+https://www.zyte.com/blog/price-intelligence-with-python-scrapy-sql-pandas/
+
+https://www.zyte.com/open-source/

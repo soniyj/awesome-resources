@@ -30,6 +30,10 @@ https://hub.docker.com/r/kallqvist/rethinkdb-cluster
 
 https://github.com/kallqvist/rethinkdb-docker-cluster
 
+https://rethinkdb.com/docs/troubleshooting/
+
+https://stackoverflow.com/questions/38228175/why-is-rethinkdb-very-slow
+
 ### Couchbase
 
 https://www.couchbase.com/

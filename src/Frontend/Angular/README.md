@@ -46,6 +46,8 @@ https://www.freecodecamp.org/news/best-practices-for-a-clean-and-performant-angu
 
 https://github.com/PierreDuc/ng-event-options
 
+https://blog.angular-university.io/angular-2-redux-ngrx-rxjs/
+
 ### Authentication
 
 https://medium.com/@monkov/angular-using-httpinterceptor-for-token-refreshing-3f04ea2ccb81

@@ -44,6 +44,8 @@ https://www.freecodecamp.org/news/from-zero-to-game-designer-how-to-start-buildi
 
 https://www.noesisengine.com
 
+https://flaxengine.com
+
 * [Unity](./Unity/)
 * [Unreal Engine 4](./UnrealEngine4/)
 * [Godot](./Godot/)
@@ -67,3 +69,7 @@ https://github.com/Render96/Render96Wiki/wiki
 https://howlongtobeat.com
 
 https://store.steampowered.com/app/1103770/Super_Arcade_Racing/
+
+https://github.com/le-doux/bitsy (editor)
+
+https://gamefromscratch.com/aws-for-games-at-gdc-cloud-game-development-gamesparks-gamekit-and-more/

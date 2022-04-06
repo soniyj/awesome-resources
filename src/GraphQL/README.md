@@ -54,6 +54,10 @@ https://blog.morizyun.com/javascript/typescript-tutorial-firebase-auth-graphql-r
 
 https://apollo-angular.com/docs/local-state/managing-state-with-field-policies/#storing-local-state-in-reactive-variables
 
+https://www.apollographql.com/docs/studio/explorer/explorer/
+
+https://www.apollographql.com/docs/studio/getting-started/#2-create-your-first-graph
+
 ### AWS
 
 https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7

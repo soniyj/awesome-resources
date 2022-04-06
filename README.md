@@ -151,3 +151,7 @@ https://www.youtube.com/watch?v=QSFIK2Ytbh4 (Using Redis with FastAPI)
 https://github.com/localtunnel/localtunnel
 
 https://goteleport.com/ (look at it)
+
+https://opentelemetry.io
+
+https://github.com/centrifugal/centrifugo (real-time messaging server)
