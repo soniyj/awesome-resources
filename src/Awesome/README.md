@@ -21,3 +21,5 @@ https://github.com/ramitsurana/awesome-kubernetes
 https://awesome-kubernetes.readthedocs.io/
 
 https://github.com/quozd/awesome-dotnet
+
+https://github.com/ligurio/awesome-ci

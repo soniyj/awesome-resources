@@ -46,6 +46,10 @@ https://www.noesisengine.com
 
 https://flaxengine.com
 
+https://www.capturingreality.com/
+
+https://www.capturingreality.com/introducing-realityscan
+
 * [Unity](./Unity/)
 * [Unreal Engine 4](./UnrealEngine4/)
 * [Godot](./Godot/)
