@@ -16,6 +16,8 @@ https://docs.python.org/3/howto/logging-cookbook.html#logging-from-multiple-thre
 
 https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/
 
+https://gitlab.com/cococodez/vscode-remote-containers-tutorial-for-python/-/tree/master/
+
 ### Flask
 
 https://blog.miguelgrinberg.com/post/restful-authentication-with-flask
