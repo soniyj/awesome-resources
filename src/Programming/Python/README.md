@@ -60,6 +60,10 @@ https://medium.com/cuddle-ai/concurrency-with-fastapi-1bd809916130
 
 https://www.uvicorn.org/deployment/#using-a-process-manager
 
+https://christophergs.com/tutorials/ultimate-fastapi-tutorial-pt-8-project-structure-api-versioning/
+
+https://github.com/ChristopherGS/ultimate-fastapi-tutorial
+
 ### Microservices
 
 https://www.toptal.com/python/introduction-python-microservices-nameko
