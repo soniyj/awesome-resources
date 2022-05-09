@@ -316,6 +316,10 @@ https://m.youtube.com/playlist?list=PLAWAqMERLKYupjlM7TaUZ-Vj_tXdTiXWh
 
 https://www.freecodecamp.org/news/unreal-engine-5-crash-course-with-blueprint/
 
+[Your First Game in UE5 | Tech Talk | State of Unreal 2022](https://www.youtube.com/watch?app=desktop&v=Itd677YZi50)
+
+https://docs.unrealengine.com/5.0/en-US/city-sample-project-unreal-engine-demonstration/
+
 ### Git
 
 [Complete Guide to Git and Unreal for Beginners - UE4 / UE5](https://www.youtube.com/watch?v=5J0CczTshKY)

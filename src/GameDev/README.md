@@ -50,6 +50,12 @@ https://www.capturingreality.com/
 
 https://www.capturingreality.com/introducing-realityscan
 
+https://microstudio.dev (free game engine online)
+
+https://www.articy.com/en/articydraft-3-freeout-now/ (storytelling)
+
+https://www.articy.com/en/articydraft/free/ (storytelling)
+
 * [Unity](./Unity/)
 * [Unreal Engine 4](./UnrealEngine4/)
 * [Godot](./Godot/)
@@ -77,3 +83,5 @@ https://store.steampowered.com/app/1103770/Super_Arcade_Racing/
 https://github.com/le-doux/bitsy (editor)
 
 https://gamefromscratch.com/aws-for-games-at-gdc-cloud-game-development-gamesparks-gamekit-and-more/
+
+https://hlorus.github.io/CAD_Sketcher/ (CAD Sketcher is a constraint-based sketcher addon for Blender)

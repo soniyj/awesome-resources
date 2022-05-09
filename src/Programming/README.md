@@ -56,6 +56,8 @@ https://github.com/zeromq/libzmq
 
 https://morph027.gitlab.io/blog/localtunnel-ngrok/
 
+https://odin-lang.org
+
 ### Changelog & Versioning
 
 https://kikobeats.github.io/automate-release/#/

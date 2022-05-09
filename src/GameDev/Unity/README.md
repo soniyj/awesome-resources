@@ -66,6 +66,8 @@ https://blogs.unity3d.com/2017/11/20/making-cool-stuff-with-scriptableobjects/
 
 https://catlikecoding.com/
 
+https://blog.devgenius.io/making-the-inspector-look-better-175baf39ada0
+
 ##### AR/VR
 
 [Unity AR Tutorial: Augmented Reality Game Development with Vuforia](http://blog.theknightsofunity.com/unity-vuforia-guide/)

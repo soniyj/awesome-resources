@@ -21,6 +21,8 @@ https://www.avvocatobertaggia.org/
 
 https://www.oysterhr.com (hire anywhere accounting)
 
+https://www.paciolo.com/versioni-e-prezzi/
+
 <a name="italianlaw"/></a>
 ### Italian Law
 

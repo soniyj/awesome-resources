@@ -27,3 +27,5 @@ https://github.com/plaidml/plaidml
 https://github.com/keras-team/keras
 
 https://github.com/Theano/Theano
+
+https://modelplace.ai/models (The Marketplace for AI models)

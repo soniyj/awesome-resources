@@ -107,3 +107,13 @@ https://monitoring.docs.scylladb.com/stable/install/docker_compose.html
 https://docs.scylladb.com/operating-scylla/procedures/tips/best-practices-scylla-on-docker/#basic-operations
 
 https://www.compose.com/articles/from-sql-to-scylla-user-and-session-management/
+
+### MariaDB
+
+https://mariadb.com/kb/en/installing-and-using-mariadb-via-docker/
+
+https://severalnines.com/database-blog/how-install-and-configure-maxscale-mariadb
+
+https://hub.docker.com/r/bitnami/mariadb/
+
+https://hub.docker.com/r/linuxserver/mariadb
