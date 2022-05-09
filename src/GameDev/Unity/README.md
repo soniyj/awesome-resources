@@ -68,6 +68,10 @@ https://catlikecoding.com/
 
 https://blog.devgenius.io/making-the-inspector-look-better-175baf39ada0
 
+[How To Create An Item System - Part 1 - Item Data](https://www.youtube.com/watch?v=cb6rz64jZUo&list=PLS6sInD7ThM2W9qpLv8VcD3gOiGJcr0lw&index=1)
+
+https://github.com/DapperDino
+
 ##### AR/VR
 
 [Unity AR Tutorial: Augmented Reality Game Development with Vuforia](http://blog.theknightsofunity.com/unity-vuforia-guide/)
