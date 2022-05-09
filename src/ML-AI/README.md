@@ -29,3 +29,18 @@ https://github.com/keras-team/keras
 https://github.com/Theano/Theano
 
 https://modelplace.ai/models (The Marketplace for AI models)
+
+https://docs.openvino.ai/latest/index.html# (open-source toolkit for optimizing and deploying AI inference)
+
+https://onnx.ai/ (Open Neural Network Exchange)
+
+https://mxnet.apache.org/versions/1.9.0/ (Flexible and efficient
+library for Deep Learning)
+
+https://www.oneapi.io/ (Unified API for AI/ML)
+
+https://pytorch.org/ (Machine Learning Framework)
+
+https://keras.io/ (Deep Learning Framework)
+
+https://opencv.org/
