@@ -157,3 +157,9 @@ https://stackoverflow.com/questions/39137559/how-do-i-set-up-scrapy-to-deal-with
 https://www.zyte.com/blog/price-intelligence-with-python-scrapy-sql-pandas/
 
 https://www.zyte.com/open-source/
+
+https://www.scrapingdog.com/blog/how-scrape-using-scrapy-beat-captcha/
+
+https://www.scrapingdog.com/blog/web-scraping-with-python/
+
+https://www.scrapingdog.com/blog/10-tips-to-avoid-getting-blocked-while-scraping/
