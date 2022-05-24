@@ -30,6 +30,8 @@ https://www.unrealengine.com/en-US/onlinelearning-courses/improving-c-workflows-
 
 https://www.unrealengine.com/marketplace/en-US/product/adtlink-for-unreal-engine
 
+https://www.unrealengine.com/en-US/blog/webinar-exploring-the-new-sports-broadcast-and-motion-graphics-sample
+
 ### Tutorials
 
 https://www.raywenderlich.com/771-unreal-engine-4-tutorial-for-beginners-getting-started
@@ -214,6 +216,12 @@ https://www.youtube.com/c/Strigifo/playlists
 
 [Unreal Engine 4 SHMUP / Space Shooter](https://www.youtube.com/watch?v=xCljqIjSZVM&list=PLwmGmCVti_dBFcOnCXmpFpg58SmiZZVEt)
 
+[Cesium for Unreal Tutorial 01 - Quickstart](https://m.youtube.com/watch?v=BX37A949tiw)
+
+[Rig and Drive your first Chaos Vehicle - Unreal Engine 4 Tutorial](https://m.youtube.com/watch?v=GcsVkmlpVTw)
+
+[Arcade Vehicle Physics - Downloadable demo - Unreal Engine 4](https://m.youtube.com/watch?v=kt7udNK_zh4)
+
 **AI**
 
 [HTF do I? Basic AI From Scratch #1 in Unreal Engine 4](https://www.youtube.com/watch?v=WFvG9wNOwoY)
@@ -310,6 +318,14 @@ https://m.youtube.com/playlist?list=PLAWAqMERLKYupjlM7TaUZ-Vj_tXdTiXWh
 
 ### UE5
 
+https://docs.unrealengine.com/5.0/en-US/city-sample-project-unreal-engine-demonstration/
+
+https://docs.unrealengine.com/5.0/en-US/importing-assets-directly-into-unreal-engine/
+
+https://docs.unrealengine.com/5.0/en-US/quick-start-for-niagara-effects-in-unreal-engine/
+
+https://www.unrealengine.com/marketplace/en-US/product/city-sample-vehicles
+
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
 
 [Unreal Engine 5 Beginner Tutorial: Make a Top Down Shooter!](https://www.youtube.com/watch?v=ROMWCMmNBHE)
@@ -319,6 +335,8 @@ https://www.freecodecamp.org/news/unreal-engine-5-crash-course-with-blueprint/
 [Your First Game in UE5 | Tech Talk | State of Unreal 2022](https://www.youtube.com/watch?app=desktop&v=Itd677YZi50)
 
 https://docs.unrealengine.com/5.0/en-US/city-sample-project-unreal-engine-demonstration/
+
+[Google Map 3D to Unreal Engine 5 - UE5 Full Tutorial](https://www.youtube.com/watch?app=desktop&v=mdXL-DTXBSU&fbclid=IwAR1nz8ZN8XUbZI5berSWoYAlike51nJGf9E0O9ieClSCwTnfaPJgN3Y4QNg)
 
 ### Git
 
