@@ -222,6 +222,10 @@ https://www.youtube.com/c/Strigifo/playlists
 
 [Arcade Vehicle Physics - Downloadable demo - Unreal Engine 4](https://m.youtube.com/watch?v=kt7udNK_zh4)
 
+[Unreal Engine & C++ Tutorial - Endless Runner Game](https://www.youtube.com/watch?v=SOjZTmOMGcY)
+
+[Blueprints vs. C++: How They Fit Together and Why You Should Use Both](https://www.youtube.com/watch?v=VMZftEVDuCE)
+
 **AI**
 
 [HTF do I? Basic AI From Scratch #1 in Unreal Engine 4](https://www.youtube.com/watch?v=WFvG9wNOwoY)
@@ -337,6 +341,8 @@ https://www.freecodecamp.org/news/unreal-engine-5-crash-course-with-blueprint/
 https://docs.unrealengine.com/5.0/en-US/city-sample-project-unreal-engine-demonstration/
 
 [Google Map 3D to Unreal Engine 5 - UE5 Full Tutorial](https://www.youtube.com/watch?app=desktop&v=mdXL-DTXBSU&fbclid=IwAR1nz8ZN8XUbZI5berSWoYAlike51nJGf9E0O9ieClSCwTnfaPJgN3Y4QNg)
+
+[#01 - Creating A Project | UE5 C++ Tutorial](https://www.youtube.com/watch?v=g9dU0eCy8RI)
 
 ### Git
 
