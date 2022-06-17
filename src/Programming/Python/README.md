@@ -163,3 +163,15 @@ https://www.scrapingdog.com/blog/how-scrape-using-scrapy-beat-captcha/
 https://www.scrapingdog.com/blog/web-scraping-with-python/
 
 https://www.scrapingdog.com/blog/10-tips-to-avoid-getting-blocked-while-scraping/
+
+https://captchaforum.com/threads/solving-h-captcha-on-scrapy.2114/
+
+https://github.com/yetone/decaptcha
+
+**Other**
+
+https://www.scrapingdog.com/blog/top-5-web-scraping-javascript-libraries/
+
+https://www.scrapingdog.com/blog/web-scraping-using-javascript-nodejs-puppeteer/
+
+https://www.scrapingdog.com/blog/top-10-best-data-scraping-tools-%26-web-scraper/
