@@ -21,3 +21,7 @@ https://gitea.io/en-us/
 ### Tutorials
 
 http://www.codeblocq.com/2016/01/Untrack-files-already-added-to-git-repository-based-on-gitignore/
+
+### Flow
+
+https://opensource.com/article/20/7/git-best-practices
