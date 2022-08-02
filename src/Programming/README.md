@@ -60,6 +60,8 @@ https://odin-lang.org
 
 https://blog.bytebytego.com/p/diagram-as-code
 
+https://endoflife.date/
+
 ### Changelog & Versioning
 
 https://kikobeats.github.io/automate-release/#/
