@@ -330,19 +330,27 @@ https://docs.unrealengine.com/5.0/en-US/quick-start-for-niagara-effects-in-unrea
 
 https://www.unrealengine.com/marketplace/en-US/product/city-sample-vehicles
 
+https://www.freecodecamp.org/news/unreal-engine-5-crash-course-with-blueprint/
+
+https://docs.unrealengine.com/5.0/en-US/city-sample-project-unreal-engine-demonstration/
+
+https://www.unrealengine.com/en-US/blog/make-a-game-animate-in-unreal-engine-and-more-with-these-new-courses
+
+**Video Tutorials**
+
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
 
 [Unreal Engine 5 Beginner Tutorial: Make a Top Down Shooter!](https://www.youtube.com/watch?v=ROMWCMmNBHE)
 
-https://www.freecodecamp.org/news/unreal-engine-5-crash-course-with-blueprint/
-
 [Your First Game in UE5 | Tech Talk | State of Unreal 2022](https://www.youtube.com/watch?app=desktop&v=Itd677YZi50)
-
-https://docs.unrealengine.com/5.0/en-US/city-sample-project-unreal-engine-demonstration/
 
 [Google Map 3D to Unreal Engine 5 - UE5 Full Tutorial](https://www.youtube.com/watch?app=desktop&v=mdXL-DTXBSU&fbclid=IwAR1nz8ZN8XUbZI5berSWoYAlike51nJGf9E0O9ieClSCwTnfaPJgN3Y4QNg)
 
 [#01 - Creating A Project | UE5 C++ Tutorial](https://www.youtube.com/watch?v=g9dU0eCy8RI)
+
+[Driving Around: Exploring Chaos Vehicles | Feature Highlight | State of Unreal 2022](https://www.youtube.com/watch?app=desktop&v=Wc6lUXOhRO0)
+
+[Car AI tutorial in Unreal Engine 5 (Part 1) | Humble beginnings](https://www.youtube.com/watch?app=desktop&v=4fxMooQyJBg)
 
 ### Git
 

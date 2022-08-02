@@ -59,3 +59,9 @@ https://github.com/decentraland-scenes/Hypno-wheels
 https://github.com/decentraland-scenes/Awesome-Repository
 
 https://github.com/decentraland-scenes/dcl-escape-room-tutorial
+
+https://docs.decentraland.org/builder/builder-101/
+
+https://docs.decentraland.org/development-guide/SDK-101/
+
+https://dcl-edit.com/ (SDK Editor)

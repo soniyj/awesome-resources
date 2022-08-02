@@ -117,3 +117,13 @@ https://severalnines.com/database-blog/how-install-and-configure-maxscale-mariad
 https://hub.docker.com/r/bitnami/mariadb/
 
 https://hub.docker.com/r/linuxserver/mariadb
+
+### Other DB to Check
+
+https://questdb.io (Fast SQL for time series QuestDB is the fastest open source time series database)
+
+https://tdengine.com (High-Performance, Scalable Time‑Series Database with SQL Support)
+
+https://arcadedb.com (The Next Generation Multi-Model Database Supporting Graphs, Key/Value, Documents and Time-Series)
+
+https://developers.eventstore.com/server/v21.10/#getting-started (Event DB)

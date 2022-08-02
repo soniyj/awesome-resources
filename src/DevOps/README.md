@@ -81,3 +81,8 @@ https://grafana.com/oss/loki/ (multi-tenant log aggregation system)
 https://thesmarthomejourney.com/2021/08/23/loki-grafana-log-aggregation/
 
 https://grafana.com/docs/loki/latest/configuration/examples/
+
+### Terraform
+
+[Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4)
+

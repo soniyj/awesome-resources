@@ -58,6 +58,8 @@ https://morph027.gitlab.io/blog/localtunnel-ngrok/
 
 https://odin-lang.org
 
+https://blog.bytebytego.com/p/diagram-as-code
+
 ### Changelog & Versioning
 
 https://kikobeats.github.io/automate-release/#/

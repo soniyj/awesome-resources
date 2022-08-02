@@ -85,3 +85,17 @@ https://www.atlantic.net/dedicated-server-hosting/manage-docker-containers-with-
 ### Tools
 
 https://www.cloudsavvyit.com/15158/10-tools-that-complement-docker/
+
+### Monitoring
+
+https://medium.com/geekculture/how-to-monitor-docker-metrics-using-prometheus-grafana-707b970f1f06
+
+https://www.digitalocean.com/community/tutorials/how-to-monitor-docker-using-zabbix-on-ubuntu-20-04
+
+[Docker Monitoring using cAdvisor Prometheus & Grafana](https://www.youtube.com/watch?v=Q_tmu5Wte9E)
+
+[Simple Docker Container Monitoring With ZABBIX](https://www.youtube.com/watch?v=QNdsWp_X9-c)
+
+[Zabbix Docker Containers](https://www.youtube.com/watch?v=ScKlF0ICVYA)
+
+[Web Monitoring With ZABBIX Explained](https://www.youtube.com/watch?v=L_J56StHHbg)

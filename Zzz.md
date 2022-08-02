@@ -24,6 +24,14 @@ https://volta.sh/
 
 https://www.plexx.digital/keycloak-realm-export-import/
 
+https://github.com/asatrya/keycloak-traefik-tutorial
+
+https://medium.com/@nk-kumawat/gsuite-saml-app-with-keycloak-idp-initiated-sso-518d3e322a39
+
+https://keycloakthemes.com/blog/how-to-setup-sign-in-with-google-using-keycloak
+
+https://cloud.google.com/architecture/identity/keycloak-single-sign-on#keycloak-17-or-newer
+
 ### Traefik ###
 
 https://www.humankode.com/ssl/how-to-set-up-free-ssl-certificates-from-lets-encrypt-using-docker-and-nginx (look for ssl)
@@ -71,7 +79,6 @@ https://gist.github.com/smashnet/38cf7c30cb06427bab78ae5ab0fd2ae3
 http://nicolas.inden.one/article/2020/01/24/traefik-v2-and-mastodon.html
 
 https://www.leonpahole.com/2020/05/traefik-nodejs-api-and-db.html
-
 
 ### Video to check
 
@@ -142,6 +149,8 @@ https://www.spiceworks.com/
 https://www.composerize.com/
 
 https://stackoverflow.com/questions/59967421/implementaion-of-dood-docker-outside-of-docker-in-gocd-agent
+
+https://www.rivaluta.it/interessilegali/formula-calcolo-interessi.asp
 
 ### Headless (CMS)
 
@@ -295,3 +304,11 @@ https://meta.wikimedia.org/wiki/Squid_performance_tuning
 https://aerospike.com
 
 https://openvpn.net/faq/how-do-i-use-a-client-certificate-and-private-key-from-the-ios-keychain/
+
+### Laptop
+
+https://www.megaport.it/pc-gaming/intel/intel-core-i7/
+
+https://www.pcspecialist.it/notebook/defianceX-17/
+
+https://www.santech.eu/g69-series
