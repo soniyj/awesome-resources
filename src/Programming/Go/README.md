@@ -40,6 +40,10 @@ https://www.mailgun.com/blog/golangs-superior-cache-solution-memcached-redis/
 
 https://www.sohamkamani.com/golang/json/
 
+https://www.velotio.com/engineering-blog/build-a-containerized-microservice-in-golang
+
+https://dev.to/koddr/build-a-restful-api-on-go-fiber-postgresql-jwt-and-swagger-docs-in-isolated-docker-containers-475j
+
 ### API
 
 https://echo.labstack.com/
@@ -61,6 +65,8 @@ https://github.com/dipeshdulal/event-scheduling
 https://github.com/Khan/genqlient
 
 ### Blockchain
+
+https://mycoralhealth.medium.com/code-your-own-proof-of-stake-blockchain-in-go-610cd99aa658
 
 **Tutorial 1**
 

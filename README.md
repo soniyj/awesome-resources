@@ -152,8 +152,6 @@ https://github.com/localtunnel/localtunnel
 
 https://goteleport.com/ (look at it)
 
-https://opentelemetry.io
-
 https://github.com/centrifugal/centrifugo (real-time messaging server)
 
 https://www.wikitude.com/blog-image-recognition-and-tracking-augmented-reality-use-cases-and-how-to/

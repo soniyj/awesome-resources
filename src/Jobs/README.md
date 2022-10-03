@@ -8,6 +8,8 @@ https://www.redbitgames.com/
 
 https://www.101-percent.com/
 
+https://www.deckx.app
+
 ### Interview Questions
 
 https://www.interviewbit.com/cpp-interview-questions/#copy-constructor-in-c++

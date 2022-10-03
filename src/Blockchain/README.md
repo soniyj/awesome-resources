@@ -20,6 +20,8 @@ https://tron.network/
 
 https://web3.storage
 
+https://www.biconomy.io/
+
 ### YouTube Channels and Videos
 
 https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ/featured
@@ -46,6 +48,14 @@ https://github.com/CryptoKass/NoobChain-Tutorial-Part-2
 
 https://nft.storage
 
+### Polygon
+
+https://docs.polygon.technology/
+
+https://faucet.polygon.technology/
+
+https://www.polygonalmind.com/blog-posts/simple-mana-transactions-in-dcl
+
 ### Decentraland
 
 https://docs.decentraland.org/examples/sample-scenes/
@@ -63,5 +73,11 @@ https://github.com/decentraland-scenes/dcl-escape-room-tutorial
 https://docs.decentraland.org/builder/builder-101/
 
 https://docs.decentraland.org/development-guide/SDK-101/
+
+https://docs.decentraland.org/development-guide/second-layer/
+
+https://docs.decentraland.org/development-guide/deploying-your-own-transactions-server/
+
+https://github.com/decentraland/transactions-server/tree/v1
 
 https://dcl-edit.com/ (SDK Editor)

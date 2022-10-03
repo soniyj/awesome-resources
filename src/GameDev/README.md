@@ -58,6 +58,8 @@ https://www.articy.com/en/articydraft/free/ (storytelling)
 
 https://charisma.ai/ (Power Real-time Digital Humans)
 
+https://www.gbstudio.dev
+
 * [Unity](./Unity/)
 * [Unreal Engine 4](./UnrealEngine4/)
 * [Godot](./Godot/)
@@ -87,3 +89,11 @@ https://github.com/le-doux/bitsy (editor)
 https://gamefromscratch.com/aws-for-games-at-gdc-cloud-game-development-gamesparks-gamekit-and-more/
 
 https://hlorus.github.io/CAD_Sketcher/ (CAD Sketcher is a constraint-based sketcher addon for Blender)
+
+https://github.com/ZDoom/gzdoom
+
+https://github.com/sirjuddington/SLADE (Doom Editor)
+
+https://prochitecture.gumroad.com/l/blender-osm
+
+https://paveloliva.gumroad.com/l/buildify

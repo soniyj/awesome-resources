@@ -250,6 +250,8 @@ https://www.youtube.com/c/Strigifo/playlists
 
 https://continuebreak.com/creations/ue4-vehicle-rigging-addon-blender/ (blender+ue4)
 
+https://gamefromscratch.com/altermesh-unreal-engine-plugin-for-blender-geometry-node-support/
+
 ### Projects
 
 https://forums.unrealengine.com/community/community-content-tools-and-tutorials/1492096-free-modular-road-tool

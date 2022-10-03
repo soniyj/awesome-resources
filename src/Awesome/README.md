@@ -23,3 +23,5 @@ https://awesome-kubernetes.readthedocs.io/
 https://github.com/quozd/awesome-dotnet
 
 https://github.com/ligurio/awesome-ci
+
+https://github.com/fffaraz/awesome-cpp#networking

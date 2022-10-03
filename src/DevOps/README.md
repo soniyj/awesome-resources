@@ -86,3 +86,9 @@ https://grafana.com/docs/loki/latest/configuration/examples/
 
 [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4)
 
+### Monitoring
+
+https://opentelemetry.io
+
+https://www.jaegertracing.io
+
