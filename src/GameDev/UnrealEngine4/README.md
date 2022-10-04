@@ -354,6 +354,8 @@ https://www.unrealengine.com/en-US/blog/make-a-game-animate-in-unreal-engine-and
 
 [Car AI tutorial in Unreal Engine 5 (Part 1) | Humble beginnings](https://www.youtube.com/watch?app=desktop&v=4fxMooQyJBg)
 
+[How to Create a Car Racing Game in Unreal Engine 5 - UE5 Beginner Tutorial](https://www.youtube.com/watch?app=desktop&v=3P1A73Ghisw) {~5.3hrs}
+
 ### Git
 
 [Complete Guide to Git and Unreal for Beginners - UE4 / UE5](https://www.youtube.com/watch?v=5J0CczTshKY)

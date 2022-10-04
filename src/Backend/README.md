@@ -10,6 +10,8 @@ https://openapi-generator.tech/
 
 https://microservices.io/patterns/apigateway.html
 
+https://www.youtube.com/watch?v=sSm2dRarhPo (Microservices + Events + Docker = A Perfect Trio)
+
 ### CDN
 
 https://www.fastly.com/ (fast and possible expensive)

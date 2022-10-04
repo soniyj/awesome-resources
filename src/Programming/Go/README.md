@@ -44,6 +44,10 @@ https://www.velotio.com/engineering-blog/build-a-containerized-microservice-in-g
 
 https://dev.to/koddr/build-a-restful-api-on-go-fiber-postgresql-jwt-and-swagger-docs-in-isolated-docker-containers-475j
 
+https://medium.com/@gauravsingharoy/asynchronous-programming-with-go-546b96cd50c1
+
+https://www.apollographql.com/blog/graphql/golang/using-graphql-with-golang/
+
 ### API
 
 https://echo.labstack.com/
@@ -63,6 +67,8 @@ https://github.com/dipeshdulal/event-scheduling
 ### GraphQL
 
 https://github.com/Khan/genqlient
+
+https://servian.dev/building-a-graphql-api-in-go-using-gqlgen-f7a42eba2193
 
 ### Blockchain
 

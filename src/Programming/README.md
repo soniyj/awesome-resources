@@ -69,3 +69,15 @@ https://kikobeats.github.io/automate-release/#/
 https://github.com/conventional-changelog/standard-version
 
 https://www.conventionalcommits.org/en/v1.0.0/
+
+### Low-Code and/or No-Code
+
+https://bubble.io
+
+https://retool.com
+
+https://www.wavemaker.com/low-code-app-development-platform/
+
+### Protocols
+
+https://developers.google.com/protocol-buffers

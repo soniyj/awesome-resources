@@ -11,3 +11,7 @@ https://developers.google.com/identity/sign-in/web/reference#top_of_page
 https://plyr.io/
 
 https://github.com/creationix/nvm
+
+https://web.dev/commonjs-larger-bundles/
+
+https://github.com/indutny/webpack-common-shake

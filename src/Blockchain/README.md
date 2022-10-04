@@ -22,6 +22,8 @@ https://web3.storage
 
 https://www.biconomy.io/
 
+https://chainlist.org
+
 ### YouTube Channels and Videos
 
 https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ/featured
@@ -47,6 +49,8 @@ https://github.com/CryptoKass/NoobChain-Tutorial-Part-2
 ### NFT
 
 https://nft.storage
+
+https://zapper.fi
 
 ### Polygon
 

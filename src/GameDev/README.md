@@ -60,6 +60,8 @@ https://charisma.ai/ (Power Real-time Digital Humans)
 
 https://www.gbstudio.dev
 
+https://twinery.org (open-source tool for telling interactive, nonlinear stories)
+
 * [Unity](./Unity/)
 * [Unreal Engine 4](./UnrealEngine4/)
 * [Godot](./Godot/)
@@ -97,3 +99,5 @@ https://github.com/sirjuddington/SLADE (Doom Editor)
 https://prochitecture.gumroad.com/l/blender-osm
 
 https://paveloliva.gumroad.com/l/buildify
+
+[All Choice No Consequence: Efficiently Branching Narrative](https://www.youtube.com/watch?app=desktop&v=TEa9aSDHawA)

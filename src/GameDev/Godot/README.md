@@ -14,3 +14,5 @@ https://kidscancode.org/godot_recipes/ai/context_map/
 ### Video Tutorials
 
 https://www.youtube.com/watch?v=AHK5aQ7xvH8
+
+https://www.youtube.com/c/Gdquest/videos?app=desktop&cbrd=1&cbrd=1&cbrd=1&ucbcb=1
