@@ -113,3 +113,5 @@ https://github.com/mxgmn/WaveFunctionCollapse (generates bitmaps that are locall
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/
 
 https://80.lv/articles/tips-on-designing-non-linear-single-player-levels/
+
+https://www.youtube.com/watch?v=8fXE-E1hjKk (Storytelling Tools to Boost Your Indie Game's Narrative and Gameplay)
