@@ -62,6 +62,8 @@ https://www.gbstudio.dev
 
 https://twinery.org (open-source tool for telling interactive, nonlinear stories)
 
+https://gdevelop.io/academy
+
 * [Unity](./Unity/)
 * [Unreal Engine 4](./UnrealEngine4/)
 * [Godot](./Godot/)
@@ -101,3 +103,13 @@ https://prochitecture.gumroad.com/l/blender-osm
 https://paveloliva.gumroad.com/l/buildify
 
 [All Choice No Consequence: Efficiently Branching Narrative](https://www.youtube.com/watch?app=desktop&v=TEa9aSDHawA)
+
+https://developer.apple.com/documentation/gameplaykit/gkdecisiontree
+
+https://github.com/mxgmn/WaveFunctionCollapse (generates bitmaps that are locally similar to the input bitmap)
+
+### Game Design
+
+https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/
+
+https://80.lv/articles/tips-on-designing-non-linear-single-player-levels/

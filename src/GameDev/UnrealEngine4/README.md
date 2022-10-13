@@ -338,6 +338,8 @@ https://docs.unrealengine.com/5.0/en-US/city-sample-project-unreal-engine-demons
 
 https://www.unrealengine.com/en-US/blog/make-a-game-animate-in-unreal-engine-and-more-with-these-new-courses
 
+https://docs.unrealengine.com/5.0/en-US/using-gameplay-abilities-in-unreal-engine/
+
 **Video Tutorials**
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
