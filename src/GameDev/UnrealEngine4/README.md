@@ -82,6 +82,8 @@ https://discover.therookies.co/2019/05/25/creating-a-chinese-cyberneon-game-envi
 
 https://answers.unrealengine.com/questions/882800/pathfinding-with-curve.html
 
+https://80.lv/articles/tutorial-importing-terrain-data-into-unreal-using-lidar-houdini/
+
 ##### HTTP
 
 https://wiki.unrealengine.com/UE4.10_How_To_Make_HTTP_GET_Request_in_C%2B%2B
@@ -276,6 +278,8 @@ https://cesium.com/why-cesium/3d-tiles/
 
 https://gisuser.com/2021/04/cesium-releases-free-cesium-for-unreal-for-all-creators/
 
+https://cesium.com/learn/unreal/unreal-quickstart/
+
 https://www.gildor.org/en/projects/umodel
 
 ### To org
@@ -293,6 +297,8 @@ https://github.com/ue4plugins/LoadingScreen
 https://forums.unrealengine.com/t/tutorial-using-maps-gis-data-to-create-real-world-landscapes-in-ue4-in-less-than-a-day/107586
 
 https://getcitysketch.com/ (City Generator Add-on for Blender)
+
+https://3dtotal.com/tutorials/unreal-engine-dev-kit
 
 ### Courses
 
@@ -340,6 +346,8 @@ https://www.unrealengine.com/en-US/blog/make-a-game-animate-in-unreal-engine-and
 
 https://docs.unrealengine.com/5.0/en-US/using-gameplay-abilities-in-unreal-engine/
 
+https://docs.unrealengine.com/5.0/en-US/game-features-and-modular-gameplay-in-unreal-engine/
+
 **Video Tutorials**
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
@@ -357,6 +365,14 @@ https://docs.unrealengine.com/5.0/en-US/using-gameplay-abilities-in-unreal-engin
 [Car AI tutorial in Unreal Engine 5 (Part 1) | Humble beginnings](https://www.youtube.com/watch?app=desktop&v=4fxMooQyJBg)
 
 [How to Create a Car Racing Game in Unreal Engine 5 - UE5 Beginner Tutorial](https://www.youtube.com/watch?app=desktop&v=3P1A73Ghisw) {~5.3hrs}
+
+[Getting Started in Unreal Engine 5](https://www.youtube.com/watch?app=desktop&v=cr9cCYO23JU)
+
+[UE5 Landscape Part 2](https://www.youtube.com/watch?app=desktop&v=75-jI_cES18)
+
+[How to Create a Car Racing Game in Unreal Engine 5 - UE5 Beginner Tutorial](https://www.youtube.com/watch?app=desktop&v=3P1A73Ghisw)
+
+[Learn to Create Open Worlds in Unreal Engine 5 | Landscape Auto material & Level Instance Blueprint](https://www.youtube.com/watch?app=desktop&v=Y-CDWyQvKhA)
 
 ### Git
 

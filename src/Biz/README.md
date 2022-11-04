@@ -77,6 +77,10 @@ https://www.netlawman.co.uk/ia/types-uk-company
 
 https://www.nibusinessinfo.co.uk/content/starting-public-limited-company
 
+https://www.gov.uk/government/publications/right-to-work-checks-employers-guide/an-employers-guide-to-right-to-work-checks-6-april-2022-accessible-version
+
+https://www.nationalcompanyrescue.co.uk/company-insolvency/?gclid=EAIaIQobChMIt8azkNn--gIVCPd3Ch1mIg73EAAYASAAEgJ68PD_BwE#lp-pom-box-1039
+
 <a name="swisslaw"/></a>
 ### Swiss Law
 

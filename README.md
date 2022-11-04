@@ -163,3 +163,7 @@ https://www.weweb.io/
 https://www.xano.com/
 
 https://www.emqx.io (Most Scalable MQTT Broker)
+
+https://www.yworks.com/products/yed-live (Diagramming Everywhere, Anytime)
+
+https://augment.eco/it (Il nuovo servizio di mobilità, senza pensieri)

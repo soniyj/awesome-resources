@@ -64,6 +64,10 @@ https://twinery.org (open-source tool for telling interactive, nonlinear stories
 
 https://gdevelop.io/academy
 
+https://pixijs.com
+
+https://ctjs.rocks
+
 * [Unity](./Unity/)
 * [Unreal Engine 4](./UnrealEngine4/)
 * [Godot](./Godot/)
