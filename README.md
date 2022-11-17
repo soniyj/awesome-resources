@@ -23,7 +23,7 @@ Collections of Awesome Resources
   * [CSS](./src/Frontend/Css/)
 - [Game Development](./src/GameDev/)
   * [Unity3D](./src/GameDev/Unity/)
-  * [Unreal Engine 4](./src/GameDev/UnrealEngine4)
+  * [Unreal Engine](./src/GameDev/UnrealEngine)
 - [Graphics](./src/Graphics/)
 - [GraphQL](./src/GraphQL/)
 - [Jobs](./src/Jobs/)
