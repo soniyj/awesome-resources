@@ -60,6 +60,8 @@ https://dev.epicgames.com/community/learning/tutorials/lJw4/unreal-engine-cyberp
 
 [Make An Open World Map in 20 Mins | Unreal Engine 5](https://www.youtube.com/watch?app=desktop&v=RCENB-s5POA)
 
+[UE5 - Data Storage Using Object Class](https://www.youtube.com/watch?v=tKXoRfJtSkQ)
+
 ### Git
 
 [Complete Guide to Git and Unreal for Beginners - UE4 / UE5](https://www.youtube.com/watch?v=5J0CczTshKY)
