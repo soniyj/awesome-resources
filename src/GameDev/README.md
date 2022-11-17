@@ -124,3 +124,36 @@ https://github.com/kosinaz/game-design-document-template-for-beginners
 
 https://github.com/dbasilioesp/game-design-documents
 
+### Publishers & Investors
+
+https://beamable.com/blog/find-a-publisher-beamable-super-list-of-game-publishers
+
+https://ninichimusic.com/blog/16-indie-friendly-indie-game-publishers
+
+https://welpmagazine.com/7-independent-game-publishers-indie-devs-should-know-about/
+
+https://modusgames.com/publishing/
+
+https://indie-fund.com/
+
+https://www.gamesround.com/blog/ultimate-list-of-game-publishers-2022
+
+https://www.game-seer.com/
+
+https://xsolla.com/blog/how-to-find-investors-for-your-game
+
+https://www.amplifiergameinvest.com/
+
+https://developersonair.withgoogle.com/events/indie-games-accelerator
+
+https://www.failory.com/startups/gaming-accelerators-incubators
+
+http://www.gamefounders.com/
+
+https://www.failory.com/startups/video-games-accelerators-incubators
+
+https://www.gamedeveloper.com/business/big-list-of-incubators-accelerators-and-funding-opportunities
+
+https://quickload.dev/
+
+https://earlygame.vc/accelerator/
