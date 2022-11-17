@@ -101,3 +101,7 @@ https://www.digitalocean.com/community/tutorials/how-to-monitor-docker-using-zab
 [Web Monitoring With ZABBIX Explained](https://www.youtube.com/watch?v=L_J56StHHbg)
 
 https://medium.com/@mertcan.simsek276/docker-monitoring-with-cadvisor-prometheus-and-grafana-adefe1202bf8
+
+[Monitoring Docker Container Metrics Using cAdvisor Prometheus and Grafana](https://www.youtube.com/watch?app=desktop&v=SVIGKcMJ31E)
+
+https://prometheus.io/docs/guides/cadvisor/
