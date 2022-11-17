@@ -22,6 +22,14 @@ https://docs.unrealengine.com/5.0/en-US/game-features-and-modular-gameplay-in-un
 
 ### Tutorials
 
+https://dev.epicgames.com/community/learning/tutorials/W5aX/how-to-make-a-simple-inventory-system-in-unreal-engine-5
+
+https://dev.epicgames.com/community/learning/tutorials/e2V/your-first-game-in-unreal-engine-5
+
+https://dev.epicgames.com/community/learning/tutorials/mZRj/how-to-make-a-simple-dialogue-system-in-unreal-engine-5
+
+https://dev.epicgames.com/community/learning/tutorials/lJw4/unreal-engine-cyberpunk-flying-car
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
@@ -47,6 +55,10 @@ https://docs.unrealengine.com/5.0/en-US/game-features-and-modular-gameplay-in-un
 [How to Create a Car Racing Game in Unreal Engine 5 - UE5 Beginner Tutorial](https://www.youtube.com/watch?app=desktop&v=3P1A73Ghisw)
 
 [Learn to Create Open Worlds in Unreal Engine 5 | Landscape Auto material & Level Instance Blueprint](https://www.youtube.com/watch?app=desktop&v=Y-CDWyQvKhA)
+
+[Basic Inventory: Picking Up & Dropping Items In Unreal Engine 5](https://www.youtube.com/watch?app=desktop&v=t1ECs7CfPNE)
+
+[Make An Open World Map in 20 Mins | Unreal Engine 5](https://www.youtube.com/watch?app=desktop&v=RCENB-s5POA)
 
 ### Git
 
