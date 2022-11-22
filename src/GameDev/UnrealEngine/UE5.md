@@ -30,6 +30,14 @@ https://dev.epicgames.com/community/learning/tutorials/mZRj/how-to-make-a-simple
 
 https://dev.epicgames.com/community/learning/tutorials/lJw4/unreal-engine-cyberpunk-flying-car
 
+https://dev.epicgames.com/community/learning/talks-and-demos/eXb3/unreal-engine-how-to-create-scripting-tools-that-designers-love-unreal-fest-2022
+
+https://dev.epicgames.com/community/learning/tutorials/KBYx/unreal-engine-5-complete-map-and-mini-map-tutorial-series
+
+https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents
+
+https://awesometuts.com/blog/save-load-game-data-unreal-engine/
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
@@ -61,6 +69,8 @@ https://dev.epicgames.com/community/learning/tutorials/lJw4/unreal-engine-cyberp
 [Make An Open World Map in 20 Mins | Unreal Engine 5](https://www.youtube.com/watch?app=desktop&v=RCENB-s5POA)
 
 [UE5 - Data Storage Using Object Class](https://www.youtube.com/watch?v=tKXoRfJtSkQ)
+
+[UE5 [BP] - Save & Load Tutorial](https://www.youtube.com/watch?app=desktop&v=w-U8i4uhxSk)
 
 ### Git
 
