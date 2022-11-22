@@ -87,3 +87,5 @@ https://hasura.io/ [Instant GraphQL for all your data] (self-hosted open source)
 https://altair.sirmuel.design/
 
 https://insomnia.rest/
+
+https://github.com/IvanGoncharov/graphql-voyager (quite interesting)
