@@ -81,6 +81,10 @@ https://www.gov.uk/government/publications/right-to-work-checks-employers-guide/
 
 https://www.nationalcompanyrescue.co.uk/company-insolvency/?gclid=EAIaIQobChMIt8azkNn--gIVCPd3Ch1mIg73EAAYASAAEgJ68PD_BwE#lp-pom-box-1039
 
+https://www.ageuk.org.uk/bp-assets/globalassets/solihull/original-blocks/our-services/cah/direct-payments/fixed-hours-contract-dp-1.doc
+
+https://www.acas.org.uk/templates-for-written-statements
+
 <a name="swisslaw"/></a>
 ### Swiss Law
 

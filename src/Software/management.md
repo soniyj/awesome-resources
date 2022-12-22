@@ -31,3 +31,5 @@ https://www.openkm.com/ (Community and Enterprise Licenses)
 https://www.logicaldoc.com/ (Community and Enterprise Licenses)
 
 https://rock.so/
+
+https://plaky.com (Free !) [To Test]

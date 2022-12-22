@@ -29,6 +29,10 @@ https://gogetfunding.com/ (to look at)
 
 https://www.fig.co/ (interesting)
 
+https://www.game-seer.com
+
+https://indie-fund.com/
+
 **UK (not London)**
 
 http://www.creativeengland.co.uk/

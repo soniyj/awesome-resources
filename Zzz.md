@@ -305,6 +305,8 @@ https://aerospike.com
 
 https://openvpn.net/faq/how-do-i-use-a-client-certificate-and-private-key-from-the-ios-keychain/
 
+https://www.windowscentral.com/how-tell-who-signed-your-pc
+
 ### Laptop
 
 https://www.megaport.it/pc-gaming/intel/intel-core-i7/

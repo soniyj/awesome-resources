@@ -114,6 +114,8 @@ https://developer.okta.com/ (Auth Services)
 
 https://www.imagemagick.org/
 
+https://www.authelia.com/ (free no java)
+
 *chat (to check)*
 
 https://mattermost.com/ (free?)
@@ -167,3 +169,7 @@ https://www.emqx.io (Most Scalable MQTT Broker)
 https://www.yworks.com/products/yed-live (Diagramming Everywhere, Anytime)
 
 https://augment.eco/it (Il nuovo servizio di mobilità, senza pensieri)
+
+https://learnyousomeerlang.com/starting-out-for-real
+
+https://redpanda.com/ (kafka alternative)

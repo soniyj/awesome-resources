@@ -12,6 +12,8 @@ https://supabase.io/
 
 http://rocksdb.org (embedded db)
 
+https://superset.apache.org (data visualization) [to test!]
+
 ### DGraph
 
 https://dgraph.io/

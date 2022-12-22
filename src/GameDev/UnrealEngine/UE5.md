@@ -38,6 +38,8 @@ https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents
 
 https://awesometuts.com/blog/save-load-game-data-unreal-engine/
 
+https://dev.epicgames.com/community/learning/tutorials/ryL5/unreal-engine-follow-a-spline-and-report-distance-along-it-using-an-actor-component
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
