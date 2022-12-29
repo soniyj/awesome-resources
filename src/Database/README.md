@@ -14,6 +14,8 @@ http://rocksdb.org (embedded db)
 
 https://superset.apache.org (data visualization) [to test!]
 
+https://dbdb.io/
+
 ### DGraph
 
 https://dgraph.io/
@@ -35,6 +37,8 @@ https://github.com/kallqvist/rethinkdb-docker-cluster
 https://rethinkdb.com/docs/troubleshooting/
 
 https://stackoverflow.com/questions/38228175/why-is-rethinkdb-very-slow
+
+https://hub.docker.com/r/mtdev/rethinkdb-backup/
 
 ### Couchbase
 

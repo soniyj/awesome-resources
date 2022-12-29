@@ -228,6 +228,8 @@ https://www.youtube.com/c/Strigifo/playlists
 
 [Blueprints vs. C++: How They Fit Together and Why You Should Use Both](https://www.youtube.com/watch?v=VMZftEVDuCE)
 
+[WTF Is? Blueprint Function Library in Unreal Engine 4](https://www.youtube.com/watch?v=WZsAq05fN_o)
+
 **AI**
 
 [HTF do I? Basic AI From Scratch #1 in Unreal Engine 4](https://www.youtube.com/watch?v=WFvG9wNOwoY)

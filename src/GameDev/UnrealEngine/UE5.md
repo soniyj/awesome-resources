@@ -40,6 +40,10 @@ https://awesometuts.com/blog/save-load-game-data-unreal-engine/
 
 https://dev.epicgames.com/community/learning/tutorials/ryL5/unreal-engine-follow-a-spline-and-report-distance-along-it-using-an-actor-component
 
+https://80.lv/articles/experimenting-with-features-for-large-scale-game-projects-in-ue5/
+
+https://dev.epicgames.com/community/learning/courses/LWv/unreal-engine-blueprint-communication/OzK8/unreal-engine-introduction-to-blueprint-communication
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
@@ -73,6 +77,8 @@ https://dev.epicgames.com/community/learning/tutorials/ryL5/unreal-engine-follow
 [UE5 - Data Storage Using Object Class](https://www.youtube.com/watch?v=tKXoRfJtSkQ)
 
 [UE5 [BP] - Save & Load Tutorial](https://www.youtube.com/watch?app=desktop&v=w-U8i4uhxSk)
+
+[Blueprint Communications | Live Training | Unreal Engine](https://www.youtube.com/watch?v=EM_HYqQdToE)
 
 ### Git
 
