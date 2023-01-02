@@ -44,6 +44,8 @@ https://80.lv/articles/experimenting-with-features-for-large-scale-game-projects
 
 https://dev.epicgames.com/community/learning/courses/LWv/unreal-engine-blueprint-communication/OzK8/unreal-engine-introduction-to-blueprint-communication
 
+https://dev.epicgames.com/community/learning/tutorials/VdYM/unreal-engine-3d-portal-system-using-static-cube-maps
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
@@ -79,6 +81,8 @@ https://dev.epicgames.com/community/learning/courses/LWv/unreal-engine-blueprint
 [UE5 [BP] - Save & Load Tutorial](https://www.youtube.com/watch?app=desktop&v=w-U8i4uhxSk)
 
 [Blueprint Communications | Live Training | Unreal Engine](https://www.youtube.com/watch?v=EM_HYqQdToE)
+
+[How To Use Event Dispatchers And How They're Diffrent To Blueprint Interfaces In UE4 and UE5](https://www.youtube.com/watch?v=r-Qm5dYQFEA) {~22}
 
 ### Git
 
