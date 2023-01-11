@@ -9,3 +9,5 @@ https://github.com/TypeStrong/ts-node
 https://www.typescriptlang.org/docs/handbook/module-resolution.html
 
 https://microsoft.github.io/TypeSearch/
+
+https://github.com/colinhacks/zod

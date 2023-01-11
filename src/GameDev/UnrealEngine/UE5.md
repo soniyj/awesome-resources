@@ -46,6 +46,8 @@ https://dev.epicgames.com/community/learning/courses/LWv/unreal-engine-blueprint
 
 https://dev.epicgames.com/community/learning/tutorials/VdYM/unreal-engine-3d-portal-system-using-static-cube-maps
 
+https://forums.unrealengine.com/t/how-to-get-the-impulse-force-of-a-hit-impact-crash/576571
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)

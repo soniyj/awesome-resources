@@ -124,6 +124,16 @@ https://hub.docker.com/r/bitnami/mariadb/
 
 https://hub.docker.com/r/linuxserver/mariadb
 
+### EventStore
+
+https://developers.eventstore.com/server/v21.10/#getting-started (Event DB)
+
+https://developers.eventstore.com/server/v21.10/installation.html#run-with-docker
+
+https://developers.eventstore.com/server/v20.10/installation.html#use-docker-compose
+
+https://github.com/EventStore/EventStore/blob/master/docker-compose.yml
+
 ### Other DB to Check
 
 https://questdb.io (Fast SQL for time series QuestDB is the fastest open source time series database)
@@ -132,10 +142,6 @@ https://tdengine.com (High-Performance, Scalable Time‑Series Database with SQL
 
 https://arcadedb.com (The Next Generation Multi-Model Database Supporting Graphs, Key/Value, Documents and Time-Series)
 
-https://developers.eventstore.com/server/v21.10/#getting-started (Event DB)
-
 https://docs.keydb.dev
 
 https://www.arangodb.com/community-server/foxx/
-
-https://developers.eventstore.com/server/v21.10/installation.html#run-with-docker

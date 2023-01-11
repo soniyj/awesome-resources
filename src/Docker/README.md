@@ -36,6 +36,8 @@ https://docs.microsoft.com/en-us/visualstudio/docker/tutorials/docker-tutorial {
 
 [Docker Run to Docker Compose](https://www.composerize.com/)
 
+https://www.docker.com/blog/docker-wasm-technical-preview/ (WASM)
+
 ### Container Runtime
 
 https://mobyproject.org/
