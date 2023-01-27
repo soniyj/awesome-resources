@@ -38,7 +38,7 @@ https://github.com/mikeroyal/Unreal-Engine-Guide#table-of-contents
 
 https://awesometuts.com/blog/save-load-game-data-unreal-engine/
 
-https://dev.epicgames.com/community/learning/tutorials/ryL5/unreal-engine-follow-a-spline-and-report-distance-along-it-using-an-actor-component
+https://dev.epicgames.com/community/learning/tutorials/ryL5/unreal-engine-follow-a-spline-and-report-distance-along-it-using-an-actor-component (quite interesting)
 
 https://80.lv/articles/experimenting-with-features-for-large-scale-game-projects-in-ue5/
 
@@ -47,6 +47,8 @@ https://dev.epicgames.com/community/learning/courses/LWv/unreal-engine-blueprint
 https://dev.epicgames.com/community/learning/tutorials/VdYM/unreal-engine-3d-portal-system-using-static-cube-maps
 
 https://forums.unrealengine.com/t/how-to-get-the-impulse-force-of-a-hit-impact-crash/576571
+
+https://dev.epicgames.com/community/snippets/DjB/unreal-engine-realistic-drift-effect-for-chaos-vehicles
 
 ### Video Tutorials
 
@@ -85,6 +87,16 @@ https://forums.unrealengine.com/t/how-to-get-the-impulse-force-of-a-hit-impact-c
 [Blueprint Communications | Live Training | Unreal Engine](https://www.youtube.com/watch?v=EM_HYqQdToE)
 
 [How To Use Event Dispatchers And How They're Diffrent To Blueprint Interfaces In UE4 and UE5](https://www.youtube.com/watch?v=r-Qm5dYQFEA) {~22}
+
+[Basic Car AI Part 1 | Unreal Engine](https://www.youtube.com/watch?app=desktop&v=-qRHLLlE4lo)
+
+[UNREAL ENGINE 5 | CAR RACING GAME (ADVANCED)| TUTORIAL](https://www.youtube.com/watch?app=desktop&v=A5LEJWdtT_I)
+
+[How to make AI Vehicle Follow A spline in unreal engine 5 part 1](https://www.youtube.com/watch?v=MKMtQcArNuc) {19.30}
+
+[How to make AI Vehicle Follow A spline in unreal engine 5 part 2](https://www.youtube.com/watch?v=Pq_5DwnItcw)
+
+
 
 ### Git
 

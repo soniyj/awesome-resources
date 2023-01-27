@@ -230,6 +230,10 @@ https://www.youtube.com/c/Strigifo/playlists
 
 [WTF Is? Blueprint Function Library in Unreal Engine 4](https://www.youtube.com/watch?v=WZsAq05fN_o)
 
+[UE4 Spline Vehicle Follow System Project Free Download by Croding Bangla YT Spline Vehicle Follow UE](https://www.youtube.com/watch?v=BIofjGgu7Bs)
+
+[Populating Meshes Along a Spline | Tips & Tricks | Unreal Engine](https://www.youtube.com/watch?v=OdjvlvGRYRE) {interesting for city builder}
+
 **AI**
 
 [HTF do I? Basic AI From Scratch #1 in Unreal Engine 4](https://www.youtube.com/watch?v=WFvG9wNOwoY)
