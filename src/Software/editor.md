@@ -17,3 +17,11 @@ https://github.com/axel-op/vscode-devcontainer-cpp-conan
 https://github.com/bredej/vscode-conan-remote
 
 https://dominikberner.ch/using-devcontainers-with-cpp/
+
+**ChatGPT**
+
+https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt
+
+https://github.com/mpociot/chatgpt-vscode
+
+https://medium.com/geekculture/codegpt-the-vscode-extension-with-chatgpt-like-functionalities-783323a916c3

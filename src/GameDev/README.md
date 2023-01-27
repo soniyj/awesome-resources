@@ -68,6 +68,8 @@ https://pixijs.com
 
 https://ctjs.rocks
 
+https://www.libretro.com/index.php/api/?amp=1
+
 * [Unity](./Unity/)
 * [Unreal Engine 4](./UnrealEngine4/)
 * [Godot](./Godot/)

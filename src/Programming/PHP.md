@@ -19,3 +19,15 @@ https://www.pascallandau.com/blog/phpstorm-docker-xdebug-3-php-8-1-in-2022/
 https://gist.github.com/chadrien/c90927ec2d160ffea9c4
 
 https://dev.to/jackmiras/xdebug-in-phpstorm-with-docker-2al8
+
+https://www.section.io/engineering-education/dockerized-php-apache-and-mysql-container-development-environment/
+
+https://www.howtogeek.com/devops/how-to-use-docker-to-containerise-php-and-apache/
+
+https://github.com/SpiralOutDotEu/docker-apache-php-composer/blob/master/Dockerfile
+
+https://hub.docker.com/r/spiralout/docker-apache-php-composer
+
+https://semaphoreci.com/community/tutorials/dockerizing-a-php-application
+
+https://github.com/eduardorfreitas93/traefik-nginx-phpfpm

@@ -1,5 +1,11 @@
 # DevOps Resources
 
+### General
+
+https://cfengine.com/
+
+https://saltproject.io/
+
 ### Let's Encrypt - SSL Certificates
 
 [Official Website](https://letsencrypt.org/)

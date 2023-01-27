@@ -44,3 +44,8 @@ https://pytorch.org/ (Machine Learning Framework)
 https://keras.io/ (Deep Learning Framework)
 
 https://opencv.org/
+
+https://www.ankursnewsletter.com/p/openais-gpt-3-vs-open-source-alternatives
+
+https://gymnasium.farama.org (API for reinforcement learning, and a diverse collection of reference environments)
+
