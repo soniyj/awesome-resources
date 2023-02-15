@@ -64,6 +64,8 @@ https://blog.bytebytego.com/p/diagram-as-code
 
 https://endoflife.date/
 
+https://asciinema.org (Record and share your terminal sessions, the simple way)
+
 ### Changelog & Versioning
 
 https://kikobeats.github.io/automate-release/#/

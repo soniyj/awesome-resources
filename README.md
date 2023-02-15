@@ -166,6 +166,16 @@ https://www.xano.com/
 
 https://www.emqx.io (Most Scalable MQTT Broker)
 
+https://www.emqx.com/en/try?product=broker
+
+https://www.emqx.io/docs/en/v5.0/getting-started/getting-started.html#select-your-emqx-edition
+
+https://github.com/emqx/MQTTX
+
+https://docs.vernemq.com/installing-vernemq/docker
+
+https://docs.vernemq.com/monitoring/status
+
 https://www.yworks.com/products/yed-live (Diagramming Everywhere, Anytime)
 
 https://augment.eco/it (Il nuovo servizio di mobilità, senza pensieri)
@@ -173,3 +183,8 @@ https://augment.eco/it (Il nuovo servizio di mobilità, senza pensieri)
 https://learnyousomeerlang.com/starting-out-for-real
 
 https://redpanda.com/ (kafka alternative)
+
+https://heroicgameslauncher.com (Heroic is an Open Source GOG and Epic games launcher for Linux, Windows and macOS)
+
+https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
+

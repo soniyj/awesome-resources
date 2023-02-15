@@ -128,6 +128,8 @@ https://github.com/MikeRyanDev/habits-graphql-angular
 
 https://tailwindcss.com/
 
+https://www.tailwindawesome.com
+
 ### Proxy
 
 https://github.com/leonpahole/simple-frontend-angular/tree/master/nginx

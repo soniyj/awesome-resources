@@ -48,6 +48,8 @@ https://medium.com/@gauravsingharoy/asynchronous-programming-with-go-546b96cd50c
 
 https://www.apollographql.com/blog/graphql/golang/using-graphql-with-golang/
 
+https://go.dev/play/p/8DystRIvVSo (dynamic structure fields)
+
 ### API
 
 https://echo.labstack.com/

@@ -12,6 +12,8 @@ https://www.edrawsoft.com/software-architecture-example.php
 
 https://www.edrawsoft.com/website-system-architecture-example.php
 
+https://freemind.sourceforge.net/wiki/index.php/Main_Page (mind software)
+
 ### DataBase Design
 
 https://dbdesigner.net/

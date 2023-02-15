@@ -96,10 +96,18 @@ https://dev.epicgames.com/community/snippets/DjB/unreal-engine-realistic-drift-e
 
 [How to make AI Vehicle Follow A spline in unreal engine 5 part 2](https://www.youtube.com/watch?v=Pq_5DwnItcw)
 
-
-
 ### Git
 
 [Complete Guide to Git and Unreal for Beginners - UE4 / UE5](https://www.youtube.com/watch?v=5J0CczTshKY)
 
 https://www.anchorpoint.app/blog/git-with-unreal-engine-5
+
+### Plugins
+
+https://www.carsim.com/products/supporting/unreal/index.php
+
+https://github.com/G7DAO/web3.unreal (Unreal Engine plugin for integrating EVM compatible blockchains into games)
+
+### Projects
+
+https://github.com/jmgomez/NimForUE

@@ -114,6 +114,10 @@ https://developer.apple.com/documentation/gameplaykit/gkdecisiontree
 
 https://github.com/mxgmn/WaveFunctionCollapse (generates bitmaps that are locally similar to the input bitmap)
 
+https://pixune.com/blog/game-development-for-noobs-organize-your-project/
+
+https://quaternius.com (free game assets)
+
 ### Game Design
 
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/
