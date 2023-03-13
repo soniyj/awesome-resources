@@ -52,6 +52,8 @@ https://www.tektutorialshub.com/angular-tutorial/#component-communication
 
 https://devlibrary.withgoogle.com/products/angular?sort=updated [Dev Library]
 
+https://analogjs.org  (The fullstack Angular meta-framework)
+
 ### Authentication
 
 https://medium.com/@monkov/angular-using-httpinterceptor-for-token-refreshing-3f04ea2ccb81

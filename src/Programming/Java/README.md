@@ -79,3 +79,23 @@ https://itnext.io/event-driven-microservices-with-spring-boot-and-activemq-5ef70
 **Examples**
 
 https://github.com/thombergs/code-examples/tree/master/spring-boot
+
+**Tutorials**
+
+https://www.tutorialspoint.com/spring_boot/spring_boot_interceptor.htm
+
+https://www.tutorialspoint.com/spring_boot/spring_boot_exception_handling.htm
+
+https://www.tutorialspoint.com/spring_boot/spring_boot_enabling_swagger2.htm
+
+https://www.tutorialspoint.com/spring_boot/spring_boot_cors_support.htm
+
+https://www.tutorialspoint.com/spring_boot/spring_boot_oauth2_with_jwt.htm
+
+https://www.baeldung.com/spring-boot-keycloak
+
+https://medium.com/geekculture/using-keycloak-with-spring-boot-3-0-376fa9f60e0b
+
+https://github.com/claudioaltamura/keycloak-spring-boot-rest-example
+
+https://www.keycloak.org/2017/05/easily-secure-your-spring-boot.html

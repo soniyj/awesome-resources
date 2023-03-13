@@ -70,6 +70,16 @@ https://www.borsaitaliana.it/borsa/glossario/obbligazione-convertibile.html
 
 http://www.smartstart.invitalia.it/site/smart/home.html
 
+**P.IVA**
+
+https://www.fattureincloud.it/guida-regime-forfettario/tassazione/
+
+https://qonto.com/it/blog/professionisti/business/quante-imposte-e-contributi-si-pagano-in-regime-forfettario?utm_campaign=it_perfmax_prospecting_general&gclid=EAIaIQobChMIw8TgvI-6_QIVSo9oCR0HXgGCEAAYAiAAEgIzg_D_BwE
+
+https://fidocommercialista.it/calcolatore/
+
+https://www.partitaiva.it/contributi-inps-forfettario/
+
 <a name="uklaw"/></a>
 ### UK Law
 

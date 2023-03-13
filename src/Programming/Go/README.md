@@ -50,6 +50,8 @@ https://www.apollographql.com/blog/graphql/golang/using-graphql-with-golang/
 
 https://go.dev/play/p/8DystRIvVSo (dynamic structure fields)
 
+https://medium.com/faun/dependency-injection-in-go-the-better-way-833e2cc65fab
+
 ### API
 
 https://echo.labstack.com/
@@ -66,11 +68,17 @@ https://blog.logrocket.com/making-http-requests-in-go/
 
 https://github.com/dipeshdulal/event-scheduling
 
+https://dev.to/koddr/build-a-restful-api-on-go-fiber-postgresql-jwt-and-swagger-docs-in-isolated-docker-containers-475j
+
 ### GraphQL
 
 https://github.com/Khan/genqlient
 
 https://servian.dev/building-a-graphql-api-in-go-using-gqlgen-f7a42eba2193
+
+[GQlgen: Go Generate Based Graphql Server Library](https://morioh.com/p/c0a5bb255638)
+
+https://medium.com/pipedrive-engineering/a-dream-of-scalable-and-enriched-graphql-subscriptions-724284448e65
 
 ### Blockchain
 

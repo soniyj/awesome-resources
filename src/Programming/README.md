@@ -56,6 +56,8 @@ https://zeromq.org
 
 https://github.com/zeromq/libzmq
 
+http://zguide2.zeromq.org/cpp:mtserver
+
 https://morph027.gitlab.io/blog/localtunnel-ngrok/
 
 https://odin-lang.org
@@ -65,6 +67,10 @@ https://blog.bytebytego.com/p/diagram-as-code
 https://endoflife.date/
 
 https://asciinema.org (Record and share your terminal sessions, the simple way)
+
+https://devdocs.io (Multiple API Documentations)
+
+https://opencensus.io/zpages/
 
 ### Changelog & Versioning
 
@@ -77,3 +83,7 @@ https://www.conventionalcommits.org/en/v1.0.0/
 ### Protocols
 
 https://developers.google.com/protocol-buffers
+
+### Others
+
+https://vlang.io

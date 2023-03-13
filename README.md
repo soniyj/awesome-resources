@@ -110,8 +110,6 @@ https://www.hubspot.com/crm
 
 https://github.com/AlDanial/cloc (Code Line Counter)
 
-https://developer.okta.com/ (Auth Services)
-
 https://www.imagemagick.org/
 
 https://www.authelia.com/ (free no java)

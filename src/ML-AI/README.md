@@ -49,3 +49,4 @@ https://www.ankursnewsletter.com/p/openais-gpt-3-vs-open-source-alternatives
 
 https://gymnasium.farama.org (API for reinforcement learning, and a diverse collection of reference environments)
 
+https://aruva.medium.com/using-chatgpt-to-build-system-diagrams-part-i-69efc7603926?source=read_next_recirc---two_column_layout_sidebar------1---------------------82e66c8b_6623_4506_bd63_f510feb4b629-------

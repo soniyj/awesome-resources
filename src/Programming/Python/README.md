@@ -175,3 +175,11 @@ https://www.scrapingdog.com/blog/top-5-web-scraping-javascript-libraries/
 https://www.scrapingdog.com/blog/web-scraping-using-javascript-nodejs-puppeteer/
 
 https://www.scrapingdog.com/blog/top-10-best-data-scraping-tools-%26-web-scraper/
+
+### Plugin Architecture
+
+https://alysivji.github.io/simple-plugin-system.html
+
+https://dev.to/charlesw001/plugin-architecture-in-python-jla
+
+https://mwax911.medium.com/building-a-plugin-architecture-with-python-7b4ab39ad4fc

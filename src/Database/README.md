@@ -145,3 +145,5 @@ https://arcadedb.com (The Next Generation Multi-Model Database Supporting Graphs
 https://docs.keydb.dev
 
 https://www.arangodb.com/community-server/foxx/
+
+https://github.com/memgraph/memgraph (GraphDB with Free Tier)

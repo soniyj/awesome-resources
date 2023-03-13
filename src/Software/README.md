@@ -14,6 +14,8 @@ https://www.edrawsoft.com/website-system-architecture-example.php
 
 https://freemind.sourceforge.net/wiki/index.php/Main_Page (mind software)
 
+https://github.com/donnemartin/system-design-primer (The System Design Primer)
+
 ### DataBase Design
 
 https://dbdesigner.net/
