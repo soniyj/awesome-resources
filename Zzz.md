@@ -22,16 +22,6 @@ https://aws.amazon.com/fargate/?nc=sn&loc=1
 
 https://volta.sh/
 
-https://www.plexx.digital/keycloak-realm-export-import/
-
-https://github.com/asatrya/keycloak-traefik-tutorial
-
-https://medium.com/@nk-kumawat/gsuite-saml-app-with-keycloak-idp-initiated-sso-518d3e322a39
-
-https://keycloakthemes.com/blog/how-to-setup-sign-in-with-google-using-keycloak
-
-https://cloud.google.com/architecture/identity/keycloak-single-sign-on#keycloak-17-or-newer
-
 ### Video to check
 
 https://openvidu.io/docs/home/

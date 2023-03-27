@@ -14,6 +14,12 @@ https://www.javatpoint.com/crud-in-jsp
 
 https://www.tutorialspoint.com/servlets/servlets-first-example.htm
 
+https://www.programiz.com/java-programming [x]
+
+https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/ [x]
+
+[Eclipse How to run Java Hello World in Docker](https://www.youtube.com/watch?v=zORBzMiBjRI)
+
 ### Blockchain
 
 [Creating Your First Blockchain with Java. Part 1](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)

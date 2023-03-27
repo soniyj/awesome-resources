@@ -118,6 +118,10 @@ https://pixune.com/blog/game-development-for-noobs-organize-your-project/
 
 https://quaternius.com (free game assets)
 
+https://gdc.sonniss.com
+
+https://orbital-market.com (Epic Game Store Alternative)
+
 ### Game Design
 
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/

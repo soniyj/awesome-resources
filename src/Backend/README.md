@@ -14,6 +14,8 @@ https://www.youtube.com/watch?v=sSm2dRarhPo (Microservices + Events + Docker = A
 
 https://firecamp.io (free tier)
 
+https://appwrite.io (interesting, to check)
+
 ### CDN
 
 https://www.fastly.com/ (fast and possible expensive)

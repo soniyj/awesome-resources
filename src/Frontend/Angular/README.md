@@ -54,6 +54,8 @@ https://devlibrary.withgoogle.com/products/angular?sort=updated [Dev Library]
 
 https://analogjs.org  (The fullstack Angular meta-framework)
 
+https://angular-enterprise.com/en/ngpost/resources/libraries/interface/
+
 ### Authentication
 
 https://medium.com/@monkov/angular-using-httpinterceptor-for-token-refreshing-3f04ea2ccb81
@@ -149,6 +151,10 @@ https://www.angulararchitects.io/aktuelles/dynamic-module-federation-with-angula
 https://www.angulararchitects.io/konferenzen/micro-frontends-and-monorepos-smart-idea-or-contradiction/
 
 https://www.angulararchitects.io/book/
+
+### Web Assembley
+
+https://malcoded.com/posts/web-assembly-angular/
 
 ### Angular1 Resources
 
