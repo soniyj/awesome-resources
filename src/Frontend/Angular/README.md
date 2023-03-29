@@ -162,6 +162,8 @@ https://www.angulararchitects.io/konferenzen/micro-frontends-and-monorepos-smart
 
 https://www.angulararchitects.io/book/
 
+https://www.angulararchitects.io/en/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/
+
 ### Web Assembley
 
 https://malcoded.com/posts/web-assembly-angular/
