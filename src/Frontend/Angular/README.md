@@ -122,6 +122,16 @@ https://nx.dev/latest/angular/guides/misc-ngrx
 
 angular-ngrx-chuck-norris-master
 
+https://auth0.com/blog/state-management-in-angular-with-ngrx-1/
+
+https://blog.logrocket.com/angular-state-management-made-simple-with-ngrx/
+
+https://nx.dev/recipes/other/misc-ngrx
+
+https://dev.to/this-is-angular/the-new-ngrx-lf1
+
+https://wearecommunity.io/communities/india-united-ui-community/articles/1476
+
 **Graph QL**
 
 https://www.samjulien.com/write-a-basic-graphql-client-for-ngrx
