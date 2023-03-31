@@ -122,6 +122,10 @@ https://gdc.sonniss.com
 
 https://orbital-market.com (Epic Game Store Alternative)
 
+https://objaverse.allenai.org/ (Objaverse is a Massive Dataset of 800K+ Annotated 3D Objects)
+
+https://assetovi.com/ (One-stop platform for finding the exact right 3D assets, including gaming, AR/VR and others)
+
 ### Game Design
 
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/
@@ -167,3 +171,25 @@ https://www.gamedeveloper.com/business/big-list-of-incubators-accelerators-and-f
 https://quickload.dev/
 
 https://earlygame.vc/accelerator/
+
+https://rocketbrush.com/blog/game-industry-investors-and-funding
+
+https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors
+
+https://www.gamesfund.vc
+
+https://shizune.co/investors/gaming-investors
+
+https://www.basetemplates.com/investors/top-10-gaming-vc-investors
+
+https://legoventures.com/p/gaming-investors/
+
+https://investors.remedygames.com
+
+https://nordicgameventures.com
+
+https://behold.vc
+
+https://www.playventures.vc
+
+https://gameon.app/investors
