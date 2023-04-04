@@ -6,6 +6,8 @@ https://marmelab.com/blog/2017/09/06/dive-into-graphql-part-iii-building-a-graph
 
 https://github.com/marmelab/GraphQL-example
 
+https://the-guild.dev/graphql/inspector/docs/introduction
+
 ### API
 
 https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649

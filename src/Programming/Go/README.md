@@ -107,3 +107,11 @@ https://github.com/Jeiwan/blockchain_go
 **Articles**
 
 [Why I am building a blockchain in Go](https://medium.com/karachain/why-i-am-building-a-blockchain-in-go-6395a60b24dd)
+
+### Database & Cache
+
+https://www.mailgun.com/blog/it-and-engineering/golangs-superior-cache-solution-memcached-redis/
+
+https://hackernoon.com/in-memory-caching-in-golang
+
+https://github.com/ostafen/clover (A lightweight document-oriented NoSQL database written in pure Golang)

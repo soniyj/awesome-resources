@@ -16,6 +16,8 @@ https://superset.apache.org (data visualization) [to test!]
 
 https://dbdb.io/
 
+https://github.com/topics/embedded-database
+
 ### DGraph
 
 https://dgraph.io/

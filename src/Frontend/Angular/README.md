@@ -56,6 +56,8 @@ https://analogjs.org  (The fullstack Angular meta-framework)
 
 https://angular-enterprise.com/en/ngpost/resources/libraries/interface/
 
+https://www.perfomatix.com/30-essential-tools-for-angular-development/
+
 ### Authentication
 
 https://medium.com/@monkov/angular-using-httpinterceptor-for-token-refreshing-3f04ea2ccb81
@@ -131,6 +133,8 @@ https://nx.dev/recipes/other/misc-ngrx
 https://dev.to/this-is-angular/the-new-ngrx-lf1
 
 https://wearecommunity.io/communities/india-united-ui-community/articles/1476
+
+https://timdeschryver.dev/blog/managing-different-slices-of-the-same-ngrx-state#components
 
 **Graph QL**
 
