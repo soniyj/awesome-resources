@@ -124,9 +124,9 @@ https://nx.dev/latest/angular/guides/misc-ngrx
 
 angular-ngrx-chuck-norris-master
 
-https://auth0.com/blog/state-management-in-angular-with-ngrx-1/
+https://auth0.com/blog/state-management-in-angular-with-ngrx-1/ {l-x}
 
-https://blog.logrocket.com/angular-state-management-made-simple-with-ngrx/
+https://blog.logrocket.com/angular-state-management-made-simple-with-ngrx/ {l-1}
 
 https://nx.dev/recipes/other/misc-ngrx
 
@@ -135,6 +135,8 @@ https://dev.to/this-is-angular/the-new-ngrx-lf1
 https://wearecommunity.io/communities/india-united-ui-community/articles/1476
 
 https://timdeschryver.dev/blog/managing-different-slices-of-the-same-ngrx-state#components
+
+https://www.syncfusion.com/blogs/post/angular-state-management-with-ngrx.aspx
 
 **Graph QL**
 
