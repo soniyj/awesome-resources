@@ -18,6 +18,22 @@ https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/
 
 https://gitlab.com/cococodez/vscode-remote-containers-tutorial-for-python/-/tree/master/
 
+https://www.techbeamers.com/python-tutorial-step-by-step/#tutorial-list
+
+https://python.land/introduction-to-python/variable
+
+https://www.stavros.io/tutorials/python/
+
+https://python-course.eu/python-tutorial/
+
+https://www.fullstackpython.com/
+
+https://docs.python.org/3/tutorial/
+
+https://esis-italia.com/corsi-formazione-informatica/corso-python-base/
+
+https://esis-italia.com/corsi-formazione-informatica/corso-python-avanzato/
+
 ### Flask
 
 https://blog.miguelgrinberg.com/post/restful-authentication-with-flask
@@ -117,6 +133,12 @@ https://zillow.github.io/luminaire/
 https://docs.python.org/3/library/asyncio-dev.html
 
 https://www.aeracode.org/2018/02/19/python-async-simplified/
+
+**databases**
+
+https://github.com/arun1729/cog (Micro Graph Database for Python Applications)
+
+https://cogdb.io
 
 ### Visual Scripting
 

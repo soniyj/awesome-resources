@@ -42,6 +42,8 @@ https://stackoverflow.com/questions/38228175/why-is-rethinkdb-very-slow
 
 https://hub.docker.com/r/mtdev/rethinkdb-backup/
 
+https://github.com/rethinkdb/rethinkdb-admin
+
 ### Couchbase
 
 https://www.couchbase.com/

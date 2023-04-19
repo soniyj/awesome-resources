@@ -29,3 +29,9 @@ https://stackoverflow.com/questions/42186537/resources-scopes-permissions-and-po
 https://www.keycloak.org/docs/latest/authorization_services/index.html#_permission_overview
 
 https://docs.kelvininc.com/2.0/platform/permissions/keycloak-permissions/ (quite interesting website)
+
+https://www.appsdeveloperblog.com/fine-grained-authorization-services-in-keycloak/?utm_content=cmp-true
+
+https://medium.com/@harsh.manvar111/keycloak-authorization-service-rbac-1c3204a33a50
+
+https://usmanshahid.medium.com/levels-of-access-control-through-keycloak-part-3-access-control-through-roles-and-tokens-a1744c04895e

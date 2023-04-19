@@ -91,3 +91,5 @@ https://altair.sirmuel.design/
 https://insomnia.rest/
 
 https://github.com/IvanGoncharov/graphql-voyager (quite interesting)
+
+https://chillicream.com/products/bananacakepop (GraphQL IDE for Devs)

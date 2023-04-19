@@ -8,6 +8,8 @@ https://origami.design (interesting, check)
 
 https://www.jitblox.com
 
+https://parceljs.org
+
 ### UI
 
 https://semantic-ui.com/
@@ -25,6 +27,8 @@ https://developer.microsoft.com/en-us/fluentui
 https://open-wc.org/guides/community/component-libraries/
 
 https://www.frontendplanet.com/top-ui-component-libraries/
+
+https://builder.carbondesignsystem.com/
 
 ### Framework
 

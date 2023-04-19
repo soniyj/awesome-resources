@@ -58,6 +58,8 @@ https://angular-enterprise.com/en/ngpost/resources/libraries/interface/
 
 https://www.perfomatix.com/30-essential-tools-for-angular-development/
 
+https://state-adapt.github.io/angular
+
 ### Authentication
 
 https://medium.com/@monkov/angular-using-httpinterceptor-for-token-refreshing-3f04ea2ccb81
