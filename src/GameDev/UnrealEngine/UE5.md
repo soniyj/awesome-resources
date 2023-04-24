@@ -111,3 +111,5 @@ https://github.com/G7DAO/web3.unreal (Unreal Engine plugin for integrating EVM c
 ### Projects
 
 https://github.com/jmgomez/NimForUE
+
+https://freedom3d.art/2023/04/20/freedom-animation-pipeline-for-unreal-engine/?fbclid=IwAR3eziYYGqa9F9gUcNVBmjyx1c4oKHjtHFGTdzWMcnAWkWjTnrlu6rUZANg

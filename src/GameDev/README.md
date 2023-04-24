@@ -126,6 +126,8 @@ https://objaverse.allenai.org/ (Objaverse is a Massive Dataset of 800K+ Annotate
 
 https://assetovi.com/ (One-stop platform for finding the exact right 3D assets, including gaming, AR/VR and others)
 
+https://gameuidatabase.com/index.php
+
 ### Game Design
 
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/

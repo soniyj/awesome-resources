@@ -12,6 +12,8 @@ https://www.ory.sh/docs/welcome (not sure how to use it!)
 
 https://www.osohq.com/ (free tier)
 
+https://zitadel.com/docs/ (The best of Auth0 and Keycloak combined. Built for the serverless era)
+
 ### Keycloak
 
 https://www.plexx.digital/keycloak-realm-export-import/
@@ -35,3 +37,11 @@ https://www.appsdeveloperblog.com/fine-grained-authorization-services-in-keycloa
 https://medium.com/@harsh.manvar111/keycloak-authorization-service-rbac-1c3204a33a50
 
 https://usmanshahid.medium.com/levels-of-access-control-through-keycloak-part-3-access-control-through-roles-and-tokens-a1744c04895e
+
+https://stackoverflow.com/questions/42186537/resources-scopes-permissions-and-policies-in-keycloak
+
+https://www.keycloak.org/docs/latest/authorization_services/index.html#_permission_overview
+
+https://github.com/v-ladynev/keycloak-nodejs-example#quick-start
+
+https://keepgrowing.in/tools/keycloak-in-docker-4-how-to-define-user-privileges-and-roles/ (to check)

@@ -78,6 +78,14 @@ https://github.com/stalniy/casl
 
 https://medium.com/dailyjs/managing-user-permissions-in-angular-application-504c83752f83
 
+https://betterprogramming.pub/dealing-with-permissions-in-angular-and-ngrx-de0c9e77bd0f
+
+https://medium.com/@rjlopezdev/angular-permissions-based-on-roles-part-1-roles-permissions-and-permission-manager-f3dde1bc82bb
+
+https://levelup.gitconnected.com/keycloak-in-angular-application-980260b4b196
+
+https://blog.consdata.tech/en/2020/02/01/keycloak-user-authentication-authorization-springboot-angular.html
+
 ### RxJS
 
 https://rxjs-dev.firebaseapp.com/guide/overview
