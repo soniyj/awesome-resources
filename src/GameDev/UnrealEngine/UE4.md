@@ -234,6 +234,8 @@ https://www.youtube.com/c/Strigifo/playlists
 
 [Populating Meshes Along a Spline | Tips & Tricks | Unreal Engine](https://www.youtube.com/watch?v=OdjvlvGRYRE) {interesting for city builder}
 
+[Unreal Engine 4 Tutorial - RTS Part 1: RTS Camera Scrolling](https://www.youtube.com/watch?app=desktop&v=rLe6Jrdqu3w)
+
 **AI**
 
 [HTF do I? Basic AI From Scratch #1 in Unreal Engine 4](https://www.youtube.com/watch?v=WFvG9wNOwoY)

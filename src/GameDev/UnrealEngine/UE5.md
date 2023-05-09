@@ -50,6 +50,10 @@ https://forums.unrealengine.com/t/how-to-get-the-impulse-force-of-a-hit-impact-c
 
 https://dev.epicgames.com/community/snippets/DjB/unreal-engine-realistic-drift-effect-for-chaos-vehicles
 
+https://dev.epicgames.com/community/learning/tutorials/J68m/how-to-make-roads-with-splines-in-unreal-engine-5
+
+https://dev.epicgames.com/community/learning/tutorials/ryL5/follow-a-spline-and-report-distance-along-it-using-an-actor-component
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
@@ -95,6 +99,10 @@ https://dev.epicgames.com/community/snippets/DjB/unreal-engine-realistic-drift-e
 [How to make AI Vehicle Follow A spline in unreal engine 5 part 1](https://www.youtube.com/watch?v=MKMtQcArNuc) {19.30}
 
 [How to make AI Vehicle Follow A spline in unreal engine 5 part 2](https://www.youtube.com/watch?v=Pq_5DwnItcw)
+
+[Learn Unit Movement for RTS Games with Unreal Engine](https://www.youtube.com/watch?app=desktop&v=wAa1oKTbOtw)
+
+[Zenva Videos](https://www.youtube.com/@Zenva?app=desktop&cbrd=1)
 
 ### Git
 
