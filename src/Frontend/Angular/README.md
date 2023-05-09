@@ -148,6 +148,8 @@ https://timdeschryver.dev/blog/managing-different-slices-of-the-same-ngrx-state#
 
 https://www.syncfusion.com/blogs/post/angular-state-management-with-ngrx.aspx
 
+https://duncanhunter.gitbook.io/angular-and-ngrx/ (to check)
+
 **Graph QL**
 
 https://www.samjulien.com/write-a-basic-graphql-client-for-ngrx

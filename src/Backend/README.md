@@ -4,6 +4,8 @@
 
 https://caddyserver.com (reverse proxy)
 
+https://camel.apache.org
+
 ### API
 
 https://openapi-generator.tech/

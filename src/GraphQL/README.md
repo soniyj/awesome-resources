@@ -8,6 +8,12 @@ https://github.com/marmelab/GraphQL-example
 
 https://the-guild.dev/graphql/inspector/docs/introduction
 
+https://the-guild.dev/
+
+https://the-guild.dev/graphql/mesh
+
+https://the-guild.dev/graphql/apollo-angular/docs/data/subscriptions (check for angular wss issue)
+
 ### API
 
 https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649
@@ -59,6 +65,8 @@ https://apollo-angular.com/docs/local-state/managing-state-with-field-policies/#
 https://www.apollographql.com/docs/studio/explorer/explorer/
 
 https://www.apollographql.com/docs/studio/getting-started/#2-create-your-first-graph
+
+https://www.apollographql.com/tutorials/lift-off-part1/01-feature-overview-and-setup
 
 ### AWS
 

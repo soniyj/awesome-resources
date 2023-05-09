@@ -72,6 +72,8 @@ https://devdocs.io (Multiple API Documentations)
 
 https://opencensus.io/zpages/
 
+https://thrift.apache.org (code generation)
+
 ### Changelog & Versioning
 
 https://kikobeats.github.io/automate-release/#/

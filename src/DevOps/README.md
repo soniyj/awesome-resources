@@ -64,6 +64,8 @@ https://ansible-semaphore.com/
 
 https://github.com/ansible-semaphore/semaphore/tree/2287be34ce1c0b8bd8fb4674d0c2ca2a41d863db
 
+https://github.com/sovereign/sovereign (set of  playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more)
+
 **Docker**
 
 https://www.rechberger.io/tutorial-install-docker-using-ansible-on-a-remote-server/
@@ -101,3 +103,7 @@ https://opentelemetry.io
 https://www.jaegertracing.io
 
 https://icinga.com
+
+https://zipkin.io
+
+https://skywalking.apache.org (Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures)

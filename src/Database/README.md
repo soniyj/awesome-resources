@@ -151,3 +151,9 @@ https://docs.keydb.dev
 https://www.arangodb.com/community-server/foxx/
 
 https://github.com/memgraph/memgraph (GraphDB with Free Tier)
+
+https://www.edgedb.com/install (Graph RDBMS quite interesting to check next)
+
+https://github.com/georgia-tech-db/eva (AI-Relational Database System | SQL meets Deep Learning)
+
+https://docs.reduct.store/how-does-it-work (ReductStore is a storage engine which aims to solve the problem of storing data when you need to write data intensively and read it occasionally)
