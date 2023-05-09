@@ -80,6 +80,22 @@ https://fidocommercialista.it/calcolatore/
 
 https://www.partitaiva.it/contributi-inps-forfettario/
 
+**Mortgage**
+
+https://www.altroconsumo.it/soldi/mutui/calcola-risparmia/rata-giusta-mutuo/risultati
+
+https://www.altroconsumo.it/soldi/mutui/consigli/mutui-ammortamento
+
+https://www.calcoloprestiti.org/calcolo-rata-massimo-ottenibile-mutuo-in-base-allo-stipendio.php
+
+https://www.mutuisupermarket.it/calcolo-mutuo#:~:text=Come%20si%20calcola%20il%20tasso,il%20debito%20residuo%20del%20mutuo.
+
+https://economiapertutti.bancaditalia.it/calcolatori/calcolatore-della-rata-del-mutuo/?dotcache=refresh
+
+https://securema.ing.it/MutuoArancio/DiventaClienteMutuo.aspx?type=1#
+
+https://www.agenziacarpicasa.it/calcola-il-mutuo-in-base-al-tuo-stipendio-con-carpicasa/#:~:text=Importo%20massimo,superare%20ai%20650%20%E2%80%93%20750%20euro.
+
 <a name="uklaw"/></a>
 ### UK Law
 
