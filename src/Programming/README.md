@@ -93,3 +93,5 @@ https://vlang.io
 https://graphblas.org
 
 https://people.engr.tamu.edu/davis/GraphBLAS.html
+
+https://thenewstack.io/which-programming-languages-use-the-least-electricity/
