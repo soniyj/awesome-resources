@@ -150,6 +150,18 @@ https://www.syncfusion.com/blogs/post/angular-state-management-with-ngrx.aspx
 
 https://duncanhunter.gitbook.io/angular-and-ngrx/ (to check)
 
+https://eliteionic.com/tutorials/using-ngrx-effects-for-data-loading-in-an-ionic-angular-application/#1-create-the-test-data
+
+https://dev.to/this-is-angular/why-and-how-to-manage-state-for-angular-reactive-forms-25fn
+
+https://medium.com/@amcdnl/reactive-angular-forms-with-ngrx-533a2f28c127
+
+https://netbasal.com/connect-angular-forms-to-ngrx-store-c495d17e129
+
+https://ultimatecourses.com/blog/ngrx-store-understanding-state-selectors
+
+https://duncanhunter.gitbook.io/angular-and-ngrx/24.-router-store (effects)
+
 **Graph QL**
 
 https://www.samjulien.com/write-a-basic-graphql-client-for-ngrx
