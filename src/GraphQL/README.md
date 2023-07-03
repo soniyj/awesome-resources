@@ -68,6 +68,8 @@ https://www.apollographql.com/docs/studio/getting-started/#2-create-your-first-g
 
 https://www.apollographql.com/tutorials/lift-off-part1/01-feature-overview-and-setup
 
+https://chrome.google.com/webstore/detail/apollo-client-devtools/jdkknkkbebbapilgoeccciglkfbmbnfm
+
 ### AWS
 
 https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7

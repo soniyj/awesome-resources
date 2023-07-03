@@ -15,3 +15,5 @@ https://github.com/creationix/nvm
 https://web.dev/commonjs-larger-bundles/
 
 https://github.com/indutny/webpack-common-shake
+
+https://bun.sh (fast all-in-one JavaScript runtime)

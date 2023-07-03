@@ -196,6 +196,10 @@ https://tailwindcss.com/
 
 https://www.tailwindawesome.com
 
+https://clarity.design
+
+https://tailwind-elements.com/
+
 ### Proxy
 
 https://github.com/leonpahole/simple-frontend-angular/tree/master/nginx
@@ -215,6 +219,10 @@ https://www.angulararchitects.io/konferenzen/micro-frontends-and-monorepos-smart
 https://www.angulararchitects.io/book/
 
 https://www.angulararchitects.io/en/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/
+
+https://levelup.gitconnected.com/your-first-angular-microfrontend-58950768a465
+
+
 
 ### Web Assembley
 

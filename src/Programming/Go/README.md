@@ -52,6 +52,8 @@ https://go.dev/play/p/8DystRIvVSo (dynamic structure fields)
 
 https://medium.com/faun/dependency-injection-in-go-the-better-way-833e2cc65fab
 
+https://medium.com/@felipe.infantino.moreno/microservice-in-golang-using-redis-and-grpc-865587aa260c
+
 ### API
 
 https://echo.labstack.com/

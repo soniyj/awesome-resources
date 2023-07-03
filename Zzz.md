@@ -256,3 +256,5 @@ https://www.megaport.it/pc-gaming/intel/intel-core-i7/
 https://www.pcspecialist.it/notebook/defianceX-17/
 
 https://www.santech.eu/g69-series
+
+https://nzxt.com/en-GB/collection/foundation-pc

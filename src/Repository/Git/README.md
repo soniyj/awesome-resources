@@ -25,3 +25,7 @@ http://www.codeblocq.com/2016/01/Untrack-files-already-added-to-git-repository-b
 ### Flow
 
 https://opensource.com/article/20/7/git-best-practices
+
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+
+https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow

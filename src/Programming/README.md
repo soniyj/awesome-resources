@@ -74,6 +74,8 @@ https://opencensus.io/zpages/
 
 https://thrift.apache.org (code generation)
 
+https://github.com/grpc-ecosystem/awesome-grpc#tools
+
 ### Changelog & Versioning
 
 https://kikobeats.github.io/automate-release/#/
@@ -95,3 +97,7 @@ https://graphblas.org
 https://people.engr.tamu.edu/davis/GraphBLAS.html
 
 https://thenewstack.io/which-programming-languages-use-the-least-electricity/
+
+https://www.modular.com/mojo
+
+https://docs.modular.com/mojo/programming-manual.html#python-integration

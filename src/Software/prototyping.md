@@ -12,8 +12,6 @@ https://principleformac.com/ (not free but downloadable)
 
 https://www.invisionapp.com/ (free 1 prototype)
 
-https://clarity.design/
-
 https://material.io/develop/
 
 https://tally.so

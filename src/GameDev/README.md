@@ -130,6 +130,8 @@ https://assetovi.com/ (One-stop platform for finding the exact right 3D assets, 
 
 https://gameuidatabase.com/index.php
 
+https://slush23.com/
+
 ### Game Design
 
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/
