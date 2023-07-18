@@ -17,3 +17,7 @@ https://web.dev/commonjs-larger-bundles/
 https://github.com/indutny/webpack-common-shake
 
 https://bun.sh (fast all-in-one JavaScript runtime)
+
+https://github.com/oven-sh/awesome-bun
+
+https://github.com/alertbox/devcontainers-try-bun (linux-based quick-starter development container)

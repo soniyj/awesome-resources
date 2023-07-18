@@ -132,6 +132,8 @@ https://gameuidatabase.com/index.php
 
 https://slush23.com/
 
+https://www.futurelearn.com/info/courses/introduction-to-indie-games/0/steps/96363
+
 ### Game Design
 
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/
@@ -201,3 +203,9 @@ https://www.playventures.vc
 https://gameon.app/investors
 
 https://www.gamingmindsstudios.com/re-modding/tome/locomotives/ (Railway Empire Modding)
+
+https://crytivo.com/publishing
+
+https://goviceversa.com
+
+https://www.vicariouspr.com/free-indie-developer-resources/the-big-game-publisher-list/

@@ -60,6 +60,8 @@ https://www.perfomatix.com/30-essential-tools-for-angular-development/
 
 https://state-adapt.github.io/angular
 
+https://nx.dev/more-concepts/incremental-builds#incremental-builds
+
 ### Authentication
 
 https://medium.com/@monkov/angular-using-httpinterceptor-for-token-refreshing-3f04ea2ccb81
@@ -221,8 +223,6 @@ https://www.angulararchitects.io/book/
 https://www.angulararchitects.io/en/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/
 
 https://levelup.gitconnected.com/your-first-angular-microfrontend-58950768a465
-
-
 
 ### Web Assembley
 
