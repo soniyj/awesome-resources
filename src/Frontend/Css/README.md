@@ -37,3 +37,5 @@ https://tailwinduikit.com/components/webapp/master_layout/sidebar_layout
 https://dev.to/codeply/helpful-page-layouts-using-tailwind-css-1a3k
 
 https://blog.logrocket.com/10-best-tailwind-css-component-template-collections/
+
+https://tailadmin.com/

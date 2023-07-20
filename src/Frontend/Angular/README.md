@@ -198,6 +198,8 @@ https://clarity.design
 
 https://primeng.org/
 
+https://demos.creative-tim.com/notus-angular/
+
 ### Proxy
 
 https://github.com/leonpahole/simple-frontend-angular/tree/master/nginx
