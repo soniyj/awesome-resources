@@ -194,13 +194,7 @@ https://github.com/MikeRyanDev/habits-graphql-angular
 
 ### UI
 
-https://tailwindcss.com/
-
-https://www.tailwindawesome.com
-
 https://clarity.design
-
-https://tailwind-elements.com/
 
 ### Proxy
 
