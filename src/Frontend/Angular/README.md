@@ -196,6 +196,8 @@ https://github.com/MikeRyanDev/habits-graphql-angular
 
 https://clarity.design
 
+https://primeng.org/
+
 ### Proxy
 
 https://github.com/leonpahole/simple-frontend-angular/tree/master/nginx
