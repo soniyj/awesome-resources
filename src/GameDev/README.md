@@ -72,6 +72,8 @@ https://www.libretro.com/index.php/api/?amp=1
 
 https://brightchamps.com/blog/how-to-make-car-racing-game-scratch/
 
+https://gameassetsfree.com
+
 * [Unity](./Unity/)
 * [Unreal Engine 4](./UnrealEngine4/)
 * [Godot](./Godot/)
@@ -134,6 +136,8 @@ https://slush23.com/
 
 https://www.futurelearn.com/info/courses/introduction-to-indie-games/0/steps/96363
 
+https://assetmanager.studio (Epic Game Launcher Alternative)
+
 ### Game Design
 
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/
@@ -145,6 +149,8 @@ https://www.youtube.com/watch?v=8fXE-E1hjKk (Storytelling Tools to Boost Your In
 https://github.com/kosinaz/game-design-document-template-for-beginners
 
 https://github.com/dbasilioesp/game-design-documents
+
+https://csfirst.withgoogle.com/c/cs-first/en/game-design/overview.html (Google Course, it seems free)
 
 ### Publishers & Investors
 

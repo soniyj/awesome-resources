@@ -101,3 +101,5 @@ https://thenewstack.io/which-programming-languages-use-the-least-electricity/
 https://www.modular.com/mojo
 
 https://docs.modular.com/mojo/programming-manual.html#python-integration
+
+https://vala.dev

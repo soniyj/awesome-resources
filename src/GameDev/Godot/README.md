@@ -21,3 +21,5 @@ https://www.youtube.com/c/Gdquest/videos?app=desktop&cbrd=1&cbrd=1&cbrd=1&ucbcb=
 ### Tools
 
 https://github.com/blackears/cyclopsLevelBuilder
+
+https://github.com/outobugi/Terrain3D (An editable terrain system for Godot 4, written in C++)

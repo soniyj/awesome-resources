@@ -54,6 +54,12 @@ https://dev.epicgames.com/community/learning/tutorials/J68m/how-to-make-roads-wi
 
 https://dev.epicgames.com/community/learning/tutorials/ryL5/follow-a-spline-and-report-distance-along-it-using-an-actor-component
 
+https://www.unrealengine.com/en-US/blog/learn-game-development-for-free-with-unreal-online-learning
+
+https://www.unrealengine.com/marketplace/en-US/product/exploring-level-design-for-game-development
+
+https://www.codecademy.com/article/unreal-intro#
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
