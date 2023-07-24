@@ -105,3 +105,9 @@ https://github.com/IvanGoncharov/graphql-voyager (quite interesting)
 https://chillicream.com/products/bananacakepop (GraphQL IDE for Devs)
 
 https://github.com/graphql-editor/graphql-editor
+
+https://hygraph.com/
+
+https://graphqleditor.com/pricing/
+
+https://the-guild.dev/graphql/codegen
