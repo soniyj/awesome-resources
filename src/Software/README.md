@@ -18,6 +18,8 @@ https://github.com/donnemartin/system-design-primer (The System Design Primer)
 
 https://wireflow.co (free, open source, online)
 
+https://github.com/karanpratapsingh/system-design
+
 ### DataBase Design
 
 https://dbdesigner.net/

@@ -138,6 +138,13 @@ https://www.futurelearn.com/info/courses/introduction-to-indie-games/0/steps/963
 
 https://assetmanager.studio (Epic Game Launcher Alternative)
 
+https://www.expertmarket.com/digital-marketing/digital-marketing-cost
+
+https://mainleaf.com/how-much-does-it-cost-to-market-a-video-game
+
+https://vip.graphics/video-game-pitch-deck-examples/ (interesting for pitch decks)
+
+
 ### Game Design
 
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/

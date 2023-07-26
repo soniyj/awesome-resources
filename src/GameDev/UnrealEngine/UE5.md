@@ -60,6 +60,8 @@ https://www.unrealengine.com/marketplace/en-US/product/exploring-level-design-fo
 
 https://www.codecademy.com/article/unreal-intro#
 
+https://dev.epicgames.com/community/learning/tutorials/73Yz/generate-your-own-procedural-city-with-houdini-and-unreal-engine-5-part1
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
@@ -131,3 +133,11 @@ https://freedom3d.art/2023/04/20/freedom-animation-pipeline-for-unreal-engine/?f
 ### AI/ML
 
 https://kythera.ai/by-engine/unreal-engine/
+
+### City Generation
+
+https://developers.arcgis.com/unreal-engine/
+
+https://www.esri.com/arcgis-blog/products/unreal-engine/announcements/introducing-arcgis-maps-sdk-for-unreal-engine/
+
+https://cesium.com/learn/unreal/unreal-photorealistic-3d-tiles/

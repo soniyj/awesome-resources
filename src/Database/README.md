@@ -161,3 +161,5 @@ https://docs.reduct.store/how-does-it-work (ReductStore is a storage engine whic
 https://docs.siridb.com (timeseries database)
 
 https://griddb.net/en/ (timeseries database)
+
+https://www.neo4j.design/ (design system)
