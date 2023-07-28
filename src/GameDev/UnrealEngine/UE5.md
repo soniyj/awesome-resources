@@ -20,6 +20,8 @@ https://docs.unrealengine.com/5.0/en-US/using-gameplay-abilities-in-unreal-engin
 
 https://docs.unrealengine.com/5.0/en-US/game-features-and-modular-gameplay-in-unreal-engine/
 
+https://www.unrealengine.com/en-US/blog/cropout-casual-rts-game-sample-project
+
 ### Tutorials
 
 https://dev.epicgames.com/community/learning/tutorials/W5aX/how-to-make-a-simple-inventory-system-in-unreal-engine-5
