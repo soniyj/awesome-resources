@@ -73,3 +73,7 @@ https://pub.dev/packages/ftpconnect
 https://www.youtube.com/watch?v=PkY6Y-dmimE (Flutter UI)
 
 https://www.youtube.com/playlist?list=PLpaPR7OMlko62b1RX9Va-QEDRQwmCIkS3 (Flutter UI)
+
+### Others
+
+https://github.com/flutter/samples/tree/main/web_embedding/ng-flutter
