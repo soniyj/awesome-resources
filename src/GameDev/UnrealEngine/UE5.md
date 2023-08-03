@@ -122,7 +122,11 @@ https://forums.unrealengine.com/t/inside-unreal-how-simteract-is-generating-citi
 
 [How Simteract is Generating Cities | Inside Unreal](https://www.youtube.com/watch?app=desktop&v=pvkPAj1EdXQ)
 
+[Unreal Engine 5: Procedural City Generator Tutorial](https://www.youtube.com/watch?v=cZfov7yQYuQ)
 
+[UE5 | Procedural Suburban City Using PCG | Tutorial | Part 1 | Unreal Engine 5.2](https://www.youtube.com/watch?v=C-_RYWevAW0)
+
+[How to Make MASSIVE Sci Fi Cities in UE5 | Unreal Engine 5 Scene Design](https://www.youtube.com/watch?v=bURQa1lUhC4)
 
 ### Git
 
