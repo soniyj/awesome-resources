@@ -128,6 +128,8 @@ https://forums.unrealengine.com/t/inside-unreal-how-simteract-is-generating-citi
 
 [How to Make MASSIVE Sci Fi Cities in UE5 | Unreal Engine 5 Scene Design](https://www.youtube.com/watch?v=bURQa1lUhC4)
 
+[Learn How to Work With Geospatial Data in Unreal Engine | Webinar](https://www.youtube.com/watch?v=RKyyuAhnqP4&t=1850s)
+
 ### Git
 
 [Complete Guide to Git and Unreal for Beginners - UE4 / UE5](https://www.youtube.com/watch?v=5J0CczTshKY)

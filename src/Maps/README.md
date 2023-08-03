@@ -21,3 +21,5 @@ https://wiki.openstreetmap.org/wiki/Develop
 https://gamedev.stackexchange.com/questions/67329/where-can-i-find-real-world-map-data-for-a-game
 
 https://opentopography.org/
+
+https://josm.openstreetmap.de/ (OpenSteetMap Software)
