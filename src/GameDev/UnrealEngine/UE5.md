@@ -66,6 +66,8 @@ https://www.codecademy.com/article/unreal-intro#
 
 https://dev.epicgames.com/community/learning/tutorials/73Yz/generate-your-own-procedural-city-with-houdini-and-unreal-engine-5-part1
 
+https://forums.unrealengine.com/t/inside-unreal-how-simteract-is-generating-cities/747304
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
@@ -115,6 +117,12 @@ https://dev.epicgames.com/community/learning/tutorials/73Yz/generate-your-own-pr
 [Learn Unit Movement for RTS Games with Unreal Engine](https://www.youtube.com/watch?app=desktop&v=wAa1oKTbOtw)
 
 [Zenva Videos](https://www.youtube.com/@Zenva?app=desktop&cbrd=1)
+
+[Unreal Engine - Turn Based Game Fundamentals (1/3)](https://www.youtube.com/watch?app=desktop&v=5bhOQKHDE_M&cbrd=1)
+
+[How Simteract is Generating Cities | Inside Unreal](https://www.youtube.com/watch?app=desktop&v=pvkPAj1EdXQ)
+
+
 
 ### Git
 

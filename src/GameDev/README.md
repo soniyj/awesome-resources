@@ -144,6 +144,7 @@ https://mainleaf.com/how-much-does-it-cost-to-market-a-video-game
 
 https://vip.graphics/video-game-pitch-deck-examples/ (interesting for pitch decks)
 
+[free blender city generator addon for blender](https://www.youtube.com/watch?v=rFtlq0rZ7OY)
 
 ### Game Design
 
