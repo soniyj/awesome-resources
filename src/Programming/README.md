@@ -76,6 +76,12 @@ https://thrift.apache.org (code generation)
 
 https://github.com/grpc-ecosystem/awesome-grpc#tools
 
+https://bit.dev (An open-source toolchain for the development of composable software.)
+
+https://docusaurus.io (Documentation)
+
+https://ossdatabase.com/ (Open Source Software Databases)
+
 ### Changelog & Versioning
 
 https://kikobeats.github.io/automate-release/#/

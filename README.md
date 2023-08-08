@@ -112,8 +112,6 @@ https://github.com/AlDanial/cloc (Code Line Counter)
 
 https://www.imagemagick.org/
 
-https://www.authelia.com/ (free no java)
-
 *chat (to check)*
 
 https://mattermost.com/ (free?)
@@ -168,3 +166,6 @@ https://heroicgameslauncher.com (Heroic is an Open Source GOG and Epic games lau
 
 https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
 
+https://peppermint.sh (A central hub for your help desk. A powerfully easy system for tracking, prioritising, and solving customer support tickets)
+
+https://forem.com (open source platform for building modern, independent, and safe communities)

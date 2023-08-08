@@ -4,6 +4,8 @@ https://contabo.com/en/
 
 https://www.hetzner.com/cloud
 
+https://github.com/filegator/filegator
+
 ### NextCloud
 
 https://github.com/nextcloud/all-in-one/blob/main/docker-compose.yml

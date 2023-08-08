@@ -14,6 +14,8 @@ https://www.osohq.com/ (free tier)
 
 https://zitadel.com/docs/ (The best of Auth0 and Keycloak combined. Built for the serverless era)
 
+https://www.authelia.com
+
 ### Keycloak
 
 https://www.plexx.digital/keycloak-realm-export-import/
@@ -45,3 +47,5 @@ https://www.keycloak.org/docs/latest/authorization_services/index.html#_permissi
 https://github.com/v-ladynev/keycloak-nodejs-example#quick-start
 
 https://keepgrowing.in/tools/keycloak-in-docker-4-how-to-define-user-privileges-and-roles/ (to check)
+
+https://www.appsdeveloperblog.com/keycloak-rest-api-create-a-new-user/?utm_content=cmp-true

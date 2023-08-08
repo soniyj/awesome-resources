@@ -52,3 +52,5 @@ https://gymnasium.farama.org (API for reinforcement learning, and a diverse coll
 https://aruva.medium.com/using-chatgpt-to-build-system-diagrams-part-i-69efc7603926?source=read_next_recirc---two_column_layout_sidebar------1---------------------82e66c8b_6623_4506_bd63_f510feb4b629-------
 
 https://www.anthropic.com/product (A next-generation AI assistant for your tasks, no matter the scale)
+
+https://monica.im (All-in-one AI Assistant)

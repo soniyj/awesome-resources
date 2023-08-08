@@ -51,3 +51,5 @@ https://www.leonpahole.com/2020/05/traefik-nodejs-api-and-db.html
 https://github.com/asatrya/keycloak-traefik-tutorial
 
 https://github.com/BlackBeltTechnology/traefik-keycloak-sso-reverse-proxy
+
+https://doc.traefik.io/traefik/middlewares/http/forwardauth/

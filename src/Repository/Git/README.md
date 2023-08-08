@@ -18,6 +18,8 @@ https://probot.github.io/
 
 https://gitea.io/en-us/
 
+https://onedev.io (Self-hosted Git Server with CI/CD and Kanban)
+
 ### Tutorials
 
 http://www.codeblocq.com/2016/01/Untrack-files-already-added-to-git-repository-based-on-gitignore/

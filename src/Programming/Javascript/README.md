@@ -21,3 +21,6 @@ https://bun.sh (fast all-in-one JavaScript runtime)
 https://github.com/oven-sh/awesome-bun
 
 https://github.com/alertbox/devcontainers-try-bun (linux-based quick-starter development container)
+
+https://hybrids.js.org/#/ (Framework for creating client-side web applications, UI components libraries, or single web components)
+

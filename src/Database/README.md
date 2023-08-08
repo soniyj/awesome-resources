@@ -163,3 +163,5 @@ https://docs.siridb.com (timeseries database)
 https://griddb.net/en/ (timeseries database)
 
 https://www.neo4j.design/ (design system)
+
+https://github.com/terminusdb/terminusdb (TerminusDB is a distributed database with a collaboration model)
