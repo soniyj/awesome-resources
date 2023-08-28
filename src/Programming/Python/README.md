@@ -34,6 +34,8 @@ https://esis-italia.com/corsi-formazione-informatica/corso-python-base/
 
 https://esis-italia.com/corsi-formazione-informatica/corso-python-avanzato/
 
+https://betterprogramming.pub/poetry-python-nx-monorepo-5750d8627024
+
 ### Flask
 
 https://blog.miguelgrinberg.com/post/restful-authentication-with-flask

@@ -146,6 +146,8 @@ https://vip.graphics/video-game-pitch-deck-examples/ (interesting for pitch deck
 
 [free blender city generator addon for blender](https://www.youtube.com/watch?v=rFtlq0rZ7OY)
 
+https://codeberg.org/liblast/liblast
+
 ### Game Design
 
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/

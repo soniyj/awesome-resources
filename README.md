@@ -169,3 +169,9 @@ https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
 https://peppermint.sh (A central hub for your help desk. A powerfully easy system for tracking, prioritising, and solving customer support tickets)
 
 https://forem.com (open source platform for building modern, independent, and safe communities)
+
+https://github.com/orangehrm/orangehrm
+
+https://github.com/lightdash/lightdash (turns your dbt project into a full-stack BI platform)
+
+https://github.com/dragonflydb/dragonfly (Run your Redis workload with a fraction of the resources)

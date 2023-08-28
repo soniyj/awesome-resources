@@ -25,3 +25,11 @@ https://www.wavemaker.com/low-code-app-development-platform/
 https://uibakery.io/
 
 https://github.com/windmill-labs/windmill (interesting have a look!, retool alternative!)
+
+https://github.com/tooljet/tooljet (open source)
+
+https://www.appsmith.com/
+
+https://github.com/BuilderIO/builder (Drag and drop headless CMS for React, Vue, Svelte, Qwik, and more)
+
+https://github.com/Budibase/budibase (Low code platform for creating internal tools, workflows, and admin panels in minutes)

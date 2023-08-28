@@ -10,6 +10,8 @@ https://www.jitblox.com
 
 https://parceljs.org
 
+https://github.com/responsively-org/responsively-app (A modified web browser that helps in responsive web development) [x]
+
 ### UI
 
 https://semantic-ui.com/

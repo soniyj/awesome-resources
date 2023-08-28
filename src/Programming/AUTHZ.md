@@ -16,6 +16,8 @@ https://zitadel.com/docs/ (The best of Auth0 and Keycloak combined. Built for th
 
 https://www.authelia.com
 
+https://next-auth.js.org/
+
 ### Keycloak
 
 https://www.plexx.digital/keycloak-realm-export-import/

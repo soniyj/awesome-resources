@@ -56,6 +56,8 @@ https://wk29.wordpress.com/2014/10/01/setting-up-openproject-on-openshift/
 
 https://www.bitrix24.com/ (almost free)
 
+https://github.com/leantime/leantime (Project management for the non-project manager (and it's open source!))
+
 ### UML Diagrams (fanno tutti cagare):
 
 http://www.eclipse.org/papyrus/download.html (open source) [java]

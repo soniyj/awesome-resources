@@ -30,6 +30,8 @@ https://concourse-ci.org/
 
 [Integrate Harness Drone with Jira - Demo Den - May 2021](https://www.youtube.com/watch?app=desktop&v=YIKbLeY1-gI&feature=youtu.be)
 
+https://woodpecker-ci.org (community fork of the Drone CI system)
+
 ### Circle CI
 
 https://circleci.com/ (cloud, paid, free tier)

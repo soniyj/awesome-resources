@@ -62,6 +62,10 @@ https://state-adapt.github.io/angular
 
 https://nx.dev/more-concepts/incremental-builds#incremental-builds
 
+https://github.com/angular/angular/blob/main/.devcontainer/README.md [x]
+
+https://github.com/angular/angular/tree/main/.devcontainer [x]
+
 ### Authentication
 
 https://medium.com/@monkov/angular-using-httpinterceptor-for-token-refreshing-3f04ea2ccb81
