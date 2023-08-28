@@ -249,6 +249,8 @@ https://openvpn.net/faq/how-do-i-use-a-client-certificate-and-private-key-from-t
 
 https://www.windowscentral.com/how-tell-who-signed-your-pc
 
+https://thingsboard.io (Open-source IoT Platform)
+
 ### Laptop
 
 https://www.megaport.it/pc-gaming/intel/intel-core-i7/
@@ -258,3 +260,11 @@ https://www.pcspecialist.it/notebook/defianceX-17/
 https://www.santech.eu/g69-series
 
 https://nzxt.com/en-GB/collection/foundation-pc
+
+### Mobile Phones
+
+https://www.certideal.it/
+
+### Monopattini
+
+https://augment.eco/it-it/

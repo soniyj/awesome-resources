@@ -84,6 +84,8 @@ https://ossdatabase.com/ (Open Source Software Databases)
 
 https://github.com/wundergraph/wundergraph (a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition)
 
+https://create.t3.gg/ (The best way to start a full-stack, typesafe Next.js app)
+
 ### Changelog & Versioning
 
 https://kikobeats.github.io/automate-release/#/
@@ -113,3 +115,7 @@ https://docs.modular.com/mojo/programming-manual.html#python-integration
 https://vala.dev
 
 https://ballerina.io/ (Really Interesting has Visualization Tools)
+
+https://thrift.apache.org (An interface definition language and binary communication protocol used for defining and creating services for numerous programming languages [https://en.m.wikipedia.org/wiki/Apache_Thrift])
+
+https://avro.apache.org (A row-oriented remote procedure call and data serialization framework developed within Apache's Hadoop project [https://en.m.wikipedia.org/wiki/Apache_Avro])
