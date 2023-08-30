@@ -20,6 +20,8 @@ https://appwrite.io (interesting, to check)
 
 https://microcks.io (Open source Kubernetes Native tool for API Mocking and Testing)
 
+https://dapr.io (APIs for building portable and reliable microservices)
+
 ### CDN
 
 https://www.fastly.com/ (fast and possible expensive)

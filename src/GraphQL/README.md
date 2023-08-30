@@ -14,6 +14,8 @@ https://the-guild.dev/graphql/mesh
 
 https://the-guild.dev/graphql/apollo-angular/docs/data/subscriptions (check for angular wss issue)
 
+https://github.com/hasura/graphql-engine (has other interesting links)
+
 ### API
 
 https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649
