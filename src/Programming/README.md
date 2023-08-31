@@ -86,6 +86,10 @@ https://github.com/wundergraph/wundergraph (a Backend for Frontend Framework to 
 
 https://create.t3.gg/ (The best way to start a full-stack, typesafe Next.js app)
 
+https://github.com/d3/d3
+
+https://openfeature.dev (Standardizing Feature Flagging for Everyone)
+
 ### Changelog & Versioning
 
 https://kikobeats.github.io/automate-release/#/
