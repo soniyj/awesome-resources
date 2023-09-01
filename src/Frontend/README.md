@@ -12,6 +12,8 @@ https://parceljs.org
 
 https://github.com/responsively-org/responsively-app (A modified web browser that helps in responsive web development) [x]
 
+https://umami.is
+
 ### UI
 
 https://semantic-ui.com/

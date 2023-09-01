@@ -84,6 +84,8 @@ https://christophergs.com/tutorials/ultimate-fastapi-tutorial-pt-8-project-struc
 
 https://github.com/ChristopherGS/ultimate-fastapi-tutorial
 
+https://github.com/koxudaxi/fastapi-code-generator
+
 ### Microservices
 
 https://www.toptal.com/python/introduction-python-microservices-nameko

@@ -90,6 +90,8 @@ https://github.com/d3/d3
 
 https://openfeature.dev (Standardizing Feature Flagging for Everyone)
 
+https://www.graphviz.org (open source graph visualization software) [x]
+
 ### Changelog & Versioning
 
 https://kikobeats.github.io/automate-release/#/
