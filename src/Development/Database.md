@@ -1,6 +1,6 @@
 # Database Resources
 
-* [SQL](./SQL.md)
+### General
 
 http://www.databaseanswers.org/
 
@@ -165,3 +165,11 @@ https://griddb.net/en/ (timeseries database)
 https://www.neo4j.design/ (design system)
 
 https://github.com/terminusdb/terminusdb (TerminusDB is a distributed database with a collaboration model)
+
+### Tutorials
+
+https://www.w3schools.com/sql/sql_intro.asp
+
+https://www.tutorialspoint.com/sql/index.htm
+
+https://www.geeksforgeeks.org/sql-tutorial/
