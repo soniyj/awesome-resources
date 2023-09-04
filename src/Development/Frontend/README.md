@@ -1,5 +1,12 @@
 # Frontend Resources
 
+### Angular & Css
+
+- [Angular](./Angular.md)
+- [CSS](./Css.md)
+
+### General
+
 https://www.webcomponents.org/
 
 https://www.phoenixframework.org (interesting project)

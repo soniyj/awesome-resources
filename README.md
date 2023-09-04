@@ -1,4 +1,4 @@
-# awesome-resources
+# Awesome Resources
 
 Collections of Awesome Resources
 
@@ -8,17 +8,20 @@ Collections of Awesome Resources
 - [Biz](./src/Biz/)
 - [Blockchain](./src/Blockchain/)
   * [Ethereum](./src/Blockchain/Ethereum/)
-- [Cloud](./src/Cloud/)
-  * [AWS](./src/Cloud/Aws/)
-  * [Google](./src/Cloud/google.md)
 - [Development](./src/Development/)
-  - [Apps](./src/Development/Apps/)
+  * [Apps](./src/Development/Apps/)
     + [Ionic](./src/Development/Apps/Ionic.md)
     + [Flutter](./src/Development/Apps/Flutter.md)
+  * [Cloud](./src/Development/Cloud/)
+    + [AWS](./src/Development/Cloud/Aws.md)
+    + [Google](./src/Development/Cloud/Google.md)
+  * [Containers](./src/Development/Containers/)
   * [Frontend](./src/Development/Frontend/)
-    + [Angular2](src/Frontend/Angular2/)
-    + [CSS](./src/Frontend/Css/)
-- [Docker](./src/Docker/)
+    + [Angular](./src/Development/Frontend/Angular.md)
+    + [CSS](./src/Development/Frontend/Css.md)
+  * [Markdown](./src/Development/README.md)
+  * [Repository](./src/Development/Repository.md)
+  * [Testing](./src/Development/Testing.md)
 - [E-Commerce](./src/E_Commerce/)
 - [E-Learning](./src/E_Learning/)
 - [Ebook](./src/Ebook/)
@@ -27,9 +30,7 @@ Collections of Awesome Resources
   * [Unreal Engine](./src/GameDev/UnrealEngine)
 - [Graphics](./src/Graphics/)
 - [Jobs](./src/Jobs/)
-- [Kubernetes](./src/Kubernetes)
 - [Linux](./src/Linux/)
-- [Markdown](./src/Markdown/)
 - [Programming](./src/Programming/)
   * [Go](./src/Programming/Go/)
   * [Java](./src/Programming/Java/)
@@ -38,13 +39,9 @@ Collections of Awesome Resources
   * [Qt](./src/Programming/Qt/)
   * [Typescript](./src/Programming/Typescript/)
   * [Dart](./src/Programming/DART.md)
-- [Repository](./src/Repository/)
-  * [Bitbucket](./src/Repository/Bitbucket/)
-  * [Git](./src/Repository/Git/)
 - [Software](./src/Software/)
   * [Management](./src/Software/management.md)
   * [Prototyping](./src/Software/prototyping.md)
-- [Testing](./src/Testing/)
 - [Website](./src/Website/)
 
 **Various**

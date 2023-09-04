@@ -2,8 +2,8 @@
 
 ### Flutter & Ionic
 
-- [Flutter](./flutter.md)
-- [Ionic](./Ionic/)
+- [Flutter](./Flutter.md)
+- [Ionic](./Ionic.md)
 
 ### V-Play Engine
 
