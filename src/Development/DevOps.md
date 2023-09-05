@@ -32,6 +32,8 @@ https://concourse-ci.org/
 
 https://woodpecker-ci.org (community fork of the Drone CI system)
 
+https://github.com/pipe-cd/pipecd (The One CD for All {applications, platforms, operations})
+
 ### Circle CI
 
 https://circleci.com/ (cloud, paid, free tier)
@@ -109,3 +111,5 @@ https://icinga.com
 https://zipkin.io
 
 https://skywalking.apache.org (Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures)
+
+https://github.com/bosun-monitor/bosun (Time Series Alerting Framework for monitoring and alerting system)

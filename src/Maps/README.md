@@ -23,3 +23,7 @@ https://gamedev.stackexchange.com/questions/67329/where-can-i-find-real-world-ma
 https://opentopography.org/
 
 https://josm.openstreetmap.de/ (OpenSteetMap Software)
+
+### Others
+
+https://github.com/umap-project/umap (lets you create maps with OpenStreetMap layers in a minute and embed them in your site.)

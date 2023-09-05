@@ -173,3 +173,9 @@ https://github.com/openSUSE/osem
 https://posthog.com (https://posthog.com)
 
 https://www.onlyoffice.com
+
+https://github.com/opensolutions/ViMbAdmin (Virtual Mailbox Administration)
+
+https://backstage.io (An open platform for building developer portals)
+
+https://openmessaging.cloud (A cloud native, vendor-neutral open specification for distributed messaging)
