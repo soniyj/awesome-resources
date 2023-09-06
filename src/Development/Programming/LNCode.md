@@ -1,6 +1,6 @@
 # Low-Code and No-Code Resources
 
-If not elsewhere specified all the following have a free plan tier.
+If not elsewhere specified all the following have a free tier plan.
 
 https://webflow.com/
 
