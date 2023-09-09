@@ -18,6 +18,8 @@ https://www.authelia.com
 
 https://next-auth.js.org/
 
+https://authzed.com/products/spicedb (Open source, Fine Grained Authorization (FGA) software inspired by Google Zanzibar)
+
 ### Keycloak
 
 https://www.plexx.digital/keycloak-realm-export-import/

@@ -166,6 +166,20 @@ https://www.neo4j.design/ (design system)
 
 https://github.com/terminusdb/terminusdb (TerminusDB is a distributed database with a collaboration model)
 
+https://weaviate.io/developers/weaviate (open source vector database)
+
+https://www.voltactivedata.com/try-volt/ (The no-compromise data platform for 5G, IoT, edge computing, and whatever comes next)
+
+https://tikv.org (highly scalable, low latency, and easy to use key-value database)
+
+https://tdengine.com (next generation data historian purpose-built for Industry 4.0 and Industrial IoT)
+
+https://www.nebula-graph.io (GraphDB)
+
+https://github.com/dolthub/dolt (SQL database that you can fork, clone, branch, merge, push and pull just like a Git repository)
+
+https://www.featurebase.com (in-memory, analytics and vector engine)
+
 ### Tutorials
 
 https://www.w3schools.com/sql/sql_intro.asp

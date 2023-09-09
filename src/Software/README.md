@@ -79,3 +79,7 @@ http://kicad-pcb.org/
 ### GIS
 
 https://qgis.org/en/site/
+
+### Others
+
+https://github.com/cemolcay/ChordDetector (A tiny menu bar app detecting the chords of the songs you are listening on iTunes or Spotify [mac])

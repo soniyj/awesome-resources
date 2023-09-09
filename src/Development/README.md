@@ -19,3 +19,15 @@ https://dillinger.io/ (Online editor)
 [Writing Web Content with Markdown](https://www.hongkiat.com/blog/web-content-with-markdown/)
 
 https://docusaurus.io (Documentation)
+
+### Others
+
+https://memphis.dev/ (data streaming platform)
+
+https://rocketmq.apache.org (messaging, eventing, streaming)
+
+https://www.tarantool.io/en/ (middleware for data Accelerate digital services and reduce the load on core systems)
+
+https://github.com/automaticmode/active_workflow (Polyglot workflows without leaving the comfort of your technology stack)
+
+https://www.scalar-labs.com (Data Reliability)

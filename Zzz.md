@@ -96,6 +96,8 @@ https://www.rivaluta.it/interessilegali/formula-calcolo-interessi.asp
 
 https://www.liquibase.com
 
+https://github.com/juntagrico/juntagrico (management platform for community gardens and vegetable cooperatives)
+
 ### Headless (CMS)
 
 https://jamstack.org/
