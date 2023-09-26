@@ -31,3 +31,9 @@ https://www.tarantool.io/en/ (middleware for data Accelerate digital services an
 https://github.com/automaticmode/active_workflow (Polyglot workflows without leaving the comfort of your technology stack)
 
 https://www.scalar-labs.com (Data Reliability)
+
+https://github.com/daledavies/jump (Jump is a self-hosted startpage and real-time status page for your server designed to be simple, stylish, fast and secure)
+
+https://graphscope.io (unified distributed graph computing platform that provides a one-stop environment for performing diverse graph operations on a cluster)
+
+https://doris.apache.org (new-generation open-source real-time data warehouse based on MPP architecture, with easier use and higher performance for big data analytics)

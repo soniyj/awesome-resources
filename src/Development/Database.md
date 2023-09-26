@@ -180,6 +180,9 @@ https://github.com/dolthub/dolt (SQL database that you can fork, clone, branch, 
 
 https://www.featurebase.com (in-memory, analytics and vector engine)
 
+https://greptime.com/product/db (Greptime is an open source, cloud-native time-series database with a distributed solution)
+
+https://www.xtdb.com/index.html (bitemporal and dynamic relational database for SQL and Datalog)
 ### Tutorials
 
 https://www.w3schools.com/sql/sql_intro.asp
@@ -187,3 +190,5 @@ https://www.w3schools.com/sql/sql_intro.asp
 https://www.tutorialspoint.com/sql/index.htm
 
 https://www.geeksforgeeks.org/sql-tutorial/
+
+https://simeon-yan-iliev.medium.com/export-import-a-database-with-couchdb-74bfec3831bc

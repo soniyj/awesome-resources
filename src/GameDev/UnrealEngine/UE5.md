@@ -130,6 +130,8 @@ https://forums.unrealengine.com/t/inside-unreal-how-simteract-is-generating-citi
 
 [Learn How to Work With Geospatial Data in Unreal Engine | Webinar](https://www.youtube.com/watch?v=RKyyuAhnqP4&t=1850s)
 
+[Import Objects From Blender to Unreal 5 (2 MINUTES!!)](https://www.youtube.com/watch?v=BqF5D4kteX8)
+
 ### Git
 
 [Complete Guide to Git and Unreal for Beginners - UE4 / UE5](https://www.youtube.com/watch?v=5J0CczTshKY)

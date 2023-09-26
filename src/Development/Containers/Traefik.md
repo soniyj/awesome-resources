@@ -38,6 +38,12 @@ https://stackoverflow.com/questions/50899827/configure-traefik-in-front-of-two-d
 
 https://alexwinter.me/docker/run-multiple-containers-listening-to-same-port (virtual host)
 
+https://community.traefik.io/t/solved-dashboard-404-after-switching-to-usersfile-for-basic-auth/7292/3
+
+https://github.com/traefik/traefik/issues/5687
+
+https://mindup.medium.com/add-basic-authentication-in-docker-compose-files-with-traefik-34c781234970
+
 ### Traefik v2.1
 
 https://www.innoq.com/en/blog/traefik-v2-and-mastodon/

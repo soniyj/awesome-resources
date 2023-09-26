@@ -148,6 +148,8 @@ https://vip.graphics/video-game-pitch-deck-examples/ (interesting for pitch deck
 
 https://codeberg.org/liblast/liblast
 
+https://github.com/ProjectUnifree/unifree (Migrate Unity projects to other engines! Prototype)
+
 ### Game Design
 
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/
