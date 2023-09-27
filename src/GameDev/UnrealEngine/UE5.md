@@ -68,6 +68,10 @@ https://dev.epicgames.com/community/learning/tutorials/73Yz/generate-your-own-pr
 
 https://forums.unrealengine.com/t/inside-unreal-how-simteract-is-generating-cities/747304
 
+https://cesium.com/learn/unreal/unreal-edit-materials/
+
+https://forums.unrealengine.com/t/a-way-to-use-the-entire-world-as-a-map-in-your-game/270278 (A way to use the entire world as a map in your game)
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
@@ -126,11 +130,17 @@ https://forums.unrealengine.com/t/inside-unreal-how-simteract-is-generating-citi
 
 [UE5 | Procedural Suburban City Using PCG | Tutorial | Part 1 | Unreal Engine 5.2](https://www.youtube.com/watch?v=C-_RYWevAW0)
 
-[How to Make MASSIVE Sci Fi Cities in UE5 | Unreal Engine 5 Scene Design](https://www.youtube.com/watch?v=bURQa1lUhC4)
+[How to Make MASSIVE Sci Fi Cities in UE5 | Unreal Engine 5 Scene Design](https://www.youtube.com/watch?v=bURQa1lUhC4) [x]
 
 [Learn How to Work With Geospatial Data in Unreal Engine | Webinar](https://www.youtube.com/watch?v=RKyyuAhnqP4&t=1850s)
 
 [Import Objects From Blender to Unreal 5 (2 MINUTES!!)](https://www.youtube.com/watch?v=BqF5D4kteX8)
+
+[Cesium for Unreal with Google Maps API: Tutorial Step by Step](https://www.youtube.com/watch?v=seb9jaiRWmk) [!]
+
+[NEW Unreal Engine 5.2 Procedural Plugin Tutorial - How to Use It Very Easy!](https://www.youtube.com/watch?v=0YiDT08W_q8)
+
+
 
 ### Git
 
@@ -161,3 +171,5 @@ https://developers.arcgis.com/unreal-engine/
 https://www.esri.com/arcgis-blog/products/unreal-engine/announcements/introducing-arcgis-maps-sdk-for-unreal-engine/
 
 https://cesium.com/learn/unreal/unreal-photorealistic-3d-tiles/
+
+https://80.lv/articles/citybld-procedural-city-creation-toolkit-for-unreal-engine-5/
