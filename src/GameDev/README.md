@@ -164,11 +164,13 @@ https://lesterbanks.com/2016/06/realistic-city-openstreetmap-blender/
 
 [Create any City in Blender in 20 Minutes](https://www.youtube.com/watch?app=desktop&v=NW_djQS_N8U)
 
-https://prochitecture.gumroad.com/l/blender-osm
+https://prochitecture.gumroad.com/l/blender-osm (Blosm for Blender: Google 3D cities, OpenStreetMap, terrain)
 
 [free blender city generator addon for blender](https://www.youtube.com/watch?v=rFtlq0rZ7OY)
 
 https://github.com/vvoovv/blosm (import of Google 3D cities, OpenStreetMap, terrain)
+
+https://github.com/vvoovv/blosm/wiki/Documentation#installation
 
 ### Publishers & Investors
 
