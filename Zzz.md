@@ -253,10 +253,6 @@ https://openvpn.net/faq/how-do-i-use-a-client-certificate-and-private-key-from-t
 
 https://www.windowscentral.com/how-tell-who-signed-your-pc
 
-https://thingsboard.io (Open-source IoT Platform)
-
-https://github.com/openremote/openremote (100% open-source IoT Platform)
-
 ### Laptop
 
 https://www.megaport.it/pc-gaming/intel/intel-core-i7/
