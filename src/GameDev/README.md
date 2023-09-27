@@ -82,10 +82,6 @@ https://store.steampowered.com/app/936500/Transport_INC/
 
 https://store.steampowered.com/app/1127500/Mini_Motorways/
 
-https://lesterbanks.com/2016/06/realistic-city-openstreetmap-blender/
-
-https://www.youtube.com/watch?app=desktop&v=NW_djQS_N8U (Create any City in Blender in 20 Minutes)
-
 https://www.youtube.com/watch?app=desktop&v=gRp-gvsStkw (How to build sci-fi cities with Unreal Engine) [~3 hrs!]
 
 https://fullinstallgames.com
@@ -107,8 +103,6 @@ https://hlorus.github.io/CAD_Sketcher/ (CAD Sketcher is a constraint-based sketc
 https://github.com/ZDoom/gzdoom
 
 https://github.com/sirjuddington/SLADE (Doom Editor)
-
-https://prochitecture.gumroad.com/l/blender-osm
 
 https://paveloliva.gumroad.com/l/buildify
 
@@ -144,11 +138,11 @@ https://mainleaf.com/how-much-does-it-cost-to-market-a-video-game
 
 https://vip.graphics/video-game-pitch-deck-examples/ (interesting for pitch decks)
 
-[free blender city generator addon for blender](https://www.youtube.com/watch?v=rFtlq0rZ7OY)
-
 https://codeberg.org/liblast/liblast
 
 https://github.com/ProjectUnifree/unifree (Migrate Unity projects to other engines! Prototype)
+
+[Cocos - Learn To Create 3D Games With Our Cyberpunk Demo](https://www.youtube.com/watch?v=8riRSjPZCIs)
 
 ### Game Design
 
@@ -163,6 +157,18 @@ https://github.com/kosinaz/game-design-document-template-for-beginners
 https://github.com/dbasilioesp/game-design-documents
 
 https://csfirst.withgoogle.com/c/cs-first/en/game-design/overview.html (Google Course, it seems free)
+
+### Blender
+
+https://lesterbanks.com/2016/06/realistic-city-openstreetmap-blender/
+
+[Create any City in Blender in 20 Minutes](https://www.youtube.com/watch?app=desktop&v=NW_djQS_N8U)
+
+https://prochitecture.gumroad.com/l/blender-osm
+
+[free blender city generator addon for blender](https://www.youtube.com/watch?v=rFtlq0rZ7OY)
+
+https://github.com/vvoovv/blosm (import of Google 3D cities, OpenStreetMap, terrain)
 
 ### Publishers & Investors
 

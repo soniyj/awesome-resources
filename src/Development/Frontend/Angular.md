@@ -230,6 +230,12 @@ https://levelup.gitconnected.com/your-first-angular-microfrontend-58950768a465
 
 https://malcoded.com/posts/web-assembly-angular/
 
+### Starter Kit
+
+https://starter.dev/kits/angular-apollo-tailwind/
+
+https://github.com/thisdot/starter.dev/tree/main/starters/angular-apollo-tailwind
+
 ### Angular1 Resources
 
 https://github.com/oblador/angular-scroll

@@ -39,3 +39,7 @@ https://dev.to/codeply/helpful-page-layouts-using-tailwind-css-1a3k
 https://blog.logrocket.com/10-best-tailwind-css-component-template-collections/
 
 https://tailadmin.com/
+
+https://medium.com/frontendweb/top-19-best-free-tailwind-css-libraries-kits-for-2023-8dfb478d4d0f
+
+https://blog.logrocket.com/10-best-tailwind-css-component-libraries/

@@ -52,3 +52,9 @@ https://get.foundation/index.html
 ### Database
 
 https://rxdb.info
+
+### Starter Kit
+
+https://starter.dev/kits/qwik-graphql-tailwind/
+
+https://github.com/thisdot/starter.dev/tree/main/starters/qwik-graphql-tailwind

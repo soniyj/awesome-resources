@@ -127,3 +127,7 @@ https://ballerina.io/ (Really Interesting has Visualization Tools)
 https://thrift.apache.org (An interface definition language and binary communication protocol used for defining and creating services for numerous programming languages [https://en.m.wikipedia.org/wiki/Apache_Thrift])
 
 https://avro.apache.org (A row-oriented remote procedure call and data serialization framework developed within Apache's Hadoop project [https://en.m.wikipedia.org/wiki/Apache_Avro])
+
+https://ring-lang.github.io (practical general-purpose multi-paradigm language)
+
+https://ring-lang.github.io/doc1.18/dateandtime.html
