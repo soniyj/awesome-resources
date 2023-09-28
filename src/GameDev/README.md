@@ -4,8 +4,6 @@ http://www.gamefromscratch.com/page/Game-Development-Tutorial-Series.aspx
 
 https://lensstudio.snapchat.com/
 
-https://luxeengine.com/
-
 https://www.openra.net/
 
 https://parsecgaming.com/ (not sure what it is)
@@ -42,10 +40,6 @@ https://www.buildbox.com/top-10-sites-free-3d-game-art/
 
 https://www.freecodecamp.org/news/from-zero-to-game-designer-how-to-start-building-video-games-even-if-you-dont-have-any-experience-5e2f9f45f4bb/
 
-https://www.noesisengine.com
-
-https://flaxengine.com
-
 https://www.capturingreality.com/
 
 https://www.capturingreality.com/introducing-realityscan
@@ -74,13 +68,10 @@ https://brightchamps.com/blog/how-to-make-car-racing-game-scratch/
 
 https://gameassetsfree.com
 
-* [Unity](./Unity/)
-* [Unreal Engine 4](./UnrealEngine4/)
 * [Godot](./Godot/)
-
-https://store.steampowered.com/app/936500/Transport_INC/
-
-https://store.steampowered.com/app/1127500/Mini_Motorways/
+* [Unity](./Unity/)
+* [Unreal Engine 4](./UnrealEngine/UE4.md)
+* [Unreal Engine 5](./UnrealEngine/UE5.md)
 
 https://www.youtube.com/watch?app=desktop&v=gRp-gvsStkw (How to build sci-fi cities with Unreal Engine) [~3 hrs!]
 
@@ -91,8 +82,6 @@ https://www.newstargames.com
 https://github.com/Render96/Render96Wiki/wiki
 
 https://howlongtobeat.com
-
-https://store.steampowered.com/app/1103770/Super_Arcade_Racing/
 
 https://github.com/le-doux/bitsy (editor)
 
@@ -172,6 +161,17 @@ https://github.com/vvoovv/blosm (import of Google 3D cities, OpenStreetMap, terr
 
 https://github.com/vvoovv/blosm/wiki/Documentation#installation
 
+### Game Engines
+
+https://luxeengine.com/ (cross platform, rapid development game engine to make games for Mac, Linux, Windows, and Web)
+
+https://flaxengine.com (The most agile game engine is now available.
+Full source code. Full power. Fully featured)
+
+### GUI
+
+https://www.noesisengine.com/ (Discover the most powerful User Interface middleware for videogames and realtime applications)
+
 ### Publishers & Investors
 
 https://beamable.com/blog/find-a-publisher-beamable-super-list-of-game-publishers
@@ -235,3 +235,6 @@ https://crytivo.com/publishing
 https://goviceversa.com
 
 https://www.vicariouspr.com/free-indie-developer-resources/the-big-game-publisher-list/
+
+### Events
+
