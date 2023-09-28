@@ -2,10 +2,6 @@
 
 ### Markdown Generator (to relocate)
 
-https://gohugo.io/ (The world’s fastest framework for building websites)
-
-https://gohugo.io/hosting-and-deployment/hosting-on-aws-amplify/
-
 https://www.mkdocs.org/ (Site generator from markdown)
 
 https://archivy.github.io/
@@ -19,6 +15,18 @@ https://www.sphinx-doc.org/en/master/
 https://tiddlywiki.com/
 
 https://tiddlyhost.com/
+
+https://pandoc.org/ (universal document converter) [!]
+
+### Hugo
+
+https://gohugo.io/ (The world’s fastest framework for building websites)
+
+https://gohugo.io/hosting-and-deployment/hosting-on-aws-amplify/
+
+https://hub.docker.com/r/klakegg/hugo
+
+https://hugomods.com/en/docs/docker/ [x]
 
 ### Indexing on Google
 
