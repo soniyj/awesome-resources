@@ -98,8 +98,6 @@ http://knsv.github.io/mermaid/#/ (diagram and flowchart from text)
 
 https://www.youtube.com/watch?v=ATnpEOo3GJA (Mac on any PC)
 
-https://www.hubspot.com/crm
-
 https://github.com/AlDanial/cloc (Code Line Counter)
 
 https://www.imagemagick.org/
@@ -147,8 +145,6 @@ https://www.weweb.io/
 https://www.xano.com/
 
 https://www.yworks.com/products/yed-live (Diagramming Everywhere, Anytime)
-
-https://augment.eco/it (Il nuovo servizio di mobilità, senza pensieri)
 
 https://learnyousomeerlang.com/starting-out-for-real
 

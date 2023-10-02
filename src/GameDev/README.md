@@ -8,8 +8,6 @@ https://www.openra.net/
 
 https://parsecgaming.com/ (not sure what it is)
 
-https://www.articy.com/en/ (planning for game dev)
-
 https://www.eclipse.org/sumo/
 
 https://www.codecks.io/ (free tier)
@@ -26,15 +24,11 @@ https://carla.readthedocs.io/en/latest/
 
 https://trian3dbuilder.de/
 
-https://github.com/ocornut/imgui
-
-https://ldtk.io/
+https://ldtk.io/ (Level Design Toolkit A modern 2D level editor strong focus on user-friendliness)
 
 https://github.com/Miziziziz/Retro3DGraphicsCollection
 
 https://kidscancode.org/
-
-https://www.renpy.org (Visual novel Engine)
 
 https://www.buildbox.com/top-10-sites-free-3d-game-art/
 
@@ -44,23 +38,9 @@ https://www.capturingreality.com/
 
 https://www.capturingreality.com/introducing-realityscan
 
-https://microstudio.dev (free game engine online)
-
-https://www.articy.com/en/articydraft-3-freeout-now/ (storytelling)
-
-https://www.articy.com/en/articydraft/free/ (storytelling)
-
 https://charisma.ai/ (Power Real-time Digital Humans)
 
-https://www.gbstudio.dev
-
 https://twinery.org (open-source tool for telling interactive, nonlinear stories)
-
-https://gdevelop.io/academy
-
-https://pixijs.com
-
-https://ctjs.rocks
 
 https://www.libretro.com/index.php/api/?amp=1
 
@@ -86,8 +66,6 @@ https://howlongtobeat.com
 https://github.com/le-doux/bitsy (editor)
 
 https://gamefromscratch.com/aws-for-games-at-gdc-cloud-game-development-gamesparks-gamekit-and-more/
-
-https://hlorus.github.io/CAD_Sketcher/ (CAD Sketcher is a constraint-based sketcher addon for Blender)
 
 https://github.com/ZDoom/gzdoom
 
@@ -161,6 +139,8 @@ https://github.com/vvoovv/blosm (import of Google 3D cities, OpenStreetMap, terr
 
 https://github.com/vvoovv/blosm/wiki/Documentation#installation
 
+https://hlorus.github.io/CAD_Sketcher/ (CAD Sketcher is a constraint-based sketcher addon for Blender)
+
 ### Game Engines
 
 https://luxeengine.com/ (cross platform, rapid development game engine to make games for Mac, Linux, Windows, and Web)
@@ -168,9 +148,31 @@ https://luxeengine.com/ (cross platform, rapid development game engine to make g
 https://flaxengine.com (The most agile game engine is now available.
 Full source code. Full power. Fully featured)
 
+https://pixijs.com (HTML5 Creation Engine)
+
+https://www.renpy.org (Visual novel Engine)
+
+https://microstudio.dev (free game engine online)
+
+https://www.gbstudio.dev/ (A quick and easy to use drag and drop retro game creator for your favourite handheld video game system)
+
+https://ctjs.rocks/ (2D game editor it makes learning programming fun and game development easy by its visual tools, good docs and flexible, modular library)
+
+https://gdevelop.io/academy (no-code, open-source, free, and easy 2D/3D game-making app)
+
 ### GUI
 
 https://www.noesisengine.com/ (Discover the most powerful User Interface middleware for videogames and realtime applications)
+
+https://github.com/ocornut/imgui (Bloat-free Graphical User interface for C++ with minimal dependencies)
+
+### Tools
+
+https://www.articy.com/en/ (planning for game dev)
+
+https://www.articy.com/en/articydraft-3-freeout-now/ (storytelling)
+
+https://www.articy.com/en/articydraft/free/ (storytelling)
 
 ### Publishers & Investors
 

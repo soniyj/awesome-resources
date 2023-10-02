@@ -183,6 +183,8 @@ https://www.featurebase.com (in-memory, analytics and vector engine)
 https://greptime.com/product/db (Greptime is an open source, cloud-native time-series database with a distributed solution)
 
 https://www.xtdb.com/index.html (bitemporal and dynamic relational database for SQL and Datalog)
+
+https://www.liquibase.com/ (Release software faster by bringing DevOps to the database with Liquibase) [!]
 ### Tutorials
 
 https://www.w3schools.com/sql/sql_intro.asp

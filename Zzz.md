@@ -58,8 +58,6 @@ https://formspree.io/ (form creation)
 
 https://scene-si.org/2018/03/12/handling-http-requests-with-go-chi/
 
-https://druid.apache.org/ (Apache Druid is a high performance real-time analytics database)
-
 https://guacamole.apache.org/
 
 https://stackoverflow.com/questions/8512200/simple-nix-tool-for-listening-to-http-requests-and-logging-the-request-data
@@ -82,6 +80,8 @@ https://www.uvdesk.com/en/opensource/
 
 https://www.opensupports.com/download/
 
+https://www.hubspot.com/crm
+
 https://www.hubspot.com/products/service/help-desk
 
 https://osticket.com/
@@ -93,8 +93,6 @@ https://www.composerize.com/
 https://stackoverflow.com/questions/59967421/implementaion-of-dood-docker-outside-of-docker-in-gocd-agent
 
 https://www.rivaluta.it/interessilegali/formula-calcolo-interessi.asp
-
-https://www.liquibase.com
 
 https://github.com/juntagrico/juntagrico (management platform for community gardens and vegetable cooperatives)
 
@@ -269,4 +267,4 @@ https://www.certideal.it/
 
 ### Monopattini
 
-https://augment.eco/it-it/
+https://augment.eco/it-it/ (Il nuovo servizio di mobilità, senza pensieri)
