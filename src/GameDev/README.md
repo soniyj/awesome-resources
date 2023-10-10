@@ -93,8 +93,6 @@ https://assetovi.com/ (One-stop platform for finding the exact right 3D assets, 
 
 https://gameuidatabase.com/index.php
 
-https://slush23.com/
-
 https://www.futurelearn.com/info/courses/introduction-to-indie-games/0/steps/96363
 
 https://assetmanager.studio (Epic Game Launcher Alternative)
@@ -270,3 +268,4 @@ https://www.humblegames.com/
 
 ### Events
 
+https://slush23.com/
