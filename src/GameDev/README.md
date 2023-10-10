@@ -111,6 +111,20 @@ https://github.com/ProjectUnifree/unifree (Migrate Unity projects to other engin
 
 [Cocos - Learn To Create 3D Games With Our Cyberpunk Demo](https://www.youtube.com/watch?v=8riRSjPZCIs)
 
+https://gameanalytics.com/blog/5-things-when-designing-hyper-casual-games-joypac/
+
+https://kevurugames.com/blog/the-complete-guide-to-making-profitable-hyper-casual-games-design-tips-rates-and-upcoming-trends-for-2021/
+
+https://www.visartech.com/blog/understanding-hyper-casual-games/
+
+https://www.behance.net/search/projects?search=Hypercasual+Game+UI&sort=recommended&time=month
+
+https://ideausher.com/blog/hyper-casual-game-development/
+
+https://forum.unity.com/threads/what-would-be-a-good-gameplay-lengh-for-an-indie-game.311746/
+
+https://www.matthewtancik.com/nerf (Representing Scenes as Neural Radiance Fields for View Synthesis)
+
 ### Game Design
 
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/
@@ -124,6 +138,8 @@ https://github.com/kosinaz/game-design-document-template-for-beginners
 https://github.com/dbasilioesp/game-design-documents
 
 https://csfirst.withgoogle.com/c/cs-first/en/game-design/overview.html (Google Course, it seems free)
+
+https://users.cs.northwestern.edu/~hunicke/MDA.pdf
 
 ### Blender
 
@@ -160,6 +176,8 @@ https://ctjs.rocks/ (2D game editor it makes learning programming fun and game d
 
 https://gdevelop.io/academy (no-code, open-source, free, and easy 2D/3D game-making app)
 
+https://www.stride3d.net/ (Free, open-source, cross-platform)
+
 ### GUI
 
 https://www.noesisengine.com/ (Discover the most powerful User Interface middleware for videogames and realtime applications)
@@ -173,6 +191,12 @@ https://www.articy.com/en/ (planning for game dev)
 https://www.articy.com/en/articydraft-3-freeout-now/ (storytelling)
 
 https://www.articy.com/en/articydraft/free/ (storytelling)
+
+# Ads
+
+https://adpumb.com/blog/unity-ads-vs-admob-vs-adpumb/#:~:text=AdMob%2C%20compared%20to%20Unity%2C%20offers,for%20both%20apps%20and%20games.
+
+https://playablefactory.com (Create Powerful Ads)
 
 ### Publishers & Investors
 
@@ -237,6 +261,12 @@ https://crytivo.com/publishing
 https://goviceversa.com
 
 https://www.vicariouspr.com/free-indie-developer-resources/the-big-game-publisher-list/
+
+https://505games.com/
+
+https://wiredproductions.com/
+
+https://www.humblegames.com/
 
 ### Events
 
