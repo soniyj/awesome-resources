@@ -18,6 +18,14 @@
 
 [How to add Users, Groups and Roles in Jira Cloud | Users, Groups and Roles in Jira](https://www.youtube.com/watch?v=zcrjQBY2o20)
 
+[The One Setting You Can't Afford to Miss in BigPicture for Tailored Project Structure](https://www.youtube.com/watch?v=B4N1A1gg_8g)
+
+[BigPicture for JIRA Training](https://www.youtube.com/watch?v=va6_nHZCJeU)
+
+https://bigpicture.one/blog/jira-managing-cross-project-dependencies/
+
+https://bigpicture.one/blog/managing-complex-projects/
+
 ### ECM & BPM
 
 https://www.alfresco.com/ (Community and Enterprise Licenses)
