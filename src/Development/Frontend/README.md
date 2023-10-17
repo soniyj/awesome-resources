@@ -49,6 +49,8 @@ https://vue.tufts.edu/gallery/
 
 https://get.foundation/index.html
 
+https://tauri.app (Build an optimized, secure, and frontend-independent application for multi-platform deployment)
+
 ### Database
 
 https://rxdb.info

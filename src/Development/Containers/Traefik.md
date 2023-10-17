@@ -44,6 +44,8 @@ https://github.com/traefik/traefik/issues/5687
 
 https://mindup.medium.com/add-basic-authentication-in-docker-compose-files-with-traefik-34c781234970
 
+https://www.simplecto.com/use-traefik-with-nginx-apache-caddyserver-serve-static-files/
+
 ### Traefik v2.1
 
 https://www.innoq.com/en/blog/traefik-v2-and-mastodon/

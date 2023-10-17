@@ -12,6 +12,8 @@ http://kidscancode.org/godot_recipes/
 
 https://kidscancode.org/godot_recipes/ai/context_map/
 
+https://electronstudio.github.io/godot_racing/tutorial.html
+
 ### Video Tutorials
 
 https://www.youtube.com/watch?v=AHK5aQ7xvH8

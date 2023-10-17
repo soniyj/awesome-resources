@@ -112,6 +112,18 @@ https://about.riot.im/ (free)
 
 https://www.tawk.to/ (customer chat, free)
 
+https://docs.rocket.chat/use-rocket.chat/workspace-administration/import/import-from-slack
+
+https://docs.rocket.chat/use-rocket.chat/workspace-administration/import/import-from-slack/slackbridge
+
+https://docs.rocket.chat/use-rocket.chat/workspace-administration/settings/oauth/google-oauth-setup
+
+https://www.rocket.chat/apps/google-drive
+
+https://slack.com/help/articles/204078066-Google-Workspace-single-sign-on
+
+https://slack.com/intl/it-it/help/articles/204078066-Google-Workspace-single-sign-on
+
 *to check*
 
 https://ngrok.com/ (public URLs for exposing your local web server)
