@@ -142,8 +142,6 @@ https://itch.io/t/3062585/-introducing-out-distance-my-first-ever-hyper-casual-r
 
 [NEW Unreal Engine 5.2 Procedural Plugin Tutorial - How to Use It Very Easy!](https://www.youtube.com/watch?v=0YiDT08W_q8)
 
-
-
 ### Git
 
 [Complete Guide to Git and Unreal for Beginners - UE4 / UE5](https://www.youtube.com/watch?v=5J0CczTshKY)
@@ -161,6 +159,8 @@ https://github.com/G7DAO/web3.unreal (Unreal Engine plugin for integrating EVM c
 https://github.com/jmgomez/NimForUE
 
 https://freedom3d.art/2023/04/20/freedom-animation-pipeline-for-unreal-engine/?fbclid=IwAR3eziYYGqa9F9gUcNVBmjyx1c4oKHjtHFGTdzWMcnAWkWjTnrlu6rUZANg
+
+https://github.com/S1yGus/Cube_Game/tree/main (Cube_Game - Hyper casual game developed with Unreal Engine 5)
 
 ### AI/ML
 

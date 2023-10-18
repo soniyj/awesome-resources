@@ -123,6 +123,8 @@ https://forum.unity.com/threads/what-would-be-a-good-gameplay-lengh-for-an-indie
 
 https://www.matthewtancik.com/nerf (Representing Scenes as Neural Radiance Fields for View Synthesis)
 
+https://appradar.com/blog/mobile-game-engines-development-platforms
+
 ### Game Design
 
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/
@@ -266,8 +268,30 @@ https://wiredproductions.com/
 
 https://www.humblegames.com/
 
+https://nomorerobots.io/
+
 ### Events
 
 https://slush23.com/
 
 https://gdbay.com
+
+### Steam
+
+https://www.gamemarketinggenie.com/blog/things-game-devs-must-do-steam-wishlists
+
+https://newsletter.gamediscover.co/p/5-ways-to-boost-your-steam-wishlists
+
+https://howtomarketagame.com/2020/12/21/how-to-increase-your-games-daily-wishlist-rate/
+
+https://www.gamesindustry.biz/a-game-developer-guide-to-steam-wishlists
+
+https://indiewolverine.com/steam-wishlists-guide/
+
+https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdcsummer2020/presentations/Steam%20Wishlists%20GDC.pdf
+
+### Hyper-Casual Game Development
+
+https://azurgames.com/blog/hyper-casual-game-development-then-and-now-did-three-years-make-a-difference/
+
+https://kevurugames.com/game-development/hyper-casual-game-development-services/

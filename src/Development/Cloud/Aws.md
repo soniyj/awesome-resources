@@ -1,5 +1,11 @@
 # AWS Resources
 
+### Tutorials
+
+https://explore.skillbuilder.aws/learn
+
+https://aws-startup-lofts.com/emea/
+
 ### Region
 
 https://docs.aws.amazon.com/general/latest/gr/rande.html
@@ -75,6 +81,7 @@ https://medium.com/@maciejtreder/custom-domain-in-aws-api-gateway-a2b7feaf9c74
 ### AI/ML
 
 https://aws.amazon.com/sagemaker/
+
 ### EC2
 
 https://www.densify.com/resources/ec2-instance-types
