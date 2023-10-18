@@ -290,8 +290,18 @@ https://indiewolverine.com/steam-wishlists-guide/
 
 https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdcsummer2020/presentations/Steam%20Wishlists%20GDC.pdf
 
+https://xsolla.com/blog/self-publish-on-steam-the-ultimate-guide
+
 ### Hyper-Casual Game Development
 
 https://azurgames.com/blog/hyper-casual-game-development-then-and-now-did-three-years-make-a-difference/
 
 https://kevurugames.com/game-development/hyper-casual-game-development-services/
+
+### Video Tutorials
+
+[HOW TO SELF PUBLISH YOUR INDIE GAME: from start to end](https://www.youtube.com/watch?v=xkQLdIjg0xk)
+
+[Zero Budget VIDEO GAME MARKETING // Marketing for Indie Game Developers](https://www.youtube.com/watch?v=fvsI4BHSTHw)
+
+[How to get money from a publisher (with just a DEMO)](https://www.youtube.com/watch?v=f754YKX7gDc)
