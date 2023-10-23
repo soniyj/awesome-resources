@@ -1,10 +1,20 @@
 # AWS Resources
 
-### Tutorials
-
 https://explore.skillbuilder.aws/learn
 
 https://aws-startup-lofts.com/emea/
+
+https://aws.amazon.com/startups/
+
+https://aws.amazon.com/activate/benefits/
+
+https://aws.amazon.com/activate/
+
+https://aws.amazon.com/chime/pricing/
+
+https://aws.amazon.com/codestar/
+
+https://aws.amazon.com/fargate/?nc=sn&loc=1
 
 ### Region
 
@@ -91,3 +101,5 @@ https://aws.amazon.com/ec2/instance-types/
 https://aws.amazon.com/ec2/instance-types/i4g/?sc_icampaign=launch_im4gn-and-i4gen_reinvent21&sc_ichannel=ha&sc_icontent=awssm-9495_launch_reinvent2&sc_iplace=ribbon&trk=ha_awssm-9495_launch_reinvent2
 
 https://serverfault.com/questions/575487/use-iam-to-allow-user-to-edit-aws-ec2-security-groups (security group)
+
+https://aws.amazon.com/premiumsupport/knowledge-center/ec2-linux-track-changes/

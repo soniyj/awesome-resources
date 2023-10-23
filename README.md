@@ -158,8 +158,6 @@ https://www.xano.com/
 
 https://www.yworks.com/products/yed-live (Diagramming Everywhere, Anytime)
 
-https://learnyousomeerlang.com/starting-out-for-real
-
 https://redpanda.com/ (kafka alternative)
 
 https://heroicgameslauncher.com (Heroic is an Open Source GOG and Epic games launcher for Linux, Windows and macOS)

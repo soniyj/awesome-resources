@@ -1,3 +1,5 @@
+### Resources to Organise
+
 https://www.bogotobogo.com/DevOps/Docker/Docker-Compose-Nginx-Reverse-Proxy-Multiple-Containers.php
 
 https://itnext.io/run-multiple-isolated-web-applications-on-containers-with-a-single-ip-for-free-52d216f3e810?gi=40dcb435591a
@@ -15,10 +17,6 @@ https://opensearch.org/
 https://docs.fluentd.org/
 
 https://knative.dev/docs/serving/getting-started-knative-app/
-
-https://cloud.google.com/knative
-
-https://aws.amazon.com/fargate/?nc=sn&loc=1
 
 https://volta.sh/
 
@@ -64,8 +62,6 @@ https://stackoverflow.com/questions/8512200/simple-nix-tool-for-listening-to-htt
 
 https://sites.google.com/site/jimmyxu101/testing/use-tcpdump-to-monitor-http-traffic
 
-https://cloud.google.com/sdk/docs/downloads-docker
-
 https://community.traefik.io/t/502-bad-gateway-solved/2947
 
 https://stackoverflow.com/questions/65870613/dart-convert-from-base64-to-hex
@@ -106,9 +102,11 @@ https://www.storyblok.com/ (Forever free with 1 user)
 
 https://www.netlify.com/ ($0 Great for hosting personal projects, hobby sites, or experiments)
 
-https://strapi.io/ (leading open-source headless CMS. It’s 100% Javascript, fully customizable and developer-first)
+https://strapi.io/ (Design APIs fast, manage content easily, leading open-source headless CMS. It’s 100% Javascript, fully customizable and developer-first)
 
 https://www.sanity.io/ ($0 Includes 3 users)
+
+https://directus.io/ (Data-First Headless CMS & API)
 
 ### Docker ELK(B)
 
@@ -150,12 +148,6 @@ https://hub.docker.com/r/sebp/elk (to check 4)
 
 https://github.com/spujadas/elk-docker/tree/master/nginx-filebeat (to check 5)
 
-### Headless
-
-https://strapi.io/ (Design APIs fast, manage content easily)
-
-https://directus.io/ (Data-First Headless CMS & API)
-
 ### Lora
 
 https://base64.guru/converter/decode/hex
@@ -178,8 +170,6 @@ https://github.com/firmanJS/Dockerize-Codeigniter-With-docker-compose
 
 https://avenir.ro/codeigniter-4-using-docker-apache-mysql/
 
-https://aws.amazon.com/activate/
-
 https://www.youtube.com/watch?v=h6UC8e-IHRo
 
 https://www.youtube.com/watch?v=wR0fH6O9jD8
@@ -199,8 +189,6 @@ https://www.youtube.com/watch?v=aipoAphfAN8 (RTS)
 
 https://www.youtube.com/watch?v=QJpfLkEsoek
 
-https://aws.amazon.com/premiumsupport/knowledge-center/ec2-linux-track-changes/
-
 https://www.rethinkdb.cloud/2020/09/03/rethinkdb-chat-graphql.html
 
 https://ioscodesigning.com/generating-code-signing-files/#generate-a-provisioning-profile-manually
@@ -211,13 +199,7 @@ https://www.oracle.com/startup/cloud-for-startups.html
 
 https://www.openshift.com/products/pricing/
 
-https://aws.amazon.com/startups/
-
-https://aws.amazon.com/activate/benefits/
-
 https://developer.ibm.com/startups/
-
-https://support.google.com/a/answer/7576830
 
 https://github.com/namshi/docker-smtp/blob/master/docker-compose.yml
 
@@ -234,10 +216,6 @@ https://github.com/soberkoder/go-orders-graphql-api/blob/master/resolver.go
 https://dev.to/glyphack/introduction-to-graphql-server-with-golang-1npk#database
 
 https://github.com/Devzstudio/SQL-to-Graphql-Schema-Generator
-
-https://aws.amazon.com/chime/pricing/
-
-https://aws.amazon.com/codestar/
 
 https://scene-si.org/2018/03/12/handling-http-requests-with-go-chi/
 
