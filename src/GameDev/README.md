@@ -125,6 +125,8 @@ https://www.matthewtancik.com/nerf (Representing Scenes as Neural Radiance Field
 
 https://appradar.com/blog/mobile-game-engines-development-platforms
 
+https://github.com/The-Chinese-Room/Inkpot
+
 ### Game Design
 
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/
@@ -177,6 +179,8 @@ https://ctjs.rocks/ (2D game editor it makes learning programming fun and game d
 https://gdevelop.io/academy (no-code, open-source, free, and easy 2D/3D game-making app)
 
 https://www.stride3d.net/ (Free, open-source, cross-platform)
+
+https://unidaystudio.itch.io/cave-engine
 
 ### GUI
 
@@ -305,3 +309,15 @@ https://kevurugames.com/game-development/hyper-casual-game-development-services/
 [Zero Budget VIDEO GAME MARKETING // Marketing for Indie Game Developers](https://www.youtube.com/watch?v=fvsI4BHSTHw)
 
 [How to get money from a publisher (with just a DEMO)](https://www.youtube.com/watch?v=f754YKX7gDc)
+
+### Marketing
+
+https://www.bankmycell.com/blog/mobile-gaming-industry-revenue-statistics/#:~:text=Mobile%20Gaming%20Revenue%20Share%3A%20Out,in%20the%20world%20this%202023.
+
+https://www.precedenceresearch.com/mobile-gaming-market
+
+https://www.blog.udonis.co/mobile-marketing/mobile-games/mobile-gaming-statistics/
+
+https://kevurugames.com/blog/mobile-gaming-vs-pc-gaming-overview-and-prospects/
+
+https://www.go-globe.com/the-state-of-mobile-gaming-industry-statistics-and-trends/
