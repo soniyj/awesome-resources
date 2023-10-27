@@ -37,3 +37,5 @@ https://github.com/daledavies/jump (Jump is a self-hosted startpage and real-tim
 https://graphscope.io (unified distributed graph computing platform that provides a one-stop environment for performing diverse graph operations on a cluster)
 
 https://doris.apache.org (new-generation open-source real-time data warehouse based on MPP architecture, with easier use and higher performance for big data analytics)
+
+https://greensoftware.foundation/ (Green Software Foundation)

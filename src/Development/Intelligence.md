@@ -55,6 +55,10 @@ https://www.anthropic.com/product (A next-generation AI assistant for your tasks
 
 https://monica.im (All-in-one AI Assistant)
 
+https://learn.microsoft.com/en-us/semantic-kernel/overview/ (What is Semantic Kernel?)
+
+https://github.com/microsoft/semantic-kernel (Integrate cutting-edge LLM technology quickly and easily into your apps)
+
 ### Links
 
 1) www.pdfdrive.com è il più grande sito di download di libri PDF gratuiti. Rivendica oltre 225 milioni di titoli.
