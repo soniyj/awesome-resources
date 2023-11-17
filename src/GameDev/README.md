@@ -143,6 +143,8 @@ https://csfirst.withgoogle.com/c/cs-first/en/game-design/overview.html (Google C
 
 https://users.cs.northwestern.edu/~hunicke/MDA.pdf
 
+https://book.leveldesignbook.com/process/blockout/metrics
+
 ### Blender
 
 https://lesterbanks.com/2016/06/realistic-city-openstreetmap-blender/

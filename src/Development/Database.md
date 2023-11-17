@@ -185,6 +185,11 @@ https://greptime.com/product/db (Greptime is an open source, cloud-native time-s
 https://www.xtdb.com/index.html (bitemporal and dynamic relational database for SQL and Datalog)
 
 https://www.liquibase.com/ (Release software faster by bringing DevOps to the database with Liquibase) [!]
+
+https://weaviate.io/blog/what-is-a-vector-database
+
+https://milvus.io/docs/install_standalone-docker.md
+
 ### Tutorials
 
 https://www.w3schools.com/sql/sql_intro.asp

@@ -94,8 +94,6 @@ https://www.imgix.com/
 
 https://stackedit.io/ (In Browser Markdown Editor)
 
-http://knsv.github.io/mermaid/#/ (diagram and flowchart from text)
-
 https://www.youtube.com/watch?v=ATnpEOo3GJA (Mac on any PC)
 
 https://github.com/AlDanial/cloc (Code Line Counter)

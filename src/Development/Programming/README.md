@@ -10,6 +10,16 @@
 
 https://pypl.github.io/PYPL.html
 
+### Algorithms & Theory
+
+https://rosettacode.org/wiki/Maze_generation
+
+https://rosettacode.org/wiki/Maze_solving#
+
+https://en.wikipedia.org/wiki/List_of_graph_theory_topics
+
+https://rstudio-pubs-static.s3.amazonaws.com/707197_9126acd72ef94d0591a93f9350d08537.html (Maze Generation Algorithms (Part 1))
+
 ### Tools
 
 https://www.sonarqube.org/ (automatic code review tool to detect bugs, vulnerabilities and code smells in your code)

@@ -16,6 +16,8 @@ https://the-guild.dev/graphql/apollo-angular/docs/data/subscriptions (check for 
 
 https://github.com/hasura/graphql-engine (has other interesting links)
 
+https://medium.com/@mrthankyou/how-to-get-a-graphql-schema-28915025de0e
+
 ### API
 
 https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649
