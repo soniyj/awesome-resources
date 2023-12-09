@@ -183,3 +183,5 @@ https://github.com/opensolutions/ViMbAdmin (Virtual Mailbox Administration)
 https://backstage.io (An open platform for building developer portals)
 
 https://openmessaging.cloud (A cloud native, vendor-neutral open specification for distributed messaging)
+
+https://www.question2answer.org/ (popular open source Q&A platform for PHP/MySQL)

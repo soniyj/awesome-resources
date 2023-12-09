@@ -39,3 +39,5 @@ https://graphscope.io (unified distributed graph computing platform that provide
 https://doris.apache.org (new-generation open-source real-time data warehouse based on MPP architecture, with easier use and higher performance for big data analytics)
 
 https://greensoftware.foundation/ (Green Software Foundation)
+
+https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/ (Interesting)

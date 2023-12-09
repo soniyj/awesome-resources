@@ -59,6 +59,8 @@ https://learn.microsoft.com/en-us/semantic-kernel/overview/ (What is Semantic Ke
 
 https://github.com/microsoft/semantic-kernel (Integrate cutting-edge LLM technology quickly and easily into your apps)
 
+https://developers.generativeai.google/products/makersuite (Interesting)
+
 ### Links
 
 1) www.pdfdrive.com è il più grande sito di download di libri PDF gratuiti. Rivendica oltre 225 milioni di titoli.

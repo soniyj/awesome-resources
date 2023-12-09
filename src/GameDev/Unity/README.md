@@ -18,6 +18,14 @@ https://docs.unity3d.com/ScriptReference/Touch-phase.html
 
 https://docs.unity3d.com/Manual/editor-EditorWindows.html
 
+https://docs.unity.com/ads/en-us/manual/DeprecatedAPIClasses
+
+https://docs.unity.com/ads/en-us/manual/InitializingTheUnitySDK
+
+https://docs.unity.com/ugs/en-us/manual/overview/manual/managing-unity-projects#ConfiguringProjectsForUGS
+
+https://docs.unity3d.com/Manual/udp-implementing-iap.html
+
 ### Api
 
 https://docs.unity3d.com/ScriptReference/Material.SetTextureOffset.html
