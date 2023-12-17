@@ -25,3 +25,25 @@ https://bipicar.com/it/it (Abbonati ad un’auto in meno di 2 minuti. Assicurazi
 https://okmobility.com/it/abbonamento/ (Abbonati a un'auto, a una moto o a un furgone su base mensile)
 
 https://www.dootbox.it (Tutte le auto che vuoi, un solo abbonamento)
+
+### To Call/Check
+
+https://www.finrent.it/ [call them]
+
+https://www.rent4you.it/
+
+https://www.velsus.it/contatti/ (roma)
+
+https://www.stradasrl.it/ (roma?)
+
+https://www.carplanner.com/
+
+https://vaigo.it/ (roma) [call them]
+
+https://vendita.crmautomotive.net/principale/
+
+https://crmautomotive.net/
+
+https://www.romanoautomobili.it/
+
+https://bipicar.com/it/it

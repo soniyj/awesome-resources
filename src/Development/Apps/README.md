@@ -79,6 +79,8 @@ https://developer.apple.com/library/content/documentation/NetworkingInternet/Con
 
 https://developer.apple.com/support/apple-pay-sandbox/
 
+https://adapty.io/blog/how-to-test-ios-in-app-purchases/
+
 ### Android
 
 https://developer.android.com/google/play/billing/billing_subscriptions.html

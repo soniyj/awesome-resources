@@ -127,6 +127,8 @@ https://appradar.com/blog/mobile-game-engines-development-platforms
 
 https://github.com/The-Chinese-Room/Inkpot
 
+https://www.applovin.com/blog/migrating-from-unity-to-other-game-engines/
+
 ### Game Design
 
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/
@@ -144,6 +146,8 @@ https://csfirst.withgoogle.com/c/cs-first/en/game-design/overview.html (Google C
 https://users.cs.northwestern.edu/~hunicke/MDA.pdf
 
 https://book.leveldesignbook.com/process/blockout/metrics
+
+https://www.gwi.com/reports/the-gaming-playbook?utm_term=game%20designing&utm_campaign=CORP+-+GWI+-+GLOBAL+-+EN+-+Gaming+-+Industry+-+BMM+%232&utm_source=adwords&utm_medium=ppc&hsa_acc=9903771596&hsa_cam=12963194056&hsa_grp=127103900612&hsa_ad=533745590291&hsa_src=g&hsa_tgt=kwd-10212092&hsa_kw=game%20designing&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gbraid=0AAAAADKcxHbbxrdpFvEl_-uvqJKBdTPN8&gclid=EAIaIQobChMI1vrQq_3qgQMVoQWiAx3NawI3EAAYAiAAEgKz_vD_BwE
 
 ### Blender
 

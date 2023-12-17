@@ -76,6 +76,8 @@ https://itch.io/t/3062585/-introducing-out-distance-my-first-ever-hyper-casual-r
 
 https://medium.com/echo3d/how-to-port-your-game-from-unity-to-unreal-2818acc8b4f6
 
+https://medium.com/@tmaurodot/converting-unity-c-scripts-to-unreal-engine-c-a-comprehensive-guide-53d270077bb3
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
