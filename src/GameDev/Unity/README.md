@@ -80,6 +80,8 @@ https://blog.devgenius.io/making-the-inspector-look-better-175baf39ada0
 
 https://github.com/DapperDino
 
+https://forum.unity.com/threads/solved-google-advertising-id-permission.1363111/
+
 ##### AR/VR
 
 [Unity AR Tutorial: Augmented Reality Game Development with Vuforia](http://blog.theknightsofunity.com/unity-vuforia-guide/)
