@@ -84,6 +84,8 @@ https://github.com/DapperDino
 
 https://gamedevbeginner.com/how-to-use-debug-log-in-unity-without-affecting-performance/
 
+https://forum.unity.com/threads/solved-google-advertising-id-permission.1363111/
+
 ##### AR/VR
 
 [Unity AR Tutorial: Augmented Reality Game Development with Vuforia](http://blog.theknightsofunity.com/unity-vuforia-guide/)

@@ -22,6 +22,10 @@ https://github.com/topics/embedded-database
 
 https://dgraph.io/
 
+https://dgraph.io/blog/post/slash-intro-to-schema/
+
+https://dgraph.io/docs/graphql/quick-start/
+
 ### RethinkDB
 
 https://www.rethinkdb.com/
@@ -138,6 +142,14 @@ https://developers.eventstore.com/server/v20.10/installation.html#use-docker-com
 
 https://github.com/EventStore/EventStore/blob/master/docker-compose.yml
 
+### ArangoDB
+
+https://www.arangodb.com/community-server/foxx/
+
+https://docs.arangodb.com/3.11/arangograph/data-loader/example/
+
+https://arangodb.com/learn/development/using-smartgraphs-arangodb/
+
 ### Other DB to Check
 
 https://questdb.io (Fast SQL for time series QuestDB is the fastest open source time series database)
@@ -147,8 +159,6 @@ https://tdengine.com (High-Performance, Scalable Time‑Series Database with SQL
 https://arcadedb.com (The Next Generation Multi-Model Database Supporting Graphs, Key/Value, Documents and Time-Series)
 
 https://docs.keydb.dev
-
-https://www.arangodb.com/community-server/foxx/
 
 https://github.com/memgraph/memgraph (GraphDB with Free Tier)
 
