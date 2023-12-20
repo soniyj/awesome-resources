@@ -165,6 +165,8 @@ https://github.com/vvoovv/blosm/wiki/Documentation#installation
 
 https://hlorus.github.io/CAD_Sketcher/ (CAD Sketcher is a constraint-based sketcher addon for Blender)
 
+https://github.com/domlysz/BlenderGIS (interesting)
+
 ### Game Engines
 
 https://luxeengine.com/ (cross platform, rapid development game engine to make games for Mac, Linux, Windows, and Web)

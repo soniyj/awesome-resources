@@ -146,6 +146,12 @@ https://medium.com/@tmaurodot/converting-unity-c-scripts-to-unreal-engine-c-a-co
 
 [NEW Unreal Engine 5.2 Procedural Plugin Tutorial - How to Use It Very Easy!](https://www.youtube.com/watch?v=0YiDT08W_q8)
 
+[Save Days! Procedural Content Generation Framework (PCG) - Photoreal Landscape Tutorial](https://www.youtube.com/watch?v=s41GdoN2QGg)
+
+[Create Entire Cities Automatically With PCG Splines! Procedural Content Generation in Unreal Engine](https://www.youtube.com/watch?v=STqt92VF3KM)
+
+[Advanced World Building in Unreal Engine - Chris Murphy / Epic Games for WA Games Week 2023](https://www.youtube.com/watch?v=gJKGMFcg29c)
+
 ### Git
 
 [Complete Guide to Git and Unreal for Beginners - UE4 / UE5](https://www.youtube.com/watch?v=5J0CczTshKY)
