@@ -26,6 +26,8 @@ https://docs.unity.com/ugs/en-us/manual/overview/manual/managing-unity-projects#
 
 https://docs.unity3d.com/Manual/udp-implementing-iap.html
 
+https://docs.unity3d.com/Manual/UnityIAPGoogleConfiguration.html
+
 ### Api
 
 https://docs.unity3d.com/ScriptReference/Material.SetTextureOffset.html
@@ -79,6 +81,8 @@ https://blog.devgenius.io/making-the-inspector-look-better-175baf39ada0
 [How To Create An Item System - Part 1 - Item Data](https://www.youtube.com/watch?v=cb6rz64jZUo&list=PLS6sInD7ThM2W9qpLv8VcD3gOiGJcr0lw&index=1)
 
 https://github.com/DapperDino
+
+https://gamedevbeginner.com/how-to-use-debug-log-in-unity-without-affecting-performance/
 
 https://forum.unity.com/threads/solved-google-advertising-id-permission.1363111/
 

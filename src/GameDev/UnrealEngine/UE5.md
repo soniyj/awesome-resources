@@ -164,6 +164,8 @@ https://www.carsim.com/products/supporting/unreal/index.php
 
 https://github.com/G7DAO/web3.unreal (Unreal Engine plugin for integrating EVM compatible blockchains into games)
 
+https://metaldonut.gumroad.com/l/TPC?layout=profile (Texture Paint Champ)
+
 ### Projects
 
 https://github.com/jmgomez/NimForUE

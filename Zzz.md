@@ -239,6 +239,10 @@ https://www.santech.eu/g69-series
 
 https://nzxt.com/en-GB/collection/foundation-pc
 
+https://www.informatica2008.it/da-150-a-159-pollici/20769-16-macbook-pro-m1-512-gb-ssd-mk183ta-grigio-siderale-modello-2021-0194252546024.html
+
+https://www.informatica2008.it/da-150-a-159-pollici/20227-116-macbook-pro-m1-512-gb-ssd-silver-mk1e3ta-modello-2021-0194252547403.html
+
 ### Mobile Phones
 
 https://www.certideal.it/

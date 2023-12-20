@@ -100,6 +100,8 @@ https://github.com/AlDanial/cloc (Code Line Counter)
 
 https://www.imagemagick.org/
 
+https://www.popai.pro (Prompt AI similar to ChatGPT)
+
 *chat (to check)*
 
 https://mattermost.com/ (free?)
