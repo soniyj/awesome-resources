@@ -169,6 +169,8 @@ https://hlorus.github.io/CAD_Sketcher/ (CAD Sketcher is a constraint-based sketc
 
 https://github.com/domlysz/BlenderGIS (interesting)
 
+[Buildify - FREE Building Creator for Blender!](https://www.youtube.com/watch?v=gKZ074ISG_M) [x]
+
 ### Game Engines
 
 https://luxeengine.com/ (cross platform, rapid development game engine to make games for Mac, Linux, Windows, and Web)
