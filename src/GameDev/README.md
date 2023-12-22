@@ -171,6 +171,8 @@ https://github.com/domlysz/BlenderGIS (interesting)
 
 [Buildify - FREE Building Creator for Blender!](https://www.youtube.com/watch?v=gKZ074ISG_M) [x]
 
+[Building A City in Minutes Using Blender](https://www.youtube.com/watch?v=9bh9nlVQQj8) [x]
+
 ### Game Engines
 
 https://luxeengine.com/ (cross platform, rapid development game engine to make games for Mac, Linux, Windows, and Web)
