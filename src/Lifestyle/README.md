@@ -13,3 +13,9 @@ https://blog.giallozafferano.it/studentiaifornelli/zeppoline-di-alghe/
 https://ricette.giallozafferano.it/Pure-di-zucca.html
 
 https://ricette.giallozafferano.it/Pure-di-patate.html
+
+### Octopus
+
+https://www.cucchiaio.it/ricetta/ricetta-insalata-di-polpo-con-patate/
+
+https://www.cookaround.com/ricetta/Polpo-e-patate.html [x]
