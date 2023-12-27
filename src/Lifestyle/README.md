@@ -19,3 +19,5 @@ https://ricette.giallozafferano.it/Pure-di-patate.html
 https://www.cucchiaio.it/ricetta/ricetta-insalata-di-polpo-con-patate/
 
 https://www.cookaround.com/ricetta/Polpo-e-patate.html [x]
+
+https://ricette.giallozafferano.it/Paccheri-al-sugo-di-calamari.html [x]

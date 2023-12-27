@@ -78,6 +78,15 @@ https://medium.com/echo3d/how-to-port-your-game-from-unity-to-unreal-2818acc8b4f
 
 https://medium.com/@tmaurodot/converting-unity-c-scripts-to-unreal-engine-c-a-comprehensive-guide-53d270077bb3
 
+https://dev.epicgames.com/community/learning/tutorials/j4xJ/unreal-engine-introduction-to-procedural-generation-plugin-in-ue5-2 [!]
+
+https://dev.epicgames.com/community/learning/tutorials/9LJn/unreal-engine-5-ai-driven-cars [x]
+
+https://dev.epicgames.com/community/learning/tutorials/ryL5/unreal-engine-follow-a-spline-and-report-distance-along-it-using-an-actor-component
+
+https://aryanjha.medium.com/creating-a-self-driving-car-simulation-977bed8f49b4
+
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
@@ -152,6 +161,8 @@ https://medium.com/@tmaurodot/converting-unity-c-scripts-to-unreal-engine-c-a-co
 
 [Advanced World Building in Unreal Engine - Chris Murphy / Epic Games for WA Games Week 2023](https://www.youtube.com/watch?v=gJKGMFcg29c)
 
+[Create Entire Cities Automatically With PCG Splines! Procedural Content Generation in Unreal Engine](https://m.youtube.com/watch?v=STqt92VF3KM) [!]
+
 ### Git
 
 [Complete Guide to Git and Unreal for Beginners - UE4 / UE5](https://www.youtube.com/watch?v=5J0CczTshKY)
@@ -187,3 +198,8 @@ https://www.esri.com/arcgis-blog/products/unreal-engine/announcements/introducin
 https://cesium.com/learn/unreal/unreal-photorealistic-3d-tiles/
 
 https://80.lv/articles/citybld-procedural-city-creation-toolkit-for-unreal-engine-5/
+
+### Assets
+
+https://www.beffio.com/city-adventure-unreal-engine-documentation (on the Marketplace search city adventure)
+
