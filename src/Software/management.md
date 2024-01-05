@@ -36,7 +36,7 @@ https://bigpicture.one/blog/managing-complex-projects/
 
 https://community.atlassian.com/t5/App-Central/5-steps-to-getting-started-with-BigPicture/ba-p/1755665
 
-https://community.atlassian.com/t5/App-Central/Program-vs-Portfolio-vs-Project-in-BigPicture/ba-p/2013396
+[Program vs. Portfolio vs. Project in BigPicture](https://community.atlassian.com/t5/App-Central/Program-vs-Portfolio-vs-Project-in-BigPicture/ba-p/2013396)
 
 https://bigpicture.one/blog/portfolio-program-project/
 
