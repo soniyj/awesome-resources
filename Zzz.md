@@ -223,8 +223,6 @@ https://httpd.apache.org/docs/2.4/programs/ab.html
 
 https://meta.wikimedia.org/wiki/Squid_performance_tuning
 
-https://aerospike.com
-
 https://openvpn.net/faq/how-do-i-use-a-client-certificate-and-private-key-from-the-ios-keychain/
 
 https://www.windowscentral.com/how-tell-who-signed-your-pc

@@ -48,6 +48,8 @@ https://brightchamps.com/blog/how-to-make-car-racing-game-scratch/
 
 https://gameassetsfree.com
 
+https://www.diversion.dev/game-development (Modern Version Control Tailored For Game Development)
+
 * [Godot](./Godot/)
 * [Unity](./Unity/)
 * [Unreal Engine 4](./UnrealEngine/UE4.md)
@@ -199,6 +201,8 @@ https://unidaystudio.itch.io/cave-engine
 https://www.ultraengine.com/
 
 https://unigine.com/
+
+http://orx-project.org
 
 ### GUI
 

@@ -12,6 +12,18 @@ https://eu.udacity.com/
 
 https://www.codecademy.com/
 
+https://www.edx.org
+
+**HR**
+
+https://exercism.org (Free, Programming)
+
+https://www.codewars.com (HR Test)
+
+https://leetcode.com
+
+https://www.tutorialspoint.com/questions_and_answers.htm
+
 ### Google
 
 https://colab.research.google.com/notebooks/welcome.ipynb

@@ -34,6 +34,10 @@ https://woodpecker-ci.org (community fork of the Drone CI system)
 
 https://github.com/pipe-cd/pipecd (The One CD for All {applications, platforms, operations})
 
+https://dagger.io (paid)
+
+https://buildkite.com/home (free tier)
+
 ### Circle CI
 
 https://circleci.com/ (cloud, paid, free tier)

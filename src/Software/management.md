@@ -22,9 +22,23 @@
 
 [BigPicture for JIRA Training](https://www.youtube.com/watch?v=va6_nHZCJeU)
 
+[BigPicture Tutorial - Getting started with BigPicture and BigGantt](https://www.youtube.com/watch?v=X7hUQgOZPzI)
+
+[BigPicture Tutorial - How to use Gantt as a roadmapping tool?](https://www.youtube.com/watch?v=oTeDDF1iZXc)
+
+[Time Tracking in Jira](https://www.youtube.com/watch?v=P_O9tKLQUTw)
+
+[How to Plan & Lead Incredible Projects using BigPicture?](https://www.youtube.com/watch?v=s-fOfdVKF5Y)
+
 https://bigpicture.one/blog/jira-managing-cross-project-dependencies/
 
 https://bigpicture.one/blog/managing-complex-projects/
+
+https://community.atlassian.com/t5/App-Central/5-steps-to-getting-started-with-BigPicture/ba-p/1755665
+
+https://community.atlassian.com/t5/App-Central/Program-vs-Portfolio-vs-Project-in-BigPicture/ba-p/2013396
+
+https://bigpicture.one/blog/portfolio-program-project/
 
 ### ECM & BPM
 

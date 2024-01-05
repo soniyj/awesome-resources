@@ -21,3 +21,11 @@ https://www.cucchiaio.it/ricetta/ricetta-insalata-di-polpo-con-patate/
 https://www.cookaround.com/ricetta/Polpo-e-patate.html [x]
 
 https://ricette.giallozafferano.it/Paccheri-al-sugo-di-calamari.html [x]
+
+### Zeppole Pasta Cresciuta
+
+https://www.cookist.it/zeppole-di-pasta-cresciuta/
+
+https://www.misya.info/ricetta/zeppole-di-pasta-cresciuta.htm
+
+[Zeppoline fritte di pasta cresciuta - pasta cresciuta](https://m.youtube.com/watch?v=7etc4n2zP3c)

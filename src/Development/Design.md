@@ -16,6 +16,12 @@ https://www.influxdata.com/blog/getting-started-mermaidjs-diagramming-charting/
 
 https://www.freecodecamp.org/news/diagrams-as-code-with-mermaid-github-and-vs-code/
 
+https://drawio-app.com/blog/creating-interactive-big-picture-diagrams-with-draw-io/
+
 ### Design
 
 https://www.charliecleveland.com/miro-the-one-tool-to-rule-them-all/
+
+https://flathub.org/apps/com.icons8.Lunacy (Lunacy) [x]
+
+https://www.figma.com/community/plugin/1159123024924461424/html-to-design

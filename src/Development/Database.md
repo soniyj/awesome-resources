@@ -202,6 +202,10 @@ https://weaviate.io/blog/what-is-a-vector-database
 
 https://milvus.io/docs/install_standalone-docker.md
 
+https://aerospike.com
+
+https://typedb.com
+
 ### Tutorials
 
 https://www.w3schools.com/sql/sql_intro.asp
