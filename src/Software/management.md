@@ -40,6 +40,10 @@ https://community.atlassian.com/t5/App-Central/5-steps-to-getting-started-with-B
 
 https://bigpicture.one/blog/portfolio-program-project/
 
+https://bigpicture.one/blog/basic-tasks-bigpicture-jira-issues/
+
+https://community.atlassian.com/t5/App-Central/Agile-schedule-in-BigPicture-How-to-set-it-up/ba-p/1979008
+
 ### ECM & BPM
 
 https://www.alfresco.com/ (Community and Enterprise Licenses)

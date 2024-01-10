@@ -66,6 +66,8 @@ https://github.com/angular/angular/blob/main/.devcontainer/README.md [x]
 
 https://github.com/angular/angular/tree/main/.devcontainer [x]
 
+https://blog.nrwl.io/easy-documentation-with-docusaurus-and-nx-4b932d8ad0e4
+
 ### Authentication
 
 https://medium.com/@monkov/angular-using-httpinterceptor-for-token-refreshing-3f04ea2ccb81

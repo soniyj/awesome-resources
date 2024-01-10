@@ -86,6 +86,9 @@ https://dev.epicgames.com/community/learning/tutorials/ryL5/unreal-engine-follow
 
 https://aryanjha.medium.com/creating-a-self-driving-car-simulation-977bed8f49b4
 
+https://dev.epicgames.com/community/learning/tutorials/RBDB/unreal-engine-pcg-splines
+
+https://dev.epicgames.com/community/learning/tutorials/Obk3/create-entire-cities-automatically-with-pcg-splines-procedural-content-generation-in-unreal-engine
 
 ### Video Tutorials
 

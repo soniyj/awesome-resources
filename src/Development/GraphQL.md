@@ -115,3 +115,19 @@ https://hygraph.com/
 https://graphqleditor.com/pricing/
 
 https://the-guild.dev/graphql/codegen
+
+https://www.usebruno.com/downloads
+
+https://github.com/usebruno/bruno/discussions/269
+
+https://hoppscotch.io/
+
+https://github.com/flawiddsouza/Restfox
+
+https://httpie.io/
+
+https://www.graphqltoolbox.com/listings/firecamp-app
+
+https://apps.microsoft.com/detail/9P9Q7MRPRJD4?hl=it-it&gl=IT
+
+https://firecamp.io/blog/5-opensource-insomnia-alternatives
