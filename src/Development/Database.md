@@ -26,6 +26,14 @@ https://dgraph.io/blog/post/slash-intro-to-schema/
 
 https://dgraph.io/docs/graphql/quick-start/
 
+https://dgraph.io/docs/deploy/installation/single-host-setup/
+
+wget https://github.com/dgraph-io/dgraph/raw/main/contrib/config/docker/docker-compose.yml
+
+https://dgraph.io/docs/deploy/installation/kubernetes/
+
+https://discuss.dgraph.io/t/how-to-use-ratel-with-docker-in-version-21-03-1/15603/4
+
 ### RethinkDB
 
 https://www.rethinkdb.com/

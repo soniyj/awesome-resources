@@ -1,7 +1,5 @@
 # Cloud Resources
 
-https://contabo.com/en/
-
 https://www.hetzner.com/cloud
 
 https://github.com/filegator/filegator
@@ -19,3 +17,9 @@ https://www.smarthomebeginner.com/traefik-docker-nextcloud/
 ### Email
 
 https://wiki.opensourceisawesome.com/books/email-with-mail-in-a-box/page/installation-of-mail-in-a-box
+
+### Contabo
+
+https://contabo.com/en/
+
+https://docs.contabo.com/docs/products/Cloud-VPS-and-VDS/HowTo/hostname/

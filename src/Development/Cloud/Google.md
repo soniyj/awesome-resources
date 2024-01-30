@@ -34,6 +34,31 @@ https://cloud.google.com/knative
 
 [How to transfer email data when you delete a user](https://knowledge.workspace.google.com/kb/how-to-transfer-email-data-when-you-delete-a-user-000004308)
 
+[Set up GCPW and Windows device management together](https://support.google.com/a/answer/10035007)
+
+[Overview: Enhanced desktop security for Windows](https://support.google.com/a/answer/9541083#gcpw_help&zippy=%2Cset-up-both-recommended)
+
+[Install Google Credential Provider for Windows](https://support.google.com/a/answer/9250996)
+
+[How to configure Google credential provider for windows (GCPW)](https://www.youtube.com/watch?v=5EsBx3pOGmw) [x]
+
+[Office 365 cloud application](https://support.google.com/a/answer/6363817?hl=en#zippy=)
+
+[Create custom attributes for user profiles](https://support.google.com/a/answer/6208725?hl=en#zippy=%2Cedit-or-delete-custom-attributes-and-categories)
+
+[G-Suite (Google Workspace) authentication into Office 365 (SAML)](https://www.youtube.com/watch?v=C46djGWiaDA) [x]
+
+https://github.com/IAmFrench/GSuite-as-identity-Provider-IdP-for-Office-365-or-Azure-Active-Directory
+
+https://support.okta.com/help/s/article/SSO-from-Okta-to-office365-shows-error-AADSTS51004?language=en_US
+
+**Microsoft Side**
+
+https://learn.microsoft.com/en-us/education/windows/configure-aad-google-trust
+
+https://learn.microsoft.com/it-it/exchange/troubleshoot/email-alias/proxy-address-being-used#resolution
+
+
 ### Google Docs
 
 [Create and edit a timeline view](https://support.google.com/docs/answer/12935277?hl=en-GB&visit_id=638327096262923111-3982489590&p=timeline_view&rd=1)

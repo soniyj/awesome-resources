@@ -90,6 +90,8 @@ https://dev.epicgames.com/community/learning/tutorials/RBDB/unreal-engine-pcg-sp
 
 https://dev.epicgames.com/community/learning/tutorials/Obk3/create-entire-cities-automatically-with-pcg-splines-procedural-content-generation-in-unreal-engine
 
+https://unrealcpp.com/create-static-mesh/
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
@@ -165,6 +167,10 @@ https://dev.epicgames.com/community/learning/tutorials/Obk3/create-entire-cities
 [Advanced World Building in Unreal Engine - Chris Murphy / Epic Games for WA Games Week 2023](https://www.youtube.com/watch?v=gJKGMFcg29c)
 
 [Create Entire Cities Automatically With PCG Splines! Procedural Content Generation in Unreal Engine](https://m.youtube.com/watch?v=STqt92VF3KM) [!]
+
+[Unreal Engine 5 - AI Driven Cars](https://www.youtube.com/watch?v=77cylcgqYbM) [x]
+
+[How to Convert Skeletal Mesh into Static Mesh in Unreal Engine - UE Beginner Tutorial](https://www.youtube.com/watch?v=xmm8RMJOJ3Y) [!]
 
 ### Git
 

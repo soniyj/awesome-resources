@@ -20,6 +20,10 @@ https://www.racedepartment.com/threads/car-racing-sims-in-open-source-godot-engi
 
 https://kidscancode.org/godot_recipes/3.x/3d/kinematic_car/car_base/index.html
 
+https://gamedevacademy.org/godot-3d-tutorial/
+
+https://www.gdquest.com/tutorial/godot/learning-paths/getting-started-in-2021/chapter/4.two-vital-learning-tools/
+
 ### Video Tutorials
 
 https://www.youtube.com/watch?v=AHK5aQ7xvH8

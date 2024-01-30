@@ -31,3 +31,9 @@ https://airflow.apache.org
 ### Commdands
 
 https://askubuntu.com/questions/463325/what-does-tars-p-preserve-permissions-flag-actually-preserve
+
+### SSH & Sudo
+
+https://superuser.com/questions/492405/sudo-without-password-when-logged-in-with-ssh-private-keys
+
+https://wiki.crowncloud.net/?How_to_Change_Hostname_on_Ubuntu_22_04

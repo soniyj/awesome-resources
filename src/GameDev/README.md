@@ -343,3 +343,11 @@ https://www.blog.udonis.co/mobile-marketing/mobile-games/mobile-gaming-statistic
 https://kevurugames.com/blog/mobile-gaming-vs-pc-gaming-overview-and-prospects/
 
 https://www.go-globe.com/the-state-of-mobile-gaming-industry-statistics-and-trends/
+
+https://6sense.com/
+
+### App-Monetization & Retention
+
+https://onesignal.com/blog/4-most-effective-player-retention-hacks-for-mobile-games/
+
+https://www.data.ai/en/insights/app-monetization/increase-user-retention-for-games/?consentUpdate=updated
