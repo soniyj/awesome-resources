@@ -81,6 +81,10 @@ https://developer.apple.com/support/apple-pay-sandbox/
 
 https://adapty.io/blog/how-to-test-ios-in-app-purchases/
 
+https://developer.apple.com/documentation/appstoreserverapi
+
+https://developer.apple.com/documentation/storekit/in-app_purchase/original_api_for_in-app_purchase/fetching_product_information_from_the_app_store
+
 ### Android
 
 https://developer.android.com/google/play/billing/billing_subscriptions.html

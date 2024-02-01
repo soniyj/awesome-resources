@@ -24,6 +24,18 @@ https://gamedevacademy.org/godot-3d-tutorial/
 
 https://www.gdquest.com/tutorial/godot/learning-paths/getting-started-in-2021/chapter/4.two-vital-learning-tools/
 
+**Mobile**
+
+https://github.com/Poing-Studios/godot-admob-plugin
+
+https://github.com/poing-studios/godot-admob-ios
+
+https://godotengine.org/asset-library/asset/1108
+
+https://github.com/Shin-NiL/Godot-Android-Admob-Plugin
+
+https://github.com/Shin-NiL/Godot-Android-Share-Plugin
+
 ### Video Tutorials
 
 https://www.youtube.com/watch?v=AHK5aQ7xvH8
