@@ -26,6 +26,10 @@ https://www.gdquest.com/tutorial/godot/learning-paths/getting-started-in-2021/ch
 
 **Mobile**
 
+https://docs.godotengine.org/en/stable/tutorials/platform/ios/plugins_for_ios.html
+
+
+
 https://github.com/Poing-Studios/godot-admob-plugin
 
 https://github.com/poing-studios/godot-admob-ios
@@ -35,6 +39,14 @@ https://godotengine.org/asset-library/asset/1108
 https://github.com/Shin-NiL/Godot-Android-Admob-Plugin
 
 https://github.com/Shin-NiL/Godot-Android-Share-Plugin
+
+**EOS**
+
+https://www.youtube.com/watch?v=ENyvF4yVjKg
+
+https://github.com/3ddelano/epic-online-services-godot
+
+https://github.com/godotengine/godot-ios-plugins
 
 ### Video Tutorials
 
