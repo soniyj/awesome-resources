@@ -38,6 +38,10 @@ https://docs.microsoft.com/en-us/visualstudio/docker/tutorials/docker-tutorial {
 
 https://www.docker.com/blog/docker-wasm-technical-preview/ (WASM)
 
+https://docs.docker.com/build/building/multi-platform/
+
+https://www.reddit.com/r/docker/comments/uencaa/create_docker_image_on_m1_mac_for_x86/?rdt=53228
+
 ### Container Runtime
 
 https://mobyproject.org/

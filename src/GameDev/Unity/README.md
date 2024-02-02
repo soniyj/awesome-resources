@@ -114,6 +114,10 @@ https://www.plasticscm.com/unity-plugin.html
 
 https://www.kartridge.com/developers/ (move to a more generic)
 
+https://github.com/rlabrecque/Steamworks.NET
+
+https://steamworks.github.io/installation/#unity-instructions
+
 ### Game Production and Distribution
 
 [Game Production Pipeline Infographic](http://blog.theknightsofunity.com/game-production-pipeline/)

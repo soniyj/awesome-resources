@@ -30,6 +30,8 @@ https://medium.com/@containeroo/traefik-2-0-docker-a-simple-step-by-step-guide-e
 
 https://stackoverflow.com/questions/47033840/multiple-container-with-traefik-reverse-proxy-solution
 
+https://www.digitalocean.com/community/tutorials/how-to-use-traefik-v2-as-a-reverse-proxy-for-docker-containers-on-ubuntu-20-04
+
 *
 
 https://www.supertechcrew.com/traefik-cloud-native-router-docker-compose/
@@ -61,3 +63,5 @@ https://github.com/asatrya/keycloak-traefik-tutorial
 https://github.com/BlackBeltTechnology/traefik-keycloak-sso-reverse-proxy
 
 https://doc.traefik.io/traefik/middlewares/http/forwardauth/
+
+https://doc.traefik.io/traefik/user-guides/docker-compose/acme-tls/
