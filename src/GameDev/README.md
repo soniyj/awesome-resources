@@ -318,6 +318,8 @@ https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdcsummer2020/presentations/Stea
 
 https://xsolla.com/blog/self-publish-on-steam-the-ultimate-guide
 
+https://partner.steamgames.com/doc/api
+
 ### Hyper-Casual Game Development
 
 https://azurgames.com/blog/hyper-casual-game-development-then-and-now-did-three-years-make-a-difference/
@@ -351,3 +353,13 @@ https://6sense.com/
 https://onesignal.com/blog/4-most-effective-player-retention-hacks-for-mobile-games/
 
 https://www.data.ai/en/insights/app-monetization/increase-user-retention-for-games/?consentUpdate=updated
+
+### Epic Online Services (EOS)
+
+https://dev.epicgames.com/docs/epic-online-services/eos-get-started/services-quick-start
+
+https://dev.epicgames.com/docs/epic-online-services/eos-get-started/get-started-resources
+
+https://dev.epicgames.com/docs/epic-account-services/getting-started
+
+https://dev.epicgames.com/docs/web-api-ref

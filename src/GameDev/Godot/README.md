@@ -42,7 +42,7 @@ https://github.com/Shin-NiL/Godot-Android-Share-Plugin
 
 https://www.youtube.com/watch?v=ENyvF4yVjKg
 
-https://github.com/3ddelano/epic-online-services-godot
+https://github.com/3ddelano/epic-online-services-godot [!]
 
 https://github.com/godotengine/godot-ios-plugins
 
@@ -57,6 +57,8 @@ https://www.youtube.com/c/Gdquest/videos?app=desktop&cbrd=1&cbrd=1&cbrd=1&ucbcb=
 https://github.com/blackears/cyclopsLevelBuilder
 
 https://github.com/outobugi/Terrain3D (An editable terrain system for Godot 4, written in C++)
+
+https://godotsteam.com/
 
 ### Unity to Godot
 
