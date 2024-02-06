@@ -42,6 +42,8 @@ https://docs.docker.com/build/building/multi-platform/
 
 https://www.reddit.com/r/docker/comments/uencaa/create_docker_image_on_m1_mac_for_x86/?rdt=53228
 
+https://www.baeldung.com/ops/docker-list-containers [!]
+
 ### Container Runtime
 
 https://mobyproject.org/
