@@ -86,6 +86,12 @@ https://gamedevbeginner.com/how-to-use-debug-log-in-unity-without-affecting-perf
 
 https://forum.unity.com/threads/solved-google-advertising-id-permission.1363111/
 
+https://gamedevbeginner.com/input-in-unity-made-easy-complete-guide-to-the-new-system/#input_action_assets
+
+https://stackoverflow.com/questions/63810439/unity-touch-events-in-the-editor-new-input-system
+
+https://stackoverflow.com/questions/65681661/how-to-access-the-click-desktop-tap-mobile-position-using-the-new-input-sy
+
 ##### AR/VR
 
 [Unity AR Tutorial: Augmented Reality Game Development with Vuforia](http://blog.theknightsofunity.com/unity-vuforia-guide/)
