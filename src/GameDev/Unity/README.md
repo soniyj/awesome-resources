@@ -92,6 +92,10 @@ https://stackoverflow.com/questions/63810439/unity-touch-events-in-the-editor-ne
 
 https://stackoverflow.com/questions/65681661/how-to-access-the-click-desktop-tap-mobile-position-using-the-new-input-sy
 
+https://jeannoelseneque.medium.com/racing-car-game-day-6-new-unity-input-system-75ff3a4d5452
+
+https://jeannoelseneque.medium.com/racing-car-game-day-7-mobile-development-65ef6963d600 [x]
+
 ##### AR/VR
 
 [Unity AR Tutorial: Augmented Reality Game Development with Vuforia](http://blog.theknightsofunity.com/unity-vuforia-guide/)
