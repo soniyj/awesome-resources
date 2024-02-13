@@ -41,3 +41,5 @@ https://doris.apache.org (new-generation open-source real-time data warehouse ba
 https://greensoftware.foundation/ (Green Software Foundation)
 
 https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/ (Interesting)
+
+https://github.com/stereolabs/zed-sdk (Zed Cameras)

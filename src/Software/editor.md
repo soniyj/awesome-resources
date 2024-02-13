@@ -16,6 +16,10 @@ https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
 
 https://marketplace.visualstudio.com/items?itemName=KeyRunner.keyrunner
 
+https://github.com/gioboa/jira-plugin
+
+https://dev.to/sourcegraph/installing-and-customizing-visual-studio-code-vs-code-setup-from-scratch-3c62
+
 **Dev Containers**
 
 https://github.com/axel-op/vscode-devcontainer-cpp-conan
