@@ -86,6 +86,14 @@ https://gamedevbeginner.com/how-to-use-debug-log-in-unity-without-affecting-perf
 
 https://forum.unity.com/threads/solved-google-advertising-id-permission.1363111/
 
+**Input System**
+
+https://docs.unity3d.com/Packages/com.unity.inputsystem@1.7/manual/OnScreen.html
+
+https://docs.unity3d.com/Packages/com.unity.inputsystem@1.7/manual/Actions.html
+
+https://docs.unity3d.com/Packages/com.unity.inputsystem@1.7/manual/Touch.html
+
 https://gamedevbeginner.com/input-in-unity-made-easy-complete-guide-to-the-new-system/#input_action_assets
 
 https://stackoverflow.com/questions/63810439/unity-touch-events-in-the-editor-new-input-system
@@ -95,6 +103,10 @@ https://stackoverflow.com/questions/65681661/how-to-access-the-click-desktop-tap
 https://jeannoelseneque.medium.com/racing-car-game-day-6-new-unity-input-system-75ff3a4d5452 [!]
 
 https://jeannoelseneque.medium.com/racing-car-game-day-7-mobile-development-65ef6963d600 [x]
+
+https://discussions.unity.com/t/is-there-a-way-to-create-a-floating-joystick-using-the-on-screen-stick-component/251387/2
+
+https://forum.unity.com/threads/customize-on-screen-stick.1007105/
 
 ##### AR/VR
 
