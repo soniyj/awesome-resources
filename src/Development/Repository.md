@@ -45,3 +45,9 @@ https://confluence.atlassian.com/get-started-with-bitbucket/check-out-a-branch-8
 https://bitbucket.org/blog/atlassian-for-vscode-bitbucketcloud-and-jirasoftware-extension-for-visual-studio-code?utm_source=newsletter-email&utm_medium=email&utm_campaign=April_BB_Digest_EML-4575&jobid=104069174&subid=1397358194
 
 https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode
+
+https://support.atlassian.com/bitbucket-cloud/docs/use-oauth-on-bitbucket-cloud/
+
+https://support.atlassian.com/bitbucket-cloud/docs/using-app-passwords/
+
+https://developer.atlassian.com/cloud/bitbucket/rest/api-group-workspaces/#api-workspaces-get

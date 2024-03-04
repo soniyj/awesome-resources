@@ -84,6 +84,18 @@ https://cwiki.apache.org/confluence/display/KAFKA/Clients
 
 https://docs.confluent.io/platform/current/clients/index.html
 
+### Portainer
+
+https://docs.portainer.io/advanced/access-control
+
+https://docs.portainer.io/advanced/docker-roles-and-permissions
+
+https://app.swaggerhub.com/search?owner=portainer
+
+https://app.swaggerhub.com/apis-docs/portainer/portainer-ee/2.19.4#/
+
+http POST <portainer url>/api/auth Username="<admin username>" Password="<adminpassword>"
+
 ### Rancher
 
 https://github.com/rancher/rancher

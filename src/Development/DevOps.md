@@ -98,6 +98,8 @@ https://grafana.com/oss/loki/ (multi-tenant log aggregation system)
 
 https://thesmarthomejourney.com/2021/08/23/loki-grafana-log-aggregation/
 
+https://grafana.com/docs/loki/latest/setup/install/docker/
+
 https://grafana.com/docs/loki/latest/configuration/examples/
 
 ### Terraform

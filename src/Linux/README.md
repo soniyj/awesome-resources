@@ -39,3 +39,14 @@ https://askubuntu.com/questions/463325/what-does-tars-p-preserve-permissions-fla
 https://superuser.com/questions/492405/sudo-without-password-when-logged-in-with-ssh-private-keys
 
 https://wiki.crowncloud.net/?How_to_Change_Hostname_on_Ubuntu_22_04
+
+https://askubuntu.com/questions/435615/disable-password-authentication-in-ssh
+
+https://owlhowto.com/how-to-disable-password-on-ssh/
+
+
+### Malware
+
+https://askubuntu.com/questions/259739/kswapd0-is-taking-a-lot-of-cpu
+
+https://askubuntu.com/questions/1224927/cpu-100-with-kswapd0-process-although-no-swap-is-needed
