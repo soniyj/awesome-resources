@@ -6,7 +6,7 @@ https://caddyserver.com (reverse proxy)
 
 https://camel.apache.org
 
-### API & Microservices
+### API & Microservices & Gateway
 
 https://openapi-generator.tech/
 
@@ -24,9 +24,23 @@ https://dapr.io (APIs for building portable and reliable microservices)
 
 https://github.com/microservices-patterns/ftgo-application
 
+**API Gateway**
+
+https://marutitech.com/api-gateway-in-microservices-architecture/
+
+https://imesh.ai/blog/introduction-to-api-gateway-in-microservices-architecture/
+
 [Simple API Gateway with NodeJS and ExpressJs](https://github.com/OrionStark/orion-gateway)
 
 https://medium.com/@robbybellamy6/build-your-own-api-gateway-from-scratch-e799549612ee
+
+https://www.krakend.io/
+
+https://www.krakend.io/docs/enterprise/developer/api-docs/
+
+https://tyk.io/
+
+https://github.com/TykTechnologies/tyk?tab=readme-ov-file
 
 ### CDN
 

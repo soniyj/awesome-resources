@@ -133,6 +133,10 @@ https://www.applovin.com/blog/migrating-from-unity-to-other-game-engines/
 
 https://www.computerenhance.com/p/game-development-post-unity
 
+https://codeincomplete.com/articles/javascript-racer/
+
+https://codeincomplete.com/articles/javascript-racer-v1-straight/
+
 ### Game Design
 
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/
