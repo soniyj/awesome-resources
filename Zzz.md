@@ -20,6 +20,8 @@ https://knative.dev/docs/serving/getting-started-knative-app/
 
 https://volta.sh/
 
+https://medium.com/@techsuneel99/convert-large-excel-files-to-json-without-using-too-much-memory-f4ac6244440e
+
 ### Video to check
 
 https://openvidu.io/docs/home/
@@ -226,6 +228,8 @@ https://meta.wikimedia.org/wiki/Squid_performance_tuning
 https://openvpn.net/faq/how-do-i-use-a-client-certificate-and-private-key-from-the-ios-keychain/
 
 https://www.windowscentral.com/how-tell-who-signed-your-pc
+
+https://serverfault.com/questions/162429/how-do-i-add-access-control-allow-origin-in-nginx
 
 ### Laptop
 

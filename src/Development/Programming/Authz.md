@@ -22,6 +22,12 @@ https://authzed.com/products/spicedb (Open source, Fine Grained Authorization (F
 
 https://www.permit.io/blog/top-12-open-source-auth-tools
 
+https://docs.cedarpolicy.com/ (language for writing authorization policies)
+
+https://github.com/casbin/awesome-auth [!]
+
+https://github.com/ory/hydra (OpenID Connect and OAuth Provider)
+
 ### Keycloak
 
 https://www.plexx.digital/keycloak-realm-export-import/

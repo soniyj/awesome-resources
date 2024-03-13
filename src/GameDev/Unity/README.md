@@ -108,6 +108,10 @@ https://discussions.unity.com/t/is-there-a-way-to-create-a-floating-joystick-usi
 
 https://forum.unity.com/threads/customize-on-screen-stick.1007105/
 
+https://forum.unity.com/threads/how-to-get-binding-that-triggered-the-inputaction-callbackcontext.1410348/
+
+https://docs.unity3d.com/Packages/com.unity.inputsystem@1.0/manual/ActionBindings.html#showing-current-bindings
+
 ##### AR/VR
 
 [Unity AR Tutorial: Augmented Reality Game Development with Vuforia](http://blog.theknightsofunity.com/unity-vuforia-guide/)

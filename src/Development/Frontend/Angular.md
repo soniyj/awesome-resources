@@ -68,6 +68,10 @@ https://github.com/angular/angular/tree/main/.devcontainer [x]
 
 https://blog.nrwl.io/easy-documentation-with-docusaurus-and-nx-4b932d8ad0e4
 
+https://github.com/mgechev/ngrev (Tool for reverse engineering of Angular applications)
+
+https://blog.mgechev.com/2021/01/24/design-pattens-in-open-source-projects-part-ii/
+
 ### Authentication
 
 https://medium.com/@monkov/angular-using-httpinterceptor-for-token-refreshing-3f04ea2ccb81
