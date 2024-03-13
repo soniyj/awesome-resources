@@ -85,6 +85,10 @@ https://developer.apple.com/documentation/appstoreserverapi
 
 https://developer.apple.com/documentation/storekit/in-app_purchase/original_api_for_in-app_purchase/fetching_product_information_from_the_app_store
 
+https://www.miradore.com/knowledge/ios/adding-ios-devices-to-apple-business-manager-with-apple-configurator-2/
+
+[Manually add devices into Apple Business Manager using the Apple Configurator App](https://www.youtube.com/watch?v=G-rvHUY4iA0)
+
 ### Android
 
 https://developer.android.com/google/play/billing/billing_subscriptions.html
