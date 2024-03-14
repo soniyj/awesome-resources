@@ -16,9 +16,19 @@ https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
 
 https://marketplace.visualstudio.com/items?itemName=KeyRunner.keyrunner
 
+https://dev.to/sourcegraph/installing-and-customizing-visual-studio-code-vs-code-setup-from-scratch-3c62
+
+**Jira**
+
 https://github.com/gioboa/jira-plugin
 
-https://dev.to/sourcegraph/installing-and-customizing-visual-studio-code-vs-code-setup-from-scratch-3c62
+https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode
+
+https://support.atlassian.com/bitbucket-cloud/docs/get-started-with-vs-code/
+
+https://support.atlassian.com/bitbucket-cloud/docs/use-the-atlassian-for-vs-code-extension/
+
+https://support.atlassian.com/bitbucket-cloud/docs/jira-issues-in-vs-code/
 
 **Dev Containers**
 
