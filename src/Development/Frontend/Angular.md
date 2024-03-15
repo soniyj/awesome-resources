@@ -210,6 +210,12 @@ https://primeng.org/
 
 https://demos.creative-tim.com/notus-angular/
 
+https://dashboardpack.com/theme-details/architectui-angular-7-dashboard-free/
+
+https://adminlte.io/blog/angular-dashboards/
+
+https://coreui.io/product/free-angular-admin-template/
+
 ### Proxy
 
 https://github.com/leonpahole/simple-frontend-angular/tree/master/nginx

@@ -61,6 +61,8 @@ https://github.com/microsoft/semantic-kernel (Integrate cutting-edge LLM technol
 
 https://developers.generativeai.google/products/makersuite (Interesting)
 
+https://codeium.com/ (IDE Integration)
+
 ### Links
 
 1) www.pdfdrive.com è il più grande sito di download di libri PDF gratuiti. Rivendica oltre 225 milioni di titoli.

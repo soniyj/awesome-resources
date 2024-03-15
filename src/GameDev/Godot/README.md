@@ -38,6 +38,20 @@ https://github.com/Shin-NiL/Godot-Android-Admob-Plugin
 
 https://github.com/Shin-NiL/Godot-Android-Share-Plugin
 
+### Video Tutorials
+
+https://www.youtube.com/watch?v=AHK5aQ7xvH8
+
+https://www.youtube.com/c/Gdquest/videos?app=desktop&cbrd=1&cbrd=1&cbrd=1&ucbcb=1
+
+[City Builder con Godot / 3D Game Dev](https://m.youtube.com/watch?v=uS-CG49G2To)
+
+### Asset
+
+https://godotengine.org/asset-library/asset/2174
+
+https://godotengine.org/asset-library/asset/2123
+
 **EOS**
 
 https://www.youtube.com/watch?v=ENyvF4yVjKg
@@ -46,12 +60,6 @@ https://github.com/3ddelano/epic-online-services-godot [!]
 
 https://github.com/godotengine/godot-ios-plugins
 
-### Video Tutorials
-
-https://www.youtube.com/watch?v=AHK5aQ7xvH8
-
-https://www.youtube.com/c/Gdquest/videos?app=desktop&cbrd=1&cbrd=1&cbrd=1&ucbcb=1
-
 ### Tools
 
 https://github.com/blackears/cyclopsLevelBuilder
@@ -59,6 +67,10 @@ https://github.com/blackears/cyclopsLevelBuilder
 https://github.com/outobugi/Terrain3D (An editable terrain system for Godot 4, written in C++)
 
 https://godotsteam.com/
+
+https://github.com/gdquest-demos/godot-procedural-generation
+
+https://github.com/topics/city-builder?l=gdscript
 
 ### Unity to Godot
 

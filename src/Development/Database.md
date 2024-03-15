@@ -70,9 +70,7 @@ https://thelastpickle.com/blog/2018/01/23/docker-meet-cassandra.html
 
 https://github.com/thelastpickle/docker-cassandra-bootstrap
 
-### Firebase
-
-**Firestore**
+### Firebase/Firestore
 
 https://github.com/codediodeio/firestore-migrator
 
@@ -109,6 +107,8 @@ https://docs.influxdata.com/influxdb/v2.0/write-data/best-practices/schema-desig
 https://hub.docker.com/_/telegraf
 
 https://www.influxdata.com/blog/running-influxdb-2-0-and-telegraf-using-docker/
+
+https://www.influxdata.com/glossary/real-time-database/
 
 ### RocksDB
 
@@ -180,6 +180,8 @@ https://docs.siridb.com (timeseries database)
 
 https://griddb.net/en/ (timeseries database)
 
+https://docs.griddb.net/latest/gettingstarted/go/
+
 https://www.neo4j.design/ (design system)
 
 https://neo4j.com/developer-blog/15-tools-for-visualizing-your-neo4j-graph-database/
@@ -213,6 +215,12 @@ https://milvus.io/docs/install_standalone-docker.md
 https://aerospike.com
 
 https://typedb.com
+
+https://milvus.io/ (Vector database built for scalable similarity search)
+
+https://github.com/edgedb/edgedb (open-source database designed as a spiritual successor to SQL and the relational paradigm)
+
+https://github.com/surrealdb/surrealdb (A scalable, distributed, collaborative, document-graph database, for the realtime web)
 
 ### Tutorials
 

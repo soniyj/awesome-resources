@@ -18,6 +18,8 @@ https://www.freecodecamp.org/news/diagrams-as-code-with-mermaid-github-and-vs-co
 
 https://drawio-app.com/blog/creating-interactive-big-picture-diagrams-with-draw-io/
 
+https://machinations.io/ (paid)
+
 ### Design
 
 https://www.charliecleveland.com/miro-the-one-tool-to-rule-them-all/

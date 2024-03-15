@@ -45,6 +45,8 @@ https://ui.toast.com/tui-calendar
 
 https://developer.microsoft.com/en-us/fluentui#/controls/webcomponents
 
+https://leadsgorilla.io/founders-special/ (Example of UI)
+
 ### Framework
 
 https://vue.tufts.edu/gallery/
