@@ -80,6 +80,20 @@ http://kicad-pcb.org/
 
 https://qgis.org/en/site/
 
+### Bookkeeping
+
+https://www.gnucash.org/ [*]
+
+https://moneymanagerex.org/ [*]
+
+https://www.gethomebank.org/help/index.html
+
+https://kmymoney.org/screenshots.html
+
+https://www.gethomebank.org/en/index.php
+
+https://www.firefly-iii.org/ [*]
+
 ### Others
 
 https://github.com/cemolcay/ChordDetector (A tiny menu bar app detecting the chords of the songs you are listening on iTunes or Spotify [mac])
