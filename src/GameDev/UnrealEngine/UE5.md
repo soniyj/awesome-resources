@@ -92,6 +92,8 @@ https://dev.epicgames.com/community/learning/tutorials/Obk3/create-entire-cities
 
 https://unrealcpp.com/create-static-mesh/
 
+https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation-overview
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
@@ -207,6 +209,8 @@ https://www.esri.com/arcgis-blog/products/unreal-engine/announcements/introducin
 https://cesium.com/learn/unreal/unreal-photorealistic-3d-tiles/
 
 https://80.lv/articles/citybld-procedural-city-creation-toolkit-for-unreal-engine-5/
+
+https://80.lv/articles/check-out-this-new-interactive-procedural-city-creator-tool-for-ue5/
 
 ### Assets
 

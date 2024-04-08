@@ -24,6 +24,8 @@ https://gamedevacademy.org/godot-3d-tutorial/
 
 https://www.gdquest.com/tutorial/godot/learning-paths/getting-started-in-2021/chapter/4.two-vital-learning-tools/
 
+https://electronstudio.github.io/godot_racing/tutorial.html (example racing game)
+
 **Mobile**
 
 https://docs.godotengine.org/en/stable/tutorials/platform/ios/plugins_for_ios.html
@@ -37,6 +39,8 @@ https://godotengine.org/asset-library/asset/1108
 https://github.com/Shin-NiL/Godot-Android-Admob-Plugin
 
 https://github.com/Shin-NiL/Godot-Android-Share-Plugin
+
+https://github.com/kidscancode/circle_jump
 
 ### Video Tutorials
 
@@ -71,6 +75,8 @@ https://godotsteam.com/
 https://github.com/gdquest-demos/godot-procedural-generation
 
 https://github.com/topics/city-builder?l=gdscript
+
+https://github.com/the-mirror-gdp/the-mirror (The open-source Roblox & UEFN alternative) [!]
 
 ### Unity to Godot
 

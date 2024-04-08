@@ -50,6 +50,8 @@ https://gameassetsfree.com
 
 https://www.diversion.dev/game-development (Modern Version Control Tailored For Game Development)
 
+https://www.protondb.com (Linux and Steam Deck game compatibility reports)
+
 * [Godot](./Godot/)
 * [Unity](./Unity/)
 * [Unreal Engine 4](./UnrealEngine/UE4.md)
@@ -136,6 +138,10 @@ https://www.computerenhance.com/p/game-development-post-unity
 https://codeincomplete.com/articles/javascript-racer/
 
 https://codeincomplete.com/articles/javascript-racer-v1-straight/
+
+https://simplegametutorials.github.io
+
+https://alliballibaba.github.io/Sokoban-Level-Generator/
 
 ### Game Design
 

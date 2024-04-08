@@ -2,7 +2,7 @@
 
 ### Platform
 
-https://thingsboard.io (Open-source IoT Platform)
+https://thingsboard.io (Open-source IoT Platform) [!]
 
 https://github.com/openremote/openremote (100% open-source IoT Platform)
 

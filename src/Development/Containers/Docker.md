@@ -44,6 +44,18 @@ https://www.reddit.com/r/docker/comments/uencaa/create_docker_image_on_m1_mac_fo
 
 https://www.baeldung.com/ops/docker-list-containers [!]
 
+**OS (Win&Linux)**
+
+https://medium.com/axon-technologies/installing-a-windows-virtual-machine-in-a-linux-docker-container-c78e4c3f9ba1
+
+https://abdulhalimzhr.medium.com/linux-desktop-environment-in-a-docker-container-4e5acdc8a68f
+
+https://stackoverflow.com/questions/40658095/how-to-open-ubuntu-gui-inside-a-docker-image
+
+https://github.com/iphoneintosh/ubuntu-docker
+
+https://discussion.scottibyte.com/t/building-an-ubuntu-desktop-in-docker/61
+
 ### Container Runtime
 
 https://mobyproject.org/
