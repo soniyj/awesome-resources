@@ -45,3 +45,7 @@ https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt
 https://github.com/mpociot/chatgpt-vscode
 
 https://medium.com/geekculture/codegpt-the-vscode-extension-with-chatgpt-like-functionalities-783323a916c3
+
+### Others
+
+https://cursor.sh/ (VSCode + AI)

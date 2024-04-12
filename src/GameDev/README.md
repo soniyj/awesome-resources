@@ -52,6 +52,8 @@ https://www.diversion.dev/game-development (Modern Version Control Tailored For 
 
 https://www.protondb.com (Linux and Steam Deck game compatibility reports)
 
+https://abagames.github.io/joys-of-small-game-development-en/ [?]
+
 * [Godot](./Godot/)
 * [Unity](./Unity/)
 * [Unreal Engine 4](./UnrealEngine/UE4.md)

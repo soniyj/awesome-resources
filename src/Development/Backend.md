@@ -38,6 +38,8 @@ https://www.krakend.io/
 
 https://www.krakend.io/docs/enterprise/developer/api-docs/
 
+https://github.com/krakend/playground-community
+
 https://tyk.io/
 
 https://github.com/TykTechnologies/tyk?tab=readme-ov-file
