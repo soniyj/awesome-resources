@@ -158,6 +158,16 @@ https://docs.arangodb.com/3.11/arangograph/data-loader/example/
 
 https://arangodb.com/learn/development/using-smartgraphs-arangodb/
 
+### EdgeDB
+
+https://www.edgedb.com/
+
+https://www.edgedb.com/install (Graph RDBMS quite interesting to check next)
+
+https://github.com/edgedb/edgedb (open-source database designed as a spiritual successor to SQL and the relational paradigm)
+
+https://medium.com/@kgrozdanovski/simplified-edgedb-setup-for-modern-database-management-13daae659bd5
+
 ### Other DB to Check
 
 https://questdb.io (Fast SQL for time series QuestDB is the fastest open source time series database)
@@ -169,8 +179,6 @@ https://arcadedb.com (The Next Generation Multi-Model Database Supporting Graphs
 https://docs.keydb.dev
 
 https://github.com/memgraph/memgraph (GraphDB with Free Tier)
-
-https://www.edgedb.com/install (Graph RDBMS quite interesting to check next)
 
 https://github.com/georgia-tech-db/eva (AI-Relational Database System | SQL meets Deep Learning)
 
@@ -216,11 +224,13 @@ https://aerospike.com
 
 https://typedb.com
 
-https://milvus.io/ (Vector database built for scalable similarity search)
-
-https://github.com/edgedb/edgedb (open-source database designed as a spiritual successor to SQL and the relational paradigm)
+https://milvus.io/ (Vector database built for scalable similarity search)s
 
 https://github.com/surrealdb/surrealdb (A scalable, distributed, collaborative, document-graph database, for the realtime web)
+
+https://duckdb.org/ (in-process analytical database)
+
+https://qdrant.tech/ (Vector Database)
 
 ### Tutorials
 

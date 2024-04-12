@@ -6,7 +6,7 @@ https://caddyserver.com (reverse proxy)
 
 https://camel.apache.org
 
-### API & Microservices & Gateway
+### API & Microservices
 
 https://openapi-generator.tech/
 
@@ -24,7 +24,7 @@ https://dapr.io (APIs for building portable and reliable microservices)
 
 https://github.com/microservices-patterns/ftgo-application
 
-**API Gateway**
+### API Gateway
 
 https://marutitech.com/api-gateway-in-microservices-architecture/
 
@@ -41,6 +41,20 @@ https://www.krakend.io/docs/enterprise/developer/api-docs/
 https://tyk.io/
 
 https://github.com/TykTechnologies/tyk?tab=readme-ov-file
+
+**Hasura**
+
+https://hasura.io/blog/elevating-your-api-strategy-with-hasura
+
+https://hasura.io/connectors
+
+Hasura V2:
+https://hasura.io/docs/latest/getting-started/use-case/api-gateway/
+
+https://hasura.io/docs/latest/getting-started/docker-simple/
+
+Hasura V3 (Beta):
+https://hasura.io/docs/3.0/index
 
 ### CDN
 

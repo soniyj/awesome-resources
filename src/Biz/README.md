@@ -96,6 +96,8 @@ https://securema.ing.it/MutuoArancio/DiventaClienteMutuo.aspx?type=1#
 
 https://www.agenziacarpicasa.it/calcola-il-mutuo-in-base-al-tuo-stipendio-con-carpicasa/#:~:text=Importo%20massimo,superare%20ai%20650%20%E2%80%93%20750%20euro.
 
+https://www.mutuiqui.it/mutuo [!]
+
 <a name="uklaw"/></a>
 ### UK Law
 

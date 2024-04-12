@@ -30,6 +30,10 @@ https://github.com/ory/hydra (OpenID Connect and OAuth Provider)
 
 ### Keycloak
 
+https://www.keycloak.org/server/importExport
+
+https://keycloak.discourse.group/t/how-to-clone-a-realm/19616
+
 https://www.plexx.digital/keycloak-realm-export-import/
 
 https://github.com/asatrya/keycloak-traefik-tutorial

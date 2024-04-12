@@ -153,3 +153,13 @@ https://github.com/soulteary/docker-cronicle
 https://hub.docker.com/r/squidfunk/mkdocs-material
 
 https://hub.docker.com/r/polinux/mkdocs
+
+### Save & Load Images
+
+https://docs.docker.com/reference/cli/docker/image/save/
+
+docker save myimage:latest | gzip > myimage_latest.tar.gz
+
+https://docs.docker.com/reference/cli/docker/image/load/
+
+docker load < myimage_latest.tar.gz

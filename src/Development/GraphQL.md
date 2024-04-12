@@ -96,6 +96,8 @@ https://www.prisma.io/blog/graphql-vs-firebase-496498546142
 
 ### Tools
 
+https://github.com/stepci/awesome-api-clients
+
 https://github.com/graphql/swapi-graphql
 
 https://hasura.io/ [Instant GraphQL for all your data] (self-hosted open source) {Postgres}
@@ -131,3 +133,7 @@ https://www.graphqltoolbox.com/listings/firecamp-app
 https://apps.microsoft.com/detail/9P9Q7MRPRJD4?hl=it-it&gl=IT
 
 https://firecamp.io/blog/5-opensource-insomnia-alternatives
+
+https://github.com/ArchGPT/insomnium (insomnia no login)
+
+https://github.com/firecamp-dev/firecamp
