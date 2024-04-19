@@ -46,14 +46,31 @@ https://github.com/TykTechnologies/tyk?tab=readme-ov-file
 
 **Hasura**
 
+https://hasura.io/ [Instant GraphQL for all your data] (self-hosted open source) {Postgres}
+
+https://github.com/hasura/graphql-engine (has other interesting links)
+
 https://hasura.io/blog/elevating-your-api-strategy-with-hasura
 
 https://hasura.io/connectors
 
-Hasura V2:
 https://hasura.io/docs/latest/getting-started/use-case/api-gateway/
 
 https://hasura.io/docs/latest/getting-started/docker-simple/
+
+https://hasura.io/docs/latest/api-reference/restified/
+
+https://hasura.io/blog/turn-your-go-rest-api-to-graphql-using-hasura-actions
+
+https://dev.to/mrtousif/hasura-and-keycloak-integration-with-nestjs-server-without-using-passportjs-4kjh
+
+https://medium.com/open-graphql/hasura-authentication-explained-36fa8c823bc8
+
+https://hasura.io/blog/add-authentication-and-authorization-to-next-js-8-serverless-apps-using-jwt-and-graphql
+
+https://hasura.io/docs/latest/auth/authentication/jwt/#docker
+
+https://hasura.io/learn/graphql/hasura-authentication/integrations/keycloak/#settingupkeycloak
 
 Hasura V3 (Beta):
 https://hasura.io/docs/3.0/index

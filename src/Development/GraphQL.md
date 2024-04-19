@@ -14,8 +14,6 @@ https://the-guild.dev/graphql/mesh
 
 https://the-guild.dev/graphql/apollo-angular/docs/data/subscriptions (check for angular wss issue)
 
-https://github.com/hasura/graphql-engine (has other interesting links)
-
 https://medium.com/@mrthankyou/how-to-get-a-graphql-schema-28915025de0e
 
 ### API
@@ -100,7 +98,7 @@ https://github.com/stepci/awesome-api-clients
 
 https://github.com/graphql/swapi-graphql
 
-https://hasura.io/ [Instant GraphQL for all your data] (self-hosted open source) {Postgres}
+
 
 https://altair.sirmuel.design/
 
