@@ -34,6 +34,8 @@ https://electronstudio.github.io/godot_racing/tutorial.html (example racing game
 
 https://www.gotut.net/save-and-load-system-for-godot-4/
 
+https://dev.to/christinec_dev/lets-learn-godot-4-by-making-a-procedurally-generated-maze-game-part-3-procedural-level-generation-1-map-creation-577b
+
 **Mobile**
 
 https://docs.godotengine.org/en/stable/tutorials/platform/ios/plugins_for_ios.html
@@ -49,6 +51,8 @@ https://github.com/Shin-NiL/Godot-Android-Admob-Plugin
 https://github.com/Shin-NiL/Godot-Android-Share-Plugin
 
 https://github.com/kidscancode/circle_jump
+
+https://ramatak.com/2023/02/24/godot-tutorial-porting-your-games-controls-for-mobile-devices/ [*]
 
 ### Video Tutorials
 
@@ -72,11 +76,21 @@ https://www.youtube.com/c/Gdquest/videos?app=desktop&cbrd=1&cbrd=1&cbrd=1&ucbcb=
 
 [Master the Margin Container in 90 Seconds Quick Godot 4 Tutorial](https://www.youtube.com/watch?v=aMUxOBpKd7o)
 
+[A new endless driving game in Godot | DuckCowDrive Devlog #1](https://m.youtube.com/watch?v=OkdNC1Ov2ck)
+
 ### Asset
 
 https://godotengine.org/asset-library/asset/2174
 
 https://godotengine.org/asset-library/asset/2123
+
+### Plugins & Add Ons
+
+https://github.com/Federico-Ciuffardi/GodotTouchInputManager
+
+https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot
+
+https://github.com/jarneson/godot-ply (Godot plugin for in-editor box modeling)
 
 **EOS**
 

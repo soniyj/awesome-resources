@@ -61,7 +61,9 @@ https://github.com/microsoft/semantic-kernel (Integrate cutting-edge LLM technol
 
 https://developers.generativeai.google/products/makersuite (Interesting)
 
-https://codeium.com/ (IDE Integration)
+https://codeium.com/ (IDE Integration) [?]
+
+https://rivet.ironcladapp.com (The Open-Source Visual AI Programming Environment) [?]
 
 ### Links
 

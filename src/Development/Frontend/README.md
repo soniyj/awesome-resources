@@ -59,7 +59,7 @@ https://tauri.app (Build an optimized, secure, and frontend-independent applicat
 
 ### Database
 
-https://rxdb.info
+https://rxdb.info (A fast, local first, reactive Database for JavaScript Applications)
 
 ### Starter Kit
 

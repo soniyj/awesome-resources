@@ -74,6 +74,8 @@ https://hasura.io/learn/graphql/hasura-authentication/integrations/keycloak/#set
 
 https://hasura.io/blog/best-practices-of-using-jwt-with-graphql [?]
 
+https://github.com/janhapke/hasura-keycloak
+
 Hasura V3 (Beta):
 https://hasura.io/docs/3.0/index
 

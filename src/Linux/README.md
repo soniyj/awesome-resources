@@ -18,6 +18,8 @@ https://stackoverflow.com/questions/30383845/what-is-the-best-practice-of-docker
 
 https://docs.linuxserver.io/general/swag
 
+https://direnv.net (It augments existing shells with a new feature)
+
 ### Scheduling and Cron
 
 https://mesos.github.io/chronos/docs/
@@ -43,7 +45,6 @@ https://wiki.crowncloud.net/?How_to_Change_Hostname_on_Ubuntu_22_04
 https://askubuntu.com/questions/435615/disable-password-authentication-in-ssh
 
 https://owlhowto.com/how-to-disable-password-on-ssh/
-
 
 ### Malware
 

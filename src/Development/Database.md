@@ -74,6 +74,10 @@ https://github.com/thelastpickle/docker-cassandra-bootstrap
 
 https://github.com/codediodeio/firestore-migrator
 
+https://lgvalle.medium.com/digital-graveyards-firebase-tools-docker-f3dc3b527a53
+
+https://gist.github.com/lgvalle/f4d3934c2aeab64acfcff7658b42d355#file-extra-info-md
+
 ### Etcd
 
 https://etcd.io/ (A distributed, reliable key-value store for the most critical data of a distributed system)
@@ -222,7 +226,7 @@ https://milvus.io/docs/install_standalone-docker.md
 
 https://aerospike.com
 
-https://typedb.com
+https://typedb.com (The polymorphic database powered by types)
 
 https://milvus.io/ (Vector database built for scalable similarity search)s
 
@@ -231,6 +235,10 @@ https://github.com/surrealdb/surrealdb (A scalable, distributed, collaborative, 
 https://duckdb.org/ (in-process analytical database)
 
 https://qdrant.tech/ (Vector Database)
+
+https://github.com/terminusdb/terminusdb (TerminusDB is a distributed database with a collaboration model) [*]
+
+https://cratedb.com/
 
 ### Tutorials
 

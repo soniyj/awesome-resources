@@ -38,6 +38,8 @@ https://dagger.io (paid)
 
 https://buildkite.com/home (free tier)
 
+https://nixos.org (Declarative builds and deployments)
+
 ### Circle CI
 
 https://circleci.com/ (cloud, paid, free tier)
@@ -119,3 +121,5 @@ https://zipkin.io
 https://skywalking.apache.org (Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Kubernetes) architectures)
 
 https://github.com/bosun-monitor/bosun (Time Series Alerting Framework for monitoring and alerting system)
+
+https://github.com/VictoriaMetrics/VictoriaMetrics (fast, cost-effective monitoring solution and time series database)

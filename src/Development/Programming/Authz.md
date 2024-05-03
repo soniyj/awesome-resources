@@ -65,3 +65,5 @@ https://github.com/v-ladynev/keycloak-nodejs-example#quick-start
 https://keepgrowing.in/tools/keycloak-in-docker-4-how-to-define-user-privileges-and-roles/ (to check)
 
 https://www.appsdeveloperblog.com/keycloak-rest-api-create-a-new-user/?utm_content=cmp-true
+
+https://github.com/sventorben/keycloak-restrict-client-auth
