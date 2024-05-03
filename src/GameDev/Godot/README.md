@@ -6,11 +6,17 @@ https://docs.godotengine.org/en/stable/
 
 https://docs.godotengine.org/en/latest/getting_started/first_3d_game/08.score_and_replay.html
 
+https://docs.godotengine.org/en/stable/tutorials/scripting/singletons_autoload.html
+
+https://docs.godotengine.org/en/stable/classes/class_node.html#class-node-private-method-input
+
 ### Tutorials
 
 http://kidscancode.org/godot_recipes/
 
 https://kidscancode.org/godot_recipes/ai/context_map/
+
+https://kidscancode.org/godot_recipes/4.x/2d/car_steering/index.html
 
 https://electronstudio.github.io/godot_racing/tutorial.html
 
@@ -25,6 +31,8 @@ https://gamedevacademy.org/godot-3d-tutorial/
 https://www.gdquest.com/tutorial/godot/learning-paths/getting-started-in-2021/chapter/4.two-vital-learning-tools/
 
 https://electronstudio.github.io/godot_racing/tutorial.html (example racing game)
+
+https://www.gotut.net/save-and-load-system-for-godot-4/
 
 **Mobile**
 
@@ -49,6 +57,20 @@ https://www.youtube.com/watch?v=AHK5aQ7xvH8
 https://www.youtube.com/c/Gdquest/videos?app=desktop&cbrd=1&cbrd=1&cbrd=1&ucbcb=1
 
 [City Builder con Godot / 3D Game Dev](https://m.youtube.com/watch?v=uS-CG49G2To)
+
+[Godot Custom Resources Tutorial (Beginner)](https://www.youtube.com/watch?v=fdRJqnOrz98)
+
+[Race Car Controller Tutorial - Godot 3D](https://www.youtube.com/watch?v=5m7nBj98rx4)
+
+[Path Based Mesh Generation in Godot 4](https://www.youtube.com/watch?v=Gfpnxg-jne4)
+
+[How to Make Roads with Bezier Curves - Godot 4.0 Behind the Scenes!](https://www.youtube.com/watch?v=4nOEVPjVmjc)
+
+[Creating a car with raycast suspension (Arcade-style control) | GODOT 4](https://www.youtube.com/watch?v=jwUstio6R3I)
+
+[How to Use SIGNALS Correctly in Godot 4 (everything to know)](https://www.youtube.com/watch?v=Q1w02E4H-as)
+
+[Master the Margin Container in 90 Seconds Quick Godot 4 Tutorial](https://www.youtube.com/watch?v=aMUxOBpKd7o)
 
 ### Asset
 

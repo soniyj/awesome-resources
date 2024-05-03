@@ -49,3 +49,5 @@ https://medium.com/geekculture/codegpt-the-vscode-extension-with-chatgpt-like-fu
 ### Others
 
 https://cursor.sh/ (VSCode + AI)
+
+https://codeium.com/

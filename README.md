@@ -102,6 +102,8 @@ https://www.imagemagick.org/
 
 https://www.popai.pro (Prompt AI similar to ChatGPT)
 
+https://www.ecosia.org/?c=en
+
 *chat (to check)*
 
 https://mattermost.com/ (free?)
