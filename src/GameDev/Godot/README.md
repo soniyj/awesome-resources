@@ -78,6 +78,8 @@ https://www.youtube.com/c/Gdquest/videos?app=desktop&cbrd=1&cbrd=1&cbrd=1&ucbcb=
 
 [A new endless driving game in Godot | DuckCowDrive Devlog #1](https://m.youtube.com/watch?v=OkdNC1Ov2ck)
 
+[Finite State Machines in Godot 4 in Under 10 Minutes](https://www.youtube.com/watch?v=ow_Lum-Agbs)
+
 ### Asset
 
 https://godotengine.org/asset-library/asset/2174
@@ -91,6 +93,12 @@ https://github.com/Federico-Ciuffardi/GodotTouchInputManager
 https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot
 
 https://github.com/jarneson/godot-ply (Godot plugin for in-editor box modeling)
+
+https://github.com/TheDuckCow/godot-road-generator (A godot plugin for creating 3D highways and streets)
+
+https://github.com/poingstudios/godot-admob-plugin
+
+https://poingstudios.github.io/godot-admob-plugin/
 
 **EOS**
 

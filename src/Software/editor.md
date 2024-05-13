@@ -51,3 +51,5 @@ https://medium.com/geekculture/codegpt-the-vscode-extension-with-chatgpt-like-fu
 https://cursor.sh/ (VSCode + AI)
 
 https://codeium.com/
+
+https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/ (Your Personalized AI Chatbot)

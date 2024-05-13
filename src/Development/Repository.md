@@ -4,6 +4,8 @@
 
 https://github.com/korfuri/awesome-monorepo
 
+https://medium.com/valtech-ch/monorepo-semantic-releases-db114811efa5
+
 ## Git Resources
 
 General Git Resources

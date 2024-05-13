@@ -78,6 +78,18 @@ https://lgvalle.medium.com/digital-graveyards-firebase-tools-docker-f3dc3b527a53
 
 https://gist.github.com/lgvalle/f4d3934c2aeab64acfcff7658b42d355#file-extra-info-md
 
+https://stackoverflow.com/questions/26286339/pull-lost-code-from-firebase-hosting-deployment/26287429#26287429
+
+https://firebase.google.com/docs/hosting/quickstart
+
+https://clemfournier.medium.com/how-to-get-my-firebase-service-account-key-file-f0ec97a21620
+
+**Backup Hosting**
+
+https://gist.github.com/mbleigh/9c8680cf319ace2f506f57380da66e7d
+
+https://stackoverflow.com/questions/26286339/pull-lost-code-from-firebase-hosting-deployment
+
 ### Etcd
 
 https://etcd.io/ (A distributed, reliable key-value store for the most critical data of a distributed system)
@@ -240,6 +252,14 @@ https://github.com/terminusdb/terminusdb (TerminusDB is a distributed database w
 
 https://cratedb.com/
 
+https://github.com/nuclia/nucliadb (Robust database that allows storing and searching on unstructured data)
+
+https://github.com/DeployQL/LintDB (Multi-vector database meant for Gen AI)
+
+https://github.com/marqo-ai/marqo (End-to-end vector search engine for both text and images)
+
+https://github.com/authzed/spicedb (Graph database purpose-built for storing and evaluating access control data)
+
 ### Tutorials
 
 https://www.w3schools.com/sql/sql_intro.asp
@@ -249,3 +269,7 @@ https://www.tutorialspoint.com/sql/index.htm
 https://www.geeksforgeeks.org/sql-tutorial/
 
 https://simeon-yan-iliev.medium.com/export-import-a-database-with-couchdb-74bfec3831bc
+
+https://cstack.github.io/db_tutorial/ (Let's Build a Simple Database [C])
+
+[CMU Database Group](https://m.youtube.com/c/CMUDatabaseGroup/playlists?cbrd=1)

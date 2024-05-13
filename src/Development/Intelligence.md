@@ -65,6 +65,12 @@ https://codeium.com/ (IDE Integration) [?]
 
 https://rivet.ironcladapp.com (The Open-Source Visual AI Programming Environment) [?]
 
+### Tools
+
+https://jan.ai/ (Turn your computer into an AI machine Open Source) [!]
+
+https://lmstudio.ai/ (Discover, download, and run local LLMs) [!]
+
 ### Links
 
 1) www.pdfdrive.com è il più grande sito di download di libri PDF gratuiti. Rivendica oltre 225 milioni di titoli.

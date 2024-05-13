@@ -145,3 +145,5 @@ https://avro.apache.org (A row-oriented remote procedure call and data serializa
 https://ring-lang.github.io (practical general-purpose multi-paradigm language)
 
 https://ring-lang.github.io/doc1.18/dateandtime.html
+
+https://github.com/codecrafters-io/build-your-own-x (Master programming by recreating your favorite technologies from scratch)

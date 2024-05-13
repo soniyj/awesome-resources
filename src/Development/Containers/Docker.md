@@ -44,6 +44,8 @@ https://www.reddit.com/r/docker/comments/uencaa/create_docker_image_on_m1_mac_fo
 
 https://www.baeldung.com/ops/docker-list-containers [!]
 
+https://blog.giovannidemizio.eu/2021/05/24/how-to-set-user-and-group-in-docker-compose/
+
 **OS (Win&Linux)**
 
 https://medium.com/axon-technologies/installing-a-windows-virtual-machine-in-a-linux-docker-container-c78e4c3f9ba1
@@ -121,6 +123,8 @@ https://www.cloudsavvyit.com/15158/10-tools-that-complement-docker/
 https://github.com/chaifeng/ufw-docker (universal firewall for linux working on docker!)
 
 https://github.com/dokku/dokku (An open source PAAS alternative to Heroku)
+
+https://github.com/chainguard-images/images
 
 ### Monitoring
 

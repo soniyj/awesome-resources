@@ -213,3 +213,7 @@ https://mwax911.medium.com/building-a-plugin-architecture-with-python-7b4ab39ad4
 ### Database & Cache
 
 https://github.com/arun1729/cog (Micro Graph Database for Python Applications)
+
+https://github.com/kagisearch/vectordb (Lightweight, fully local, end-to-end solution for using embeddings-based text retrieval)
+
+https://github.com/jina-ai/vectordb (Pythonic vector database offers a comprehensive suite of CRUD)

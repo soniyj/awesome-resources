@@ -238,6 +238,8 @@ https://adpumb.com/blog/unity-ads-vs-admob-vs-adpumb/#:~:text=AdMob%2C%20compare
 
 https://playablefactory.com (Create Powerful Ads)
 
+https://appsamurai.com/appsamurai-for-games/
+
 ### Publishers & Investors
 
 https://beamable.com/blog/find-a-publisher-beamable-super-list-of-game-publishers
@@ -347,6 +349,10 @@ https://kevurugames.com/game-development/hyper-casual-game-development-services/
 [Zero Budget VIDEO GAME MARKETING // Marketing for Indie Game Developers](https://www.youtube.com/watch?v=fvsI4BHSTHw)
 
 [How to get money from a publisher (with just a DEMO)](https://www.youtube.com/watch?v=f754YKX7gDc)
+
+[Why 96% of Indie Games Fail](https://m.youtube.com/watch?v=3ylJCuzsNZc) [?]
+
+[The Future of Game Development](https://m.youtube.com/watch?v=EYt6uDr-PHQ)
 
 ### Marketing
 
