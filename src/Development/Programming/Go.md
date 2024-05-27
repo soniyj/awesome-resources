@@ -54,6 +54,8 @@ https://medium.com/faun/dependency-injection-in-go-the-better-way-833e2cc65fab
 
 https://medium.com/@felipe.infantino.moreno/microservice-in-golang-using-redis-and-grpc-865587aa260c
 
+https://medium.com/illumination/a-full-guide-on-coverage-in-golang-95164cdddcd9
+
 ### API
 
 https://echo.labstack.com/

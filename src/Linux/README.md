@@ -20,6 +20,8 @@ https://docs.linuxserver.io/general/swag
 
 https://direnv.net (It augments existing shells with a new feature)
 
+https://github.com/gcavalcante8808/htpwd (A web Interface for users change their own passwords on a htpasswd file)
+
 ### Scheduling and Cron
 
 https://mesos.github.io/chronos/docs/

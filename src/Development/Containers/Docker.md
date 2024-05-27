@@ -46,6 +46,8 @@ https://www.baeldung.com/ops/docker-list-containers [!]
 
 https://blog.giovannidemizio.eu/2021/05/24/how-to-set-user-and-group-in-docker-compose/
 
+https://codefresh.io/docs/docs/example-catalog/ci-examples/build-an-image-with-build-arguments/
+
 **OS (Win&Linux)**
 
 https://medium.com/axon-technologies/installing-a-windows-virtual-machine-in-a-linux-docker-container-c78e4c3f9ba1
@@ -58,6 +60,12 @@ https://github.com/iphoneintosh/ubuntu-docker
 
 https://discussion.scottibyte.com/t/building-an-ubuntu-desktop-in-docker/61
 
+### Registry
+
+https://phoenixnap.com/kb/set-up-a-private-docker-registry
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-private-docker-registry-on-ubuntu-20-04
+
 ### Container Runtime
 
 https://mobyproject.org/
@@ -68,53 +76,9 @@ https://containerd.io/
 
 https://github.com/containerd/containerd
 
-### Ethereum
-
-https://medium.com/@andrenit/buildind-an-ethereum-playground-with-docker-part-1-introduction-80be173aaa7a
-
-https://capgemini.github.io/blockchain/ethereum-docker-compose/
-
-https://github.com/purelabio/docker-ethereum
-
 ### Docker Builder
 
 https://www.packer.io/docs/builders/docker
-
-### Apache Kafka
-
-https://kafka.apache.org/documentation/
-
-https://github.com/wurstmeister/kafka-docker
-
-https://itnext.io/how-to-install-kafka-using-docker-a2b7c746cbdc
-
-https://medium.com/big-data-engineering/hello-kafka-world-the-complete-guide-to-kafka-with-docker-and-python-f788e2588cfc
-
-https://www.cloudamqp.com/blog/2019-12-12-when-to-use-rabbitmq-or-apache-kafka.html
-
-https://medium.com/@patelharshali136/apache-kafka-tutorial-kafka-for-beginners-a58140cef84f
-
-https://cwiki.apache.org/confluence/display/KAFKA/Clients
-
-https://docs.confluent.io/platform/current/clients/index.html
-
-### Portainer
-
-https://docs.portainer.io/advanced/access-control
-
-https://docs.portainer.io/advanced/docker-roles-and-permissions
-
-https://app.swaggerhub.com/search?owner=portainer
-
-https://app.swaggerhub.com/apis-docs/portainer/portainer-ee/2.19.4#/
-
-http POST <portainer url>/api/auth Username="<admin username>" Password="<adminpassword>"
-
-### Rancher
-
-https://github.com/rancher/rancher
-
-https://www.atlantic.net/dedicated-server-hosting/manage-docker-containers-with-rancher/
 
 ### Tools
 
@@ -146,6 +110,8 @@ https://medium.com/@mertcan.simsek276/docker-monitoring-with-cadvisor-prometheus
 
 https://prometheus.io/docs/guides/cadvisor/
 
+https://www.blazemeter.com/blog/jmeter-docker
+
 ### Scheduling
 
 https://github.com/bluet/docker-cronicle-docker
@@ -167,3 +133,47 @@ docker save myimage:latest | gzip > myimage_latest.tar.gz
 https://docs.docker.com/reference/cli/docker/image/load/
 
 docker load < myimage_latest.tar.gz
+
+### Portainer
+
+https://docs.portainer.io/advanced/access-control
+
+https://docs.portainer.io/advanced/docker-roles-and-permissions
+
+https://app.swaggerhub.com/search?owner=portainer
+
+https://app.swaggerhub.com/apis-docs/portainer/portainer-ee/2.19.4#/
+
+http POST <portainer url>/api/auth Username="<admin username>" Password="<adminpassword>"
+
+### Ethereum
+
+https://medium.com/@andrenit/buildind-an-ethereum-playground-with-docker-part-1-introduction-80be173aaa7a
+
+https://capgemini.github.io/blockchain/ethereum-docker-compose/
+
+https://github.com/purelabio/docker-ethereum
+
+### Apache Kafka
+
+https://kafka.apache.org/documentation/
+
+https://github.com/wurstmeister/kafka-docker
+
+https://itnext.io/how-to-install-kafka-using-docker-a2b7c746cbdc
+
+https://medium.com/big-data-engineering/hello-kafka-world-the-complete-guide-to-kafka-with-docker-and-python-f788e2588cfc
+
+https://www.cloudamqp.com/blog/2019-12-12-when-to-use-rabbitmq-or-apache-kafka.html
+
+https://medium.com/@patelharshali136/apache-kafka-tutorial-kafka-for-beginners-a58140cef84f
+
+https://cwiki.apache.org/confluence/display/KAFKA/Clients
+
+https://docs.confluent.io/platform/current/clients/index.html
+
+### Rancher
+
+https://github.com/rancher/rancher
+
+https://www.atlantic.net/dedicated-server-hosting/manage-docker-containers-with-rancher/

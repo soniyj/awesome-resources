@@ -52,6 +52,8 @@ https://www.fiscomania.com/2014/05/lavoro-autonomo-occasionale-estero/
 
 https://www.soldioggi.it/tassazione-srl-14393.html
 
+https://factorial.it/blog/premio-produzione/#Tassazione
+
 [Redditi da Lavoro](./Documents)
 
 **Dividends (Dividendi)**

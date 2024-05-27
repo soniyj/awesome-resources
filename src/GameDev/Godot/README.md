@@ -36,6 +36,8 @@ https://www.gotut.net/save-and-load-system-for-godot-4/
 
 https://dev.to/christinec_dev/lets-learn-godot-4-by-making-a-procedurally-generated-maze-game-part-3-procedural-level-generation-1-map-creation-577b
 
+https://medium.com/pumpkinbox-blog/procedural-map-generation-with-godot-part-1-1b4e78191e90
+
 **Mobile**
 
 https://docs.godotengine.org/en/stable/tutorials/platform/ios/plugins_for_ios.html
@@ -80,11 +82,19 @@ https://www.youtube.com/c/Gdquest/videos?app=desktop&cbrd=1&cbrd=1&cbrd=1&ucbcb=
 
 [Finite State Machines in Godot 4 in Under 10 Minutes](https://www.youtube.com/watch?v=ow_Lum-Agbs)
 
+[ Custom 3D Paths with an Attached Mesh in Godot 4 Useful for Racetracks](https://www.youtube.com/watch?v=HJTBNbl52jY)
+
 ### Asset
 
 https://godotengine.org/asset-library/asset/2174
 
 https://godotengine.org/asset-library/asset/2123
+
+[Path Tool 1.0](https://godotengine.org/asset-library/asset/1518)
+
+[Goshapes: Curve-based Modelling and Level Building](https://godotengine.org/asset-library/asset/1360)
+
+[ Procedural World Map Generator ](https://godotassetlibrary.com/asset/9Thnq8/procedural-world-map-generator)
 
 ### Plugins & Add Ons
 

@@ -44,6 +44,8 @@ https://bigpicture.one/blog/basic-tasks-bigpicture-jira-issues/
 
 https://community.atlassian.com/t5/App-Central/Agile-schedule-in-BigPicture-How-to-set-it-up/ba-p/1979008
 
+https://community.atlassian.com/t5/App-Central/How-to-use-templates-in-Issue-Templates-for-Jira-app-Create/ba-p/2461323
+
 ### ECM & BPM
 
 https://www.alfresco.com/ (Community and Enterprise Licenses)

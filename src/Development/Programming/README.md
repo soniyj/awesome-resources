@@ -30,6 +30,9 @@ https://www.sonarqube.org/ (automatic code review tool to detect bugs, vulnerabi
 
 https://github.com/SonarSource/sonarqube
 
+https://medium.com/@denis.verkhovsky/sonarqube-with-docker-compose-complete-tutorial-2aaa8d0771d4
+
+
 https://www.sonarlint.org/ (IDE extension that helps you detect and fix quality issues)
 
 https://semgrep.dev/ (Static analysis, Find bugs and enforce code standards)

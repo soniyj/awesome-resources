@@ -40,6 +40,9 @@ https://buildkite.com/home (free tier)
 
 https://nixos.org (Declarative builds and deployments)
 
+https://medium.com/hackernoon/continuous-integration-in-projects-using-monorepo-9b828d7a8dfa
+
+
 ### Circle CI
 
 https://circleci.com/ (cloud, paid, free tier)
