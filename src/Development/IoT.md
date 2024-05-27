@@ -6,6 +6,8 @@ https://thingsboard.io (Open-source IoT Platform) [!]
 
 https://github.com/openremote/openremote (100% open-source IoT Platform)
 
+https://toit.io (High-level code and containers on the ESP32)
+
 ### PlatformIO
 
 https://community.platformio.org/t/how-to-get-platformio-to-work-through-wsl-getting-no-files-found-in-ui/13008/7

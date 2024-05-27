@@ -181,7 +181,7 @@ https://github.com/vvoovv/blosm/wiki/Documentation#installation
 
 https://hlorus.github.io/CAD_Sketcher/ (CAD Sketcher is a constraint-based sketcher addon for Blender)
 
-https://github.com/domlysz/BlenderGIS (interesting)
+https://github.com/domlysz/BlenderGIS (Blender addons to make the bridge between Blender and geographic data) [!]
 
 [Buildify - FREE Building Creator for Blender!](https://www.youtube.com/watch?v=gKZ074ISG_M) [x]
 

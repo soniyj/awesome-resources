@@ -38,6 +38,10 @@ https://dev.to/christinec_dev/lets-learn-godot-4-by-making-a-procedurally-genera
 
 https://medium.com/pumpkinbox-blog/procedural-map-generation-with-godot-part-1-1b4e78191e90
 
+https://gitlab.com/MagnusKlassik1/godot-traffic-system-with-paths (Traffic System With Random Paths)
+
+https://dev.to/christinec_dev/lets-learn-godot-4-by-making-a-procedurally-generated-maze-game-part-3-procedural-level-generation-1-map-creation-577b
+
 **Mobile**
 
 https://docs.godotengine.org/en/stable/tutorials/platform/ios/plugins_for_ios.html
@@ -84,6 +88,18 @@ https://www.youtube.com/c/Gdquest/videos?app=desktop&cbrd=1&cbrd=1&cbrd=1&ucbcb=
 
 [ Custom 3D Paths with an Attached Mesh in Godot 4 Useful for Racetracks](https://www.youtube.com/watch?v=HJTBNbl52jY)
 
+[Dev Update: 3D City Builder Prototype in Godot](https://www.youtube.com/watch?app=desktop&v=6bK1e3Int2k)
+
+[Godot's Hidden Level/Map Editor](https://www.youtube.com/watch?app=desktop&v=BUjCtwLO0S8)
+
+[Godot 4 GridMap Tutorial - TileMaps, but 3D](https://www.youtube.com/watch?app=desktop&v=JxbnStn-BIY)
+
+[Race Car Controller Tutorial - Godot 3D](https://www.youtube.com/watch?app=desktop&v=5m7nBj98rx4) [x]
+
+[Using Terrain3D in Godot 4 - Part 1](https://www.youtube.com/watch?app=desktop&v=oV8c9alXVwU)
+
+[I Made An Endless Ocean in Godot 4](https://www.youtube.com/watch?app=desktop&v=WfRb50J7hD8)
+
 ### Asset
 
 https://godotengine.org/asset-library/asset/2174
@@ -95,6 +111,8 @@ https://godotengine.org/asset-library/asset/2123
 [Goshapes: Curve-based Modelling and Level Building](https://godotengine.org/asset-library/asset/1360)
 
 [ Procedural World Map Generator ](https://godotassetlibrary.com/asset/9Thnq8/procedural-world-map-generator)
+
+[Instant Realistic Light 1.0](https://godotengine.org/asset-library/asset/2553)
 
 ### Plugins & Add Ons
 
@@ -109,6 +127,12 @@ https://github.com/TheDuckCow/godot-road-generator (A godot plugin for creating 
 https://github.com/poingstudios/godot-admob-plugin
 
 https://poingstudios.github.io/godot-admob-plugin/
+
+https://github.com/YuriSizov/godot-pathways (Make a network of roads with ease and creativity)
+
+https://github.com/edwin-cox/godot-infinite-worldmap (Procedural infinite world map)
+
+https://github.com/blackears/cyclopsLevelBuilder/tree/master (Wuickly build environments/levels)
 
 **EOS**
 
