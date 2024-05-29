@@ -95,8 +95,6 @@ https://github.com/grpc-ecosystem/awesome-grpc#tools
 
 https://bit.dev (An open-source toolchain for the development of composable software.)
 
-https://docusaurus.io (Documentation)
-
 https://ossdatabase.com/ (Open Source Software Databases)
 
 https://github.com/wundergraph/wundergraph (a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition)

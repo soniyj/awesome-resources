@@ -20,6 +20,8 @@ https://dillinger.io/ (Online editor)
 
 https://docusaurus.io (Documentation)
 
+https://docusaurus.community/knowledge/deployment/docker/?package-managers=npm&target=caddy
+
 ### Others
 
 https://memphis.dev/ (data streaming platform)
