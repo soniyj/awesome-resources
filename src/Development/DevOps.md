@@ -107,6 +107,10 @@ https://grafana.com/docs/loki/latest/setup/install/docker/
 
 https://grafana.com/docs/loki/latest/configuration/examples/
 
+https://grafana.com/grafana/dashboards/
+
+https://caddy.community/t/monitoring-caddy-server-with-grafana-prometheus-loki-on-debian/23314
+
 ### Terraform
 
 [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4)
