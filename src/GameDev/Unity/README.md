@@ -194,3 +194,5 @@ https://steamworks.github.io/installation/#unity-instructions
 [TextMesh Pro - Free Version](https://assetstore.unity.com/packages/essentials/beta-projects/textmesh-pro-84126)
 
 https://www.assetstore.unity3d.com/en/#!/list/welcome-to-asset-store
+
+https://assetstore.unity.com/packages/tools/integration/scene-to-json-exporter-280989#description
