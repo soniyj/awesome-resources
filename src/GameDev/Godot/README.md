@@ -102,9 +102,9 @@ https://www.youtube.com/c/Gdquest/videos?app=desktop&cbrd=1&cbrd=1&cbrd=1&ucbcb=
 
 ### Asset
 
-https://godotengine.org/asset-library/asset/2174
+[Starter Kit City Builder](https://godotengine.org/asset-library/asset/2174)
 
-https://godotengine.org/asset-library/asset/2123
+[KayKit City Builder Bits](https://godotengine.org/asset-library/asset/2123) [!]
 
 [Path Tool 1.0](https://godotengine.org/asset-library/asset/1518)
 
