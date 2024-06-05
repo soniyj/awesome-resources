@@ -32,8 +32,13 @@ https://github.com/SonarSource/sonarqube
 
 https://medium.com/@denis.verkhovsky/sonarqube-with-docker-compose-complete-tutorial-2aaa8d0771d4
 
-
 https://www.sonarlint.org/ (IDE extension that helps you detect and fix quality issues)
+
+https://hub.docker.com/_/sonarqube
+
+https://docs.sonarsource.com/sonarqube/latest/setup-and-upgrade/install-the-server/installing-sonarqube-from-docker/
+
+https://docs.sonarsource.com/sonarqube/latest/
 
 https://semgrep.dev/ (Static analysis, Find bugs and enforce code standards)
 
