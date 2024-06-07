@@ -42,6 +42,8 @@ https://gitlab.com/MagnusKlassik1/godot-traffic-system-with-paths (Traffic Syste
 
 https://dev.to/christinec_dev/lets-learn-godot-4-by-making-a-procedurally-generated-maze-game-part-3-procedural-level-generation-1-map-creation-577b
 
+https://github.com/exploregamedev/endless_terrain
+
 **Mobile**
 
 https://docs.godotengine.org/en/stable/tutorials/platform/ios/plugins_for_ios.html
@@ -99,6 +101,8 @@ https://www.youtube.com/c/Gdquest/videos?app=desktop&cbrd=1&cbrd=1&cbrd=1&ucbcb=
 [Using Terrain3D in Godot 4 - Part 1](https://www.youtube.com/watch?app=desktop&v=oV8c9alXVwU)
 
 [I Made An Endless Ocean in Godot 4](https://www.youtube.com/watch?app=desktop&v=WfRb50J7hD8)
+
+[How To Create A 3D Endless Runner In Godot 4](https://www.youtube.com/watch?app=desktop&v=1jNt91A2PW0) [x]
 
 ### Asset
 

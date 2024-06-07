@@ -126,6 +126,12 @@ https://slack.com/help/articles/204078066-Google-Workspace-single-sign-on
 
 https://slack.com/intl/it-it/help/articles/204078066-Google-Workspace-single-sign-on
 
+[The Free and Open Source Software I Use in 2024 - Part 1](https://www.youtube.com/watch?v=6t5BQRQJIVY)
+
+[The Open Source Software I use in 2024 - Part 2](https://www.youtube.com/watch?v=Pc6gs_IPnoc)
+
+[OPEN SOURCE alternatives to the MOST POPULAR productivity apps!](https://www.youtube.com/watch?v=P8accXNcwjs) {interesting OSS alternatives}
+
 *to check*
 
 https://ngrok.com/ (public URLs for exposing your local web server)

@@ -82,6 +82,8 @@ https://www.hubspot.com/crm
 
 https://www.hubspot.com/products/service/help-desk
 
+https://www.vtiger.com/open-source-crm/
+
 https://osticket.com/
 
 https://www.spiceworks.com/

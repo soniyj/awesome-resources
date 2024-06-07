@@ -28,6 +28,8 @@ https://github.com/casbin/awesome-auth [!]
 
 https://github.com/ory/hydra (OpenID Connect and OAuth Provider)
 
+https://www.smarthomebeginner.com/docker-authelia-tutorial/
+
 ### Keycloak
 
 https://www.keycloak.org/server/importExport
