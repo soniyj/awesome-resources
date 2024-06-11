@@ -64,9 +64,9 @@ https://ramatak.com/2023/02/24/godot-tutorial-porting-your-games-controls-for-mo
 
 ### Video Tutorials
 
-https://www.youtube.com/watch?v=AHK5aQ7xvH8
+[Making a Game in One Hour with Godot - Shoot 'Em Up](https://www.youtube.com/watch?v=AHK5aQ7xvH8)
 
-https://www.youtube.com/c/Gdquest/videos?app=desktop&cbrd=1&cbrd=1&cbrd=1&ucbcb=1
+[GDQuest - Channel](https://www.youtube.com/c/Gdquest/videos?app=desktop&cbrd=1&cbrd=1&cbrd=1&ucbcb=1)
 
 [City Builder con Godot / 3D Game Dev](https://m.youtube.com/watch?v=uS-CG49G2To)
 
