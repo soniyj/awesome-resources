@@ -187,7 +187,7 @@ https://github.com/domlysz/BlenderGIS (Blender addons to make the bridge between
 
 [Building A City in Minutes Using Blender](https://www.youtube.com/watch?v=9bh9nlVQQj8) [x]
 
-[ Roads in blender are super easy now | blender tutorial ](https://www.youtube.com/watch?v=GlX2xqwjiBg)
+[Roads in blender are super easy now | blender tutorial](https://www.youtube.com/watch?v=GlX2xqwjiBg)
 
 ### Game Engines
 

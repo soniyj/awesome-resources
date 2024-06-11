@@ -88,7 +88,7 @@ https://www.youtube.com/c/Gdquest/videos?app=desktop&cbrd=1&cbrd=1&cbrd=1&ucbcb=
 
 [Finite State Machines in Godot 4 in Under 10 Minutes](https://www.youtube.com/watch?v=ow_Lum-Agbs)
 
-[ Custom 3D Paths with an Attached Mesh in Godot 4 Useful for Racetracks](https://www.youtube.com/watch?v=HJTBNbl52jY)
+[Custom 3D Paths with an Attached Mesh in Godot 4 Useful for Racetracks](https://www.youtube.com/watch?v=HJTBNbl52jY)
 
 [Dev Update: 3D City Builder Prototype in Godot](https://www.youtube.com/watch?app=desktop&v=6bK1e3Int2k)
 
@@ -114,7 +114,7 @@ https://www.youtube.com/c/Gdquest/videos?app=desktop&cbrd=1&cbrd=1&cbrd=1&ucbcb=
 
 [Goshapes: Curve-based Modelling and Level Building](https://godotengine.org/asset-library/asset/1360)
 
-[ Procedural World Map Generator ](https://godotassetlibrary.com/asset/9Thnq8/procedural-world-map-generator)
+[Procedural World Map Generator](https://godotassetlibrary.com/asset/9Thnq8/procedural-world-map-generator)
 
 [Instant Realistic Light 1.0](https://godotengine.org/asset-library/asset/2553)
 
