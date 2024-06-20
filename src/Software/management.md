@@ -46,6 +46,20 @@ https://community.atlassian.com/t5/App-Central/Agile-schedule-in-BigPicture-How-
 
 https://community.atlassian.com/t5/App-Central/How-to-use-templates-in-Issue-Templates-for-Jira-app-Create/ba-p/2461323
 
+https://appfire.atlassian.net/wiki/spaces/DLP/pages/297670134/Getting+started?ref=app&product=eu.softwareplant.bigpicture&utm_source=app
+
+https://appfire.atlassian.net/wiki/spaces/DLP/pages/298419027/Concept+of+a+box
+
+https://appfire.atlassian.net/wiki/spaces/DLP/pages/298420143/Create+a+new+portfolio
+
+https://appfire.atlassian.net/wiki/spaces/DLP/pages/296849915/Box+hierarchy
+
+https://appfire.atlassian.net/wiki/spaces/DLP/pages/297931202/Create+a+Box+based+on+a+Jira+project
+
+https://bigpicture.one/blog/classic-agile-hybrid-time-management/
+
+https://bigpicture.one/blog/waterfall-agile-hybrid-differences/
+
 ### ECM & BPM
 
 https://www.alfresco.com/ (Community and Enterprise Licenses)
