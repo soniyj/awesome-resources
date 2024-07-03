@@ -20,6 +20,10 @@ https://drawio-app.com/blog/creating-interactive-big-picture-diagrams-with-draw-
 
 https://machinations.io/ (paid)
 
+https://medium.com/@qa.gary.parker/using-mermaid-chatgpt-for-test-case-generation-and-management-18ed07e99a37
+
+https://venngage.com/blog/how-to-create-a-flowchart/
+
 ### Design
 
 https://www.charliecleveland.com/miro-the-one-tool-to-rule-them-all/

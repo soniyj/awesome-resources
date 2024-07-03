@@ -40,9 +40,11 @@ https://medium.com/pumpkinbox-blog/procedural-map-generation-with-godot-part-1-1
 
 https://gitlab.com/MagnusKlassik1/godot-traffic-system-with-paths (Traffic System With Random Paths)
 
-https://dev.to/christinec_dev/lets-learn-godot-4-by-making-a-procedurally-generated-maze-game-part-3-procedural-level-generation-1-map-creation-577b
-
 https://github.com/exploregamedev/endless_terrain
+
+https://dev.to/christinec_dev/lets-learn-godot-3d-by-making-an-endless-runner-game-part-1-project-overview-setup-4c42
+
+https://github.com/godotengine/awesome-godot
 
 **Mobile**
 
@@ -103,6 +105,8 @@ https://ramatak.com/2023/02/24/godot-tutorial-porting-your-games-controls-for-mo
 [I Made An Endless Ocean in Godot 4](https://www.youtube.com/watch?app=desktop&v=WfRb50J7hD8)
 
 [How To Create A 3D Endless Runner In Godot 4](https://www.youtube.com/watch?app=desktop&v=1jNt91A2PW0) [x]
+
+[Godot Endless Runner #2 : Gridmap](https://www.youtube.com/watch?v=XTKZ42g9Qdc)
 
 ### Asset
 

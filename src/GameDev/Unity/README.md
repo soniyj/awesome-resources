@@ -28,6 +28,8 @@ https://docs.unity3d.com/Manual/udp-implementing-iap.html
 
 https://docs.unity3d.com/Manual/UnityIAPGoogleConfiguration.html
 
+https://docs.unity3d.com/Packages/com.unity.purchasing@4.12/manual/UnityIAPInitialization.html
+
 ### Api
 
 https://docs.unity3d.com/ScriptReference/Material.SetTextureOffset.html
@@ -143,6 +145,10 @@ https://www.kartridge.com/developers/ (move to a more generic)
 https://github.com/rlabrecque/Steamworks.NET
 
 https://steamworks.github.io/installation/#unity-instructions
+
+https://github.com/rlabrecque/Steamworks.NET/issues/439
+
+https://steamworks.github.io/steammanager/
 
 ### Game Production and Distribution
 

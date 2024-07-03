@@ -12,6 +12,8 @@
 
 [How to edit a new permission scheme using roles in a Jira Cloud project](https://www.youtube.com/watch?v=AU52doGQzl8)
 
+https://university.atlassian.com/student/collection/850385-learning-paths?utm_source=partner-email&utm_medium=email&utm_campaign=P%3Aatlassian%2AO%3Acommunity%2AI%3Afree-on-demand%2A&jobid=106569068&subid=1532344793
+
 ##### Tutorials
 
 [Permission Scheme in Jira Cloud | Understanding Project Permissions in Jira Cloud | Jira Permissions](https://www.youtube.com/watch?v=e47oFnd6Jjo)
@@ -59,6 +61,16 @@ https://appfire.atlassian.net/wiki/spaces/DLP/pages/297931202/Create+a+Box+based
 https://bigpicture.one/blog/classic-agile-hybrid-time-management/
 
 https://bigpicture.one/blog/waterfall-agile-hybrid-differences/
+
+[BigPicture - COMPLETE Overview 2024](https://www.youtube.com/watch?v=xzjOsR2LIrc)
+
+[THE BEST Bigicture Training for beginners!](https://www.youtube.com/watch?v=nB_3P6D0eEs) [x]
+
+[BigPicture for Beginners: A Comprehensive Starter Guide](https://www.youtube.com/watch?v=BmmcoL3C9BE) [x]
+
+[Jira & BigPicture Integration Guide](https://www.youtube.com/watch?v=fM7aQcNQWcA)
+
+[BigPictures Playlist](https://www.youtube.com/playlist?list=PLYrb3RRWvKEZWq67la6WKik1kU11FGQUm)
 
 ### ECM & BPM
 
