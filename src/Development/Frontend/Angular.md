@@ -72,6 +72,8 @@ https://github.com/mgechev/ngrev (Tool for reverse engineering of Angular applic
 
 https://blog.mgechev.com/2021/01/24/design-pattens-in-open-source-projects-part-ii/
 
+https://www.rx-angular.io/ (Performance & DX)
+
 ### Authentication
 
 https://medium.com/@monkov/angular-using-httpinterceptor-for-token-refreshing-3f04ea2ccb81

@@ -24,5 +24,6 @@ https://github.com/alertbox/devcontainers-try-bun (linux-based quick-starter dev
 
 https://hybrids.js.org/#/ (Framework for creating client-side web applications, UI components libraries, or single web components)
 
-https://lunrjs.com/ (Search Engine
-)
+https://lunrjs.com/ (Search Engine)
+
+https://github.com/puppeteer/puppeteer (Node.js API for Chrome)

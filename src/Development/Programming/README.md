@@ -40,6 +40,12 @@ https://docs.sonarsource.com/sonarqube/latest/setup-and-upgrade/install-the-serv
 
 https://docs.sonarsource.com/sonarqube/latest/
 
+https://medium.com/@praveenmuth2/automatically-analyze-code-with-sonarqube-when-a-new-pull-request-is-created-in-bitbucket-cloud-aa3fec03cabe
+
+https://dev.to/serializator/sonarqube-pull-requests-in-bitbucket-cloud-188b
+
+https://medium.com/@kxw07/sonarqube-with-maven-and-drone-ci-cab383af8616
+
 https://semgrep.dev/ (Static analysis, Find bugs and enforce code standards)
 
 https://coala.io/#/home?lang=Python (unified interface for linting and fixing code with a single configuration file)
@@ -114,6 +120,12 @@ https://www.graphviz.org (open source graph visualization software) [x]
 
 https://github.com/typicode/json-server
 
+https://docs.deepsource.com/docs/introduction (SonarQube alternative?!)
+
+https://nitro.unjs.io/ (Create web servers with everything you need and deploy them wherever you prefer)
+
+https://typicode.github.io/husky/ (Automatically lint your commit messages, code, and run tests upon committing or pushing)
+
 ### Changelog & Versioning
 
 https://kikobeats.github.io/automate-release/#/
@@ -155,3 +167,5 @@ https://ring-lang.github.io/doc1.18/dateandtime.html
 https://github.com/codecrafters-io/build-your-own-x (Master programming by recreating your favorite technologies from scratch)
 
 http://flowgorithm.org/index.html (free beginner's programming language that is based on graphical flowcharts)
+
+https://www.matematicamente.it/forum/post19212.html (Division as Sum of Subtractions)

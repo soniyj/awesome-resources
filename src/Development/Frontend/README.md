@@ -23,6 +23,16 @@ https://umami.is
 
 https://lerna.js.org/
 
+https://testsigma.com/blog/web-app-testing-checklist/
+
+https://qawerk.com/blog/website-testing-checklist/
+
+https://web.dev/articles/vitals#core-web-vitals
+
+https://web.dev/articles/inp
+
+https://web.dev/blog/inp-cwv-march-12
+
 ### UI
 
 https://semantic-ui.com/
@@ -48,6 +58,12 @@ https://ui.toast.com/tui-calendar
 https://developer.microsoft.com/en-us/fluentui#/controls/webcomponents
 
 https://leadsgorilla.io/founders-special/ (Example of UI)
+
+https://ui.shadcn.com/ [!]
+
+https://cva.style/docs
+
+https://ui.nuxt.com/getting-started [!]
 
 ### Framework
 

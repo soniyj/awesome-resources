@@ -4,6 +4,10 @@ https://www.hetzner.com/cloud
 
 https://github.com/filegator/filegator
 
+https://github.com/frappe/erpnext?tab=readme-ov-file (Free and Open Source Enterprise Resource Planning (ERP))
+
+https://github.com/erxes/erxes?tab=readme-ov-file (Source available experience management infrastructure. Pioneering the future of experiences with XOS (Experience Operating System). Hubspot + Qualtrics alternative)
+
 ### NextCloud
 
 https://github.com/nextcloud/all-in-one/blob/main/docker-compose.yml
