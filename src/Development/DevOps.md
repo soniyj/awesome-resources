@@ -117,6 +117,18 @@ https://thesmarthomejourney.com/2021/08/23/loki-grafana-log-aggregation/
 
 https://caddy.community/t/monitoring-caddy-server-with-grafana-prometheus-loki-on-debian/23314
 
+### Caddy Server
+
+https://caddyserver.com (reverse proxy)
+
+https://github.com/lucaslorentz/caddy-docker-proxy
+
+https://www.reddit.com/r/selfhosted/comments/1844zlx/questions_about_caddy_as_an_alternative_to/?rdt=64382
+
+https://caddy.community/t/traefik-as-router-caddy-as-server-on-docker/12142/8
+
+https://www.docker.com/blog/deploying-web-applications-quicker-and-easier-with-caddy-2/
+
 ### Terraform
 
 [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4)

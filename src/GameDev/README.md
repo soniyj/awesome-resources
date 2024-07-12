@@ -115,16 +115,6 @@ https://github.com/ProjectUnifree/unifree (Migrate Unity projects to other engin
 
 [Cocos - Learn To Create 3D Games With Our Cyberpunk Demo](https://www.youtube.com/watch?v=8riRSjPZCIs)
 
-https://gameanalytics.com/blog/5-things-when-designing-hyper-casual-games-joypac/
-
-https://kevurugames.com/blog/the-complete-guide-to-making-profitable-hyper-casual-games-design-tips-rates-and-upcoming-trends-for-2021/
-
-https://www.visartech.com/blog/understanding-hyper-casual-games/
-
-https://www.behance.net/search/projects?search=Hypercasual+Game+UI&sort=recommended&time=month
-
-https://ideausher.com/blog/hyper-casual-game-development/
-
 https://forum.unity.com/threads/what-would-be-a-good-gameplay-lengh-for-an-indie-game.311746/
 
 https://www.matthewtancik.com/nerf (Representing Scenes as Neural Radiance Fields for View Synthesis)
@@ -343,6 +333,24 @@ https://partner.steamgames.com/doc/api
 https://azurgames.com/blog/hyper-casual-game-development-then-and-now-did-three-years-make-a-difference/
 
 https://kevurugames.com/game-development/hyper-casual-game-development-services/
+
+https://gameanalytics.com/blog/5-things-when-designing-hyper-casual-games-joypac/
+
+https://kevurugames.com/blog/the-complete-guide-to-making-profitable-hyper-casual-games-design-tips-rates-and-upcoming-trends-for-2021/
+
+https://www.visartech.com/blog/understanding-hyper-casual-games/
+
+https://www.behance.net/search/projects?search=Hypercasual+Game+UI&sort=recommended&time=month
+
+https://ideausher.com/blog/hyper-casual-game-development/
+
+https://en.uptodown.com/android/hypercasual
+
+https://www.zegocloud.com/blog/hyper-casual-games
+
+https://appradar.com/blog/game-mechanics-for-hypercasual-games
+
+https://techpp.com/2020/04/01/addictive-casual-games-ios/
 
 ### Video Tutorials
 

@@ -64,8 +64,6 @@ https://stackoverflow.com/questions/8512200/simple-nix-tool-for-listening-to-htt
 
 https://sites.google.com/site/jimmyxu101/testing/use-tcpdump-to-monitor-http-traffic
 
-https://community.traefik.io/t/502-bad-gateway-solved/2947
-
 https://stackoverflow.com/questions/65870613/dart-convert-from-base64-to-hex
 
 https://www.libelium.com/forum/libelium_files/conf_ftp_server.txt

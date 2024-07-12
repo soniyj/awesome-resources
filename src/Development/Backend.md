@@ -2,8 +2,6 @@
 
 ### Generic
 
-https://caddyserver.com (reverse proxy)
-
 https://camel.apache.org
 
 ### API & Microservices

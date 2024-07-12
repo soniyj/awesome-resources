@@ -60,7 +60,7 @@ https://bigpicture.one/blog/waterfall-agile-hybrid-differences/
 
 [BigPicture - COMPLETE Overview 2024](https://www.youtube.com/watch?v=xzjOsR2LIrc)
 
-[THE BEST Bigicture Training for beginners!](https://www.youtube.com/watch?v=nB_3P6D0eEs) [x]
+[THE BEST Bigicture Training for beginners!](https://www.youtube.com/watch?v=nB_3P6D0eEs) [x] {watched}
 
 [BigPicture for Beginners: A Comprehensive Starter Guide](https://www.youtube.com/watch?v=BmmcoL3C9BE) [x]
 
@@ -93,3 +93,7 @@ https://bigpicture.one/blog/basic-tasks-bigpicture-jira-issues/
 https://community.atlassian.com/t5/App-Central/Agile-schedule-in-BigPicture-How-to-set-it-up/ba-p/1979008
 
 [BigPicture for Dummies: A Quick Look at The Best PPM Tool in Jira](https://www.youtube.com/watch?app=desktop&v=fE9XQsHjVBU)
+
+[BigPicture 8.1 features update - Box schedule based on scope!](https://www.youtube.com/watch?v=U7_uFhQugq8)
+
+[Automating Project Creation: Exploring Scope Cloning in BigPicture for Jira](https://www.youtube.com/watch?v=rf3abjGY5Ro)

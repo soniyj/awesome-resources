@@ -67,3 +67,9 @@ https://github.com/BlackBeltTechnology/traefik-keycloak-sso-reverse-proxy
 https://doc.traefik.io/traefik/middlewares/http/forwardauth/
 
 https://doc.traefik.io/traefik/user-guides/docker-compose/acme-tls/
+
+https://community.traefik.io/t/502-bad-gateway-solved/2947
+
+https://stackoverflow.com/questions/74839066/how-to-configure-traefik-to-handle-cors-preflight-requests
+
+https://doc.traefik.io/traefik/middlewares/http/headers/#cors-headers

@@ -10,6 +10,8 @@ https://docs.godotengine.org/en/stable/tutorials/scripting/singletons_autoload.h
 
 https://docs.godotengine.org/en/stable/classes/class_node.html#class-node-private-method-input
 
+https://docs.godotengine.org/en/stable/tutorials/rendering/multiple_resolutions.html
+
 ### Tutorials
 
 http://kidscancode.org/godot_recipes/
@@ -45,6 +47,8 @@ https://github.com/exploregamedev/endless_terrain
 https://dev.to/christinec_dev/lets-learn-godot-3d-by-making-an-endless-runner-game-part-1-project-overview-setup-4c42
 
 https://github.com/godotengine/awesome-godot
+
+https://forum.godotengine.org/t/mobile-screen-width-and-height/12184/2
 
 **Mobile**
 
@@ -108,6 +112,14 @@ https://ramatak.com/2023/02/24/godot-tutorial-porting-your-games-controls-for-mo
 
 [Godot Endless Runner #2 : Gridmap](https://www.youtube.com/watch?v=XTKZ42g9Qdc)
 
+ [The Magic of Gridmaps #GoGodotJam](https://www.youtube.com/watch?v=5BSsoNtWY9o)
+
+[Make Terrain Easily for Games Part 1-A : Blender / Godot Tutorial - From Scratch](https://www.youtube.com/watch?v=QntjGdLnCEk)
+
+[Beginner Godot Tutorial - Make a Snake Game in 10 Minutes!](https://www.youtube.com/watch?v=DlRP-UBR-2A) [x]
+
+[How to make Snake in Godot 4 (Complete Tutorial) 🐍🍎🕹️](https://www.youtube.com/watch?v=vWT0UKWmGjg)
+
 ### Asset
 
 [Starter Kit City Builder](https://godotengine.org/asset-library/asset/2174)
@@ -163,6 +175,8 @@ https://github.com/gdquest-demos/godot-procedural-generation
 https://github.com/topics/city-builder?l=gdscript
 
 https://github.com/the-mirror-gdp/the-mirror (The open-source Roblox & UEFN alternative) [!]
+
+https://globalstats.io/api#StatisticsLeaderboard
 
 ### Unity to Godot
 

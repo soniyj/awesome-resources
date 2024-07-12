@@ -24,6 +24,8 @@ https://medium.com/@qa.gary.parker/using-mermaid-chatgpt-for-test-case-generatio
 
 https://venngage.com/blog/how-to-create-a-flowchart/
 
+https://github.com/mermaidjs/mermaid-live-editor/blob/master/Dockerfile
+
 ### Design
 
 https://www.charliecleveland.com/miro-the-one-tool-to-rule-them-all/
