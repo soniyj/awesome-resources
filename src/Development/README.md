@@ -45,3 +45,5 @@ https://greensoftware.foundation/ (Green Software Foundation)
 https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/ (Interesting)
 
 https://github.com/stereolabs/zed-sdk (Zed Cameras)
+
+https://tree-sitter.github.io/tree-sitter/ (Parser Generator)

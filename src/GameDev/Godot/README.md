@@ -120,6 +120,8 @@ https://ramatak.com/2023/02/24/godot-tutorial-porting-your-games-controls-for-mo
 
 [How to make Snake in Godot 4 (Complete Tutorial) 🐍🍎🕹️](https://www.youtube.com/watch?v=vWT0UKWmGjg)
 
+[Coding an Arkanoid/Breakout Clone in Godot 4 (Part 1)](https://www.youtube.com/watch?app=desktop&v=JJf6tumJZzw)
+
 ### Asset
 
 [Starter Kit City Builder](https://godotengine.org/asset-library/asset/2174)
@@ -177,6 +179,10 @@ https://github.com/topics/city-builder?l=gdscript
 https://github.com/the-mirror-gdp/the-mirror (The open-source Roblox & UEFN alternative) [!]
 
 https://globalstats.io/api#StatisticsLeaderboard
+
+### Projects
+
+https://github.com/Una1n/Arkanoid
 
 ### Unity to Godot
 

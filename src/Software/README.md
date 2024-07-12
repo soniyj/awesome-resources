@@ -76,6 +76,8 @@ http://www.uml-diagrams.org/use-case-include.html
 
 http://kicad-pcb.org/
 
+https://www.kicad.org
+
 ### GIS
 
 https://qgis.org/en/site/

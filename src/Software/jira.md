@@ -44,6 +44,8 @@ https://marketplace.atlassian.com/apps/1222624/clockify-time-tracking-timesheet?
 
 ### BigPictures
 
+**Doc**
+
 https://appfire.atlassian.net/wiki/spaces/DLP/pages/297670134/Getting+started?ref=app&product=eu.softwareplant.bigpicture&utm_source=app
 
 https://appfire.atlassian.net/wiki/spaces/DLP/pages/298419027/Concept+of+a+box
@@ -57,6 +59,20 @@ https://appfire.atlassian.net/wiki/spaces/DLP/pages/297931202/Create+a+Box+based
 https://bigpicture.one/blog/classic-agile-hybrid-time-management/
 
 https://bigpicture.one/blog/waterfall-agile-hybrid-differences/
+
+https://bigpicture.one/blog/jira-managing-cross-project-dependencies/
+
+https://bigpicture.one/blog/managing-complex-projects/
+
+https://community.atlassian.com/t5/App-Central/5-steps-to-getting-started-with-BigPicture/ba-p/1755665
+
+https://bigpicture.one/blog/portfolio-program-project/
+
+https://bigpicture.one/blog/basic-tasks-bigpicture-jira-issues/
+
+https://community.atlassian.com/t5/App-Central/Agile-schedule-in-BigPicture-How-to-set-it-up/ba-p/1979008
+
+**Video**
 
 [BigPicture - COMPLETE Overview 2024](https://www.youtube.com/watch?v=xzjOsR2LIrc)
 
@@ -78,22 +94,12 @@ https://bigpicture.one/blog/waterfall-agile-hybrid-differences/
 
 [How to Plan & Lead Incredible Projects using BigPicture?](https://www.youtube.com/watch?v=s-fOfdVKF5Y)
 
-https://bigpicture.one/blog/jira-managing-cross-project-dependencies/
-
-https://bigpicture.one/blog/managing-complex-projects/
-
-https://community.atlassian.com/t5/App-Central/5-steps-to-getting-started-with-BigPicture/ba-p/1755665
-
 [Program vs. Portfolio vs. Project in BigPicture](https://community.atlassian.com/t5/App-Central/Program-vs-Portfolio-vs-Project-in-BigPicture/ba-p/2013396)
-
-https://bigpicture.one/blog/portfolio-program-project/
-
-https://bigpicture.one/blog/basic-tasks-bigpicture-jira-issues/
-
-https://community.atlassian.com/t5/App-Central/Agile-schedule-in-BigPicture-How-to-set-it-up/ba-p/1979008
 
 [BigPicture for Dummies: A Quick Look at The Best PPM Tool in Jira](https://www.youtube.com/watch?app=desktop&v=fE9XQsHjVBU)
 
 [BigPicture 8.1 features update - Box schedule based on scope!](https://www.youtube.com/watch?v=U7_uFhQugq8)
 
 [Automating Project Creation: Exploring Scope Cloning in BigPicture for Jira](https://www.youtube.com/watch?v=rf3abjGY5Ro)
+
+[The BEST BigPicture Training - fall in love with this tool with us!](https://www.youtube.com/watch?app=desktop&v=lnGviDVhntM)

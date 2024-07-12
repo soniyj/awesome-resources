@@ -53,3 +53,5 @@ https://cursor.sh/ (VSCode + AI)
 https://codeium.com/
 
 https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/ (Your Personalized AI Chatbot)
+
+https://zed.dev (have a look)
