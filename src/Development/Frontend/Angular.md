@@ -74,9 +74,17 @@ https://blog.mgechev.com/2021/01/24/design-pattens-in-open-source-projects-part-
 
 https://www.rx-angular.io/ (Performance & DX)
 
+**Cache**
+
 https://stackoverflow.com/questions/39647810/how-to-prevent-browser-cache-on-angular-2-site
 
 https://elelad.medium.com/avoid-cache-trap-when-serving-angular-app-c5981653d156
+
+https://codeomelet.com/posts/nginx-cache-config-for-dockerized-angular-app-ngdocker
+
+https://shape.host/resources/how-to-optimize-nginx-for-an-angular-application
+
+https://faun.pub/my-nginx-configuration-for-angular-6f748a4ff683
 
 ### Authentication
 
