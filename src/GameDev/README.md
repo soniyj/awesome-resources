@@ -135,6 +135,18 @@ https://simplegametutorials.github.io
 
 https://alliballibaba.github.io/Sokoban-Level-Generator/
 
+https://hotpot.ai/game-asset-generator
+
+https://www.rosebud.ai (AI Game Maker)
+
+https://www.scenario.com (Assets?)
+
+https://ludo.ai (AI Tools)
+
+https://developer.nvidia.com/industries/game-development
+
+https://medium.com/android-bits/most-frequently-sdks-used-by-top-game-apps-8977f18d8cb0
+
 ### Game Design
 
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/
@@ -207,6 +219,8 @@ https://www.ultraengine.com/
 https://unigine.com/
 
 http://orx-project.org
+
+https://manu.co (Video Game Maker - No Code)
 
 ### GUI
 
@@ -393,3 +407,9 @@ https://dev.epicgames.com/docs/epic-online-services/eos-get-started/get-started-
 https://dev.epicgames.com/docs/epic-account-services/getting-started
 
 https://dev.epicgames.com/docs/web-api-ref
+
+### Schools
+
+https://hub.istitutovolta.eu/corso-game-design?utm_term=game%20developer&utm_campaign=VOLTA+%7C+Game+Designer&utm_source=adwords&utm_medium=ppc&hsa_acc=8104743029&hsa_cam=945265387&hsa_grp=53818240317&hsa_ad=311153756289&hsa_src=g&hsa_tgt=kwd-10300146&hsa
+
+https://www.rainbowacademy.it/master-rainbow-academy/game-production/?gad_source=1&gclid=EAIaIQobChMIpZW83vy4hwMVTJiDBx1_aiWWEAAYASAAEgLkovD_BwE

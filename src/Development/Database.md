@@ -220,7 +220,7 @@ https://tikv.org (highly scalable, low latency, and easy to use key-value databa
 
 https://tdengine.com (next generation data historian purpose-built for Industry 4.0 and Industrial IoT)
 
-https://www.nebula-graph.io (Open Source, Distributed, Scalable, Lightning Fast Graph Database)
+https://www.nebula-graph.io (Open Source, Distributed, Scalable, Lightning Fast Graph Database) [!]
 
 https://github.com/dolthub/dolt (SQL database that you can fork, clone, branch, merge, push and pull just like a Git repository)
 

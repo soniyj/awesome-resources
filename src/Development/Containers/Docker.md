@@ -66,6 +66,8 @@ https://phoenixnap.com/kb/set-up-a-private-docker-registry
 
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-private-docker-registry-on-ubuntu-20-04
 
+https://goharbor.io (open source registry that secures artifacts with policies and role-based access control)
+
 ### Container Runtime
 
 https://mobyproject.org/

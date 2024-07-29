@@ -33,6 +33,8 @@ https://web.dev/articles/inp
 
 https://web.dev/blog/inp-cwv-march-12
 
+https://stackoverflow.com/questions/49547/how-do-we-control-web-page-caching-across-all-browsers
+
 ### UI
 
 https://semantic-ui.com/

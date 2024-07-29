@@ -24,6 +24,10 @@ https://www.biconomy.io/
 
 https://chainlist.org
 
+https://www.invenglobal.com/articles/17566/the-top-blockchain-gaming-sdks
+
+https://developers.diem.com/docs/tutorials/tutorial-my-first-client/ (to check)
+
 ### YouTube Channels and Videos
 
 https://www.youtube.com/channel/UCnxrdFPXJMeHru_b4Q_vTPQ/featured

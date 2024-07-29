@@ -38,4 +38,4 @@ https://budibase.com
 
 https://www.nowa.dev/
 
-https://github.com/webstudio-is/webstudio (Open Source alternative to Webflow)
+https://github.com/webstudio-is/webstudio (Open Source alternative to Webflow) [!]

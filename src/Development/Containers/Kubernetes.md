@@ -77,6 +77,9 @@ https://www.tutorialspoint.com/kubernetes/index.htm
 https://kubebyexample.com/
 
 https://microk8s.io/
+
+https://www.spinkube.dev (open source project that streamlines developing, deploying and operating WebAssembly workloads in Kubernetes)
+
 ##### Kubernetes on Mac/PC
 
 https://medium.com/containers-101/local-kubernetes-for-mac-minikube-vs-docker-desktop-f2789b3cad3a

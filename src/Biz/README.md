@@ -23,6 +23,8 @@ https://www.oysterhr.com (hire anywhere accounting)
 
 https://www.paciolo.com/versioni-e-prezzi/
 
+https://openl-tablets.org/what-is-openl-tablets (to check)
+
 <a name="italianlaw"/></a>
 ### Italian Law
 

@@ -50,6 +50,8 @@ https://github.com/godotengine/awesome-godot
 
 https://forum.godotengine.org/t/mobile-screen-width-and-height/12184/2
 
+https://www.gdquest.com/tutorial/godot/2d/scene-transition-rect/
+
 **Mobile**
 
 https://docs.godotengine.org/en/stable/tutorials/platform/ios/plugins_for_ios.html
@@ -155,6 +157,8 @@ https://github.com/YuriSizov/godot-pathways (Make a network of roads with ease a
 https://github.com/edwin-cox/godot-infinite-worldmap (Procedural infinite world map)
 
 https://github.com/blackears/cyclopsLevelBuilder/tree/master (Wuickly build environments/levels)
+
+https://github.com/endlessm/godot-block-coding (Block-based visual programming plugin for Godot)
 
 **EOS**
 

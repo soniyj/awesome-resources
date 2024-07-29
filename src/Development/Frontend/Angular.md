@@ -74,6 +74,10 @@ https://blog.mgechev.com/2021/01/24/design-pattens-in-open-source-projects-part-
 
 https://www.rx-angular.io/ (Performance & DX)
 
+https://stackoverflow.com/questions/39647810/how-to-prevent-browser-cache-on-angular-2-site
+
+https://elelad.medium.com/avoid-cache-trap-when-serving-angular-app-c5981653d156
+
 ### Authentication
 
 https://medium.com/@monkov/angular-using-httpinterceptor-for-token-refreshing-3f04ea2ccb81

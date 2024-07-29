@@ -15,3 +15,5 @@ https://www.logicaldoc.com/ (Community and Enterprise Licenses)
 https://rock.so/
 
 https://plaky.com (Free !) [To Test]
+
+https://medium.com/capital-one-tech/2022-open-source-bpm-comparison-33b7b53e9c98
