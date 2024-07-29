@@ -160,6 +160,10 @@ https://github.com/blackears/cyclopsLevelBuilder/tree/master (Wuickly build envi
 
 https://github.com/endlessm/godot-block-coding (Block-based visual programming plugin for Godot)
 
+https://godotengine.org/asset-library/asset/2986 (datatable system like what you can found inside UE)
+
+https://godotassetlibrary.com/asset/RMiyDF/datalogue (simple data management)
+
 **EOS**
 
 https://www.youtube.com/watch?v=ENyvF4yVjKg
