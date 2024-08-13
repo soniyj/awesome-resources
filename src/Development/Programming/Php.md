@@ -31,3 +31,5 @@ https://hub.docker.com/r/spiralout/docker-apache-php-composer
 https://semaphoreci.com/community/tutorials/dockerizing-a-php-application
 
 https://github.com/eduardorfreitas93/traefik-nginx-phpfpm
+
+https://github.com/ClaudioCarrera/traefik-v2-docker-laravel-example

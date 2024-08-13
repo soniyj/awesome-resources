@@ -4,12 +4,6 @@ https://www.bogotobogo.com/DevOps/Docker/Docker-Compose-Nginx-Reverse-Proxy-Mult
 
 https://itnext.io/run-multiple-isolated-web-applications-on-containers-with-a-single-ip-for-free-52d216f3e810?gi=40dcb435591a
 
-https://medium.com/@mykola.veriga/how-to-run-stand-alone-traefik-with-multiple-domains-8762caf07713
-
-https://hollo.me/devops/routing-to-multiple-docker-compose-development-setups-with-traefik.html
-
-https://medium.com/@luiscoutinh/reverse-proxy-with-docker-traefik-nginx-php-mysql-mosquitto-phpmyadmin-basic-c9b588bda63a
-
 https://www.elastic.co/what-is/elk-stack
 
 https://opensearch.org/
@@ -165,8 +159,6 @@ https://mherman.org/blog/dockerizing-a-react-app/
 https://www.cloudbees.com/blog/using-docker-compose-for-php-development
 
 https://symfony.com/doc/current/setup/web_server_configuration.html#nginx
-
-https://github.com/ClaudioCarrera/traefik-v2-docker-laravel-example
 
 https://github.com/firmanJS/Dockerize-Codeigniter-With-docker-compose
 
