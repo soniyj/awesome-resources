@@ -22,6 +22,8 @@ https://docusaurus.io (Documentation)
 
 https://docusaurus.community/knowledge/deployment/docker/?package-managers=npm&target=caddy
 
+https://docusaurus.community/knowledge/deployment/docker/?package-managers=npm&target=serve (interesting docker options)
+
 ### Others
 
 https://memphis.dev/ (data streaming platform)

@@ -82,3 +82,7 @@ https://stackoverflow.com/questions/58643856/traefik-2-0-path-router-rule-not-wo
 https://community.traefik.io/t/mapping-to-path-in-docker-container/12806/3
 
 https://community.traefik.io/t/combining-host-based-and-path-based-routing/6670/3
+
+https://github.com/antonputra/tutorials/tree/main/lessons/153 (interesting has several tutorials)
+
+https://www.youtube.com/watch?v=mZbLvGQqEvY (good insight)
