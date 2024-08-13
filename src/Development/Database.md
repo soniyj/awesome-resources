@@ -260,6 +260,8 @@ https://github.com/marqo-ai/marqo (End-to-end vector search engine for both text
 
 https://github.com/authzed/spicedb (Graph database purpose-built for storing and evaluating access control data)
 
+https://github.com/GlareDB/glaredb (An analytics DBMS for distributed data)
+
 ### Tutorials
 
 https://www.w3schools.com/sql/sql_intro.asp

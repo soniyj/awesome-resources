@@ -144,6 +144,8 @@ https://docs.portainer.io/advanced/access-control
 
 https://docs.portainer.io/advanced/docker-roles-and-permissions
 
+https://docs.portainer.io/advanced/reverse-proxy/traefik
+
 https://app.swaggerhub.com/search?owner=portainer
 
 https://app.swaggerhub.com/apis-docs/portainer/portainer-ee/2.19.4#/

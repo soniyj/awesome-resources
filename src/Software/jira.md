@@ -2,6 +2,8 @@
 
 ### Tutorials
 
+https://www.atlassian.com/agile/project-management/workflow [x]
+
 https://university.atlassian.com/student/collection/850385-learning-paths?utm_source=partner-email&utm_medium=email&utm_campaign=P%3Aatlassian%2AO%3Acommunity%2AI%3Afree-on-demand%2A&jobid=106569068&subid=1532344793
 
 https://community.atlassian.com/t5/App-Central/How-to-use-templates-in-Issue-Templates-for-Jira-app-Create/ba-p/2461323
