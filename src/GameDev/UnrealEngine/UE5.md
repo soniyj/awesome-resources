@@ -174,6 +174,8 @@ https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-g
 
 [How to Convert Skeletal Mesh into Static Mesh in Unreal Engine - UE Beginner Tutorial](https://www.youtube.com/watch?v=xmm8RMJOJ3Y) [!]
 
+[Making a City Builder](https://www.youtube.com/@haydenmarlowe/videos?app=desktop&cbrd=1)
+
 ### Git
 
 [Complete Guide to Git and Unreal for Beginners - UE4 / UE5](https://www.youtube.com/watch?v=5J0CczTshKY)

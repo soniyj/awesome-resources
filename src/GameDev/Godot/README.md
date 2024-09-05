@@ -52,6 +52,12 @@ https://forum.godotengine.org/t/mobile-screen-width-and-height/12184/2
 
 https://www.gdquest.com/tutorial/godot/2d/scene-transition-rect/
 
+https://stackoverflow.com/questions/68398872/how-can-i-detect-mouse-input-on-an-area2d-node-in-godot-viewport-and-shape-idx [!]
+
+https://godotforums.org/d/36430-change-button-texture-at-function
+
+https://forum.godotengine.org/t/constantly-moving-an-object-up-and-down-between-two-points/38832
+
 **Mobile**
 
 https://docs.godotengine.org/en/stable/tutorials/platform/ios/plugins_for_ios.html
@@ -123,6 +129,8 @@ https://ramatak.com/2023/02/24/godot-tutorial-porting-your-games-controls-for-mo
 [How to make Snake in Godot 4 (Complete Tutorial) 🐍🍎🕹️](https://www.youtube.com/watch?v=vWT0UKWmGjg)
 
 [Coding an Arkanoid/Breakout Clone in Godot 4 (Part 1)](https://www.youtube.com/watch?app=desktop&v=JJf6tumJZzw)
+
+[Godot 4 Tween Tutorial](https://www.youtube.com/watch?app=desktop&v=GN_HMhvYnYA)
 
 ### Asset
 

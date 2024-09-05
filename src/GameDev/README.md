@@ -147,6 +147,12 @@ https://developer.nvidia.com/industries/game-development
 
 https://medium.com/android-bits/most-frequently-sdks-used-by-top-game-apps-8977f18d8cb0
 
+https://gamefromscratch.com/google-gamengen-recreating-doom-entirely-with-ai/
+
+https://github.com/Farama-Foundation/ViZDoom
+
+https://vizdoom.cs.put.edu.pl
+
 ### Game Design
 
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/

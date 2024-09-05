@@ -71,6 +71,18 @@ https://jan.ai/ (Turn your computer into an AI machine Open Source) [!]
 
 https://lmstudio.ai/ (Discover, download, and run local LLMs) [!]
 
+### Apple Intelligence
+
+*Note: It isn't part of Apple but Referenced by*
+
+https://huggingface.co/
+
+https://huggingface.co/spaces/EPFL-VILAB/4M
+
+https://4m.epfl.ch/
+
+https://github.com/apple/ml-4m
+
 ### Links
 
 1) www.pdfdrive.com è il più grande sito di download di libri PDF gratuiti. Rivendica oltre 225 milioni di titoli.
