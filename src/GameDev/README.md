@@ -143,6 +143,14 @@ https://www.scenario.com (Assets?)
 
 https://ludo.ai (AI Tools)
 
+https://ludo.ai/blog/how-to-use-ai-generated-art-for-your-video-games
+
+https://www.layer.ai/ (Create professional game art, without limits)
+
+https://www.freepik.com/free-photos-vectors/cartoon-video-game
+
+https://discover.therookies.co/2019/03/29/how-to-create-graphics-for-a-video-game/
+
 https://developer.nvidia.com/industries/game-development
 
 https://medium.com/android-bits/most-frequently-sdks-used-by-top-game-apps-8977f18d8cb0
