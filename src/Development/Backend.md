@@ -42,6 +42,8 @@ https://tyk.io/
 
 https://github.com/TykTechnologies/tyk?tab=readme-ov-file
 
+https://stargate.io (API gateway for your Apache Cassandra database)
+
 **Hasura**
 
 https://hasura.io/ [Instant GraphQL for all your data] (self-hosted open source) {Postgres}

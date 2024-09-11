@@ -70,6 +70,8 @@ https://www.thebasemesh.com (1000+ Base Meshes 100% Free. CC0 License)
 
 https://poly.pizza/m/a_HKCtYAv2W (Polygons and Meshes. Free?)
 
+https://www.bforartists.de/ (Blender For Artists)
+
 ### AI
 
 https://openart.ai/home
