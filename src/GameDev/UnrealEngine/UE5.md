@@ -94,6 +94,8 @@ https://unrealcpp.com/create-static-mesh/
 
 https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-generation-overview
 
+https://www.tomlooman.com/unreal-engine-cpp-guide/
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)

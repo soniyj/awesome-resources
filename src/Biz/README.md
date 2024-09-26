@@ -102,6 +102,14 @@ https://www.agenziacarpicasa.it/calcola-il-mutuo-in-base-al-tuo-stipendio-con-ca
 
 https://www.mutuiqui.it/mutuo [!]
 
+https://www.tassomutuo.it/cerca-mutuo
+
+https://www.pmi.it/economia/finanziamenti/397855/come-si-calcola-la-rata-del-mutuo.html#
+
+https://www.facile.it/mutui/guida/formule-matematiche-per-il-calcolo-del-mutuo.html?utm_source=google&utm_medium=cpc&utm_term=&matchtype=&utm_campaign=M+-+All+Devices+-+DSA&gad_source=1&gbraid=0AAAAADnJnRUgI7HYLK3ZeAxwg0_QwCHDA&gclid=EAIaIQobChMI85vKiZfJi
+
+https://economiapertutti.bancaditalia.it/calcolatori/calcolatore-del-capitale-finanziabile-a-partire-dalla-rata/?dotcache=refresh&dotcache=refresh
+
 <a name="uklaw"/></a>
 ### UK Law
 

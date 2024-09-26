@@ -58,6 +58,18 @@ https://godotforums.org/d/36430-change-button-texture-at-function
 
 https://forum.godotengine.org/t/constantly-moving-an-object-up-and-down-between-two-points/38832
 
+https://www.nightquestgames.com/ways-to-communicate-between-nodes-in-godot/
+
+https://docs.godotengine.org/en/stable/tutorials/math/random_number_generation.html#get-a-random-array-element
+
+https://forum.godotengine.org/t/signaling-from-one-gdscript-to-another/26369/3
+
+https://forum.godotengine.org/t/connecting-a-signal-to-a-function-in-another-script/63499
+
+https://forum.godotengine.org/t/how-to-emit-a-signal-from-one-script-to-another-to-say-a-var-is-ready-invalid-call-nonexistent-function-set-text-in-base-nil/40168/6
+
+https://forum.godotengine.org/t/is-there-auto-font-size-like-in-unity/41243/12
+
 **Mobile**
 
 https://docs.godotengine.org/en/stable/tutorials/platform/ios/plugins_for_ios.html
