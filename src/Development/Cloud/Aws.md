@@ -1,6 +1,6 @@
 # AWS Resources
 
-https://explore.skillbuilder.aws/learn
+### Docs
 
 https://aws-startup-lofts.com/emea/
 
@@ -15,6 +15,14 @@ https://aws.amazon.com/chime/pricing/
 https://aws.amazon.com/codestar/
 
 https://aws.amazon.com/fargate/?nc=sn&loc=1
+
+### Tutorials
+
+https://explore.skillbuilder.aws/learn
+
+https://blog.gruntwork.io/a-crash-course-on-aws-59e4bc0bf398#89c7
+
+https://www.simplilearn.com/tutorials/aws-tutorial [!]{lot of tutorials}
 
 ### Region
 

@@ -22,6 +22,16 @@ https://direnv.net (It augments existing shells with a new feature)
 
 https://github.com/gcavalcante8808/htpwd (A web Interface for users change their own passwords on a htpasswd file)
 
+https://scicomp.aalto.fi/scicomp/shell/
+
+[Vim Crash Course](https://gist.github.com/dmsul/8bb08c686b70d5a68da0e2cb81cd857f)
+
+https://medium.com/@tburgess57/the-vi-text-editor-crash-course-bacdedfe71
+
+https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu
+
 ### Scheduling and Cron
 
 https://mesos.github.io/chronos/docs/
@@ -53,3 +63,4 @@ https://owlhowto.com/how-to-disable-password-on-ssh/
 https://askubuntu.com/questions/259739/kswapd0-is-taking-a-lot-of-cpu
 
 https://askubuntu.com/questions/1224927/cpu-100-with-kswapd0-process-although-no-swap-is-needed
+

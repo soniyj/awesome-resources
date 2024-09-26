@@ -12,6 +12,12 @@ https://cloud.google.com/sdk/docs/downloads-docker
 
 https://support.google.com/a/answer/7576830 (Set session length for Google services)
 
+https://cloud.google.com/artifact-registry/docs
+
+https://jc1175.medium.com/a-crash-course-in-google-cloud-platform-77c7baf5ca69
+
+https://www.youtube.com/watch?v=e385hDgXaAQ (it is quite long so do it from time to time);
+
 ### Kubernetes
 
 https://cloud.google.com/kubernetes-engine/docs/quickstart

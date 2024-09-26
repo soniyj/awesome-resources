@@ -48,6 +48,12 @@ https://blog.giovannidemizio.eu/2021/05/24/how-to-set-user-and-group-in-docker-c
 
 https://codefresh.io/docs/docs/example-catalog/ci-examples/build-an-image-with-build-arguments/
 
+https://blog.gruntwork.io/a-crash-course-on-docker-34073b9e1833;
+
+https://softchris.github.io/pages/docker-concepts.html#the-basics
+
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04
+
 **OS (Win&Linux)**
 
 https://medium.com/axon-technologies/installing-a-windows-virtual-machine-in-a-linux-docker-container-c78e4c3f9ba1
