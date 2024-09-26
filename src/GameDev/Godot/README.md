@@ -144,6 +144,12 @@ https://ramatak.com/2023/02/24/godot-tutorial-porting-your-games-controls-for-mo
 
 [Godot 4 Tween Tutorial](https://www.youtube.com/watch?app=desktop&v=GN_HMhvYnYA)
 
+[Game Manager - Score - Make a game like Candy Crush using Godot](https://www.youtube.com/watch?v=aqfNFeFMDhk)
+
+[Godot Match 3 Counter](https://www.youtube.com/watch?v=gQWbGp3ied0)
+
+[Godot Tutorial: Creating a save game manager](https://www.youtube.com/watch?v=9zNEErZtlnc)
+
 ### Asset
 
 [Starter Kit City Builder](https://godotengine.org/asset-library/asset/2174)
