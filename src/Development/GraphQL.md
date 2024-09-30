@@ -72,6 +72,8 @@ https://www.apollographql.com/tutorials/lift-off-part1/01-feature-overview-and-s
 
 https://chrome.google.com/webstore/detail/apollo-client-devtools/jdkknkkbebbapilgoeccciglkfbmbnfm
 
+https://www.apollographql.com/blog/how-to-use-apollo-sandbox-on-your-localhost
+
 ### AWS
 
 https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7

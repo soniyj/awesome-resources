@@ -58,12 +58,20 @@ https://github.com/IAmFrench/GSuite-as-identity-Provider-IdP-for-Office-365-or-A
 
 https://support.okta.com/help/s/article/SSO-from-Okta-to-office365-shows-error-AADSTS51004?language=en_US
 
+https://support.google.com/a/users/answer/7212025?hl=en4
+
 **Microsoft Side**
 
 https://learn.microsoft.com/en-us/education/windows/configure-aad-google-trust
 
 https://learn.microsoft.com/it-it/exchange/troubleshoot/email-alias/proxy-address-being-used#resolution
 
+https://pastebin.com/buTh1mcm
+
+```
+Script for removing federation from a managed domain:
+Set-MsolDomainAuthentication -DomainName "Your domain" -Authentication managed
+```
 
 ### Google Docs
 

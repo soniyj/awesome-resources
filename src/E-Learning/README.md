@@ -14,6 +14,8 @@ https://www.codecademy.com/
 
 https://www.edx.org
 
+[450 corsi Ivy League che puoi seguire, da oggi, gratuitamente online](https://drive.google.com/file/d/1l_7gVD2FcKDlOLyoArLcPQnLjBV8Cs8r/view)
+
 **HR**
 
 https://exercism.org (Free, Programming)

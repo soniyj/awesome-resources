@@ -94,6 +94,8 @@ https://www.cloudsavvyit.com/15158/10-tools-that-complement-docker/
 
 https://github.com/chaifeng/ufw-docker (universal firewall for linux working on docker!)
 
+https://github.com/chaifeng/ufw-docker/issues/6
+
 https://github.com/dokku/dokku (An open source PAAS alternative to Heroku)
 
 https://github.com/chainguard-images/images

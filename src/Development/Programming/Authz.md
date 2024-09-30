@@ -69,3 +69,5 @@ https://keepgrowing.in/tools/keycloak-in-docker-4-how-to-define-user-privileges-
 https://www.appsdeveloperblog.com/keycloak-rest-api-create-a-new-user/?utm_content=cmp-true
 
 https://github.com/sventorben/keycloak-restrict-client-auth
+
+https://documenter.getpostman.com/view/7294517/SzmfZHnd#f0ede40d-d0d5-4315-86dc-1be652017dd9
