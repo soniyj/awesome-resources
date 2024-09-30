@@ -97,6 +97,12 @@ https://developer.android.com/google/play/developer-api.html#subscriptions_api_o
 
 https://developers.google.com/android-publisher/api-ref/purchases/subscriptions#resource
 
+```
+keytool -export -rfc -keystore upload.keystore -alias uploadkey -file upload_certificate.pem
+
+keytool -v -list -keystore /path/to/keystore
+```
+
 ### Chat
 
 https://dashboard.applozic.com/ (almost free, seems the best) [ios,android,js,phonegap,ionic,xamarin,api]

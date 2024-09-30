@@ -179,3 +179,5 @@ https://github.com/codecrafters-io/build-your-own-x (Master programming by recre
 http://flowgorithm.org/index.html (free beginner's programming language that is based on graphical flowcharts)
 
 https://www.matematicamente.it/forum/post19212.html (Division as Sum of Subtractions)
+
+["Stop Writing Dead Programs" by Jack Rusher (Strange Loop 2022)](https://www.youtube.com/watch?v=8Ab3ArE8W3s) [!]

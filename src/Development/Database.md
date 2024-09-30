@@ -84,6 +84,8 @@ https://firebase.google.com/docs/hosting/quickstart
 
 https://clemfournier.medium.com/how-to-get-my-firebase-service-account-key-file-f0ec97a21620
 
+https://gist.github.com/mbleigh/9c8680cf319ace2f506f57380da66e7d (Fetch All Files from Firebase Hosting)
+
 **Backup Hosting**
 
 https://gist.github.com/mbleigh/9c8680cf319ace2f506f57380da66e7d

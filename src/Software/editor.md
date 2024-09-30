@@ -38,6 +38,8 @@ https://github.com/bredej/vscode-conan-remote
 
 https://dominikberner.ch/using-devcontainers-with-cpp/
 
+https://morioh.com/a/de68c84561e5/how-to-use-the-go-dev-container-for-visual-studio-code#google_vignette
+
 **ChatGPT**
 
 https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt

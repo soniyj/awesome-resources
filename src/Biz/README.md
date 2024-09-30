@@ -27,6 +27,8 @@ https://openl-tablets.org/what-is-openl-tablets (to check)
 
 https://giighire.com
 
+https://blog.tito.io/posts/event-sponsorship-proposal/
+
 <a name="italianlaw"/></a>
 ### Italian Law
 

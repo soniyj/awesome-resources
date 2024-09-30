@@ -44,6 +44,8 @@ http://masteringionic.com/blog/2018-01-23-using-the-html5-filereader-api-and-php
 
 https://medium.com/helloparithi/how-to-build-a-responsive-login-form-using-ionic-4-7a74b776884d
 
+https://eliteionic.com/tutorials/using-ngrx-effects-for-data-loading-in-an-ionic-angular-application/#2-create-the-actions
+
 ### PWA
 
 https://ionicthemes.com/tutorials/about/the-complete-guide-to-progressive-web-apps-with-ionic4

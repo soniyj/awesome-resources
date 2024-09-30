@@ -16,6 +16,8 @@ https://tiga.org/policy-and-public-affairs/video-games-investment-fund
 
 https://www.myriadassociates.com/news/2020/government-support-for-the-uk-gaming-sector/
 
+https://wale.ai/ (Data-Driven VC tool)
+
 <a name="gaming"/></a>
 ### Gaming
 

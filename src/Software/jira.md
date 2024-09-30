@@ -34,7 +34,7 @@ https://confluence.atlassian.com/jirakb/how-to-prevent-issues-from-being-closed-
 
 https://community.atlassian.com/t5/Jira-questions/Story-moved-back-from-a-quot-Done-quot-status-to-an-quot-In/qaq-p/1713922
 
-
+https://www.atlassian.com/blog/jira/jql-the-most-flexible-way-to-search-jira-14
 
 ### Video Tutorials
 

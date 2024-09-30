@@ -60,6 +60,10 @@ https://hasura.io/docs/latest/getting-started/docker-simple/
 
 https://hasura.io/docs/latest/api-reference/restified/
 
+https://hasura.io/docs/2.0/api-reference/metadata-api/index/
+
+https://hasura.io/docs/2.0/api-reference/schema-api/index/
+
 https://hasura.io/blog/turn-your-go-rest-api-to-graphql-using-hasura-actions
 
 https://dev.to/mrtousif/hasura-and-keycloak-integration-with-nestjs-server-without-using-passportjs-4kjh
@@ -75,6 +79,8 @@ https://hasura.io/learn/graphql/hasura-authentication/integrations/keycloak/#set
 https://hasura.io/blog/best-practices-of-using-jwt-with-graphql [?]
 
 https://github.com/janhapke/hasura-keycloak
+
+https://github.com/hasura/metadata-api-example/blob/main/simple/client.ts
 
 Hasura V3 (Beta):
 https://hasura.io/docs/3.0/index

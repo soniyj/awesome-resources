@@ -1,5 +1,11 @@
 # Repository Resources
 
+### Tutorials
+
+https://www.conventionalcommits.org/en/v1.0.0/
+
+https://github.com/conventional-changelog/standard-version
+
 ### Mono Repository
 
 https://github.com/korfuri/awesome-monorepo
