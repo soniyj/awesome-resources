@@ -6,6 +6,8 @@ https://www.tensorflow.org/lite/examples
 
 https://cloud.google.com/vision/automl/docs/
 
+https://cloud.google.com/vision/docs/fulltext-annotations
+
 http://imageai.org/
 
 https://www.ibm.com/watson/services/visual-recognition/

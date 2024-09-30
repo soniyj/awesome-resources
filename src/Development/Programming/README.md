@@ -10,6 +10,14 @@
 
 https://pypl.github.io/PYPL.html
 
+### Programmin Languages Creation
+
+https://dev.to/evantypanski/writing-a-simple-programming-language-from-scratch-part-3-1d7l
+
+https://mukulrathi.com/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/
+
+https://www.cs.rochester.edu/u/criswell/asplos19/ASPLOS19-LLVM-Tutorial.pdf
+
 ### Algorithms & Theory
 
 https://rosettacode.org/wiki/Maze_generation
@@ -85,6 +93,8 @@ https://zeromq.org
 https://github.com/zeromq/libzmq
 
 http://zguide2.zeromq.org/cpp:mtserver
+
+https://ngrok.com/ (public URLs for exposing your local web server)
 
 https://morph027.gitlab.io/blog/localtunnel-ngrok/
 

@@ -26,6 +26,16 @@ https://marketplace.atlassian.com/apps/1222624/clockify-time-tracking-timesheet?
 
 https://marketplace.atlassian.com/apps/1222624/clockify-time-tracking-timesheet?hosting=cloud&tab=overview
 
+https://community.atlassian.com/t5/Jira-questions/How-to-restrict-user-to-move-issue-into-a-special-status-of/qaq-p/1355574
+
+https://community.atlassian.com/t5/Jira-questions/How-to-determinate-who-can-move-tasks-from-the-backlog-to-the/qaq-p/1282238
+
+https://confluence.atlassian.com/jirakb/how-to-prevent-issues-from-being-closed-while-the-sub-tasks-are-still-open-in-jira-724928276.html
+
+https://community.atlassian.com/t5/Jira-questions/Story-moved-back-from-a-quot-Done-quot-status-to-an-quot-In/qaq-p/1713922
+
+
+
 ### Video Tutorials
 
 [How to configure permissions in a classic project in Jira Cloud](https://www.youtube.com/watch?v=B1xA0YdlL0U)

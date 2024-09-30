@@ -20,6 +20,10 @@ https://developer.github.com/v3/markdown/
 
 https://github.com/joeyespo/grip
 
+https://www.atlassian.com/git/tutorials/git-hooks
+
+https://kikobeats.github.io/automate-release/#/?id=examples-of-git-commits
+
 ### App
 
 https://probot.github.io/

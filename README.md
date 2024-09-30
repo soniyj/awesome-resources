@@ -134,8 +134,6 @@ https://slack.com/intl/it-it/help/articles/204078066-Google-Workspace-single-sig
 
 *to check*
 
-https://ngrok.com/ (public URLs for exposing your local web server)
-
 https://runkit.com/home (node prototyping)
 
 https://treeline.io/ (backend in your web browser)

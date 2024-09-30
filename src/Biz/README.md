@@ -25,6 +25,8 @@ https://www.paciolo.com/versioni-e-prezzi/
 
 https://openl-tablets.org/what-is-openl-tablets (to check)
 
+https://giighire.com
+
 <a name="italianlaw"/></a>
 ### Italian Law
 

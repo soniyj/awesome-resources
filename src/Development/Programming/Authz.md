@@ -71,3 +71,5 @@ https://www.appsdeveloperblog.com/keycloak-rest-api-create-a-new-user/?utm_conte
 https://github.com/sventorben/keycloak-restrict-client-auth
 
 https://documenter.getpostman.com/view/7294517/SzmfZHnd#f0ede40d-d0d5-4315-86dc-1be652017dd9
+
+https://linuxdatahub.com/keycloak-mappers/

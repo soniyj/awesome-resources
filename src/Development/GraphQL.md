@@ -100,8 +100,6 @@ https://github.com/stepci/awesome-api-clients
 
 https://github.com/graphql/swapi-graphql
 
-
-
 https://altair.sirmuel.design/
 
 https://insomnia.rest/
