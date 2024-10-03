@@ -8,7 +8,7 @@
 * [Typescript](./Typescript/)
 * [Dart](./DART.md)
 
-https://pypl.github.io/PYPL.html
+[PopularitY of Programming Language](https://pypl.github.io/PYPL.html)
 
 ### Programmin Languages Creation
 
@@ -69,6 +69,8 @@ https://deno.land/ (A secure runtime for JavaScript and TypeScript)
 https://conan.io/ (C/C++ Package Manager)
 
 https://docs.conda.io/en/latest/ (Package, dependency and environment management for any language)
+
+https://docs.conda.io/projects/conda/en/stable/index.html
 
 https://monkeytype.com
 

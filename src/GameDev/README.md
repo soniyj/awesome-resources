@@ -4,8 +4,6 @@ http://www.gamefromscratch.com/page/Game-Development-Tutorial-Series.aspx
 
 https://lensstudio.snapchat.com/
 
-https://www.openra.net/
-
 https://parsecgaming.com/ (not sure what it is)
 
 https://www.eclipse.org/sumo/
@@ -26,11 +24,7 @@ https://trian3dbuilder.de/
 
 https://ldtk.io/ (Level Design Toolkit A modern 2D level editor strong focus on user-friendliness)
 
-https://github.com/Miziziziz/Retro3DGraphicsCollection
-
 https://kidscancode.org/
-
-https://www.buildbox.com/top-10-sites-free-3d-game-art/
 
 https://www.freecodecamp.org/news/from-zero-to-game-designer-how-to-start-building-video-games-even-if-you-dont-have-any-experience-5e2f9f45f4bb/
 
@@ -40,13 +34,9 @@ https://www.capturingreality.com/introducing-realityscan
 
 https://charisma.ai/ (Power Real-time Digital Humans)
 
-https://twinery.org (open-source tool for telling interactive, nonlinear stories)
-
 https://www.libretro.com/index.php/api/?amp=1
 
 https://brightchamps.com/blog/how-to-make-car-racing-game-scratch/
-
-https://gameassetsfree.com
 
 https://www.diversion.dev/game-development (Modern Version Control Tailored For Game Development)
 
@@ -87,17 +77,9 @@ https://github.com/mxgmn/WaveFunctionCollapse (generates bitmaps that are locall
 
 https://pixune.com/blog/game-development-for-noobs-organize-your-project/
 
-https://quaternius.com (free game assets)
-
 https://gdc.sonniss.com
 
 https://orbital-market.com (Epic Game Store Alternative)
-
-https://objaverse.allenai.org/ (Objaverse is a Massive Dataset of 800K+ Annotated 3D Objects)
-
-https://assetovi.com/ (One-stop platform for finding the exact right 3D assets, including gaming, AR/VR and others)
-
-https://gameuidatabase.com/index.php
 
 https://www.futurelearn.com/info/courses/introduction-to-indie-games/0/steps/96363
 
@@ -135,9 +117,35 @@ https://simplegametutorials.github.io
 
 https://alliballibaba.github.io/Sokoban-Level-Generator/
 
-https://hotpot.ai/game-asset-generator
-
 https://www.rosebud.ai (AI Game Maker)
+
+https://developer.nvidia.com/industries/game-development
+
+https://medium.com/android-bits/most-frequently-sdks-used-by-top-game-apps-8977f18d8cb0
+
+https://gamefromscratch.com/google-gamengen-recreating-doom-entirely-with-ai/
+
+https://github.com/Farama-Foundation/ViZDoom
+
+https://vizdoom.cs.put.edu.pl
+
+### Game Assets
+
+https://github.com/Miziziziz/Retro3DGraphicsCollection
+
+https://www.buildbox.com/top-10-sites-free-3d-game-art/
+
+https://gameassetsfree.com
+
+https://quaternius.com (free game assets)
+
+https://objaverse.allenai.org/ (Objaverse is a Massive Dataset of 800K+ Annotated 3D Objects)
+
+https://assetovi.com/ (One-stop platform for finding the exact right 3D assets, including gaming, AR/VR and others)
+
+https://gameuidatabase.com/index.php
+
+https://hotpot.ai/game-asset-generator
 
 https://www.scenario.com (Assets?)
 
@@ -150,16 +158,6 @@ https://www.layer.ai/ (Create professional game art, without limits)
 https://www.freepik.com/free-photos-vectors/cartoon-video-game
 
 https://discover.therookies.co/2019/03/29/how-to-create-graphics-for-a-video-game/
-
-https://developer.nvidia.com/industries/game-development
-
-https://medium.com/android-bits/most-frequently-sdks-used-by-top-game-apps-8977f18d8cb0
-
-https://gamefromscratch.com/google-gamengen-recreating-doom-entirely-with-ai/
-
-https://github.com/Farama-Foundation/ViZDoom
-
-https://vizdoom.cs.put.edu.pl
 
 ### Game Design
 
@@ -207,7 +205,7 @@ https://github.com/domlysz/BlenderGIS (Blender addons to make the bridge between
 
 ### Game Engines
 
-https://luxeengine.com/ (cross platform, rapid development game engine to make games for Mac, Linux, Windows, and Web)
+https://luxeengine.com/ (Cross platform, rapid development game engine to make games for Mac, Linux, Windows, and Web)
 
 https://flaxengine.com (The most agile game engine is now available.
 Full source code. Full power. Fully featured)
@@ -251,6 +249,8 @@ https://www.articy.com/en/articydraft-3-freeout-now/ (storytelling)
 https://www.articy.com/en/articydraft/free/ (storytelling)
 
 https://github.com/uwdb/lightdb ((DBMS) designed to efficiently ingest, store, and deliver virtual reality (VR) content)
+
+https://twinery.org (open-source tool for telling interactive, nonlinear stories)
 
 # Ads
 

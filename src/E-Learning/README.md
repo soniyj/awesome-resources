@@ -37,3 +37,9 @@ https://developers.google.com/training/
 https://developers.google.com/machine-learning/crash-course/ml-intro
 
 https://codelabs.developers.google.com/
+
+### English
+
+https://word.tips/three-letter-words/
+
+https://www.dictionary.com/e/word-finder/3-letter-words/

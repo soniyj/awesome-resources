@@ -12,6 +12,10 @@ https://docs.godotengine.org/en/stable/classes/class_node.html#class-node-privat
 
 https://docs.godotengine.org/en/stable/tutorials/rendering/multiple_resolutions.html
 
+https://docs.godotengine.org/en/stable/tutorials/best_practices/autoloads_versus_internal_nodes.html
+
+https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html#doc-gdscript-basics-class-name
+
 ### Tutorials
 
 http://kidscancode.org/godot_recipes/

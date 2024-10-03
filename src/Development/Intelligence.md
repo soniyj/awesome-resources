@@ -67,6 +67,8 @@ https://codeium.com/ (IDE Integration) [?]
 
 https://rivet.ironcladapp.com (The Open-Source Visual AI Programming Environment) [?]
 
+https://deepmind.google/technologies/imagen-3/
+
 ### Tools
 
 https://jan.ai/ (Turn your computer into an AI machine Open Source) [!]
@@ -84,6 +86,26 @@ https://huggingface.co/spaces/EPFL-VILAB/4M
 https://4m.epfl.ch/
 
 https://github.com/apple/ml-4m
+
+### Image Generation
+
+https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon
+
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+https://medium.com/@ingridwickstevens/mlx-stable-diffusion-for-local-image-generation-on-apple-silicon-2ec00ba1031a
+
+https://medium.com/@lizhuohang.selina/how-i-created-a-first-ai-generated-picture-using-stable-diffusion-apple-silicon-m1-mac-fbcb933e7060
+
+https://kamshin.com/flux-schnell/
+
+https://civitai.com/models/9942/abyssorangemix3-aom3
+
+https://replicate.com/blog/run-latent-consistency-model-on-mac
+
+https://github.com/bfirsh/stable-diffusion/tree/apple-silicon-mps-support
+
+https://mybyways.com/blog/ai-generated-images-with-stable-diffusion-on-an-m1-mac
 
 ### Links
 
