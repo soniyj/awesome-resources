@@ -159,6 +159,16 @@ https://www.freepik.com/free-photos-vectors/cartoon-video-game
 
 https://discover.therookies.co/2019/03/29/how-to-create-graphics-for-a-video-game/
 
+https://www.recraft.ai/generate/game-assets
+
+https://aiartists.org/ai-generated-art-tools
+
+https://www.hitberrygames.com/post/10-top-ai-game-generators-in-2024
+
+https://www.buildbox.com/best-ai-art-generators-for-game-developers/
+
+https://medium.com/mighty-bear-games/ai-tools-for-game-art-development-1c08a07a4529
+
 ### Game Design
 
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/
