@@ -16,6 +16,14 @@ https://docs.godotengine.org/en/stable/tutorials/best_practices/autoloads_versus
 
 https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html#doc-gdscript-basics-class-name
 
+https://docs.godotengine.org/en/stable/tutorials/rendering/multiple_resolutions.html#mobile-game-in-portrait-mode
+
+https://docs.godotengine.org/en/stable/tutorials/rendering/multiple_resolutions.html
+
+https://docs.godotengine.org/en/stable/tutorials/rendering/viewports.html
+
+https://docs.godotengine.org/en/3.1/getting_started/step_by_step/ui_code_a_life_bar.html
+
 ### Tutorials
 
 http://kidscancode.org/godot_recipes/
@@ -73,6 +81,10 @@ https://forum.godotengine.org/t/connecting-a-signal-to-a-function-in-another-scr
 https://forum.godotengine.org/t/how-to-emit-a-signal-from-one-script-to-another-to-say-a-var-is-ready-invalid-call-nonexistent-function-set-text-in-base-nil/40168/6
 
 https://forum.godotengine.org/t/is-there-auto-font-size-like-in-unity/41243/12
+
+https://docs.godotengine.org/en/stable/tutorials/rendering/multiple_resolutions.html
+
+https://kidscancode.org/godot_recipes/3.x/ui/unit_healthbar/index.html
 
 **Mobile**
 
@@ -153,6 +165,8 @@ https://ramatak.com/2023/02/24/godot-tutorial-porting-your-games-controls-for-mo
 [Godot Match 3 Counter](https://www.youtube.com/watch?v=gQWbGp3ied0)
 
 [Godot Tutorial: Creating a save game manager](https://www.youtube.com/watch?v=9zNEErZtlnc)
+
+[Every Type of Progress Bar available in Godot | Dicode](https://www.youtube.com/watch?v=uvuxAT1XoRs) [x!x] (to watch)
 
 ### Asset
 
