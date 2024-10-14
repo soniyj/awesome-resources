@@ -170,9 +170,9 @@ https://ramatak.com/2023/02/24/godot-tutorial-porting-your-games-controls-for-mo
 
 [Godot Tutorial: Creating a save game manager](https://www.youtube.com/watch?v=9zNEErZtlnc)
 
-[Every Type of Progress Bar available in Godot | Dicode](https://www.youtube.com/watch?v=uvuxAT1XoRs) [x!x] (to watch)
+[Every Type of Progress Bar available in Godot | Dicode](https://www.youtube.com/watch?v=uvuxAT1XoRs) [x] (to watch)
 
-[Make a Custom Load Screen / Boot Splash in The Godot Engine](https://www.youtube.com/watch?v=E4ybJVTXq1A)[!]
+[Make a Custom Load Screen / Boot Splash in The Godot Engine](https://www.youtube.com/watch?v=E4ybJVTXq1A) [x]
 
 [How To Make a Custom Boot Splash Screen In Godot 4](https://www.youtube.com/watch?v=XwPFoQOqN0M)
 
@@ -183,6 +183,12 @@ https://ramatak.com/2023/02/24/godot-tutorial-porting-your-games-controls-for-mo
 [Easy Explosion Effect – Godot 3D VFX Tutorial](https://www.youtube.com/watch?app=desktop&v=RtJJVjjM_-Q)
 
 [GODOT VFX - Easy Explosions Effect Tutorial](https://www.youtube.com/watch?app=desktop&v=tjSxICUXMmM)
+
+[Easy UI Animation in the Godot Engine](https://www.youtube.com/watch?v=jF3UgstQ1Yk)
+
+[Cinematic Camera/Screen Shake - Godot Engine Tutorial!](https://www.youtube.com/watch?v=eWhglfQFYOk)
+
+[How to Create Custom Splash Screens in the Godot Engine](https://www.youtube.com/watch?v=xy-ssYTQ3as)
 
 ### Assets
 
