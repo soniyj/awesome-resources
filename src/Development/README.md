@@ -18,11 +18,25 @@ https://dillinger.io/ (Online editor)
 
 [Writing Web Content with Markdown](https://www.hongkiat.com/blog/web-content-with-markdown/)
 
+### Docusaurus
+
 https://docusaurus.io (Documentation)
+
+https://docusaurus.io/docs/search#using-typesense-docsearch
+
+https://docusaurus.io/docs/deployment#using-drone
 
 https://docusaurus.community/knowledge/deployment/docker/?package-managers=npm&target=caddy
 
 https://docusaurus.community/knowledge/deployment/docker/?package-managers=npm&target=serve (interesting docker options)
+
+https://docusaurus.io/community/resources
+
+https://docsearch.algolia.com/
+
+https://medium.com/@rupertcarr/creating-and-deploying-a-personal-blog-portfolio-using-docusaurus-4a33f1f4e476
+
+https://medium.com/@techwritershub/how-to-implement-the-algolia-search-feature-in-docusaurus-3e57b11fcefd
 
 ### Others
 

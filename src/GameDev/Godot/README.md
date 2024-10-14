@@ -24,6 +24,8 @@ https://docs.godotengine.org/en/stable/tutorials/rendering/viewports.html
 
 https://docs.godotengine.org/en/3.1/getting_started/step_by_step/ui_code_a_life_bar.html
 
+https://docs.godotengine.org/en/stable/tutorials/io/background_loading.html
+
 ### Tutorials
 
 http://kidscancode.org/godot_recipes/
@@ -85,6 +87,8 @@ https://forum.godotengine.org/t/is-there-auto-font-size-like-in-unity/41243/12
 https://docs.godotengine.org/en/stable/tutorials/rendering/multiple_resolutions.html
 
 https://kidscancode.org/godot_recipes/3.x/ui/unit_healthbar/index.html
+
+https://dev.to/christinec_dev/learn-godot-4-by-making-a-2d-platformer-part-7-bomb-setup-1gpo [!]
 
 **Mobile**
 
@@ -168,7 +172,19 @@ https://ramatak.com/2023/02/24/godot-tutorial-porting-your-games-controls-for-mo
 
 [Every Type of Progress Bar available in Godot | Dicode](https://www.youtube.com/watch?v=uvuxAT1XoRs) [x!x] (to watch)
 
-### Asset
+[Make a Custom Load Screen / Boot Splash in The Godot Engine](https://www.youtube.com/watch?v=E4ybJVTXq1A)[!]
+
+[How To Make a Custom Boot Splash Screen In Godot 4](https://www.youtube.com/watch?v=XwPFoQOqN0M)
+
+[Godot Main Menu in 4 Minutes](https://www.youtube.com/watch?v=Mx3iyz8AUAE)
+
+[How to make a Scrolling Background in Godot 4](https://www.youtube.com/watch?v=TMeT541OLPA)
+
+[Easy Explosion Effect – Godot 3D VFX Tutorial](https://www.youtube.com/watch?app=desktop&v=RtJJVjjM_-Q)
+
+[GODOT VFX - Easy Explosions Effect Tutorial](https://www.youtube.com/watch?app=desktop&v=tjSxICUXMmM)
+
+### Assets
 
 [Starter Kit City Builder](https://godotengine.org/asset-library/asset/2174)
 
@@ -207,6 +223,10 @@ https://github.com/endlessm/godot-block-coding (Block-based visual programming p
 https://godotengine.org/asset-library/asset/2986 (datatable system like what you can found inside UE)
 
 https://godotassetlibrary.com/asset/RMiyDF/datalogue (simple data management)
+
+https://github.com/gdquest-demos/godot-4-VFX-assets [!] (to check)
+
+https://github.com/drcd1/GodotSimpleExplosionVFX
 
 **EOS**
 
