@@ -86,3 +86,11 @@ https://community.traefik.io/t/combining-host-based-and-path-based-routing/6670/
 https://github.com/antonputra/tutorials/tree/main/lessons/153 (interesting has several tutorials)
 
 https://www.youtube.com/watch?v=mZbLvGQqEvY (good insight)
+
+### Docker 
+
+https://www.smarthomebeginner.com/traefik-docker-compose-guide-2024/
+
+https://www.smarthomebeginner.com/traefik-2-docker-tutorial/
+
+https://github.com/anandslab/docker-traefik (interesting) [x]

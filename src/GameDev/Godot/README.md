@@ -26,6 +26,8 @@ https://docs.godotengine.org/en/3.1/getting_started/step_by_step/ui_code_a_life_
 
 https://docs.godotengine.org/en/stable/tutorials/io/background_loading.html
 
+https://docs.godotengine.org/en/stable/tutorials/io/saving_games.html
+
 ### Tutorials
 
 http://kidscancode.org/godot_recipes/
@@ -89,6 +91,10 @@ https://docs.godotengine.org/en/stable/tutorials/rendering/multiple_resolutions.
 https://kidscancode.org/godot_recipes/3.x/ui/unit_healthbar/index.html
 
 https://dev.to/christinec_dev/learn-godot-4-by-making-a-2d-platformer-part-7-bomb-setup-1gpo [!]
+
+https://www.makeuseof.com/godot-scoring-system-how-to-create/
+
+https://monarxk.hashnode.dev/chronicling-achievement-how-to-craft-a-persistent-leaderboard-system-in-godot-401
 
 **Mobile**
 
@@ -189,6 +195,10 @@ https://ramatak.com/2023/02/24/godot-tutorial-porting-your-games-controls-for-mo
 [Cinematic Camera/Screen Shake - Godot Engine Tutorial!](https://www.youtube.com/watch?v=eWhglfQFYOk)
 
 [How to Create Custom Splash Screens in the Godot Engine](https://www.youtube.com/watch?v=xy-ssYTQ3as)
+
+[How to SAVE & LOAD Game Data Easily in Godot 4](https://www.youtube.com/watch?v=lXO5Jt957BA)
+
+[Saving a High Score: Godot 4 Snake Tutorial](https://www.youtube.com/watch?v=hJRlb9Xk91o)
 
 ### Assets
 

@@ -44,6 +44,8 @@ https://www.protondb.com (Linux and Steam Deck game compatibility reports)
 
 https://abagames.github.io/joys-of-small-game-development-en/ [?]
 
+https://lootlocker.com/ [#]
+
 * [Godot](./Godot/)
 * [Unity](./Unity/)
 * [Unreal Engine 4](./UnrealEngine/UE4.md)
