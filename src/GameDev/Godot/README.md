@@ -96,6 +96,8 @@ https://www.makeuseof.com/godot-scoring-system-how-to-create/
 
 https://monarxk.hashnode.dev/chronicling-achievement-how-to-craft-a-persistent-leaderboard-system-in-godot-401
 
+https://gamedevbeginner.com/how-to-make-a-timer-in-godot-count-up-down-in-minutes-seconds/
+
 **Mobile**
 
 https://docs.godotengine.org/en/stable/tutorials/platform/ios/plugins_for_ios.html
@@ -199,6 +201,8 @@ https://ramatak.com/2023/02/24/godot-tutorial-porting-your-games-controls-for-mo
 [How to SAVE & LOAD Game Data Easily in Godot 4](https://www.youtube.com/watch?v=lXO5Jt957BA)
 
 [Saving a High Score: Godot 4 Snake Tutorial](https://www.youtube.com/watch?v=hJRlb9Xk91o)
+
+[Simple Countdown Timer in Godot](https://www.youtube.com/watch?v=ejRXpRlFa_Y)
 
 ### Assets
 
