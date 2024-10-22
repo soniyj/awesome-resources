@@ -218,6 +218,8 @@ https://ramatak.com/2023/02/24/godot-tutorial-porting-your-games-controls-for-mo
 
 [Instant Realistic Light 1.0](https://godotengine.org/asset-library/asset/2553)
 
+[Quiver Leaderboards](https://godotengine.org/asset-library/asset/2659)
+
 ### Plugins & Add Ons
 
 https://github.com/Federico-Ciuffardi/GodotTouchInputManager

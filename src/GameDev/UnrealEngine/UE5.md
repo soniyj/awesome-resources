@@ -96,6 +96,10 @@ https://dev.epicgames.com/documentation/en-us/unreal-engine/procedural-content-g
 
 https://www.tomlooman.com/unreal-engine-cpp-guide/
 
+https://www.unrealengine.com/en-US/blog/dive-into-these-brand-new-unreal-engine-courses-and-tutorials
+
+https://www.unrealengine.com/en-US/blog/epic-for-indies-now-on-the-epic-developer-community
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
