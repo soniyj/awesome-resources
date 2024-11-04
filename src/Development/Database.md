@@ -18,6 +18,8 @@ https://dbdb.io/
 
 https://github.com/topics/embedded-database
 
+https://dev.to/norbybaru/futuristic-databases-5edf (interesting) [!]
+
 ### DGraph
 
 https://dgraph.io/
@@ -184,7 +186,13 @@ https://www.edgedb.com/install (Graph RDBMS quite interesting to check next)
 
 https://github.com/edgedb/edgedb (open-source database designed as a spiritual successor to SQL and the relational paradigm)
 
+https://docs.edgedb.com/libraries/graphql
+
+https://www.edgedb.com/showcase/graphql (GraphQL URLs)
+
 https://medium.com/@kgrozdanovski/simplified-edgedb-setup-for-modern-database-management-13daae659bd5
+
+https://github.com/edgedb/edgedb-docker/blob/master/Dockerfile
 
 ### Other DB to Check
 

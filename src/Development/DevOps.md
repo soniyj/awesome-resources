@@ -77,6 +77,12 @@ https://ansible-semaphore.com/
 
 https://github.com/ansible-semaphore/semaphore/tree/2287be34ce1c0b8bd8fb4674d0c2ca2a41d863db
 
+https://semaphoreui.com/install/docker/2_10_32
+
+https://github.com/semaphoreui/semaphore/discussions/1863
+
+https://github.com/semaphoreui/semaphore/issues/2261
+
 https://github.com/sovereign/sovereign (set of  playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more)
 
 **Docker**

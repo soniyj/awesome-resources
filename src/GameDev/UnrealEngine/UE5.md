@@ -100,6 +100,8 @@ https://www.unrealengine.com/en-US/blog/dive-into-these-brand-new-unreal-engine-
 
 https://www.unrealengine.com/en-US/blog/epic-for-indies-now-on-the-epic-developer-community
 
+https://dev.epicgames.com/community/learning/tutorials/YDpo/mixing-blueprints-and-c
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)

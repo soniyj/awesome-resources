@@ -98,6 +98,8 @@ https://monarxk.hashnode.dev/chronicling-achievement-how-to-craft-a-persistent-l
 
 https://gamedevbeginner.com/how-to-make-a-timer-in-godot-count-up-down-in-minutes-seconds/
 
+https://lootlocker.com/guides/adding-online-leaderboards-to-your-godot-game-with-lootlocker
+
 **Mobile**
 
 https://docs.godotengine.org/en/stable/tutorials/platform/ios/plugins_for_ios.html
