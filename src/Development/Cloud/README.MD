@@ -20,6 +20,12 @@ https://www.smarthomebeginner.com/traefik-docker-nextcloud/
 
 https://github.com/nextcloud/all-in-one/discussions/575
 
+https://www.atlantic.net/dedicated-server-hosting/how-to-install-nextcloud-aio-on-ubuntu-22-04/
+
+https://nextcloud.com/blog/how-to-install-the-nextcloud-all-in-one-on-linux/
+
+https://www.cherryservers.com/blog/nextcloud-aio-docker
+
 ### Email
 
 https://wiki.opensourceisawesome.com/books/email-with-mail-in-a-box/page/installation-of-mail-in-a-box
