@@ -272,6 +272,10 @@ https://github.com/3ddelano/epic-online-services-godot [!]
 
 https://github.com/godotengine/godot-ios-plugins
 
+**iOS Plugins**
+
+[How to create iOS plugin for Godot Game Engine Step by Step Guide](https://www.youtube.com/watch?v=Y6Iq71zZO10)
+
 ### Tools
 
 https://github.com/blackears/cyclopsLevelBuilder

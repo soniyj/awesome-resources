@@ -191,8 +191,6 @@ http://mattiash.github.io/angular-presentation/presentation.html#1
 
 https://www.oracle.com/startup/cloud-for-startups.html
 
-https://www.openshift.com/products/pricing/
-
 https://developer.ibm.com/startups/
 
 https://github.com/namshi/docker-smtp/blob/master/docker-compose.yml

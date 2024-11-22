@@ -254,6 +254,8 @@ https://www.ambiera.com/coppercube/index.html
 
 https://esenthel.com/
 
+[Game Engine Ep.13 - Getting into Scripting with Lua](https://www.youtube.com/watch?app=desktop&v=bIODr8ZSYSU)
+
 ### GUI
 
 https://www.noesisengine.com/ (Discover the most powerful User Interface middleware for videogames and realtime applications)

@@ -206,6 +206,8 @@ https://dev.epicgames.com/community/learning/tutorials/zry7/unreal-engine-explor
 
 [How to make a hexagon grid - Unreal Engine 5 Tutorial](https://www.youtube.com/watch?v=vSevINGWtEc)
 
+[Creating a HexGrid System in Unreal Engine (UE4/UE5)](https://www.youtube.com/watch?app=desktop&v=A-1O4BHdkfA)
+
 ### Git
 
 [Complete Guide to Git and Unreal for Beginners - UE4 / UE5](https://www.youtube.com/watch?v=5J0CczTshKY)
