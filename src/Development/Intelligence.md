@@ -75,6 +75,12 @@ https://jan.ai/ (Turn your computer into an AI machine Open Source) [!]
 
 https://lmstudio.ai/ (Discover, download, and run local LLMs) [!]
 
+https://mymemo.ai/ (Build Your Second Brain With AI)
+
+https://claude.ai/ (to check alternative to ChatGPT)
+
+http://study.new/ (Add this before any youtube video, you should get a transcription of it)
+
 ### Apple Intelligence
 
 *Note: It isn't part of Apple but Referenced by*

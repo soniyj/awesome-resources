@@ -18,6 +18,8 @@ https://marketplace.visualstudio.com/items?itemName=KeyRunner.keyrunner
 
 https://dev.to/sourcegraph/installing-and-customizing-visual-studio-code-vs-code-setup-from-scratch-3c62
 
+https://www.heissenberger.at/en/blog/devcontainer-forward-ports-composer/
+
 **Jira**
 
 https://github.com/gioboa/jira-plugin

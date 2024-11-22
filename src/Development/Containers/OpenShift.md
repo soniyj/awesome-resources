@@ -23,3 +23,5 @@ https://www.docker.com/blog/deployment-of-local-container-images-to-openshift/
 ### Video Tutorials
 
 [HOW TO: Openshift on ubuntu (install a single node over KVM)](https://www.youtube.com/watch?app=desktop&v=xQcFEib3hR8&feature=youtu.be)
+
+[How to install OpenShift 4 on Bare Metal - User Provisioned Infrastructure (UPI) Ryan Hay](https://www.youtube.com/watch?v=d03xg2PKOPg)

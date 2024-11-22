@@ -72,6 +72,10 @@ https://poly.pizza/m/a_HKCtYAv2W (Polygons and Meshes. Free?)
 
 https://www.bforartists.de/ (Blender For Artists)
 
+https://github.com/visioncortex/vtracer (Vector to Raster Converter)
+
+https://www.textstudio.com/logo/multi-color-game-text-style-effect-573 (Font Generator & 3D Text Effects)
+
 ### AI
 
 https://openart.ai/home
@@ -84,13 +88,27 @@ https://www.layer.ai
 
 https://app.recraft.ai/community
 
+https://hotpot.ai/ai-image-generator/create
+
 ### Fonts
+
+https://fontforge.org/en-US/ (Create Fonts)
 
 https://www.fontspace.com/category/gaming
 
 https://www.1001fonts.com/game-fonts.html?page=2
 
+https://www.1001fonts.com/search.html?search=cartoon&page=1
+
 https://www.freepik.com/fonts/gaming
+
+https://www.freepik.com/fonts/video-game
+
+https://superuser.com/questions/48879/how-can-i-make-a-font-using-a-png-image
+
+https://www.arcstone.com/the-6-best-sites-for-creating-your-own-font/
+
+https://www.reddit.com/r/FontForge/comments/yy3xjv/turning_readymade_letter_images_into_a_font/?rdt=58824
 
 ### Hardware
 

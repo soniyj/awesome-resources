@@ -22,6 +22,8 @@ https://dapr.io (APIs for building portable and reliable microservices)
 
 https://github.com/microservices-patterns/ftgo-application
 
+https://apidog.com/pricing/ (Welcome to Apidog, the ultimate API tool)
+
 ### API Gateway
 
 https://marutitech.com/api-gateway-in-microservices-architecture/

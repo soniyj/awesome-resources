@@ -104,6 +104,10 @@ https://gamedevartisan.com/tutorials/godot-fundamentals/menus-and-scene-transiti
 
 https://www.gdquest.com/tutorial/godot/2d/scene-transition-rect/
 
+https://monarxk.hashnode.dev/chronicling-achievement-how-to-craft-a-persistent-leaderboard-system-in-godot-401
+
+[How to quickly and easily create leaderboards](https://trytalo.com/blog/leaderboards-godot)
+
 **Mobile**
 
 https://docs.godotengine.org/en/stable/tutorials/platform/ios/plugins_for_ios.html
@@ -274,7 +278,30 @@ https://github.com/godotengine/godot-ios-plugins
 
 **iOS Plugins**
 
+https://docs.godotengine.org/en/stable/contributing/development/compiling/compiling_for_ios.html#doc-compiling-for-ios
+
+https://github.com/godot-sdk-integrations/godot-ios-plugins
+
 [How to create iOS plugin for Godot Game Engine Step by Step Guide](https://www.youtube.com/watch?v=Y6Iq71zZO10)
+
+https://github.com/LettucePie/ios-plugin-integrate-demo
+
+https://www.peanuts-code.com/en/tutorials/gd0021_game_center_plugin/
+
+```
+# Got from the Plugin GitHub Guide (The order might be wrong!)
+scons target=release_debug arch=arm64 simulator=yes plugin=gamecenter version=4.0
+
+../scripts/generate_static_library.sh gamecenter release_debug 4.0
+
+scons platform=ios target=template_release arch=arm64
+```
+
+[macOS arm64 custom build cannot link latest MoltenVK library with Xcode < 14](https://github.com/godotengine/godot/issues/68512)
+
+[Build problem with recent Clang releases](https://github.com/godotengine/godot/issues/96918)
+
+[broken build for iOS branch 4.3 on latest Xcode](https://github.com/godotengine/godot/issues/97999)
 
 ### Tools
 
