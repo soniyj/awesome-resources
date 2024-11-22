@@ -44,7 +44,7 @@ https://www.protondb.com (Linux and Steam Deck game compatibility reports)
 
 https://abagames.github.io/joys-of-small-game-development-en/ [?]
 
-https://lootlocker.com/ [#]
+https://lootlocker.com/ {using it for testing leaderboards}
 
 * [Godot](./Godot/)
 * [Unity](./Unity/)
@@ -130,6 +130,10 @@ https://gamefromscratch.com/google-gamengen-recreating-doom-entirely-with-ai/
 https://github.com/Farama-Foundation/ViZDoom
 
 https://vizdoom.cs.put.edu.pl
+
+https://www.redblobgames.com/grids/hexagons/
+
+https://www.redblobgames.com/grids/hexagons/implementation.html
 
 ### Game Assets
 

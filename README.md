@@ -173,3 +173,5 @@ https://openmessaging.cloud (A cloud native, vendor-neutral open specification f
 https://www.question2answer.org/ (popular open source Q&A platform for PHP/MySQL)
 
 https://it.smartsheet.com/content/work-smart-goals-examples
+
+[Convert video to images with VLC](https://www.youtube.com/watch?app=desktop&v=4NuK7wSQUNs)

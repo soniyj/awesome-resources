@@ -238,6 +238,12 @@ https://www.youtube.com/c/Strigifo/playlists
 
 [Unreal Engine 4 Tutorial - RTS Part 1: RTS Camera Scrolling](https://www.youtube.com/watch?app=desktop&v=rLe6Jrdqu3w)
 
+[UE4 Tutorial - How to draw drag selection rectangle on the screen](https://www.youtube.com/watch?v=U6BOslpoglE) (to check)
+
+[UE4 Tutorial - How to select actors in a drag selection rectangle](https://www.youtube.com/watch?v=sBubq1Iro1E) (to check)
+
+[UE4 tutorial - How to select actors in gameplay using mouse button](https://www.youtube.com/watch?v=Xxx6hrbchEg) (to check)
+
 **AI**
 
 [HTF do I? Basic AI From Scratch #1 in Unreal Engine 4](https://www.youtube.com/watch?v=WFvG9wNOwoY)

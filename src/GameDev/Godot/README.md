@@ -100,6 +100,10 @@ https://gamedevbeginner.com/how-to-make-a-timer-in-godot-count-up-down-in-minute
 
 https://lootlocker.com/guides/adding-online-leaderboards-to-your-godot-game-with-lootlocker
 
+https://gamedevartisan.com/tutorials/godot-fundamentals/menus-and-scene-transitions
+
+https://www.gdquest.com/tutorial/godot/2d/scene-transition-rect/
+
 **Mobile**
 
 https://docs.godotengine.org/en/stable/tutorials/platform/ios/plugins_for_ios.html
@@ -206,6 +210,12 @@ https://ramatak.com/2023/02/24/godot-tutorial-porting-your-games-controls-for-mo
 
 [Simple Countdown Timer in Godot](https://www.youtube.com/watch?v=ejRXpRlFa_Y)
 
+[2D Fire, Smoke and Explosion Particle Effects in Godot 4 in 4 minutes](https://www.youtube.com/watch?v=SqLVJxl7bNw)
+
+[ Easy 2D explosion in #godot under 4 minutes](https://www.youtube.com/watch?v=7IxwZgepCdY)
+
+[How to make an ONLINE LEADER BOARD with Godot Engine and Lootlocker](https://www.youtube.com/watch?app=desktop&v=xeoP5CqAi0g)
+
 ### Assets
 
 [Starter Kit City Builder](https://godotengine.org/asset-library/asset/2174)
@@ -221,6 +231,8 @@ https://ramatak.com/2023/02/24/godot-tutorial-porting-your-games-controls-for-mo
 [Instant Realistic Light 1.0](https://godotengine.org/asset-library/asset/2553)
 
 [Quiver Leaderboards](https://godotengine.org/asset-library/asset/2659)
+
+[Talo Game Services: self-hostable game backend](https://godotengine.org/asset-library/asset/2936)
 
 ### Plugins & Add Ons
 

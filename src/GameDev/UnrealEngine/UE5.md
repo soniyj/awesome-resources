@@ -102,6 +102,12 @@ https://www.unrealengine.com/en-US/blog/epic-for-indies-now-on-the-epic-develope
 
 https://dev.epicgames.com/community/learning/tutorials/YDpo/mixing-blueprints-and-c
 
+https://dev.epicgames.com/community/learning/tutorials/bXOe/unreal-engine-strategy-game-tutorial-series (to check)
+
+https://dev.epicgames.com/documentation/en-us/unreal-engine/balancing-blueprint-and-cplusplus?application_version=4.27
+
+https://dev.epicgames.com/community/learning/tutorials/zry7/unreal-engine-exploring-looking-at-the-plugins-in-the-cropout-sample-project
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
@@ -184,6 +190,22 @@ https://dev.epicgames.com/community/learning/tutorials/YDpo/mixing-blueprints-an
 
 [Making a City Builder](https://www.youtube.com/@haydenmarlowe/videos?app=desktop&cbrd=1)
 
+[Unreal Engine 5 - Real Time Strategy Game](https://www.youtube.com/playlist?app=desktop&list=PLNTm9yU0zou4Eulmi8YIfzHiNZEzfbSMk) (to check)
+
+[How to Create a Game in Unreal Engine 5 | Beginner Tutorial - RTS Game](https://www.youtube.com/watch?app=desktop&v=CCO0-64cfe4) {watching 1t 08.35}
+
+[Unreal City Building Game](https://www.youtube.com/playlist?list=PLFYGCCDpMHmHJwhIRY6qNumAts--W8bTy) {watching at UE EP6 12 27}
+
+[New RTS Series [Unreal Engine 5]](https://www.youtube.com/playlist?list=PLwFl5pGzKd2ihfRtbTYMxf-dOZQKHMK-K) (to check)
+
+[Set Up HUD & UI Widget - Unreal Engine 5 Tutorial [UE5]](https://www.youtube.com/watch?v=YCQ1heoaILY) {watched}
+
+[How to Place Builds with a Preview in Unreal Engine 5](https://www.youtube.com/watch?v=b88Dj_k9b84)
+
+[Unreal Engine Tutorial - Place Objects on Cursor's location](https://www.youtube.com/watch?v=4OLi7oBjbLc) (a bit too long)
+
+[How to make a hexagon grid - Unreal Engine 5 Tutorial](https://www.youtube.com/watch?v=vSevINGWtEc)
+
 ### Git
 
 [Complete Guide to Git and Unreal for Beginners - UE4 / UE5](https://www.youtube.com/watch?v=5J0CczTshKY)
@@ -197,6 +219,8 @@ https://www.carsim.com/products/supporting/unreal/index.php
 https://github.com/G7DAO/web3.unreal (Unreal Engine plugin for integrating EVM compatible blockchains into games)
 
 https://metaldonut.gumroad.com/l/TPC?layout=profile (Texture Paint Champ)
+
+[Hexagon Grid Library written for Unreal Engine, in C++, extendable with Blueprints.](https://github.com/rohanmayya/HexagonGridUE5)
 
 ### Projects
 
