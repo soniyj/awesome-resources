@@ -272,6 +272,10 @@ https://github.com/authzed/spicedb (Graph database purpose-built for storing and
 
 https://github.com/GlareDB/glaredb (An analytics DBMS for distributed data)
 
+https://github.com/timescale/
+
+https://docs.timescale.com/use-timescale/latest/hypertables/
+
 ### Tutorials
 
 https://www.w3schools.com/sql/sql_intro.asp
