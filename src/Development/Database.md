@@ -20,6 +20,8 @@ https://github.com/topics/embedded-database
 
 https://dev.to/norbybaru/futuristic-databases-5edf (interesting) [!]
 
+[Database diagrams editor that allows you to visualize and design your DB with a single query](https://github.com/chartdb/chartdb) {to test}
+
 ### DGraph
 
 https://dgraph.io/
@@ -254,6 +256,8 @@ https://milvus.io/ (Vector database built for scalable similarity search)s
 
 https://github.com/surrealdb/surrealdb (A scalable, distributed, collaborative, document-graph database, for the realtime web)
 
+https://surrealdb.com/docs/surrealql/statements/insert
+
 https://duckdb.org/ (in-process analytical database)
 
 https://qdrant.tech/ (Vector Database)
@@ -271,6 +275,8 @@ https://github.com/marqo-ai/marqo (End-to-end vector search engine for both text
 https://github.com/authzed/spicedb (Graph database purpose-built for storing and evaluating access control data)
 
 https://github.com/GlareDB/glaredb (An analytics DBMS for distributed data)
+
+https://docs.mindsdb.com/setup/self-hosted/docker (MindsDB - Platform for Building AI)
 
 https://github.com/timescale/
 

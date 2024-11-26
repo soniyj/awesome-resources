@@ -28,6 +28,8 @@ https://www.docker.com/blog/deployment-of-local-container-images-to-openshift/
 
 [HOW TO: Openshift on ubuntu (install a single node over KVM)](https://www.youtube.com/watch?app=desktop&v=xQcFEib3hR8&feature=youtu.be)
 
+[How to install OpenShift 4 on Bare Metal - User Provisioned Infrastructure (UPI) Ryan Hay](https://www.youtube.com/watch?v=d03xg2PKOPg)
+
 [Getting started with Single Node OpenShift](https://m.youtube.com/watch?v=leJa9HmvdI0)
 
 [Use Single Node OpenShift to run containers AND virtual machines side-by-side!](https://www.youtube.com/watch?app=desktop&v=ZV7KGqcPs7s)

@@ -135,6 +135,12 @@ https://www.redblobgames.com/grids/hexagons/
 
 https://www.redblobgames.com/grids/hexagons/implementation.html
 
+https://vulkan.lunarg.com/sdk/home
+
+https://vulkan.lunarg.com/doc/view/1.3.268.1/mac/getting_started.html
+
+https://github.com/KhronosGroup/MoltenVK#fetching-moltenvk-source-code
+
 ### Game Assets
 
 https://github.com/Miziziziz/Retro3DGraphicsCollection
