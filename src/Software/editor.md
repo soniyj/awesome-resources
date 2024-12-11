@@ -20,6 +20,8 @@ https://dev.to/sourcegraph/installing-and-customizing-visual-studio-code-vs-code
 
 https://www.heissenberger.at/en/blog/devcontainer-forward-ports-composer/
 
+https://code.visualstudio.com/docs/setup/enterprise
+
 **Jira**
 
 https://github.com/gioboa/jira-plugin

@@ -81,6 +81,8 @@ https://claude.ai/ (to check alternative to ChatGPT)
 
 http://study.new/ (Add this before any youtube video, you should get a transcription of it)
 
+https://www.popai.pro [Personal AI Assistant] (Login Required)
+
 ### Apple Intelligence
 
 *Note: It isn't part of Apple but Referenced by*
@@ -112,6 +114,31 @@ https://replicate.com/blog/run-latent-consistency-model-on-mac
 https://github.com/bfirsh/stable-diffusion/tree/apple-silicon-mps-support
 
 https://mybyways.com/blog/ai-generated-images-with-stable-diffusion-on-an-m1-mac
+
+### Presentations
+
+https://pitch.com (Login Required, Good Free Plan)
+
+https://slidesgpt.com/ (No Login Requireds, Buy To Download)
+
+https://gamma.app/ai-powerpoint (Login Required)
+
+https://www.presentations.ai [The World's Best
+AI Presentation Maker] (Early Bird Pricing)
+
+https://slidespeak.co (No Login Requireds, Buy To Download)
+
+https://slidesgo.com/ (Free Limited Plan)
+
+https://www.canva.com/create/ai-presentations/ (Free Plan)
+
+https://slideswizard.io (No Login Requireds, Buy To Download)
+
+https://www.microsoft.com/en-us/microsoft-365/powerpoint/ai-powerpoint-generator (Office 365)
+
+https://prezi.com (No Free Plan, Integrations)
+
+https://www.beautiful.ai (No Free Plan)
 
 ### Links
 
