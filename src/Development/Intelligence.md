@@ -69,6 +69,12 @@ https://rivet.ironcladapp.com (The Open-Source Visual AI Programming Environment
 
 https://deepmind.google/technologies/imagen-3/
 
+https://github.com/Canner/WrenAI
+
+https://github.com/roboflow/sports (computer vision and sports)
+
+https://universe.roboflow.com (The world's largest collection of open source computer vision datasets and APIs)
+
 ### Tools
 
 https://jan.ai/ (Turn your computer into an AI machine Open Source) [!]
@@ -82,6 +88,11 @@ https://claude.ai/ (to check alternative to ChatGPT)
 http://study.new/ (Add this before any youtube video, you should get a transcription of it)
 
 https://www.popai.pro [Personal AI Assistant] (Login Required)
+
+https://www.copilotkit.ai/ (Build a 'virtual colleague' into your product
+that fully understands your application & your users)
+
+https://aistudio.google.com/ (Requires Google Account)
 
 ### Apple Intelligence
 
