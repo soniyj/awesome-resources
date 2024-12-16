@@ -35,6 +35,8 @@ https://web.dev/blog/inp-cwv-march-12
 
 https://stackoverflow.com/questions/49547/how-do-we-control-web-page-caching-across-all-browsers
 
+https://vercel.com/ (Tools and cloud infrastructure to build, scale, and secure a faster, more personalized web)
+
 ### UI
 
 https://semantic-ui.com/

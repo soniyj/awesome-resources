@@ -75,6 +75,8 @@ https://github.com/roboflow/sports (computer vision and sports)
 
 https://universe.roboflow.com (The world's largest collection of open source computer vision datasets and APIs)
 
+https://www.cognition.ai/ (An applied AI lab building end-to-end software agents)
+
 ### Tools
 
 https://jan.ai/ (Turn your computer into an AI machine Open Source) [!]
@@ -93,6 +95,8 @@ https://www.copilotkit.ai/ (Build a 'virtual colleague' into your product
 that fully understands your application & your users)
 
 https://aistudio.google.com/ (Requires Google Account)
+
+https://devin.ai/ (Collaborative AI teammate)
 
 ### Apple Intelligence
 
