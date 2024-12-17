@@ -98,6 +98,10 @@ https://aistudio.google.com/ (Requires Google Account)
 
 https://devin.ai/ (Collaborative AI teammate)
 
+https://github.com/mendableai/firecrawl
+
+https://github.com/google-gemini/cookbook/blob/main/gemini-2/get_started.ipynb
+
 ### Apple Intelligence
 
 *Note: It isn't part of Apple but Referenced by*
