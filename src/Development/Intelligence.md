@@ -77,6 +77,10 @@ https://universe.roboflow.com (The world's largest collection of open source com
 
 https://www.cognition.ai/ (An applied AI lab building end-to-end software agents)
 
+https://inference.cerebras.ai/ (This is instant AI)
+
+https://github.com/Cerebras/gigaGPT (Small code base for training large models )
+
 ### Tools
 
 https://jan.ai/ (Turn your computer into an AI machine Open Source) [!]
@@ -101,6 +105,8 @@ https://devin.ai/ (Collaborative AI teammate)
 https://github.com/mendableai/firecrawl
 
 https://github.com/google-gemini/cookbook/blob/main/gemini-2/get_started.ipynb
+
+https://cerebrascoder.com/ (Turn your ideas into fully functional apps)
 
 ### Apple Intelligence
 
