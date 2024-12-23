@@ -16,11 +16,15 @@ https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
 
 https://marketplace.visualstudio.com/items?itemName=KeyRunner.keyrunner
 
+https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
+
 https://dev.to/sourcegraph/installing-and-customizing-visual-studio-code-vs-code-setup-from-scratch-3c62
 
 https://www.heissenberger.at/en/blog/devcontainer-forward-ports-composer/
 
 https://code.visualstudio.com/docs/setup/enterprise
+
+https://docs.github.com/en/enterprise-cloud@latest/code-security/codeql-for-vs-code
 
 **Jira**
 

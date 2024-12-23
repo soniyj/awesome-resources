@@ -141,6 +141,10 @@ https://vulkan.lunarg.com/doc/view/1.3.268.1/mac/getting_started.html
 
 https://github.com/KhronosGroup/MoltenVK#fetching-moltenvk-source-code
 
+https://github.com/derrod/legendary (A free and open-source replacement for the Epic Games Launcher)
+
+https://github.com/RareDevs/Rare (Epic Games Launcher open source alternative, using Legendary)
+
 ### Game Assets
 
 https://github.com/Miziziziz/Retro3DGraphicsCollection
@@ -449,6 +453,13 @@ https://dev.epicgames.com/docs/epic-online-services/eos-get-started/get-started-
 https://dev.epicgames.com/docs/epic-account-services/getting-started
 
 https://dev.epicgames.com/docs/web-api-ref
+
+
+### Apple for Games
+
+https://developer.apple.com/design/human-interface-guidelines/designing-for-games
+
+https://developer.apple.com/games/game-porting-toolkit/
 
 ### Schools
 
