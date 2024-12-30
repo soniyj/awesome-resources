@@ -26,6 +26,8 @@ https://venngage.com/blog/how-to-create-a-flowchart/
 
 https://github.com/mermaidjs/mermaid-live-editor/blob/master/Dockerfile
 
+https://mermaid.js.org/ecosystem/mermaid-chart.html
+
 ### Design
 
 https://www.charliecleveland.com/miro-the-one-tool-to-rule-them-all/

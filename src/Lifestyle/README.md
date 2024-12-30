@@ -37,3 +37,5 @@ https://www.nutribees.com/?utm_term=nutribees&utm_campaign=01%20//%20Search%20//
 ### Misc
 
 [Riparare Il Portellone Posteriore Bloccato Auto](https://www.youtube.com/watch?v=CZgOMoyH1iY)
+
+https://www.csitaichi.it/tai-chi-roma-san-giovanni-2/

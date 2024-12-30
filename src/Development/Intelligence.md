@@ -79,7 +79,31 @@ https://www.cognition.ai/ (An applied AI lab building end-to-end software agents
 
 https://inference.cerebras.ai/ (This is instant AI)
 
-https://github.com/Cerebras/gigaGPT (Small code base for training large models )
+https://github.com/Cerebras/gigaGPT (Small code base for training large models)
+
+https://databutton.com/v/jk9vrghc (Research and visualise new ideas using Generative AI)
+
+https://medium.com/@elle.neal_71064/mind-mapping-with-ai-an-accessible-approach-for-neurodiverse-learners-1a74767359ff
+
+https://www.getcoralai.com/blog/ai-chat-with-markdown (Chat with Markdown Files Using Coral AI)
+
+https://dev.to/ethanleetech/how-to-use-cursor-ai-in-best-way-pcd
+
+https://medium.com/@matthias.lemainque/in-house-specialized-llm-an-easy-path-to-production-1b2730e0138b
+
+https://medium.com/sciforce/step-by-step-guide-to-your-own-large-language-model-2b3fed6422d0
+
+https://medium.com/@AI-Simplified/building-large-language-models-from-scratch-a-beginners-guide-d464e54f932b
+
+https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/
+
+https://www.pluralsight.com/resources/blog/ai-and-data/how-build-large-language-model
+
+https://www.llama.com/ (open-source AI models you can fine-tune, distill and deploy anywhere)
+
+https://ai.google/get-started/our-models/ (Gemini & Co.)
+
+https://zapier.com/blog/best-ai-productivity-tools/
 
 ### Tools
 
@@ -107,6 +131,25 @@ https://github.com/mendableai/firecrawl
 https://github.com/google-gemini/cookbook/blob/main/gemini-2/get_started.ipynb
 
 https://cerebrascoder.com/ (Turn your ideas into fully functional apps)
+
+https://chatgpt.com/g/g-1IRFKwq4G-mermaid-chart-diagrams-and-charts (ChatGPT+mermaid)
+
+https://mdedit.ai/ (AI-Powered Markdown Editor Built For Tech Writers, Free?) [x]
+
+https://github.com/NexaAI/nexa-sdk (Toolkit for supporting GGML and ONNX models, Generatives)
+
+https://nexa.ai/meta/Llama3.2-3B-Instruct/gguf-q3_K_M/file
+
+https://github.com/Stability-AI/generative-models (Generative Models by Stability AI)
+
+https://stability.ai/stable-image
+
+https://www.midjourney.com/home
+
+https://github.com/meta-llama/llama-models (About
+Utilities intended for use with Llama models)
+
+https://github.com/rasbt/LLMs-from-scratch (Implement a ChatGPT-like LLM in PyTorch from scratch, step by step, code related to a book)
 
 ### Apple Intelligence
 

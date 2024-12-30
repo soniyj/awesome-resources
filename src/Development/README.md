@@ -65,3 +65,9 @@ https://github.com/stereolabs/zed-sdk (Zed Cameras)
 https://tree-sitter.github.io/tree-sitter/ (Parser Generator)
 
 https://github.com/aws/graph-explorer
+
+### Alexa Amazon
+
+https://developer.amazon.com/en-US/docs/alexa/custom-skills/steps-to-build-a-custom-skill.html
+
+https://developer.amazon.com/en-US/docs/alexa/custom-skills/host-a-custom-skill-as-a-web-service.html
