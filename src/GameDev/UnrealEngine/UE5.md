@@ -24,6 +24,10 @@ https://www.unrealengine.com/en-US/blog/cropout-casual-rts-game-sample-project
 
 https://www.unrealengine.com/marketplace/en-US/product/advanced-turn-based-tile-toolkit
 
+https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-development-environment-for-cplusplus-projects-in-unreal-engine
+
+https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-development-environment-for-cplusplus-projects-in-unreal-engine/?application_version=5.4
+
 ### Tutorials
 
 https://dev.epicgames.com/community/learning/tutorials/W5aX/how-to-make-a-simple-inventory-system-in-unreal-engine-5
@@ -107,6 +111,18 @@ https://dev.epicgames.com/community/learning/tutorials/bXOe/unreal-engine-strate
 https://dev.epicgames.com/documentation/en-us/unreal-engine/balancing-blueprint-and-cplusplus?application_version=4.27
 
 https://dev.epicgames.com/community/learning/tutorials/zry7/unreal-engine-exploring-looking-at-the-plugins-in-the-cropout-sample-project
+
+https://www.unrealengine.com/en-US/blog/learn-unreal-engine-5-fast-with-these-new-courses
+
+https://www.tomlooman.com/unreal-engine-cpp-guide/
+
+https://courses.tomlooman.com/p/unrealengine-cpp
+
+http://awforsythe.com/unreal/blueprints_vs_cpp/ (Blueprints & C++ together)
+
+https://forums.unrealengine.com/t/best-beginner-friendly-c-game-development-tutorial-for-unreal/635858
+
+https://romeroblueprints.blogspot.com/p/table-of-contents-c.html (to check)
 
 ### Video Tutorials
 

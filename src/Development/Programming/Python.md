@@ -164,6 +164,10 @@ https://towardsdatascience.com/how-to-create-a-fully-automated-ai-based-trading-
 
 https://github.com/ruromgar/python-ai-trading-system
 
+https://spacy.pythonhumanities.com/intro.html
+
+[Natural Language Processing with spaCy & Python - Course for Beginners](https://m.youtube.com/watch?v=dIUTsFT2MeQ)
+
 ### AR/VR/XR
 
 https://github.com/rdmilligan/SaltwashAR/wiki

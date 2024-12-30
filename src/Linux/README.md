@@ -32,6 +32,10 @@ https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-
 
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu
 
+https://phoenixnap.com/kb/mount-ntfs-linux
+
+https://kb.uconn.edu/space/IKB/10763764277/Creating+a+Ubuntu+%22To-Go%22+USB+(Persistent+USB)
+
 ### Scheduling and Cron
 
 https://mesos.github.io/chronos/docs/
@@ -64,3 +68,8 @@ https://askubuntu.com/questions/259739/kswapd0-is-taking-a-lot-of-cpu
 
 https://askubuntu.com/questions/1224927/cpu-100-with-kswapd0-process-although-no-swap-is-needed
 
+### Video Tutorials
+
+[Linux Tips - Install Full Ubuntu on a USB Drive (2023)](https://www.youtube.com/watch?v=j2RYqahtkNc) {Requires 2 USB Drivers}
+
+[Install Full Ubuntu with ZFS on a Single USB Drive (Ultimate 24.04 Edition)](https://www.youtube.com/watch?v=jgeXJ4YXPgw)

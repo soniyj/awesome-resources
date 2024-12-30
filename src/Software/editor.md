@@ -1,6 +1,6 @@
 # Editor & RAD/IDE Resources #
 
-### VS Code (Visual Studio)
+### VS Code (Visual Studio Code)
 
 https://code.visualstudio.com/docs/remote/containers
 
@@ -51,6 +51,14 @@ https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt
 https://github.com/mpociot/chatgpt-vscode
 
 https://medium.com/geekculture/codegpt-the-vscode-extension-with-chatgpt-like-functionalities-783323a916c3
+
+### Visual Studio
+
+https://visualstudio.microsoft.com/vs/
+
+https://learn.microsoft.com/en-gb/visualstudio/ide/ai-assisted-development-visual-studio?view=vs-2022
+
+https://visualstudio.microsoft.com/github-copilot/?utm_source=vscom-homepage&utm_medium=web-hero&utm_id=landing-page&utm_campaign=vscom-ide-hero-build-2024-to-copilot-lp
 
 ### Others
 

@@ -32,6 +32,8 @@ https://www.unrealengine.com/marketplace/en-US/product/adtlink-for-unreal-engine
 
 https://www.unrealengine.com/en-US/blog/webinar-exploring-the-new-sports-broadcast-and-motion-graphics-sample
 
+https://dev.epicgames.com/documentation/en-us/unreal-engine/coding-standard?application_version=4.27#physicaldependencies
+
 ### Tutorials
 
 https://www.raywenderlich.com/771-unreal-engine-4-tutorial-for-beginners-getting-started
@@ -243,6 +245,12 @@ https://www.youtube.com/c/Strigifo/playlists
 [UE4 Tutorial - How to select actors in a drag selection rectangle](https://www.youtube.com/watch?v=sBubq1Iro1E) (to check)
 
 [UE4 tutorial - How to select actors in gameplay using mouse button](https://www.youtube.com/watch?v=Xxx6hrbchEg) (to check)
+
+[Intro to Unreal Engine C++ Tutorial](https://m.youtube.com/watch?v=D4UM73O7Zxs) (to check)
+
+[Blueprints vs. C++: How They Fit Together and Why You Should Use Both](https://m.youtube.com/watch?v=VMZftEVDuCE) (to check)
+
+[Learn Unreal Engine (with C++) - Full Course for Beginners](https://m.youtube.com/watch?v=LsNW4FPHuZE&feature=youtu.be) (to check)
 
 **AI**
 

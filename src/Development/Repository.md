@@ -65,3 +65,7 @@ https://support.atlassian.com/bitbucket-cloud/docs/using-app-passwords/
 https://developer.atlassian.com/cloud/bitbucket/rest/api-group-workspaces/#api-workspaces-get
 
 https://support.atlassian.com/bitbucket-cloud/docs/get-started-with-vs-code/
+
+### GitHub Resources
+
+https://github.com/features/copilot (to check)
