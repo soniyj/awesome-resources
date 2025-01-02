@@ -208,6 +208,14 @@ https://prezi.com (No Free Plan, Integrations)
 
 https://www.beautiful.ai (No Free Plan)
 
+### Video Tutorials
+
+[Create your own ChatGPT like app in 3 simple steps | OpenSource Models](https://www.youtube.com/watch?app=desktop&v=J1HAFnrhWx8) (to check)
+
+[How ChatGPT Built My App in Minutes 🤯](https://www.youtube.com/watch?app=desktop&v=EsRyyJmO-u8) (to check)
+
+["Build Your Own ChatGPT for FREE: No Coding Required! 🚀"](https://www.youtube.com/watch?app=desktop&v=YsHnARlMdnk)
+
 ### Links
 
 1) www.pdfdrive.com è il più grande sito di download di libri PDF gratuiti. Rivendica oltre 225 milioni di titoli.
