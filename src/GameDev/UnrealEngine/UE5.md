@@ -28,6 +28,10 @@ https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-st
 
 https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-visual-studio-development-environment-for-cplusplus-projects-in-unreal-engine/?application_version=5.4
 
+https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-your-development-environment-for-cplusplus-in-unreal-engine
+
+https://dev.epicgames.com/documentation/en-us/unreal-engine/programming-with-cplusplus-in-unreal-engine
+
 ### Tutorials
 
 https://dev.epicgames.com/community/learning/tutorials/W5aX/how-to-make-a-simple-inventory-system-in-unreal-engine-5
@@ -123,6 +127,8 @@ http://awforsythe.com/unreal/blueprints_vs_cpp/ (Blueprints & C++ together)
 https://forums.unrealengine.com/t/best-beginner-friendly-c-game-development-tutorial-for-unreal/635858
 
 https://romeroblueprints.blogspot.com/p/table-of-contents-c.html (to check)
+
+https://howthingsfly.si.edu/flight-dynamics/roll-pitch-and-yaw
 
 ### Video Tutorials
 

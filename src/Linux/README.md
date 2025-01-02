@@ -36,6 +36,12 @@ https://phoenixnap.com/kb/mount-ntfs-linux
 
 https://kb.uconn.edu/space/IKB/10763764277/Creating+a+Ubuntu+%22To-Go%22+USB+(Persistent+USB)
 
+https://help.ubuntu.com/community/WifiDocs/Driver/bcm43xx
+
+https://www.reddit.com/r/Ubuntu/comments/1cjwwp9/no_wifi_module_found_on_ubuntu_2404_lts/?rdt=65250
+
+https://askubuntu.com/questions/55868/installing-broadcom-wireless-drivers
+
 ### Scheduling and Cron
 
 https://mesos.github.io/chronos/docs/
