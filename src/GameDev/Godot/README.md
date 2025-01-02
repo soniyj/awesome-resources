@@ -220,6 +220,8 @@ https://ramatak.com/2023/02/24/godot-tutorial-porting-your-games-controls-for-mo
 
 [How to make an ONLINE LEADER BOARD with Godot Engine and Lootlocker](https://www.youtube.com/watch?app=desktop&v=xeoP5CqAi0g)
 
+[MAS Tutorial | Integrating MAS with Godot](https://www.youtube.com/watch?v=2sE7VZ_UYx0)
+
 ### Assets
 
 [Starter Kit City Builder](https://godotengine.org/asset-library/asset/2174)
