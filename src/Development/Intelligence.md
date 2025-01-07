@@ -146,7 +146,9 @@ https://jan.ai/ (Turn your computer into an AI machine Open Source) [!]
 
 https://lmstudio.ai/ (Discover, download, and run local LLMs) [!]
 
-https://huggingface.co/
+https://unsloth.ai/ (Easily Finetune & Train Models)
+
+https://huggingface.co/ (Repository for Models)
 
 https://huggingface.co/spaces/EPFL-VILAB/4M
 
@@ -180,7 +182,7 @@ https://python.langchain.com/docs/introduction/ (Framework for developing applic
 
 https://python.langchain.com/docs/integrations/llms/ollama/
 
-https://github.com/ollama/ollama (Run large language models)
+https://github.com/ollama/ollama (Run large language models, like Docker)
 
 https://github.com/cheshire-cat-ai/core (AI agent microservice, ramework that allows developing AI agents on top of LLM)
 
@@ -253,11 +255,11 @@ https://www.beautiful.ai (No Free Plan)
 
 [Ollama + HuggingFace - 45,000 New Models](https://www.youtube.com/watch?app=desktop&v=eLfJqWwdb6o) (to watch)
 
-[EASIEST Way to Fine-Tune a LLM and Use It With Ollama](https://www.youtube.com/watch?app=desktop&v=pxhkDaKzBaY) (to check)
+[EASIEST Way to Fine-Tune a LLM and Use It With Ollama](https://www.youtube.com/watch?app=desktop&v=pxhkDaKzBaY) (ok to test a bit fast)
 
-[Run GGUF models from Hugging Face Hub on Ollama and OpenWebUI](https://www.youtube.com/watch?app=desktop&v=wOix7DlZ4EY) (to check)
+[Run GGUF models from Hugging Face Hub on Ollama and OpenWebUI](https://www.youtube.com/watch?app=desktop&v=wOix7DlZ4EY)
 
-[End of local AI Apps ?? HuggingFace Spaces + Docker + FastAPI](https://www.youtube.com/watch?app=desktop&v=JtpDvI3qZ5U) (to check)
+[End of local AI Apps ?? HuggingFace Spaces + Docker + FastAPI](https://www.youtube.com/watch?app=desktop&v=JtpDvI3qZ5U) (Running App on HuggingFace Space)
 
 ### Links
 
