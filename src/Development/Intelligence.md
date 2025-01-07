@@ -107,13 +107,9 @@ https://zapier.com/blog/best-ai-productivity-tools/
 
 ### Tools
 
-https://jan.ai/ (Turn your computer into an AI machine Open Source) [!]
-
-https://lmstudio.ai/ (Discover, download, and run local LLMs) [!]
-
 https://mymemo.ai/ (Build Your Second Brain With AI)
 
-https://claude.ai/ (to check alternative to ChatGPT)
+https://claude.ai/ (Alternative to ChatGPT)
 
 http://study.new/ (Add this before any youtube video, you should get a transcription of it)
 
@@ -126,7 +122,7 @@ https://aistudio.google.com/ (Requires Google Account)
 
 https://devin.ai/ (Collaborative AI teammate)
 
-https://github.com/mendableai/firecrawl
+https://github.com/mendableai/firecrawl (API service that takes a URL, crawls it, and converts it into clean markdown or structured data)
 
 https://github.com/google-gemini/cookbook/blob/main/gemini-2/get_started.ipynb
 
@@ -136,28 +132,67 @@ https://chatgpt.com/g/g-1IRFKwq4G-mermaid-chart-diagrams-and-charts (ChatGPT+mer
 
 https://mdedit.ai/ (AI-Powered Markdown Editor Built For Tech Writers, Free?) [x]
 
-https://github.com/NexaAI/nexa-sdk (Toolkit for supporting GGML and ONNX models, Generatives)
-
-https://nexa.ai/meta/Llama3.2-3B-Instruct/gguf-q3_K_M/file
-
 https://github.com/Stability-AI/generative-models (Generative Models by Stability AI)
 
 https://stability.ai/stable-image
 
 https://www.midjourney.com/home
 
-https://github.com/meta-llama/llama-models (About
-Utilities intended for use with Llama models)
+https://languagetool.org (AI-based grammar checker, Free Version Available)
 
-https://github.com/rasbt/LLMs-from-scratch (Implement a ChatGPT-like LLM in PyTorch from scratch, step by step, code related to a book)
+### LLM (Large Language Model) & NLP (Natural Language Processing)
 
-### Apple Intelligence
+https://jan.ai/ (Turn your computer into an AI machine Open Source) [!]
 
-*Note: It isn't part of Apple but Referenced by*
+https://lmstudio.ai/ (Discover, download, and run local LLMs) [!]
 
 https://huggingface.co/
 
 https://huggingface.co/spaces/EPFL-VILAB/4M
+
+https://huggingface.co/docs/chat-ui/en/configuration/models/providers/ollama
+
+https://huggingface.co/docs/transformers/pipeline_tutorial
+
+https://huggingface.co/dslim/bert-base-NER
+
+https://huggingface.co/docs/transformers/installation
+
+https://huggingface.co/datasets/tatsu-lab/alpaca
+
+https://huggingface.co/blog/nroggendorff/train-with-llama-architecture
+
+https://github.com/huggingface/datasets
+
+https://github.com/huggingface/datasets?tab=readme-ov-file
+
+https://discuss.huggingface.co/t/run-models-on-a-desktop-computer/31125
+
+https://github.com/NexaAI/nexa-sdk (Toolkit for supporting GGML and ONNX models, Generatives, Multimodal, NLP, Computer Vision, & Audi)
+
+https://nexa.ai/meta/Llama3.2-3B-Instruct/gguf-q3_K_M/file
+
+https://github.com/meta-llama/llama-models (About Utilities intended for use with Llama models)
+
+https://github.com/rasbt/LLMs-from-scratch (Implement a ChatGPT-like LLM in PyTorch from scratch, step by step, code related to a book)
+
+https://python.langchain.com/docs/introduction/ (Framework for developing applications powered by large language models)
+
+https://python.langchain.com/docs/integrations/llms/ollama/
+
+https://github.com/ollama/ollama (Run large language models)
+
+https://github.com/cheshire-cat-ai/core (AI agent microservice, ramework that allows developing AI agents on top of LLM)
+
+https://www.datacamp.com/tutorial/fine-tuning-llama-2
+
+https://medium.com/@srinipotnuru/learn-how-to-fine-tune-a-llama-3-1-with-your-own-custom-data-ead7be969518
+
+https://medium.com/@sudarshan-koirala/ollama-huggingface-8e8bc55ce572
+
+https://www.mlexpert.io/blog/alpaca-fine-tuning
+
+### Apple Intelligence
 
 https://4m.epfl.ch/
 
@@ -214,7 +249,7 @@ https://www.beautiful.ai (No Free Plan)
 
 [How ChatGPT Built My App in Minutes 🤯](https://www.youtube.com/watch?app=desktop&v=EsRyyJmO-u8) (to check)
 
-["Build Your Own ChatGPT for FREE: No Coding Required! 🚀"](https://www.youtube.com/watch?app=desktop&v=YsHnARlMdnk)
+["Build Your Own ChatGPT for FREE: No Coding Required! 🚀"](https://www.youtube.com/watch?app=desktop&v=YsHnARlMdnk) (to check)
 
 ### Links
 
@@ -235,3 +270,12 @@ https://www.beautiful.ai (No Free Plan)
 8) http://repec.org - i volontari di 102 paesi hanno raccolto quasi 4 milioni di pubblicazioni.
 
 9) www.science.gov è un motore di ricerca governativo statunitense per oltre 2.200 siti scientifici.
+
+### Short List Testing
+
+https://lmstudio.ai/ (LLM Models, Presets, Prompts)
+
+https://jan.ai/ (ChatGPT Alternative)
+
+https://github.com/NexaAI/nexa-sdk (Quantized AI models)
+

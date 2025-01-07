@@ -66,6 +66,8 @@ https://tree-sitter.github.io/tree-sitter/ (Parser Generator)
 
 https://github.com/aws/graph-explorer
 
+https://arrow.apache.org (Language-agnostic software framework for developing data analytics applications that process columnar data)
+
 ### Alexa Amazon
 
 https://developer.amazon.com/en-US/docs/alexa/custom-skills/steps-to-build-a-custom-skill.html
