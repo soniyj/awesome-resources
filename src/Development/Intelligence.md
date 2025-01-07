@@ -245,11 +245,19 @@ https://www.beautiful.ai (No Free Plan)
 
 ### Video Tutorials
 
-[Create your own ChatGPT like app in 3 simple steps | OpenSource Models](https://www.youtube.com/watch?app=desktop&v=J1HAFnrhWx8) (to check)
+[Create your own ChatGPT like app in 3 simple steps | OpenSource Models](https://www.youtube.com/watch?app=desktop&v=J1HAFnrhWx8) (ok)
 
-[How ChatGPT Built My App in Minutes 🤯](https://www.youtube.com/watch?app=desktop&v=EsRyyJmO-u8) (to check)
+[How ChatGPT Built My App in Minutes 🤯](https://www.youtube.com/watch?app=desktop&v=EsRyyJmO-u8)
 
-["Build Your Own ChatGPT for FREE: No Coding Required! 🚀"](https://www.youtube.com/watch?app=desktop&v=YsHnARlMdnk) (to check)
+["Build Your Own ChatGPT for FREE: No Coding Required! 🚀"](https://www.youtube.com/watch?app=desktop&v=YsHnARlMdnk) (ok)
+
+[Ollama + HuggingFace - 45,000 New Models](https://www.youtube.com/watch?app=desktop&v=eLfJqWwdb6o) (to watch)
+
+[EASIEST Way to Fine-Tune a LLM and Use It With Ollama](https://www.youtube.com/watch?app=desktop&v=pxhkDaKzBaY) (to check)
+
+[Run GGUF models from Hugging Face Hub on Ollama and OpenWebUI](https://www.youtube.com/watch?app=desktop&v=wOix7DlZ4EY) (to check)
+
+[End of local AI Apps ?? HuggingFace Spaces + Docker + FastAPI](https://www.youtube.com/watch?app=desktop&v=JtpDvI3qZ5U) (to check)
 
 ### Links
 
