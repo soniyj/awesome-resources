@@ -168,6 +168,8 @@ https://spacy.pythonhumanities.com/intro.html
 
 [Natural Language Processing with spaCy & Python - Course for Beginners](https://m.youtube.com/watch?v=dIUTsFT2MeQ)
 
+https://ai.pydantic.dev/ (Agent framework designed to build production grade applications with Generative AI)
+
 ### AR/VR/XR
 
 https://github.com/rdmilligan/SaltwashAR/wiki

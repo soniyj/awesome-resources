@@ -146,6 +146,8 @@ https://jan.ai/ (Turn your computer into an AI machine Open Source) [!]
 
 https://lmstudio.ai/ (Discover, download, and run local LLMs) [!]
 
+https://github.com/ggerganov/llama.cpp (LLM inference in C/C++) (to check)
+
 https://unsloth.ai/ (Easily Finetune & Train Models)
 
 https://huggingface.co/ (Repository for Models)
@@ -193,6 +195,10 @@ https://medium.com/@srinipotnuru/learn-how-to-fine-tune-a-llama-3-1-with-your-ow
 https://medium.com/@sudarshan-koirala/ollama-huggingface-8e8bc55ce572
 
 https://www.mlexpert.io/blog/alpaca-fine-tuning
+
+https://medium.com/@qdrddr/the-easiest-way-to-convert-a-model-to-gguf-and-quantize-91016e97c987
+
+https://www.kaggle.com (Level up with the largest AI & ML community, like HuggingFace)
 
 ### Apple Intelligence
 
