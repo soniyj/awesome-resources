@@ -18,6 +18,8 @@ https://dillinger.io/ (Online editor)
 
 [Writing Web Content with Markdown](https://www.hongkiat.com/blog/web-content-with-markdown/)
 
+https://github.com/thlorenz/doctoc (Generates table of contents for markdown files inside local git repository)
+
 ### Docusaurus
 
 https://docusaurus.io (Documentation)

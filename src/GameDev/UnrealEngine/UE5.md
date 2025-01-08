@@ -32,6 +32,10 @@ https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-your-deve
 
 https://dev.epicgames.com/documentation/en-us/unreal-engine/programming-with-cplusplus-in-unreal-engine
 
+https://dev.epicgames.com/documentation/en-us/unreal-engine/API
+
+https://github.com/MrRobinOfficial/Guide-UnrealEngine (to check)
+
 ### Tutorials
 
 https://dev.epicgames.com/community/learning/tutorials/W5aX/how-to-make-a-simple-inventory-system-in-unreal-engine-5

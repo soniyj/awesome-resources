@@ -250,7 +250,7 @@ https://www.youtube.com/c/Strigifo/playlists
 
 [Blueprints vs. C++: How They Fit Together and Why You Should Use Both](https://m.youtube.com/watch?v=VMZftEVDuCE) (to check)
 
-[Learn Unreal Engine (with C++) - Full Course for Beginners](https://m.youtube.com/watch?v=LsNW4FPHuZE&feature=youtu.be) (to check)
+[Learn Unreal Engine (with C++) - Full Course for Beginners](https://m.youtube.com/watch?v=LsNW4FPHuZE&feature=youtu.be) (watching)
 
 **AI**
 
