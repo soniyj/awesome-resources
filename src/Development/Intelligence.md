@@ -103,7 +103,9 @@ https://www.llama.com/ (open-source AI models you can fine-tune, distill and dep
 
 https://ai.google/get-started/our-models/ (Gemini & Co.)
 
-https://zapier.com/blog/best-ai-productivity-tools/
+https://www.nvidia.com/en-us/ai/cosmos/ (Accelerate physical AI development with world foundation models)
+
+https://developer.nvidia.com/cosmos (A platform of state-of-the-art generative, physical AI)
 
 ### Tools
 
@@ -139,6 +141,8 @@ https://stability.ai/stable-image
 https://www.midjourney.com/home
 
 https://languagetool.org (AI-based grammar checker, Free Version Available)
+
+https://zapier.com/blog/best-ai-productivity-tools/
 
 ### LLM (Large Language Model) & NLP (Natural Language Processing)
 
@@ -199,6 +203,8 @@ https://www.mlexpert.io/blog/alpaca-fine-tuning
 https://medium.com/@qdrddr/the-easiest-way-to-convert-a-model-to-gguf-and-quantize-91016e97c987
 
 https://www.kaggle.com (Level up with the largest AI & ML community, like HuggingFace)
+
+https://github.com/spotnuru83/fine-tune-llama-3.1-8b-llm-with-custom-data/tree/main
 
 ### Apple Intelligence
 
@@ -266,6 +272,14 @@ https://www.beautiful.ai (No Free Plan)
 [Run GGUF models from Hugging Face Hub on Ollama and OpenWebUI](https://www.youtube.com/watch?app=desktop&v=wOix7DlZ4EY)
 
 [End of local AI Apps ?? HuggingFace Spaces + Docker + FastAPI](https://www.youtube.com/watch?app=desktop&v=JtpDvI3qZ5U) (Running App on HuggingFace Space)
+
+[CREATE Your Own Dataset Like a Pro in 30 mins](https://www.youtube.com/watch?app=desktop&v=MQis5kQ99mw) (to watch)
+
+[Prompt Engineer](https://www.youtube.com/@PromptEngineer48/videos?app=desktop) (to watch, several videos)
+
+[Fine-Tuning and Deploying for Your Use Case: Ollama and Hugging Face (Video 2 of 4)](https://www.youtube.com/watch?app=desktop&v=wco_8l_zh7s)
+
+
 
 ### Links
 
