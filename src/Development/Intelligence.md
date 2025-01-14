@@ -107,6 +107,10 @@ https://www.nvidia.com/en-us/ai/cosmos/ (Accelerate physical AI development with
 
 https://developer.nvidia.com/cosmos (A platform of state-of-the-art generative, physical AI)
 
+https://www.deepseek.com (Achieves a significant breakthrough in inference)
+
+https://learn.microsoft.com/en-us/dynamics365/sales/copilot-get-doc-suggestions (Use Copilot to get content recommendations and answers from SharePoint)
+
 ### Tools
 
 https://mymemo.ai/ (Build Your Second Brain With AI)
@@ -121,6 +125,8 @@ https://www.copilotkit.ai/ (Build a 'virtual colleague' into your product
 that fully understands your application & your users)
 
 https://aistudio.google.com/ (Requires Google Account)
+
+https://docsbot.ai (Instant AI Answers from your Docs) [Paid only]
 
 https://devin.ai/ (Collaborative AI teammate)
 
@@ -144,6 +150,20 @@ https://languagetool.org (AI-based grammar checker, Free Version Available)
 
 https://zapier.com/blog/best-ai-productivity-tools/
 
+https://www.comfy.org (Open source node-based application for creating images, videos, and audio with GenAI)
+
+https://github.com/comfyanonymous/ComfyUI
+
+https://github.com/modelscope/modelscope (Model As A Service)
+
+https://github.com/leejet/stable-diffusion.cpp (Stable Diffusion and Flux in pure C/C++)
+
+https://github.com/PABannier/bark.cpp (Bark model in C/C++ for fast text-to-speech generation)
+
+https://github.com/onnx/onnx (Open standard for machine learning interoperability)
+
+https://github.com/onnx/tutorials (Tutorials for creating and using ONNX models)
+
 ### LLM (Large Language Model) & NLP (Natural Language Processing)
 
 https://jan.ai/ (Turn your computer into an AI machine Open Source) [!]
@@ -153,6 +173,8 @@ https://lmstudio.ai/ (Discover, download, and run local LLMs) [!]
 https://github.com/ggerganov/llama.cpp (LLM inference in C/C++) (to check)
 
 https://unsloth.ai/ (Easily Finetune & Train Models)
+
+https://github.com/unslothai/unsloth
 
 https://huggingface.co/ (Repository for Models)
 
@@ -173,6 +195,8 @@ https://huggingface.co/blog/nroggendorff/train-with-llama-architecture
 https://github.com/huggingface/datasets
 
 https://github.com/huggingface/datasets?tab=readme-ov-file
+
+https://github.com/huggingface/optimum (Extension of Transformers and Diffusers)
 
 https://discuss.huggingface.co/t/run-models-on-a-desktop-computer/31125
 
@@ -205,6 +229,8 @@ https://medium.com/@qdrddr/the-easiest-way-to-convert-a-model-to-gguf-and-quanti
 https://www.kaggle.com (Level up with the largest AI & ML community, like HuggingFace)
 
 https://github.com/spotnuru83/fine-tune-llama-3.1-8b-llm-with-custom-data/tree/main
+
+https://github.com/bublint/ue5-llama-lora?tab=readme-ov-file (A proof-of-concept project that showcases the potential for using small, locally trainable LLMs to create next-generation documentation tools)
 
 ### Apple Intelligence
 
@@ -279,7 +305,11 @@ https://www.beautiful.ai (No Free Plan)
 
 [Fine-Tuning and Deploying for Your Use Case: Ollama and Hugging Face (Video 2 of 4)](https://www.youtube.com/watch?app=desktop&v=wco_8l_zh7s)
 
+[What is Copilot Studio?](https://www.youtube.com/watch?v=_Xny7HkmNpk) (to check)
 
+[Copilot Studio Tutorial: How to create a Custom Copilot](https://www.youtube.com/watch?v=rFpG3-n36sA) (to check)
+
+[Build Your First Autonomous Agent with Copilot Studio](https://www.youtube.com/watch?v=ZE95URGcT7o) (to check)
 
 ### Links
 
