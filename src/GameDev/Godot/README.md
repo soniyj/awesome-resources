@@ -108,6 +108,10 @@ https://monarxk.hashnode.dev/chronicling-achievement-how-to-craft-a-persistent-l
 
 [How to quickly and easily create leaderboards](https://trytalo.com/blog/leaderboards-godot)
 
+https://godot.community/topic/41/gdscript-best-practices-for-organized-code
+
+https://groups.google.com/g/google-admob-ads-sdk/c/D76xY720OLs?pli=1
+
 **Mobile**
 
 https://docs.godotengine.org/en/stable/tutorials/platform/ios/plugins_for_ios.html
@@ -222,6 +226,10 @@ https://ramatak.com/2023/02/24/godot-tutorial-porting-your-games-controls-for-mo
 
 [MAS Tutorial | Integrating MAS with Godot](https://www.youtube.com/watch?v=2sE7VZ_UYx0)
 
+[How to Create iOS Plugin to display InApp Review Ratings for Godot Game Engine](https://www.youtube.com/watch?app=desktop&v=UlhYW1TMDkc)
+
+[Make C++ Games using Godot!!](https://www.youtube.com/watch?app=desktop&v=8I_G-3Nii4k)
+
 ### Assets
 
 [Starter Kit City Builder](https://godotengine.org/asset-library/asset/2174)
@@ -270,6 +278,8 @@ https://github.com/gdquest-demos/godot-4-VFX-assets [!] (to check)
 
 https://github.com/drcd1/GodotSimpleExplosionVFX
 
+https://github.com/DexterFstone/godot-adivery (Arabic!)
+
 **EOS**
 
 https://www.youtube.com/watch?v=ENyvF4yVjKg
@@ -305,6 +315,10 @@ scons platform=ios target=template_release arch=arm64
 
 [broken build for iOS branch 4.3 on latest Xcode](https://github.com/godotengine/godot/issues/97999)
 
+https://github.com/audiosdev/AudiosPlugin-Godot-iOS-Audio-Plugin
+
+https://www.peanuts-code.com/en/tutorials/gd0021_game_center_plugin/
+
 ### Tools
 
 https://github.com/blackears/cyclopsLevelBuilder
@@ -320,6 +334,8 @@ https://github.com/topics/city-builder?l=gdscript
 https://github.com/the-mirror-gdp/the-mirror (The open-source Roblox & UEFN alternative) [!]
 
 https://globalstats.io/api#StatisticsLeaderboard
+
+https://github.com/Jenova-Framework/Jenova-Runtime
 
 ### Projects
 

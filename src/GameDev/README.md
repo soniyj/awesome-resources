@@ -145,11 +145,11 @@ https://github.com/derrod/legendary (A free and open-source replacement for the 
 
 https://github.com/RareDevs/Rare (Epic Games Launcher open source alternative, using Legendary)
 
+(Cocos2d-x Solutions)[https://www.youtube.com/watch?app=desktop&v=UUkdoyqaNo4]
+
 ### Game Assets
 
 https://github.com/Miziziziz/Retro3DGraphicsCollection
-
-https://www.buildbox.com/top-10-sites-free-3d-game-art/
 
 https://gameassetsfree.com
 
@@ -180,8 +180,6 @@ https://www.recraft.ai/generate/game-assets
 https://aiartists.org/ai-generated-art-tools
 
 https://www.hitberrygames.com/post/10-top-ai-game-generators-in-2024
-
-https://www.buildbox.com/best-ai-art-generators-for-game-developers/
 
 https://medium.com/mighty-bear-games/ai-tools-for-game-art-development-1c08a07a4529
 
@@ -265,6 +263,20 @@ https://www.ambiera.com/coppercube/index.html
 https://esenthel.com/
 
 [Game Engine Ep.13 - Getting into Scripting with Lua](https://www.youtube.com/watch?app=desktop&v=bIODr8ZSYSU)
+
+https://github.com/axmolengine/axmol (A Multi-platform Engine for Desktop, XBOX (UWP) and Mobile games. (A fork of Cocos2d-x-4.0))
+
+https://github.com/axmolengine/axmol/wiki/Axmol-vs-Cocos2d%E2%80%90x
+
+https://2dkit.com (Ads and Creation Tool)
+
+### Buildbox
+
+https://www.buildbox.com/top-10-sites-free-3d-game-art/
+
+https://www.buildbox.com/best-ai-art-generators-for-game-developers/
+
+(0004. create game levels ( scenes ) in buildbox 2)[https://www.youtube.com/watch?app=desktop&v=ydxyJuiFNl4]
 
 ### GUI
 

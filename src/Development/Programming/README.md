@@ -138,6 +138,8 @@ https://nitro.unjs.io/ (Create web servers with everything you need and deploy t
 
 https://typicode.github.io/husky/ (Automatically lint your commit messages, code, and run tests upon committing or pushing)
 
+https://www.codacy.com (Code Quality and Security)
+
 ### Changelog & Versioning
 
 https://kikobeats.github.io/automate-release/#/
