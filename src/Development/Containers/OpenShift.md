@@ -35,3 +35,13 @@ https://www.docker.com/blog/deployment-of-local-container-images-to-openshift/
 [Use Single Node OpenShift to run containers AND virtual machines side-by-side!](https://www.youtube.com/watch?app=desktop&v=ZV7KGqcPs7s)
 
 [OpenShift Administration](https://www.youtube.com/playlist?app=desktop&list=PLnFCwVWiQz4nFE9X6ADRTtBvZDIrIAL1u)
+
+### PAM & BAM
+
+https://www.ibm.com/support/pages/migrating-red-hat-process-automation-manager-and-decision-manager-7x-ibm-business-automation-manager-open-editions-80
+
+https://github.com/juliaaano/rhpam-eap-ansible
+
+https://github.com/orgs/jboss-container-images/repositories
+
+https://github.com/juliaaano/rhpam-quickstart

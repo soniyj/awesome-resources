@@ -147,6 +147,10 @@ https://github.com/RareDevs/Rare (Epic Games Launcher open source alternative, u
 
 (Cocos2d-x Solutions)[https://www.youtube.com/watch?app=desktop&v=UUkdoyqaNo4]
 
+https://github.com/ppgee/cocos-pnp (Cocos Playable Ads in Multi-Network(facebook, google, unity, tiktok etc.))
+
+(Google AdMob and Cocos Creator)[https://drive.google.com/file/d/1rffn73jmTNuANkAwg_7vzu19cHCYZg5t/view]
+
 ### Game Assets
 
 https://github.com/Miziziziz/Retro3DGraphicsCollection

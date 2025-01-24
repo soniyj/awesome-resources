@@ -6,6 +6,12 @@ Main Readme for Resources related to Development.
 
 Add Links to all Pages/Resorces
 
+### Design
+
+https://www.linkedin.com/pulse/software-architecture-model-md-abdullah-al-mamun-9k96c
+
+https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/
+
 ### Markdown Resources
 
 https://www.markdownguide.org/getting-started/

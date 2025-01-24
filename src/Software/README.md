@@ -20,6 +20,8 @@ https://wireflow.co (free, open source, online)
 
 https://github.com/karanpratapsingh/system-design
 
+https://github.com/arc42/arc42-template?tab=readme-ov-file
+
 ### DataBase Design
 
 https://dbdesigner.net/
