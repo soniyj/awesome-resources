@@ -42,6 +42,8 @@ http://www.aha.io/product/pricing (eligible for free, hosted)
 
 https://www.openproject.org/pricing/ (free community edition)
 
+https://www.openproject.org/blog/how-to-openproject-github-integration/
+
 http://www.project-open.com/en/modules/index.html (free community edition)
 
 http://www.projeqtor.org/en/product-en/technical-en/64-setup-en/413-product-setup-en

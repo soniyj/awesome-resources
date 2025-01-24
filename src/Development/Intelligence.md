@@ -111,6 +111,10 @@ https://www.deepseek.com (Achieves a significant breakthrough in inference)
 
 https://learn.microsoft.com/en-us/dynamics365/sales/copilot-get-doc-suggestions (Use Copilot to get content recommendations and answers from SharePoint)
 
+https://github.com/matteobaccan/FromJuniorToSeniorWithAI (to check)
+
+https://www.codemotion.com/magazine/it/intelligenza-artificiale/da-programmatori-junior-a-senior-con-chatgpt/
+
 ### Tools
 
 https://mymemo.ai/ (Build Your Second Brain With AI)
@@ -163,6 +167,12 @@ https://github.com/PABannier/bark.cpp (Bark model in C/C++ for fast text-to-spee
 https://github.com/onnx/onnx (Open standard for machine learning interoperability)
 
 https://github.com/onnx/tutorials (Tutorials for creating and using ONNX models)
+
+https://notebooklm.google/plus (NotebookLM Plus, Google)
+
+https://mistral.ai/news/codestral/ (Code Model)
+
+https://github.com/comfyanonymous/ComfyUI (Modular diffusion model GUI, api and backend with a graph/nodes interface) (to check)
 
 ### LLM (Large Language Model) & NLP (Natural Language Processing)
 
@@ -231,6 +241,12 @@ https://www.kaggle.com (Level up with the largest AI & ML community, like Huggin
 https://github.com/spotnuru83/fine-tune-llama-3.1-8b-llm-with-custom-data/tree/main
 
 https://github.com/bublint/ue5-llama-lora?tab=readme-ov-file (A proof-of-concept project that showcases the potential for using small, locally trainable LLMs to create next-generation documentation tools)
+
+https://ollama.com/blog/continue-code-assistant
+
+https://blog.codegpt.co/create-your-own-and-custom-copilot-in-vscode-with-ollama-and-codegpt-736277a60298 (to check)
+
+https://myscale.com/blog/llama-3-image-creation-secrets-hugging-face/
 
 ### Apple Intelligence
 
