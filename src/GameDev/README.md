@@ -46,6 +46,14 @@ https://abagames.github.io/joys-of-small-game-development-en/ [?]
 
 https://lootlocker.com/ {using it for testing leaderboards}
 
+https://gamefromscratch.com/lua-game-engines-in-2025/
+
+https://gamefromscratch.com/python-game-engines-in-2025/
+
+https://gamefromscratch.com/c-c-game-engines-in-2025/
+
+https://gamefromscratch.com/haxe-game-engines-in-2025/
+
 * [Godot](./Godot/)
 * [Unity](./Unity/)
 * [Unreal Engine 4](./UnrealEngine/UE4.md)
@@ -97,8 +105,6 @@ https://codeberg.org/liblast/liblast
 
 https://github.com/ProjectUnifree/unifree (Migrate Unity projects to other engines! Prototype)
 
-[Cocos - Learn To Create 3D Games With Our Cyberpunk Demo](https://www.youtube.com/watch?v=8riRSjPZCIs)
-
 https://forum.unity.com/threads/what-would-be-a-good-gameplay-lengh-for-an-indie-game.311746/
 
 https://www.matthewtancik.com/nerf (Representing Scenes as Neural Radiance Fields for View Synthesis)
@@ -145,11 +151,19 @@ https://github.com/derrod/legendary (A free and open-source replacement for the 
 
 https://github.com/RareDevs/Rare (Epic Games Launcher open source alternative, using Legendary)
 
-(Cocos2d-x Solutions)[https://www.youtube.com/watch?app=desktop&v=UUkdoyqaNo4]
 
-https://github.com/ppgee/cocos-pnp (Cocos Playable Ads in Multi-Network(facebook, google, unity, tiktok etc.))
 
-(Google AdMob and Cocos Creator)[https://drive.google.com/file/d/1rffn73jmTNuANkAwg_7vzu19cHCYZg5t/view]
+https://developer.android.com/games/engines/defold/defold-formfactor
+
+https://developer.android.com/games/engines/defold/defold-formfactor
+
+https://defold.com/examples/file/sys_save_load/
+
+https://forum.defold.com/t/how-i-can-get-the-width-and-the-height-of-the-screen-of-user-solved/2263
+
+https://defold.com/manuals/adapting-graphics-to-screen-size/
+
+https://github.com/britzl/defold-orthographic
 
 ### Game Assets
 
@@ -267,10 +281,6 @@ https://www.ambiera.com/coppercube/index.html
 https://esenthel.com/
 
 [Game Engine Ep.13 - Getting into Scripting with Lua](https://www.youtube.com/watch?app=desktop&v=bIODr8ZSYSU)
-
-https://github.com/axmolengine/axmol (A Multi-platform Engine for Desktop, XBOX (UWP) and Mobile games. (A fork of Cocos2d-x-4.0))
-
-https://github.com/axmolengine/axmol/wiki/Axmol-vs-Cocos2d%E2%80%90x
 
 https://2dkit.com (Ads and Creation Tool)
 

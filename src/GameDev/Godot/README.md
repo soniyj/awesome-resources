@@ -280,6 +280,8 @@ https://github.com/drcd1/GodotSimpleExplosionVFX
 
 https://github.com/DexterFstone/godot-adivery (Arabic!)
 
+https://github.com/bitbrain/beehave (Behavior tree AI for Godot Engine)
+
 **EOS**
 
 https://www.youtube.com/watch?v=ENyvF4yVjKg
