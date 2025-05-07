@@ -54,6 +54,8 @@ https://gamefromscratch.com/c-c-game-engines-in-2025/
 
 https://gamefromscratch.com/haxe-game-engines-in-2025/
 
+https://github.com/heroiclabs/nakama (Distributed server for social and realtime games and apps) [!]
+
 * [Godot](./Godot/)
 * [Unity](./Unity/)
 * [Unreal Engine 4](./UnrealEngine/UE4.md)
@@ -151,8 +153,6 @@ https://github.com/derrod/legendary (A free and open-source replacement for the 
 
 https://github.com/RareDevs/Rare (Epic Games Launcher open source alternative, using Legendary)
 
-
-
 https://developer.android.com/games/engines/defold/defold-formfactor
 
 https://developer.android.com/games/engines/defold/defold-formfactor
@@ -164,6 +164,12 @@ https://forum.defold.com/t/how-i-can-get-the-width-and-the-height-of-the-screen-
 https://defold.com/manuals/adapting-graphics-to-screen-size/
 
 https://github.com/britzl/defold-orthographic
+
+https://thegates.io (Building a New Internet)
+
+https://github.com/britzl/publicexamples/tree/master/examples/fixed_aspect_ratio (Defold)
+
+https://github.com/CocoaPods/CocoaPods/issues/12440
 
 ### Game Assets
 
@@ -201,6 +207,8 @@ https://www.hitberrygames.com/post/10-top-ai-game-generators-in-2024
 
 https://medium.com/mighty-bear-games/ai-tools-for-game-art-development-1c08a07a4529
 
+https://www.alpha3d.io (Transform text and images into game-ready 3D models)
+
 ### Game Design
 
 https://thestoryelement.wordpress.com/2015/02/11/designing-branching-narrative/
@@ -220,6 +228,8 @@ https://users.cs.northwestern.edu/~hunicke/MDA.pdf
 https://book.leveldesignbook.com/process/blockout/metrics
 
 https://www.gwi.com/reports/the-gaming-playbook?utm_term=game%20designing&utm_campaign=CORP+-+GWI+-+GLOBAL+-+EN+-+Gaming+-+Industry+-+BMM+%232&utm_source=adwords&utm_medium=ppc&hsa_acc=9903771596&hsa_cam=12963194056&hsa_grp=127103900612&hsa_ad=533745590291&hsa_src=g&hsa_tgt=kwd-10212092&hsa_kw=game%20designing&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gbraid=0AAAAADKcxHbbxrdpFvEl_-uvqJKBdTPN8&gclid=EAIaIQobChMI1vrQq_3qgQMVoQWiAx3NawI3EAAYAiAAEgKz_vD_BwE
+
+https://www.microsoft.com/en-us/research/blog/introducing-muse-our-first-generative-ai-model-designed-for-gameplay-ideation/
 
 ### Blender
 
@@ -244,6 +254,8 @@ https://github.com/domlysz/BlenderGIS (Blender addons to make the bridge between
 [Building A City in Minutes Using Blender](https://www.youtube.com/watch?v=9bh9nlVQQj8) [x]
 
 [Roads in blender are super easy now | blender tutorial](https://www.youtube.com/watch?v=GlX2xqwjiBg)
+
+https://blender.stackexchange.com/questions/205539/generate-3d-mesh-from-2d-sprite
 
 ### Game Engines
 
@@ -284,6 +296,10 @@ https://esenthel.com/
 
 https://2dkit.com (Ads and Creation Tool)
 
+https://gamengen.github.io (Diffusion Models)
+
+https://github.com/PanosK92/SpartanEngine
+
 ### Buildbox
 
 https://www.buildbox.com/top-10-sites-free-3d-game-art/
@@ -316,7 +332,7 @@ https://adpumb.com/blog/unity-ads-vs-admob-vs-adpumb/#:~:text=AdMob%2C%20compare
 
 https://playablefactory.com (Create Powerful Ads)
 
-https://appsamurai.com/appsamurai-for-games/
+https://appsamurai.com/appsamurai-for-games/ (Game engine with an emphasis on real-time cutting-edge solutions)
 
 ### Publishers & Investors
 

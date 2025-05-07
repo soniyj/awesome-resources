@@ -234,6 +234,10 @@ https://howthingsfly.si.edu/flight-dynamics/roll-pitch-and-yaw
 
 [Creating a HexGrid System in Unreal Engine (UE4/UE5)](https://www.youtube.com/watch?app=desktop&v=A-1O4BHdkfA)
 
+[How to Make Custom Aspect Ratios in Unreal Engine 5](https://www.youtube.com/watch?app=desktop&v=1UhhFDpY7mQ)
+
+[How to make a 2D Game in Unreal Engine 5 - Beginner Tutorial](https://www.youtube.com/watch?app=desktop&v=QVxK2dPJr4g)
+
 ### Git
 
 [Complete Guide to Git and Unreal for Beginners - UE4 / UE5](https://www.youtube.com/watch?v=5J0CczTshKY)

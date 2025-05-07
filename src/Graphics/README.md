@@ -76,6 +76,12 @@ https://github.com/visioncortex/vtracer (Vector to Raster Converter)
 
 https://www.textstudio.com/logo/multi-color-game-text-style-effect-573 (Font Generator & 3D Text Effects)
 
+https://www.blockbench.net (A low-poly 3D model editor)
+
+https://www.meshy.ai/blog/how-to-convert-2d-images-to-3d-models-using-ai
+
+[THE EASY WAY to Turn your 2D Sprite into a 3D Model](https://www.youtube.com/watch?v=YWmTW2Hf2pA)
+
 ### AI
 
 https://openart.ai/home
@@ -89,6 +95,8 @@ https://www.layer.ai
 https://app.recraft.ai/community
 
 https://hotpot.ai/ai-image-generator/create
+
+https://hyper3d.ai (Controllable Large-scale Generative Model for Creating High-quality 3D Assets)
 
 ### Fonts
 

@@ -282,6 +282,8 @@ https://github.com/DexterFstone/godot-adivery (Arabic!)
 
 https://github.com/bitbrain/beehave (Behavior tree AI for Godot Engine)
 
+https://github.com/AppLovin/AppLovin-MAX-Godot
+
 **EOS**
 
 https://www.youtube.com/watch?v=ENyvF4yVjKg
