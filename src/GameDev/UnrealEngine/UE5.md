@@ -36,6 +36,8 @@ https://dev.epicgames.com/documentation/en-us/unreal-engine/API
 
 https://github.com/MrRobinOfficial/Guide-UnrealEngine (to check)
 
+https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-an-unreal-engine-project-for-ios
+
 ### Tutorials
 
 https://dev.epicgames.com/community/learning/tutorials/W5aX/how-to-make-a-simple-inventory-system-in-unreal-engine-5
@@ -237,6 +239,20 @@ https://howthingsfly.si.edu/flight-dynamics/roll-pitch-and-yaw
 [How to Make Custom Aspect Ratios in Unreal Engine 5](https://www.youtube.com/watch?app=desktop&v=1UhhFDpY7mQ)
 
 [How to make a 2D Game in Unreal Engine 5 - Beginner Tutorial](https://www.youtube.com/watch?app=desktop&v=QVxK2dPJr4g)
+
+[How to call C++ methods from Blueprints and Blueprints from C++ in Unreal Engine 5](https://www.youtube.com/watch?app=desktop&v=ejGfHtgGOOI)
+
+[This New Unreal Engine 5.5 PCG Feature is a Game Changer](https://www.youtube.com/watch?v=8IQg2IY1G7Q)
+
+[How to Create a Hexagon Tile and Implement Tiling in Unreal Engine 5 | Blender & Blueprints Tutorial](https://www.youtube.com/watch?v=vSevINGWtEc) {Watching}
+
+[How to Create a Map EXTREMELY FAST in UE5](https://www.youtube.com/watch?v=-GyDjoyBQ3o)
+
+[How To Select (Highlight) Other Actors/Objects By Looking At Them In Unreal Engine 5](https://www.youtube.com/watch?app=desktop&v=R7oLZL97XYo)
+
+[The Easiest Way To Learn Unreal Engine 5 C++](https://www.youtube.com/watch?app=desktop&v=GNABEvIaa08)
+
+[Learn Unreal Engine (with C++) - Full Course for Beginners](https://www.youtube.com/watch?app=desktop&v=LsNW4FPHuZE&feature=youtu.be) {Watching 14.14}
 
 ### Git
 

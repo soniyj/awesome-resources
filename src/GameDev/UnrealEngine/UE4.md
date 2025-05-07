@@ -252,6 +252,8 @@ https://www.youtube.com/c/Strigifo/playlists
 
 [Learn Unreal Engine (with C++) - Full Course for Beginners](https://m.youtube.com/watch?v=LsNW4FPHuZE&feature=youtu.be) (watching)
 
+[Unreal Engine 4 Tutorials: C++ Adding and Moving Instanced Static Mesh Component Instances](https://www.youtube.com/watch?app=desktop&v=--4ezubAKoQ) {To Complete}
+
 **AI**
 
 [HTF do I? Basic AI From Scratch #1 in Unreal Engine 4](https://www.youtube.com/watch?v=WFvG9wNOwoY)
