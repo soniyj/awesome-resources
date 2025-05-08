@@ -25,3 +25,13 @@ https://www.odoo.com/documentation/17.0/applications/general/email_communication
 https://www.odoo.com/documentation/17.0/applications/productivity/calendar/google.html
 
 https://www.odoo.com/documentation/17.0/applications/general/users/google.html
+
+### ClickUp
+
+https://clickup.com/blog/project-plan/
+
+https://clickup.com/blog/managing-project-budgets/
+
+https://clickup.com/blog/project-cost-management/
+
+https://clickup.com/templates/project-cost-management-t-182245919
