@@ -136,6 +136,18 @@ https://romeroblueprints.blogspot.com/p/table-of-contents-c.html (to check)
 
 https://howthingsfly.si.edu/flight-dynamics/roll-pitch-and-yaw
 
+https://www.reddit.com/r/gamedev/comments/15zfu37/i_wrote_a_huge_documentation_about_unreal_engine/?rdt=37546
+
+https://forums.unrealengine.com/t/ue-5-1-visualstudio-2022-intellisense-for-engine-files-not-working-in-ue5/551166/29
+
+https://codeible.com/view/videotutorial/8k92mQRVWseK67IjfOMg;title=Google%20AdMob%20Blueprint%20Plugin%20Setup (Google AdMob Blueprint Plugin Setup)
+
+https://medium.com/super-jump/how-to-create-your-own-open-world-game-terrain-in-unreal-engine-2e34a9c4c428
+
+https://codeconverter.io/convert/godot-to-unreal-engine
+
+https://gist.github.com/boocs/f63a4878156295b6e854cac68672f305 (VSCode/UE Intellisense Fixes Extension)
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)

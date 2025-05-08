@@ -26,6 +26,8 @@ https://dillinger.io/ (Online editor)
 
 https://github.com/thlorenz/doctoc (Generates table of contents for markdown files inside local git repository)
 
+https://github.com/thlorenz/doctoc (Generates table of contents for markdown files inside local git repository)
+
 ### Docusaurus
 
 https://docusaurus.io (Documentation)
