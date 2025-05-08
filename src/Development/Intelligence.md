@@ -115,6 +115,8 @@ https://github.com/matteobaccan/FromJuniorToSeniorWithAI (to check)
 
 https://www.codemotion.com/magazine/it/intelligenza-artificiale/da-programmatori-junior-a-senior-con-chatgpt/
 
+https://johnpolacek.medium.com/how-to-build-dynamic-websites-powered-by-automated-ai-generated-content-f2caa7a58b02
+
 ### Tools
 
 https://mymemo.ai/ (Build Your Second Brain With AI)
@@ -173,6 +175,20 @@ https://notebooklm.google/plus (NotebookLM Plus, Google)
 https://mistral.ai/news/codestral/ (Code Model)
 
 https://github.com/comfyanonymous/ComfyUI (Modular diffusion model GUI, api and backend with a graph/nodes interface) (to check)
+
+https://github.com/if-ai/ComfyUI-IF_LLM (Run Local and API LLMs)
+
+https://mdown.ai/content/79558953-dc9f-4826-acb5-6e53788a12d9
+
+https://mdedit.ai (AI-Powered Markdown Editor)
+
+https://github.com/eli64s/readme-ai (README file generator, powered by AI)
+
+https://github.com/shun-liang/yt2doc (YouTube, Apple Podcasts (and more) to readable Markdown)
+
+https://looka.com/ai-website-generator/?gad_source=1&gclid=EAIaIQobChMI_-_6z-6RiwMVEZGDBx3FKyPXEAAYAyAAEgJOr_D_BwE
+
+https://www.docker.com/blog/readmeai-an-ai-powered-readme-generator-for-developers/
 
 ### LLM (Large Language Model) & NLP (Natural Language Processing)
 
@@ -247,6 +263,18 @@ https://ollama.com/blog/continue-code-assistant
 https://blog.codegpt.co/create-your-own-and-custom-copilot-in-vscode-with-ollama-and-codegpt-736277a60298 (to check)
 
 https://myscale.com/blog/llama-3-image-creation-secrets-hugging-face/
+
+https://medium.com/@sahin.samia/how-to-build-an-ai-powered-youtube-video-summariser-app-with-llama-3-2-and-langchain-28c2b6df76da
+
+https://medium.com/odds-team/supercharge-your-coding-with-ollama-and-cody-in-vs-code-a-free-ai-tool-you-can-run-locally-cec54fa4bed4
+
+https://ollama.com/ALIENTELLIGENCE/genaiimagecsprompt/blobs/470b15bdef19 (Gen AI Image Comma-Separated Prompt Generator)
+
+https://ollama.com/blog/continue-code-assistant
+
+https://blog.jetbrains.com/ai/2025/04/mellum-goes-open-source-a-purpose-built-llm-for-developers-now-on-hugging-face/
+
+https://blog.codegpt.co/create-your-own-and-custom-copilot-in-vscode-with-ollama-and-codegpt-736277a60298
 
 ### Apple Intelligence
 
@@ -326,6 +354,10 @@ https://www.beautiful.ai (No Free Plan)
 [Copilot Studio Tutorial: How to create a Custom Copilot](https://www.youtube.com/watch?v=rFpG3-n36sA) (to check)
 
 [Build Your First Autonomous Agent with Copilot Studio](https://www.youtube.com/watch?v=ZE95URGcT7o) (to check)
+
+(ComfyUI - Learn how to generate better images with Ollama | JarvisLabs)[https://www.youtube.com/watch?v=i9DFP9W66bM]
+
+(Turn 2D Images into 3D Models for FREE with AI | ComfyUI & Hunyuan3D-2 Tutorial[)https://m.youtube.com/watch?v=zqTTYYqHBhc]
 
 ### Links
 
