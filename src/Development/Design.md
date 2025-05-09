@@ -35,3 +35,15 @@ https://www.charliecleveland.com/miro-the-one-tool-to-rule-them-all/
 https://flathub.org/apps/com.icons8.Lunacy (Lunacy) [x]
 
 https://www.figma.com/community/plugin/1159123024924461424/html-to-design
+
+### DataBase Design
+
+https://dbdesigner.net/
+
+https://www.quickdatabasediagrams.com/
+
+http://software.sqlpower.ca/page/architect_download_os
+
+https://chartdb.io {Using it} [!]
+
+https://www.holistics.io/blog/open-source-data-modeling-tools/

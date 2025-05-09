@@ -29,6 +29,8 @@ https://giighire.com
 
 https://blog.tito.io/posts/event-sponsorship-proposal/
 
+https://paperform.co/pdf-templates/sponsorship-agreement-template/
+
 <a name="italianlaw"/></a>
 ### Italian Law
 

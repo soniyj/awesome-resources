@@ -22,16 +22,6 @@ https://github.com/karanpratapsingh/system-design
 
 https://github.com/arc42/arc42-template?tab=readme-ov-file
 
-### DataBase Design
-
-https://dbdesigner.net/
-
-https://www.quickdatabasediagrams.com/
-
-http://software.sqlpower.ca/page/architect_download_os
-
-https://chartdb.io {Using it} [!]
-
 ### Project Management
 
 https://www.zoho.eu/projects/zohoprojects-pricing.html (free issuetracker limited, hosted)
@@ -105,3 +95,7 @@ https://www.firefly-iii.org/ [*]
 ### Others
 
 https://github.com/cemolcay/ChordDetector (A tiny menu bar app detecting the chords of the songs you are listening on iTunes or Spotify [mac])
+
+https://medium.com/@techsuneel99/convert-large-excel-files-to-json-without-using-too-much-memory-f4ac6244440e
+
+[Stop Wasting Time! 3 Easy Ways to Remove Blank Rows in Excel](https://www.youtube.com/watch?v=3mkfF1pNw0U) [x]

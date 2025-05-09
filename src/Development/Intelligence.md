@@ -117,6 +117,8 @@ https://www.codemotion.com/magazine/it/intelligenza-artificiale/da-programmatori
 
 https://johnpolacek.medium.com/how-to-build-dynamic-websites-powered-by-automated-ai-generated-content-f2caa7a58b02
 
+https://github.com/matteobaccan/CorsoAIBook (Guida pratica all'uso delle Intelligenze Artificiali)
+
 ### Tools
 
 https://mymemo.ai/ (Build Your Second Brain With AI)
@@ -189,6 +191,8 @@ https://github.com/shun-liang/yt2doc (YouTube, Apple Podcasts (and more) to read
 https://looka.com/ai-website-generator/?gad_source=1&gclid=EAIaIQobChMI_-_6z-6RiwMVEZGDBx3FKyPXEAAYAyAAEgJOr_D_BwE
 
 https://www.docker.com/blog/readmeai-an-ai-powered-readme-generator-for-developers/
+
+https://www.reddit.com/r/learnmachinelearning/comments/1fn3dq8/i_built_an_ai_file_organizer_that_reads_and_sorts/?rdt=52908
 
 ### LLM (Large Language Model) & NLP (Natural Language Processing)
 

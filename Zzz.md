@@ -14,8 +14,6 @@ https://knative.dev/docs/serving/getting-started-knative-app/
 
 https://volta.sh/
 
-https://medium.com/@techsuneel99/convert-large-excel-files-to-json-without-using-too-much-memory-f4ac6244440e
-
 ### Video to check
 
 https://openvidu.io/docs/home/

@@ -18,6 +18,8 @@ https://github.com/axmolengine/axmol (A Multi-platform Engine for Desktop, XBOX 
 
 https://github.com/axmolengine/axmol/wiki/Axmol-vs-Cocos2d%E2%80%90x
 
+https://forums.developer.huawei.com/forumPortal/en/topic/0204412467099890220  (Ads Kit Integration with Cocos)
+
 ### Video Tutorials
 
 [Cocos - Learn To Create 3D Games With Our Cyberpunk Demo](https://www.youtube.com/watch?v=8riRSjPZCIs)

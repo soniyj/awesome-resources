@@ -24,6 +24,8 @@ https://blog.gruntwork.io/a-crash-course-on-aws-59e4bc0bf398#89c7
 
 https://www.simplilearn.com/tutorials/aws-tutorial [!]{lot of tutorials}
 
+https://www.gruntwork.io/blog/a-crash-course-on-aws#89c7
+
 ### Region
 
 https://docs.aws.amazon.com/general/latest/gr/rande.html

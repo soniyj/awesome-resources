@@ -140,6 +140,12 @@ https://typicode.github.io/husky/ (Automatically lint your commit messages, code
 
 https://www.codacy.com (Code Quality and Security)
 
+https://kapeli.com/dash (Gives your Mac instant offline access to 200+ API documentation sets)
+
+https://zealdocs.org (Offline documentation browser for software developers)
+
+https://github.com/dougbinks/enkiTS (A permissively licensed C and C++ Task Scheduler for creating parallel programs)
+
 ### Changelog & Versioning
 
 https://kikobeats.github.io/automate-release/#/
@@ -185,3 +191,7 @@ http://flowgorithm.org/index.html (free beginner's programming language that is 
 https://www.matematicamente.it/forum/post19212.html (Division as Sum of Subtractions)
 
 ["Stop Writing Dead Programs" by Jack Rusher (Strange Loop 2022)](https://www.youtube.com/watch?v=8Ab3ArE8W3s) [!]
+
+[Corso italiano sull'assembly x86 per principianti](https://www.salvorosta.it/low/asmbonus/index.htm#INDEX)
+
+https://en.m.wikipedia.org/wiki/Pure_Data (Visual Programming Language)

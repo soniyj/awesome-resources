@@ -36,6 +36,10 @@ https://esis-italia.com/corsi-formazione-informatica/corso-python-avanzato/
 
 https://betterprogramming.pub/poetry-python-nx-monorepo-5750d8627024
 
+https://github.com/nutonomy/nuscenes-devkit/tree/master
+
+https://github.com/nutonomy/nuscenes-devkit/blob/master/docs/schema_nuscenes.md
+
 ### Flask
 
 https://blog.miguelgrinberg.com/post/restful-authentication-with-flask

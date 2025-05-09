@@ -14,6 +14,8 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-op
 
 [Kubernetes Vs. Docker Vs. OpenShift: What’s The Difference?](https://www.cloudzero.com/blog/kubernetes-vs-docker/)
 
+https://www.redhat.com/en/blog/migrating-your-applications-from-openshift-2-to-3
+
 ### Tutorials
 
 https://www.docker.com/blog/deployment-of-local-container-images-to-openshift/
@@ -45,3 +47,7 @@ https://github.com/juliaaano/rhpam-eap-ansible
 https://github.com/orgs/jboss-container-images/repositories
 
 https://github.com/juliaaano/rhpam-quickstart
+
+https://github.com/timwuthenow/ibamoe-docker-compose
+
+https://community.ibm.com/community/user/blogs/marco-antonioni/2022/09/24/setup-ibm-process-automation-manager-open-edition
