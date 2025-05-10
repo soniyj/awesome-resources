@@ -148,6 +148,8 @@ https://codeconverter.io/convert/godot-to-unreal-engine
 
 https://gist.github.com/boocs/f63a4878156295b6e854cac68672f305 (VSCode/UE Intellisense Fixes Extension)
 
+https://forums.unrealengine.com/t/add-component-to-actor-in-c-the-final-word/646838/4
+
 ### Video Tutorials
 
 [Unreal Engine 5 Tutorial | Drivable Cars & Chaos Vehicle Physics](https://www.youtube.com/watch?app=desktop&v=T6vvnLRzjvY)
