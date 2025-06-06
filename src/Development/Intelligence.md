@@ -119,6 +119,8 @@ https://johnpolacek.medium.com/how-to-build-dynamic-websites-powered-by-automate
 
 https://github.com/matteobaccan/CorsoAIBook (Guida pratica all'uso delle Intelligenze Artificiali)
 
+https://justin.searls.co/posts/how-to-run-claude-code-against-a-free-local-model/
+
 ### Tools
 
 https://mymemo.ai/ (Build Your Second Brain With AI)
@@ -204,6 +206,10 @@ https://github.com/ggerganov/llama.cpp (LLM inference in C/C++) (to check)
 
 https://unsloth.ai/ (Easily Finetune & Train Models)
 
+https://msty.app/ [!] {to test}
+
+https://anythingllm.com/ [!] {to test}
+
 https://github.com/unslothai/unsloth
 
 https://huggingface.co/ (Repository for Models)
@@ -279,6 +285,8 @@ https://ollama.com/blog/continue-code-assistant
 https://blog.jetbrains.com/ai/2025/04/mellum-goes-open-source-a-purpose-built-llm-for-developers-now-on-hugging-face/
 
 https://blog.codegpt.co/create-your-own-and-custom-copilot-in-vscode-with-ollama-and-codegpt-736277a60298
+
+https://sailingbyte.com/blog/the-ultimate-comparison-of-free-desktop-tools-for-running-local-llms
 
 ### Apple Intelligence
 

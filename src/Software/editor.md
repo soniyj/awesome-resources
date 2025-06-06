@@ -1,5 +1,9 @@
 # Editor & RAD/IDE Resources #
 
+### General
+
+https://gamefromscratch.com/top-code-editors-ides-in-2025/
+
 ### VS Code (Visual Studio Code)
 
 https://code.visualstudio.com/docs/remote/containers
@@ -73,3 +77,5 @@ https://codeium.com/
 https://www.nvidia.com/en-us/ai-on-rtx/chatrtx/ (Your Personalized AI Chatbot)
 
 https://zed.dev (have a look)
+
+https://voideditor.com/

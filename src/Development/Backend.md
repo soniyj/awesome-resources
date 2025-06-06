@@ -4,6 +4,8 @@
 
 https://camel.apache.org
 
+https://pocketbase.io (Open Source backend in 1 file)
+
 ### API & Microservices
 
 https://openapi-generator.tech/
