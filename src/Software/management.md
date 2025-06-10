@@ -39,3 +39,5 @@ https://clickup.com/templates/project-cost-management-t-182245919
 [Turn Your Emails Into ClickUp Tasks (The Easy Way)](https://www.youtube.com/watch?v=x46JDogig4Y)
 
 [Ep 4: Importing into ClickUp from Excel - ClickUp Functionality in a Flash by Kolme University](https://www.youtube.com/watch?v=pwX7i1dsK1U)
+
+[How to Import From Excel on ClickUp](https://www.youtube.com/watch?v=Nr1kpZ16TI0)
