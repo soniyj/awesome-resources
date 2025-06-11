@@ -18,6 +18,8 @@ https://plaky.com (Free !) [To Test]
 
 https://medium.com/capital-one-tech/2022-open-source-bpm-comparison-33b7b53e9c98
 
+https://www.projeqtor.org/en/
+
 ### Odoo
 
 https://www.odoo.com/documentation/17.0/applications/general/email_communication/google_oauth.html
