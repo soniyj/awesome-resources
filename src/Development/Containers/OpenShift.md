@@ -16,6 +16,8 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-op
 
 https://www.redhat.com/en/blog/migrating-your-applications-from-openshift-2-to-3
 
+https://okd.io/docs/project/guides/sno-assisted-installer/#installing-podman
+
 ### Tutorials
 
 https://www.docker.com/blog/deployment-of-local-container-images-to-openshift/
@@ -25,6 +27,14 @@ https://www.geeksforgeeks.org/install-openshift-in-ubuntu/
 https://www.docker.com/blog/deployment-of-local-container-images-to-openshift/
 
 [How to create, deploy, and secure an instance of Single Node OpenShift](https://github.com/ryannix123/single-node-openshift)
+
+https://github.com/openshift/assisted-service/tree/master/deploy/podman
+
+https://www.linuxsysadmins.com/single-node-okd-openshift-cluster/
+
+https://medium.com/@josephsims1/deploying-okd-4-17-practical-steps-for-success-8ff3510be81e
+
+https://www.devopsschool.com/forum/d/109-step-by-step-guide-to-install-okd-4x-on-a-linux-vm
 
 ### Video Tutorials
 

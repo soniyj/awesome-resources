@@ -42,6 +42,7 @@ https://nixos.org (Declarative builds and deployments)
 
 https://medium.com/hackernoon/continuous-integration-in-projects-using-monorepo-9b828d7a8dfa
 
+https://github.com/jenkinsci/docker/blob/master/README.md
 
 ### Circle CI
 
@@ -154,3 +155,13 @@ https://skywalking.apache.org (Application performance monitor tool for distribu
 https://github.com/bosun-monitor/bosun (Time Series Alerting Framework for monitoring and alerting system)
 
 https://github.com/VictoriaMetrics/VictoriaMetrics (fast, cost-effective monitoring solution and time series database)
+
+### Nexus Repository SonarType
+
+https://github.com/sonatype/nexus-public?tab=readme-ov-file
+
+https://github.com/sonatype/docker-nexus3?tab=readme-ov-file
+
+https://hub.docker.com/r/sonatype/nexus3/
+
+https://medium.com/@maheshwar.ramkrushna/setting-up-a-secure-private-docker-registry-with-nexus-and-ssl-configuration-7496c82e21e3

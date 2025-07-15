@@ -16,6 +16,8 @@ https://zitadel.com/docs/ (The best of Auth0 and Keycloak combined. Built for th
 
 https://www.authelia.com
 
+https://www.authelia.com/overview/prologue/introduction/
+
 https://next-auth.js.org/
 
 https://authzed.com/products/spicedb (Open source, Fine Grained Authorization (FGA) software inspired by Google Zanzibar)
