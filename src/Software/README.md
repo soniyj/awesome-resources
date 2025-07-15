@@ -92,6 +92,32 @@ https://www.gethomebank.org/en/index.php
 
 https://www.firefly-iii.org/ [*]
 
+### CRM
+
+https://www.vtiger.com/open-source-crm/
+
+https://www.hubspot.com/crm
+
+https://www.hubspot.com/products/service/help-desk
+
+https://krayincrm.com (Open Source CRM Software)
+
+### Ticketing
+
+https://www.uvdesk.com/en/opensource/
+
+https://www.uvdesk.com/en/features/ticket-administration/
+
+https://www.opensupports.com/download/ (to test)
+
+https://osticket.com/
+
+https://hub.docker.com/r/tiredofit/osticket
+
+https://github.com/znuny/Znuny (to test)
+
+https://github.com/freescout-help-desk/freescout (to test)
+
 ### Others
 
 https://github.com/cemolcay/ChordDetector (A tiny menu bar app detecting the chords of the songs you are listening on iTunes or Spotify [mac])

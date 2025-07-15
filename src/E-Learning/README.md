@@ -16,6 +16,8 @@ https://www.edx.org
 
 [450 corsi Ivy League che puoi seguire, da oggi, gratuitamente online](https://drive.google.com/file/d/1l_7gVD2FcKDlOLyoArLcPQnLjBV8Cs8r/view)
 
+https://www.coursera.org/articles/the-pmp-certification-a-guide-to-getting-started
+
 **HR**
 
 https://exercism.org (Free, Programming)

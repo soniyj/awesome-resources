@@ -196,6 +196,10 @@ https://www.docker.com/blog/readmeai-an-ai-powered-readme-generator-for-develope
 
 https://www.reddit.com/r/learnmachinelearning/comments/1fn3dq8/i_built_an_ai_file_organizer_that_reads_and_sorts/?rdt=52908
 
+https://fireflies.ai/ (The #1 AI Teammate For Your Meetings) [Free Plan] (to test)
+
+https://www.read.ai/?r=0 (AI copilot—transforming meetings) [Free Plan] (to test)
+
 ### LLM (Large Language Model) & NLP (Natural Language Processing)
 
 https://jan.ai/ (Turn your computer into an AI machine Open Source) [!]

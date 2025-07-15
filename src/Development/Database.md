@@ -196,6 +196,16 @@ https://medium.com/@kgrozdanovski/simplified-edgedb-setup-for-modern-database-ma
 
 https://github.com/edgedb/edgedb-docker/blob/master/Dockerfile
 
+### Delta Lake
+
+https://docs.delta.io/latest/delta-apidoc.html
+
+https://docs.databricks.com/aws/en/reference/delta-lake
+
+https://learn.microsoft.com/en-us/azure/databricks/reference/delta-lake
+
+https://www.databricks.com/try-databricks#account
+
 ### Other DB to Check
 
 https://questdb.io (Fast SQL for time series QuestDB is the fastest open source time series database)

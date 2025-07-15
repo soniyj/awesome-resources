@@ -80,6 +80,10 @@ https://arrow.apache.org (Language-agnostic software framework for developing da
 
 https://www.nocobase.com/en/blog/github-top15-fastest-growing-open-source-low-code-projects#no13-nocobase
 
+https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-query-overview
+
+https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about
+
 ### Alexa Amazon
 
 https://developer.amazon.com/en-US/docs/alexa/custom-skills/steps-to-build-a-custom-skill.html

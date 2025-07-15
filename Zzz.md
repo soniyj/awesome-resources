@@ -64,18 +64,6 @@ https://www.scadacore.com/tools/programming-calculators/online-hex-converter/
 
 https://www.base64decode.org/
 
-https://www.uvdesk.com/en/opensource/
-
-https://www.opensupports.com/download/
-
-https://www.hubspot.com/crm
-
-https://www.hubspot.com/products/service/help-desk
-
-https://www.vtiger.com/open-source-crm/
-
-https://osticket.com/
-
 https://www.spiceworks.com/
 
 https://www.composerize.com/

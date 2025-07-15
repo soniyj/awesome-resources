@@ -31,6 +31,8 @@ https://blog.tito.io/posts/event-sponsorship-proposal/
 
 https://paperform.co/pdf-templates/sponsorship-agreement-template/
 
+https://www.shopify.com/it/blog/kpi#9 (KPI in Italian)
+
 <a name="italianlaw"/></a>
 ### Italian Law
 
