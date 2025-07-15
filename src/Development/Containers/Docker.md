@@ -188,6 +188,8 @@ https://cwiki.apache.org/confluence/display/KAFKA/Clients
 
 https://docs.confluent.io/platform/current/clients/index.html
 
+https://ignite.apache.org/docs/latest/extensions-and-integrations/streaming/kafka-streamer
+
 ### Rancher
 
 https://github.com/rancher/rancher

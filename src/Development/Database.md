@@ -196,7 +196,7 @@ https://medium.com/@kgrozdanovski/simplified-edgedb-setup-for-modern-database-ma
 
 https://github.com/edgedb/edgedb-docker/blob/master/Dockerfile
 
-### Delta Lake
+### DeltaLake & Databricks & Apache Spark
 
 https://docs.delta.io/latest/delta-apidoc.html
 
@@ -205,6 +205,10 @@ https://docs.databricks.com/aws/en/reference/delta-lake
 https://learn.microsoft.com/en-us/azure/databricks/reference/delta-lake
 
 https://www.databricks.com/try-databricks#account
+
+https://www.databricks.com/learn/free-edition
+
+https://hub.docker.com/r/apache/spark
 
 ### Other DB to Check
 
