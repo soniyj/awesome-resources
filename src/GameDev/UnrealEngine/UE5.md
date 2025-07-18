@@ -268,6 +268,8 @@ https://forums.unrealengine.com/t/add-component-to-actor-in-c-the-final-word/646
 
 [Learn Unreal Engine (with C++) - Full Course for Beginners](https://www.youtube.com/watch?app=desktop&v=LsNW4FPHuZE&feature=youtu.be) {Watching 14.14}
 
+[Unreal Engine 5.3 - Set viewport to vertical for mobile tutorial](https://www.youtube.com/watch?v=u-260laYyoo)
+
 ### Git
 
 [Complete Guide to Git and Unreal for Beginners - UE4 / UE5](https://www.youtube.com/watch?v=5J0CczTshKY)
