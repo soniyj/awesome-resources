@@ -18,6 +18,8 @@ https://www.authelia.com
 
 https://www.authelia.com/overview/prologue/introduction/
 
+https://www.authelia.com/integration/proxies/traefik/
+
 https://next-auth.js.org/
 
 https://authzed.com/products/spicedb (Open source, Fine Grained Authorization (FGA) software inspired by Google Zanzibar)

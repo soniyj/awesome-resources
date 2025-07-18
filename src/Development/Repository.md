@@ -6,6 +6,8 @@ https://www.conventionalcommits.org/en/v1.0.0/
 
 https://github.com/conventional-changelog/standard-version
 
+https://dev.to/ishmam_abir/set-up-your-own-local-gitlab-server-self-hosted-gitlab-4d1
+
 ### Mono Repository
 
 https://github.com/korfuri/awesome-monorepo
@@ -35,6 +37,8 @@ https://kikobeats.github.io/automate-release/#/?id=examples-of-git-commits
 https://probot.github.io/
 
 https://gitea.io/en-us/
+
+https://docs.gitea.com/administration/reverse-proxies#traefik
 
 https://onedev.io (Self-hosted Git Server with CI/CD and Kanban)
 

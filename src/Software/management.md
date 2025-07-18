@@ -20,6 +20,8 @@ https://medium.com/capital-one-tech/2022-open-source-bpm-comparison-33b7b53e9c98
 
 https://www.projeqtor.org/en/
 
+https://hub.docker.com/r/jetbrains/youtrack/ (Free for 10 users) [To Test]
+
 ### Odoo
 
 https://www.odoo.com/documentation/17.0/applications/general/email_communication/google_oauth.html
