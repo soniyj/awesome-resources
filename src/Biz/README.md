@@ -133,6 +133,18 @@ https://www.ageuk.org.uk/bp-assets/globalassets/solihull/original-blocks/our-ser
 
 https://www.acas.org.uk/templates-for-written-statements
 
+https://www.gov.uk/guidance/company-authentication-codes-for-online-filing
+
+https://www.gov.uk/guidance/apply-to-file-with-companies-house-using-software
+
+https://idam-ui.company-information.service.gov.uk/
+
+https://www.gov.uk/guidance/company-authentication-codes-for-online-filing#how-to-get-your-company-authentication-code
+
+https://www.gov.uk/guidance/using-the-govuk-id-check-app
+
+https://www.gov.uk/guidance/when-you-need-to-verify-your-identity-for-companies-house
+
 <a name="swisslaw"/></a>
 ### Swiss Law
 

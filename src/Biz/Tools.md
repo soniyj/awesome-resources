@@ -15,3 +15,9 @@ https://support.freeagent.com/hc/en-gb/articles/115001218110-Categorise-a-busine
 https://support.freeagent.com/hc/en-gb/articles/115001223384-Enter-your-opening-balances-for-limited-companies-and-LLPs
 
 https://support.freeagent.com/hc/en-gb/articles/360016054680-The-Final-Accounts-report-for-micro-entities
+
+https://support.freeagent.com/hc/en-gb/articles/115001216910-Add-a-new-accounting-category
+
+https://support.freeagent.com/hc/en-gb/articles/115001222784-Add-a-new-bill
+
+https://support.freeagent.com/hc/en-gb/articles/115001219590-Create-an-invoice-as-part-of-a-project
