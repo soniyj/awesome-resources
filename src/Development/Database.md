@@ -22,6 +22,8 @@ https://dev.to/norbybaru/futuristic-databases-5edf (interesting) [!]
 
 [Database diagrams editor that allows you to visualize and design your DB with a single query](https://github.com/chartdb/chartdb) {to test}
 
+[Universal Database Tool](https://dbeaver.io) {to test}
+
 ### DGraph
 
 https://dgraph.io/
@@ -209,6 +211,20 @@ https://www.databricks.com/try-databricks#account
 https://www.databricks.com/learn/free-edition
 
 https://hub.docker.com/r/apache/spark
+
+https://hub.docker.com/_/spark
+
+https://spark.apache.org/downloads.html
+
+https://learn.microsoft.com/en-us/azure/databricks/delta/best-practices
+
+https://learn.microsoft.com/en-us/azure/databricks/delta/tutorial#z-order
+
+https://www.databricks.com/blog/2020/01/30/what-is-a-data-lakehouse.html
+
+https://docs.delta.io/latest/quick-start.html#set-up-apache-spark-with-delta-lake
+
+https://delta.io/learn/getting-started/
 
 ### Other DB to Check
 

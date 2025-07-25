@@ -22,6 +22,8 @@ https://www.projeqtor.org/en/
 
 https://hub.docker.com/r/jetbrains/youtrack/ (Free for 10 users) [To Test]
 
+https://github.com/egregors/youtrack-docker-compose/blob/master/docker-compose.yml
+
 ### Odoo
 
 https://www.odoo.com/documentation/17.0/applications/general/email_communication/google_oauth.html
