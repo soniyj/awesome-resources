@@ -5,6 +5,7 @@ Biz Resources
 * [UK](#uklaw)
 * [Swiss](#swisslaw)
 * [Dutch](#dutchlaw)
+* [Japan](#japanlaw)
 
 <a name="generallaw"/></a>
 ### General
@@ -162,3 +163,23 @@ https://www.lawyersswitzerland.com/types-of-structures-in-switzerland
 https://www.angloinfo.com/how-to/netherlands/working/starting-a-business/business-structures
 
 https://business.gov.nl
+
+
+<a name="japanlaw"/></a>
+### Japanese Law
+
+**Company**
+
+https://s-legalestate.com/kaigai/en/corporate-registration/corporate-foreign-company-establishment/
+
+**Visa**
+
+https://www.moj.go.jp/isa/other_languages.html?hl=en
+
+https://www.mofa.go.jp/mofaj/ca/fna/ssw/us/ (Specified Skilled Workers)
+
+https://www.milano.it.emb-japan.go.jp/itpr_it/entrare_in_giappone.html
+
+https://www.shigyo.co.jp/it/search_post/visa/koudo-jijzai/point/
+
+https://visa-agent.net/italy/service/for-work/visa-koudosenmonshoku/
