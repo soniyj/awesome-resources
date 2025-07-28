@@ -81,3 +81,7 @@ https://linuxdatahub.com/keycloak-mappers/
 https://medium.com/@disa2aka/docker-deployments-for-keycloak-and-postgresql-e75707b155e5
 
 https://wjw465150.gitbooks.io/keycloak-documentation/content/server_admin/topics/user-federation/ldap.html
+
+https://www.ibm.com/docs/en/concert?topic=ii-integrating-openid-connect-keycloak-eks-iks-ocp-cluster
+
+https://www.ibm.com/docs/en/concert?topic=roles-integrating-idp

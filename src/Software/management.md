@@ -24,6 +24,12 @@ https://hub.docker.com/r/jetbrains/youtrack/ (Free for 10 users) [To Test]
 
 https://github.com/egregors/youtrack-docker-compose/blob/master/docker-compose.yml
 
+https://bpmn.io/
+
+https://github.com/camunda/bpmn-for-research
+
+https://camunda.com/bpmn/examples/
+
 ### Odoo
 
 https://www.odoo.com/documentation/17.0/applications/general/email_communication/google_oauth.html
