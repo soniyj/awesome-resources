@@ -79,3 +79,5 @@ https://documenter.getpostman.com/view/7294517/SzmfZHnd#f0ede40d-d0d5-4315-86dc-
 https://linuxdatahub.com/keycloak-mappers/
 
 https://medium.com/@disa2aka/docker-deployments-for-keycloak-and-postgresql-e75707b155e5
+
+https://wjw465150.gitbooks.io/keycloak-documentation/content/server_admin/topics/user-federation/ldap.html
