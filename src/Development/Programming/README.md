@@ -195,3 +195,7 @@ https://www.matematicamente.it/forum/post19212.html (Division as Sum of Subtract
 [Corso italiano sull'assembly x86 per principianti](https://www.salvorosta.it/low/asmbonus/index.htm#INDEX)
 
 https://en.m.wikipedia.org/wiki/Pure_Data (Visual Programming Language)
+
+https://github.com/charmbracelet/bubbletea (A powerful little TUI framework)
+
+https://github.com/charmbracelet/bubbles (TUI components for Bubble Tea)
