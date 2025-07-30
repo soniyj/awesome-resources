@@ -315,3 +315,5 @@ https://80.lv/articles/check-out-this-new-interactive-procedural-city-creator-to
 https://www.beffio.com/city-adventure-unreal-engine-documentation (on the Marketplace search city adventure)
 
 https://epicgames.ent.box.com/s/fjsq0qrcfqv5w1wxhiniipuyk0ddgs8q
+
+[BP_HexGrid Construction Script](https://blueprintue.com/blueprint/nuxi7ohv/)
