@@ -10,6 +10,8 @@ https://www.shuttle.rs/blog/2024/01/24/writing-cronjobs-rust
 
 https://rust-on-nails.com/ (full stack web development)
 
+https://loco.rs/
+
 ### GraphQL
 
 https://docs.vultr.com/how-to-build-a-graphql-server-with-rust

@@ -30,6 +30,8 @@ https://github.com/camunda/bpmn-for-research
 
 https://camunda.com/bpmn/examples/
 
+https://camunda.com/bpmn/reference/
+
 ### Odoo
 
 https://www.odoo.com/documentation/17.0/applications/general/email_communication/google_oauth.html
