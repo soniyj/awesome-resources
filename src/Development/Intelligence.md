@@ -371,9 +371,27 @@ https://www.beautiful.ai (No Free Plan)
 
 [Build Your First Autonomous Agent with Copilot Studio](https://www.youtube.com/watch?v=ZE95URGcT7o) (to check)
 
-(ComfyUI - Learn how to generate better images with Ollama | JarvisLabs)[https://www.youtube.com/watch?v=i9DFP9W66bM]
+[ComfyUI - Learn how to generate better images with Ollama | JarvisLabs](https://www.youtube.com/watch?v=i9DFP9W66bM)
 
-(Turn 2D Images into 3D Models for FREE with AI | ComfyUI & Hunyuan3D-2 Tutorial[)https://m.youtube.com/watch?v=zqTTYYqHBhc]
+[Turn 2D Images into 3D Models for FREE with AI | ComfyUI & Hunyuan3D-2 Tutorial](https://m.youtube.com/watch?v=zqTTYYqHBhc)
+
+### Short List Testing
+
+https://lmstudio.ai/ (LLM Models, Presets, Prompts)
+
+https://jan.ai/ (ChatGPT Alternative)
+
+https://github.com/NexaAI/nexa-sdk (Quantized AI models)
+
+### AI Agents (to watch)
+
+[Cline - the most underrated AI code editor](https://www.youtube.com/watch?v=TFU33etuKb0)
+
+[VSCode + Cline + Continue | NEVER PAY for CURSOR again. Use this OPEN SOURCE & LOCAL Alternative](https://www.youtube.com/watch?v=7AImkA96mE8)
+
+[Build AI Agents for anything & everything - here’s how](https://www.youtube.com/watch?v=Z6MPDx7e1Po)
+
+[Learn n8n in 21 Minutes (Beginner's Guide)](https://www.youtube.com/watch?v=ZVjD1AfXLEo)
 
 ### Links
 
