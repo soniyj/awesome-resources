@@ -82,6 +82,10 @@ https://www.meshy.ai/blog/how-to-convert-2d-images-to-3d-models-using-ai
 
 [THE EASY WAY to Turn your 2D Sprite into a 3D Model](https://www.youtube.com/watch?v=YWmTW2Hf2pA)
 
+https://mesh2motion.org/ (FREE & open-source web application to animate your 3D models) {to test}
+
+https://pixieditor.net/ (Universal 2D Graphics Editor) {testing}
+
 ### AI
 
 https://openart.ai/home
