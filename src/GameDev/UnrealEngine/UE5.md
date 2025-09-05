@@ -38,6 +38,10 @@ https://github.com/MrRobinOfficial/Guide-UnrealEngine (to check)
 
 https://dev.epicgames.com/documentation/en-us/unreal-engine/setting-up-an-unreal-engine-project-for-ios
 
+https://dev.epicgames.com/documentation/en-us/unreal-engine/saving-and-loading-your-game-in-unreal-engine
+
+https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/Engine/Engine/UGameInstance
+
 ### Tutorials
 
 https://dev.epicgames.com/community/learning/tutorials/W5aX/how-to-make-a-simple-inventory-system-in-unreal-engine-5
@@ -153,6 +157,12 @@ https://forums.unrealengine.com/t/add-component-to-actor-in-c-the-final-word/646
 https://leo88.medium.com/delegates-in-unreal-engine-explained-2b40eebe0338
 
 https://inoland.net/unreal-engine-5-gameplay-framework/ (to check, quite interesting)
+
+https://medium.com/@chrhaase_71293/an-unreal-engine-saving-loading-system-part-1-of-2-62244e55e4b2 (C++)
+
+https://medium.com/@chrhaase_71293/an-unreal-engine-saving-loading-system-part-2-of-2-0009579d8a74 (C++)
+
+https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/Engine/Engine/UGameInstance
 
 ### Video Tutorials
 
