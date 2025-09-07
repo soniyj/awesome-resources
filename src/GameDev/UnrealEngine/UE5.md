@@ -46,6 +46,10 @@ https://dev.epicgames.com/documentation/en-us/unreal-engine/blueprint-communicat
 
 https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-object-handling-in-unreal-engine
 
+https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/Engine/Engine/UGameInstance
+
+https://dev.epicgames.com/documentation/en-us/unreal-engine/blueprint-communication-usage-in-unreal-engine?application_version=5.0
+
 ### Tutorials
 
 https://dev.epicgames.com/community/learning/tutorials/W5aX/how-to-make-a-simple-inventory-system-in-unreal-engine-5
@@ -165,8 +169,6 @@ https://inoland.net/unreal-engine-5-gameplay-framework/ (to check, quite interes
 https://medium.com/@chrhaase_71293/an-unreal-engine-saving-loading-system-part-1-of-2-62244e55e4b2 (C++)
 
 https://medium.com/@chrhaase_71293/an-unreal-engine-saving-loading-system-part-2-of-2-0009579d8a74 (C++)
-
-https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/Engine/Engine/UGameInstance
 
 ### Video Tutorials
 
