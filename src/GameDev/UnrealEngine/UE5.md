@@ -42,6 +42,10 @@ https://dev.epicgames.com/documentation/en-us/unreal-engine/saving-and-loading-y
 
 https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/Engine/Engine/UGameInstance
 
+https://dev.epicgames.com/documentation/en-us/unreal-engine/blueprint-communications-in-unreal-engine#eventdispatchers
+
+https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-object-handling-in-unreal-engine
+
 ### Tutorials
 
 https://dev.epicgames.com/community/learning/tutorials/W5aX/how-to-make-a-simple-inventory-system-in-unreal-engine-5
@@ -283,6 +287,8 @@ https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/Engine/E
 [Learn Unreal Engine (with C++) - Full Course for Beginners](https://www.youtube.com/watch?app=desktop&v=LsNW4FPHuZE&feature=youtu.be) {Watching 14.14}
 
 [Unreal Engine 5.3 - Set viewport to vertical for mobile tutorial](https://www.youtube.com/watch?v=u-260laYyoo)
+
+[Casting Explained | Unreal Engine 5 Tutorial](https://www.youtube.com/watch?v=DBIlsxj5quA&list=PLnlO7YiC8hfTnmvc6RjWHa_q685OAVuJp)
 
 ### Git
 
