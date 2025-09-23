@@ -292,6 +292,8 @@ https://medium.com/@chrhaase_71293/an-unreal-engine-saving-loading-system-part-2
 
 [Casting Explained | Unreal Engine 5 Tutorial](https://www.youtube.com/watch?v=DBIlsxj5quA&list=PLnlO7YiC8hfTnmvc6RjWHa_q685OAVuJp)
 
+[Create a REAL Loading Screen in Unreal Engine 5 with Async Loading Screen Plugin](https://www.youtube.com/watch?v=TRpFxT9zGu8) {to do}
+
 ### Git
 
 [Complete Guide to Git and Unreal for Beginners - UE4 / UE5](https://www.youtube.com/watch?v=5J0CczTshKY)
