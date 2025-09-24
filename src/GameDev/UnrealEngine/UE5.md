@@ -294,6 +294,12 @@ https://medium.com/@chrhaase_71293/an-unreal-engine-saving-loading-system-part-2
 
 [Create a REAL Loading Screen in Unreal Engine 5 with Async Loading Screen Plugin](https://www.youtube.com/watch?v=TRpFxT9zGu8) {to do}
 
+[Easiest Space Scene in UE5](https://www.youtube.com/watch?v=Z9OZurH-cGE) {to watch}
+
+[Start Creating STRUCTS in Unreal Engine 5 | UE5 CPP Struct Tutorial](https://www.youtube.com/watch?v=Agw9BY0JFw4) {to do}
+
+[C++ Structs for Blueprints in 3 Minutes!](https://www.youtube.com/watch?v=mu2PuiXZXPY)
+
 ### Git
 
 [Complete Guide to Git and Unreal for Beginners - UE4 / UE5](https://www.youtube.com/watch?v=5J0CczTshKY)
