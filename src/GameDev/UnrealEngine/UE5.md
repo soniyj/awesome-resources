@@ -316,6 +316,10 @@ https://metaldonut.gumroad.com/l/TPC?layout=profile (Texture Paint Champ)
 
 [Hexagon Grid Library written for Unreal Engine, in C++, extendable with Blueprints.](https://github.com/rohanmayya/HexagonGridUE5)
 
+[Async Loading Screen is a free and open-source](https://www.fab.com/listings/f8aabb9a-7c96-4f79-97ff-04bcc146e595)
+
+[Async Loading Screen is a free and open-source](https://github.com/truong-bui/AsyncLoadingScreen)
+
 ### Projects
 
 https://github.com/jmgomez/NimForUE
