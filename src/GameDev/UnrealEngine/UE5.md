@@ -320,6 +320,8 @@ https://metaldonut.gumroad.com/l/TPC?layout=profile (Texture Paint Champ)
 
 [Async Loading Screen is a free and open-source](https://github.com/truong-bui/AsyncLoadingScreen)
 
+https://github.com/DarknessFX/RaylibUE (Bridge Raylib's easy-to-use drawing API with Unreal Engine's intuitive Blueprint nodes)
+
 ### Projects
 
 https://github.com/jmgomez/NimForUE
