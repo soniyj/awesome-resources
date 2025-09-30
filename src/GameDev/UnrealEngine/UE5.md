@@ -298,7 +298,11 @@ https://medium.com/@chrhaase_71293/an-unreal-engine-saving-loading-system-part-2
 
 [Start Creating STRUCTS in Unreal Engine 5 | UE5 CPP Struct Tutorial](https://www.youtube.com/watch?v=Agw9BY0JFw4) {to do}
 
-[C++ Structs for Blueprints in 3 Minutes!](https://www.youtube.com/watch?v=mu2PuiXZXPY)
+[C++ Structs for Blueprints in 3 Minutes!](https://www.youtube.com/watch?v=mu2PuiXZXPY) {to do-ish}
+
+[How To Display 3D Meshes In Widgets - Unreal Engine 5 Tutorial](https://www.youtube.com/watch?v=XWXXoAgugD8) {to watch}
+
+[Create a 3D In-Game Interactive User Widget in Unreal Engine 5.4](https://www.youtube.com/watch?v=bQtX1tSxejE)
 
 ### Git
 
