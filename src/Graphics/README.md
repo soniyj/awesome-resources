@@ -86,6 +86,8 @@ https://mesh2motion.org/ (FREE & open-source web application to animate your 3D 
 
 https://pixieditor.net/ (Universal 2D Graphics Editor) {testing}
 
+https://www.blockbench.net/ {to test}
+
 ### AI
 
 https://openart.ai/home
