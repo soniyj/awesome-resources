@@ -50,6 +50,10 @@ https://dev.epicgames.com/documentation/en-us/unreal-engine/API/Runtime/Engine/E
 
 https://dev.epicgames.com/documentation/en-us/unreal-engine/blueprint-communication-usage-in-unreal-engine?application_version=5.0
 
+https://dev.epicgames.com/documentation/en-us/unreal-engine/enhanced-input-in-unreal-engine
+
+https://dev.epicgames.com/documentation/en-us/unreal-engine/enhanced-input-in-parrot-for-unreal-engine
+
 ### Tutorials
 
 https://dev.epicgames.com/community/learning/tutorials/W5aX/how-to-make-a-simple-inventory-system-in-unreal-engine-5
