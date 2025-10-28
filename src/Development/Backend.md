@@ -26,6 +26,12 @@ https://github.com/microservices-patterns/ftgo-application
 
 https://apidog.com/pricing/ (Welcome to Apidog, the ultimate API tool)
 
+https://reqbin.com/curl (Online REST & SOAP API Testing Tool)
+
+https://www.baeldung.com/curl-rest
+
+https://github.com/box-community/box-curl-samples
+
 ### API Gateway
 
 https://marutitech.com/api-gateway-in-microservices-architecture/
