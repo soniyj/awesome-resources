@@ -171,6 +171,8 @@ https://github.com/britzl/publicexamples/tree/master/examples/fixed_aspect_ratio
 
 https://github.com/CocoaPods/CocoaPods/issues/12440
 
+https://learnopengl.com/In-Practice/2D-Game/Powerups
+
 ### Game Assets
 
 https://github.com/Miziziziz/Retro3DGraphicsCollection
