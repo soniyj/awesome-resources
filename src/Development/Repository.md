@@ -18,6 +18,8 @@ https://medium.com/valtech-ch/monorepo-semantic-releases-db114811efa5
 
 General Git Resources
 
+https://github.com/MoonMantisGames/git-git-lfs-setup
+
 ### Markdown
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
