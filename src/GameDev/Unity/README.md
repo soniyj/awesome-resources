@@ -30,6 +30,8 @@ https://docs.unity3d.com/Manual/UnityIAPGoogleConfiguration.html
 
 https://docs.unity3d.com/Packages/com.unity.purchasing@4.12/manual/UnityIAPInitialization.html
 
+https://versionalert.com/unity
+
 ### Api
 
 https://docs.unity3d.com/ScriptReference/Material.SetTextureOffset.html
