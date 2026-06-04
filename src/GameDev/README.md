@@ -302,6 +302,8 @@ https://gamengen.github.io (Diffusion Models)
 
 https://github.com/PanosK92/SpartanEngine
 
+https://edenspark.io/en/ {to test}
+
 ### Buildbox
 
 https://www.buildbox.com/top-10-sites-free-3d-game-art/
@@ -407,6 +409,8 @@ https://wiredproductions.com/
 https://www.humblegames.com/
 
 https://nomorerobots.io/
+
+https://gamefromscratch.com/indie-game-publishing-and-funding-resources/
 
 ### Events
 

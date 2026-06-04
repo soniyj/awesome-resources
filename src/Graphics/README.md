@@ -90,6 +90,8 @@ https://www.blockbench.net/ {to test}
 
 https://www.affinity.studio/download (photo editing, vector design, illustration, and layout — all in one app, for frees)
 
+https://mesh2motion.org/ (Animate Animals, Monsters and Humans - free & open source)
+
 ### AI
 
 https://openart.ai/home
