@@ -201,3 +201,7 @@ https://github.com/charmbracelet/bubbletea (A powerful little TUI framework)
 https://github.com/charmbracelet/bubbles (TUI components for Bubble Tea)
 
 [The Open Toolkit library is a fast, low-level C# wrapper for OpenGL, OpenAL & OpenCL](https://github.com/opentk/opentk)
+
+https://wren.io/ (small, fast, class-based concurrent scripting languages)
+
+https://daslang.io/ (strong, statically-typed programming language with generic programming, iterative type inference, and three execution tiers)

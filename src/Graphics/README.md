@@ -88,6 +88,8 @@ https://pixieditor.net/ (Universal 2D Graphics Editor) {testing}
 
 https://www.blockbench.net/ {to test}
 
+https://www.affinity.studio/download (photo editing, vector design, illustration, and layout — all in one app, for frees)
+
 ### AI
 
 https://openart.ai/home
