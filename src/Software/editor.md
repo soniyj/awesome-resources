@@ -60,6 +60,14 @@ https://github.com/mpociot/chatgpt-vscode
 
 https://medium.com/geekculture/codegpt-the-vscode-extension-with-chatgpt-like-functionalities-783323a916c3
 
+**VSCode Server**
+
+https://code.visualstudio.com/docs/remote/vscode-server
+
+https://medium.com/actived/deploying-a-full-stack-development-environment-with-code-server-vs-code-docker-and-apache-5d4a41aad94f
+
+https://hub.docker.com/r/linuxserver/code-server
+
 ### Visual Studio
 
 https://visualstudio.microsoft.com/vs/
