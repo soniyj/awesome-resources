@@ -158,8 +158,6 @@ https://github.com/lightdash/lightdash (turns your dbt project into a full-stack
 
 https://github.com/dragonflydb/dragonfly (Run your Redis workload with a fraction of the resources)
 
-https://github.com/openSUSE/osem
-
 https://posthog.com (https://posthog.com)
 
 https://www.onlyoffice.com

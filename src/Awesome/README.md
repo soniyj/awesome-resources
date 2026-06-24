@@ -25,3 +25,5 @@ https://github.com/quozd/awesome-dotnet
 https://github.com/ligurio/awesome-ci
 
 https://github.com/fffaraz/awesome-cpp#networking
+
+https://github.com/sindresorhus/awesome
