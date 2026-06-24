@@ -34,28 +34,6 @@ https://developers.google.com/optimization/scheduling/employee_scheduling#entire
 
 ### Tools
 
-https://www.sonarqube.org/ (automatic code review tool to detect bugs, vulnerabilities and code smells in your code)
-
-https://github.com/SonarSource/sonarqube
-
-https://medium.com/@denis.verkhovsky/sonarqube-with-docker-compose-complete-tutorial-2aaa8d0771d4
-
-https://www.sonarlint.org/ (IDE extension that helps you detect and fix quality issues)
-
-https://hub.docker.com/_/sonarqube
-
-https://docs.sonarsource.com/sonarqube/latest/setup-and-upgrade/install-the-server/installing-sonarqube-from-docker/
-
-https://docs.sonarsource.com/sonarqube/latest/
-
-https://medium.com/@praveenmuth2/automatically-analyze-code-with-sonarqube-when-a-new-pull-request-is-created-in-bitbucket-cloud-aa3fec03cabe
-
-https://dev.to/serializator/sonarqube-pull-requests-in-bitbucket-cloud-188b
-
-https://medium.com/@kxw07/sonarqube-with-maven-and-drone-ci-cab383af8616
-
-https://semgrep.dev/ (Static analysis, Find bugs and enforce code standards)
-
 https://coala.io/#/home?lang=Python (unified interface for linting and fixing code with a single configuration file)
 
 https://www.pantsbuild.org/ (building tool)
