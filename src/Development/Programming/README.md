@@ -183,3 +183,5 @@ https://github.com/charmbracelet/bubbles (TUI components for Bubble Tea)
 https://wren.io/ (small, fast, class-based concurrent scripting languages)
 
 https://daslang.io/ (strong, statically-typed programming language with generic programming, iterative type inference, and three execution tiers)
+
+https://www.beeflang.org/ (high-performance multi-paradigm open source programming language with a focus on developer productivity)

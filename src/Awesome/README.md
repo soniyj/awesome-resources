@@ -27,3 +27,5 @@ https://github.com/ligurio/awesome-ci
 https://github.com/fffaraz/awesome-cpp#networking
 
 https://github.com/sindresorhus/awesome
+
+https://github.com/Jonathan-Racaud/awesome-beef

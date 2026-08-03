@@ -304,6 +304,11 @@ https://github.com/PanosK92/SpartanEngine
 
 https://edenspark.io/en/ {to test}
 
+https://www.doriax.org/ (Lightweight engine
+for 2D & 3D games)
+
+https://github.com/SedulousWorks/SedulousEngine
+
 ### Buildbox
 
 https://www.buildbox.com/top-10-sites-free-3d-game-art/
