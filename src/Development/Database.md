@@ -226,6 +226,8 @@ https://docs.delta.io/latest/quick-start.html#set-up-apache-spark-with-delta-lak
 
 https://delta.io/learn/getting-started/
 
+https://oneuptime.com/blog/post/2026-02-08-how-to-run-apache-spark-in-docker/view
+
 ### Other DB to Check
 
 https://questdb.io (Fast SQL for time series QuestDB is the fastest open source time series database)
