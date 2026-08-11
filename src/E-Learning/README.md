@@ -18,6 +18,10 @@ https://www.edx.org
 
 https://www.coursera.org/articles/the-pmp-certification-a-guide-to-getting-started
 
+https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-docker
+
+https://app.codecrafters.io/catalog
+
 **HR**
 
 https://exercism.org (Free, Programming)
