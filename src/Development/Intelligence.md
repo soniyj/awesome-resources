@@ -121,6 +121,8 @@ https://github.com/matteobaccan/CorsoAIBook (Guida pratica all'uso delle Intelli
 
 https://justin.searls.co/posts/how-to-run-claude-code-against-a-free-local-model/
 
+https://github.com/FlashML-org/FreeToken (to check)
+
 ### Tools
 
 https://mymemo.ai/ (Build Your Second Brain With AI)
