@@ -202,6 +202,8 @@ https://fireflies.ai/ (The #1 AI Teammate For Your Meetings) [Free Plan] (to tes
 
 https://www.read.ai/?r=0 (AI copilot—transforming meetings) [Free Plan] (to test)
 
+https://github.com/alishahryar1/free-claude-code (to check)
+
 ### LLM (Large Language Model) & NLP (Natural Language Processing)
 
 https://jan.ai/ (Turn your computer into an AI machine Open Source) [!]
@@ -376,6 +378,12 @@ https://www.beautiful.ai (No Free Plan)
 [ComfyUI - Learn how to generate better images with Ollama | JarvisLabs](https://www.youtube.com/watch?v=i9DFP9W66bM)
 
 [Turn 2D Images into 3D Models for FREE with AI | ComfyUI & Hunyuan3D-2 Tutorial](https://m.youtube.com/watch?v=zqTTYYqHBhc)
+
+[Free Claude Code (FCC): So, this SIMPLE Tool makes Claude Code FREE - OFFICIALLY!?](https://www.youtube.com/watch?v=eVdXom5XDo0) {to check}
+
+[This FREE Chinese AI just DESTROYED ChatGPT and Claude](https://www.youtube.com/watch?v=723D5SuYUvA) {to check}
+
+
 
 ### Short List Testing
 
