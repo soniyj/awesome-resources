@@ -123,6 +123,8 @@ https://justin.searls.co/posts/how-to-run-claude-code-against-a-free-local-model
 
 https://github.com/FlashML-org/FreeToken (to check)
 
+https://medium.com/devops-ai-decoded/7-free-open-source-alternatives-to-claude-code-948772986e7e {to check}
+
 ### Tools
 
 https://mymemo.ai/ (Build Your Second Brain With AI)
