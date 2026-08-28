@@ -173,6 +173,8 @@ https://github.com/CocoaPods/CocoaPods/issues/12440
 
 https://learnopengl.com/In-Practice/2D-Game/Powerups
 
+https://github.com/meemknight/cmakeSetup
+
 ### Game Assets
 
 https://github.com/Miziziziz/Retro3DGraphicsCollection
@@ -476,6 +478,12 @@ https://techpp.com/2020/04/01/addictive-casual-games-ios/
 [Why 96% of Indie Games Fail](https://m.youtube.com/watch?v=3ylJCuzsNZc) [?]
 
 [The Future of Game Development](https://m.youtube.com/watch?v=EYt6uDr-PHQ)
+
+[It's not hard to make games in C++! Here's how](https://www.youtube.com/watch?v=U4RdzqqI9e0)
+
+[I linked all C++ gamedev Libraries, so you don't have to!](https://www.youtube.com/watch?v=FrVABOhRyQg)
+
+[10 Gamedev Libraries For 10 Needs (used by AAA companies)](https://www.youtube.com/watch?v=ErxLa7GS8H8)
 
 ### Marketing
 
