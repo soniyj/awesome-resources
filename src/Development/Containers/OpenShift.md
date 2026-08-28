@@ -18,6 +18,10 @@ https://www.redhat.com/en/blog/migrating-your-applications-from-openshift-2-to-3
 
 https://okd.io/docs/project/guides/sno-assisted-installer/#installing-podman
 
+https://okd.io/docs/project/about/
+
+https://www.redhat.com/en/topics/containers/red-hat-openshift-okd
+
 ### Tutorials
 
 https://www.docker.com/blog/deployment-of-local-container-images-to-openshift/
@@ -35,6 +39,8 @@ https://www.linuxsysadmins.com/single-node-okd-openshift-cluster/
 https://medium.com/@josephsims1/deploying-okd-4-17-practical-steps-for-success-8ff3510be81e
 
 https://www.devopsschool.com/forum/d/109-step-by-step-guide-to-install-okd-4x-on-a-linux-vm
+
+https://charles-campbell.medium.com/installing-openshift-on-ubuntu-2021-c6b9230192d1
 
 ### Video Tutorials
 
