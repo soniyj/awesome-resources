@@ -485,6 +485,14 @@ https://techpp.com/2020/04/01/addictive-casual-games-ios/
 
 [10 Gamedev Libraries For 10 Needs (used by AAA companies)](https://www.youtube.com/watch?v=ErxLa7GS8H8)
 
+[Making A Game in C With Raylib ](https://www.youtube.com/watch?v=wwBktq791Qo)
+
+[Making a 3D Game with Raylib and C | Daisy Trains Devlog 00](https://www.youtube.com/watch?v=MgI4Y9Z6LjA&t=6s)
+
+[I Built My Dream Game in 72 Hours — Assets by AI, Gameplay by Claude Code](https://www.youtube.com/watch?v=k9cbm5jSOxk) {to watch}
+
+[Claude And New UE 5.8 MCP is Crazy Good (But I made it better)](https://www.youtube.com/watch?v=I5WLl4MdK28) {to watch}
+
 ### Marketing
 
 https://www.bankmycell.com/blog/mobile-gaming-industry-revenue-statistics/#:~:text=Mobile%20Gaming%20Revenue%20Share%3A%20Out,in%20the%20world%20this%202023.
