@@ -175,6 +175,8 @@ https://learnopengl.com/In-Practice/2D-Game/Powerups
 
 https://github.com/meemknight/cmakeSetup
 
+https://github.com/kevinpbuckley/VibeUE
+
 ### Game Assets
 
 https://github.com/Miziziziz/Retro3DGraphicsCollection
@@ -492,6 +494,8 @@ https://techpp.com/2020/04/01/addictive-casual-games-ios/
 [I Built My Dream Game in 72 Hours — Assets by AI, Gameplay by Claude Code](https://www.youtube.com/watch?v=k9cbm5jSOxk) {to watch}
 
 [Claude And New UE 5.8 MCP is Crazy Good (But I made it better)](https://www.youtube.com/watch?v=I5WLl4MdK28) {to watch}
+
+[NEW Unreal Engine 5.8 MCP Tutorial (QuickStart Guide)](https://www.youtube.com/watch?v=PqrKqhkj3gQ) {to watch}
 
 ### Marketing
 
