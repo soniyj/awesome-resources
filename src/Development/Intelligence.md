@@ -204,7 +204,9 @@ https://fireflies.ai/ (The #1 AI Teammate For Your Meetings) [Free Plan] (to tes
 
 https://www.read.ai/?r=0 (AI copilot—transforming meetings) [Free Plan] (to test)
 
-https://github.com/alishahryar1/free-claude-code (to check)
+https://github.com/alishahryar1/free-claude-code {to check}
+
+https://github.com/CodebuffAI/freebuff {to check}
 
 ### LLM (Large Language Model) & NLP (Natural Language Processing)
 
