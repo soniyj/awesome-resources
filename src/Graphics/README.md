@@ -92,6 +92,8 @@ https://www.affinity.studio/download (photo editing, vector design, illustration
 
 https://mesh2motion.org/ (Animate Animals, Monsters and Humans - free & open source)
 
+https://www.reallusion.com/iclone/download.html {to check}
+
 ### AI
 
 https://openart.ai/home
