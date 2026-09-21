@@ -94,6 +94,12 @@ https://mesh2motion.org/ (Animate Animals, Monsters and Humans - free & open sou
 
 https://www.reallusion.com/iclone/download.html {to check}
 
+https://procedural-terrains.com/ {to check}
+
+https://github.com/ZyFou/ProceduralTerrains
+
+[Painting Made Simple](https://www.pinta-project.com/) {to check}
+
 ### AI
 
 https://openart.ai/home

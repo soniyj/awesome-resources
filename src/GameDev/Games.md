@@ -12,6 +12,8 @@ https://freedoom.github.io
 
 https://andgameplay.itch.io/90s-grand-prix
 
+[Arma: Cold War Assault - Remastered](https://github.com/bohemiainteractive/cwr)
+
 ### Guidelines
 
 https://www.trueachievements.com/game/Railway-Empire/walkthrough/3
