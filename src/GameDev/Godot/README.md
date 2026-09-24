@@ -284,6 +284,8 @@ https://github.com/bitbrain/beehave (Behavior tree AI for Godot Engine)
 
 https://github.com/AppLovin/AppLovin-MAX-Godot
 
+[Generate scenes from Quake MAP file format and Valve Map Format](https://github.com/func-godot/func_godot_plugin)
+
 **EOS**
 
 https://www.youtube.com/watch?v=ENyvF4yVjKg

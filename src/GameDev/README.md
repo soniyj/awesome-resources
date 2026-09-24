@@ -177,6 +177,8 @@ https://github.com/meemknight/cmakeSetup
 
 https://github.com/kevinpbuckley/VibeUE
 
+[level editing brush-based game engines like Quake, Quake 2 and Hexen 2](https://trenchbroom.github.io/)
+
 ### Game Assets
 
 https://github.com/Miziziziz/Retro3DGraphicsCollection
